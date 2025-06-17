@@ -1,0 +1,9 @@
+- [[reconstitution d'espace 3D]]
+- Neuromodulation
+	- Diy
+		- [openstim](https://github.com/Open-Stim)
+	- [[Brain waves entrainment]]
+	-
+- [[langage de programmation]]
+-
+-

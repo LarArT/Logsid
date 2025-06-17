@@ -1,0 +1,3 @@
+- •⁠  ⁠This episode will *only* be in french, with a french speaking accent. All discussions must be conducted in french for the entire duration of the episode.
+  •⁠  ⁠No English or other languages should be used in the conversation, except when absolutely necessary to clarify a term or concept unique to a specific language.
+  •⁠  ⁠The presenters pause in their delivery to make sure they are clearly understood

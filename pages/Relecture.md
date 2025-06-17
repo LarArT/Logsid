@@ -1,0 +1,3 @@
+- Relisez ce passage *type de document* pour détecter les erreurs grammaticales ou stylistiques :
+-
+-

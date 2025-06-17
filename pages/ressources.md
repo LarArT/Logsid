@@ -1,0 +1,13 @@
+# application Android
+- Tableau Périodique
+- Réactionflash l développé par Elsevier
+-
+- # site web
+- Chemspider (référence)
+- https://pubchem.ncbi.nlm.nih.gov/
+- https://fr.webqc.org/
+-
+- # simulation
+- https://chemcollective.org/vlab/98
+- https://dwsim.org/?hl=fr-FR
+-

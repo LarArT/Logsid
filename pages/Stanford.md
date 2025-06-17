@@ -1,0 +1,5 @@
+-
+- https://bulletin.stanford.edu/departments/COMPUTSCI/courses
+-
+- https://bulletin.stanford.edu/departments/MATH/courses
+-

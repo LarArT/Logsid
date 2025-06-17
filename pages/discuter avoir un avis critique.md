@@ -1,0 +1,6 @@
+- Analyse mon __ sujet__ et indique-moi les faiblesses imperfections insuffisance et suggère moi des alternatives
+-
+- Mentionnez les recherches antérieures et les contributions importantes des chercheurs clés qui ne peuvent être ignorées lors de [la rédaction d'un document de recherche
+- Mentionnez les recherches antérieures et les contributions importantes des chercheurs clés qui ne peuvent être ignorées lors de [la rédaction d'un document de recherche](https://www.papertrue.com/blog/how-to-write-a-research-paper/) qui étudie
+-
+- source:: https://www.papertrue.com/blog/chatgpt-prompts-for-academic-writing/

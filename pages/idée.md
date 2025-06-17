@@ -1,0 +1,77 @@
+- [[note de lecture]]
+- [[à approfondir]]
+- [[smartphone]]
+- Electrostatisme
+	- [[protection]]
+- [Normes AFNOR d'application obligatoire](https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/entreprises/normes-afnor-d-application-obligatoire?hl=fr-FR)
+- [[architecture]]
+- [[langage de programmation à suivre]]
+- [algèbre diagrammatique](https://smf.emath.fr/system/files/filepdf/G163.pdf)
+-
+- [[Manpage]]
+-
+- [[Génération de logo]]
+- Lettre
+	- [règle de rédaction](https://www.calliope.be/french/html/topic_28EE19B2-7532-46FD-BE1E-45C57D981DD9_2AE56876-C3BC-4C9E-9C27-A00507CA6CB0_1.htm)
+	- [charte orthographique en vigueur dans l'administration française](https://www.legifrance.gouv.fr/contenu/Media/Files/autour-de-la-loi/legislatif-et-reglementaire/charte_typographique_jo_janvier_2021.pdf?hl=fr-FR)
+	  -[législation](https://www.legifrance.gouv.fr/) + blockchain + assistant de preuve = [[Contrat intelligent]]
+- # restauration
+- ## ressources
+- https://www.referentiel-restauration-collective.fr/les-outils/
+- https://logiciel.emapp.fr/login.php
+- https://ma-cantine-1.gitbook.io/ma-cantine-egalim/diversification-des-sources-de-proteines-et-menus-vegetariens/guide-pour-la-mise-en-place-du-menu-vegetarien-en-milieu-scolaire
+- https://ma-cantine.agriculture.gouv.fr/accueil
+- http://www.gemrcn.fr/definition-gemrcn
+- https://www.economie.gouv.fr/daj/recommandation-nutrition
+- ## HACCP
+- [norme européenne](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:2004R0852:20090420:fr:PDF&hl=fr-FR)
+- [guide de température](https://walter-learning.com/blog/restauration/haccp/guide-temperatures-restauration-pdf?hl=fr-FR)
+- [guide du ministère de l'Agriculture](https://agriculture.gouv.fr/mise-en-place-dun-plan-de-maitrise-sanitaire-en-restauration-collective-un-guide-pour-les-petits?hl=fr-FR)
+- [guide européen](https://food.ec.europa.eu/document/download/33573cbc-fd1c-4db4-b09c-17c22f9cacf6_fr?filename=biosafety_fh_legis_guidance_reg-2004-852_fr.pdf&hl=fr-FR)
+  [[Guide de cuisson HACCP]]
+-
+- ## mots clés
+- CNRC (Conseil National de la Restauration Collective
+- GEMRCN
+-
+-
+- # santé
+- Monitoring de santé en temps réel
+	- Montre connectée
+		- Withing Marques
+		- Empatica EmbracePlus et E4
+	- Activité cardiaque
+	  collapsed:: true
+		- Photopléthysmographie
+- Nutrition
+	- [Table de composition nutritionnelle AnSES](https://ciqual.anses.fr/?hl=fr-FR)
+	- Tag:: sante
+- # science
+-
+- [[mathématiques]]
+-
+- [[électricité]]
+-
+- [[chimie]]
+- -[[Informatique]]
+- [[mathématiques]]
+- Deep learning with certified robustness
+	- • [[Probabilistic programming]] with dependent types: Cette approche permet de représenter des programmes probabilistes de manière rigoureuse et de raisonner sur leur comportement.
+	- • Neuro-symbolic Al: Cette approche vise à combiner les réseaux de neurones avec des représentations symboliques pour créer des systèmes d'intelligence artificielle plus flexibles et plus interprétables. Avez-vous d'autres questions sur ce . C'est un domaine de recherche hybride qui vise à combiner les forces des approches symboliques (comme la programmation logique) et des approches connexionnistes (comme les réseaux de neurones
+	-
+	- [[Logique]]
+		- Conférence
+			- https://en.m.wikipedia.org/wiki/Logic_for_Programming,_Artificial_Intelligence_and_Reasoning
+	- [[XAI]]
+		- [[preuve de théorème]]
+		- # France
+			- modèles. C'est l'objectif d'HyAIAI, un projet qui associe six équipes Inria spécialisées dans le domaine : Lacodam (Rennes): inspection et débogage 
+			   Magnet (Lille), Multispeech (Nancy), Orpailleur (Nancy): injection de connaissance 
+			   SequeL (Lille) et 
+			  TAU (Saclay, issu du LIMSI et du LRI qui sont devenus le lisn (pôle mondial) et lmf; compréhension des causes
+- # ressources logsec
+- https://discuss.logseq.com/t/lesson-5-how-to-power-your-workflows-using-properties-and-dynamic-variables/10173?hl=fr-FR
+- **05:21** [[quick capture]]:  https://docs.logseq.com/?hl=fr-FR#/page/contents
+- https://hub.logseq.com/features/av5LyiLi5xS7EFQXy4h4K8/getting-started-with-advanced-queries/8xwSRJNVKFJhGSvJUxs5B2
+- https://github.com/logseq/awesome-logseq
+-

@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "9dc0f22775d6de5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b7261e8b6c38874",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea7bb22efc28ccfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/idée.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "idée"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29c48ccf9d2c3309",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3c170af28b29e07a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "a999381e60510850",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Git",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "ad6d881fa469787a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "f711c37611784eaa",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "9573c1c5f4d9cab3",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "728d87259cd8c3d8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "eba198fe9942d84c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "pages/écouteur.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "dab234c557288154",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "a6aaaa28fed2a0d3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "ca7fd5767e7f1c06",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "53c12147c1228f02",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ea7bb22efc28ccfd",
+  "lastOpenFiles": [
+    "pages/idée.md",
+    "pages/Mypkm.md",
+    "pages/langage de programmation à suivre.md",
+    "pages/écouteur.md",
+    "logseq/bak/pages/écouteur/2025-05-03T10_25_37.547Z.android.md",
+    "logseq/bak/pages/écouteur",
+    "logseq/bak/pages",
+    "logseq/bak/journals/2025_03_30/2025-05-03T10_25_37.322Z.android.md",
+    "logseq/bak/journals/2025_03_30",
+    "logseq/bak/journals",
+    "logseq/bak",
+    "pages/résumer un article complexe.md",
+    "pages/Exemple.md",
+    "journals/2025_03_30.md",
+    "pages/Untitled 1.md",
+    "pages/Untitled.md",
+    "pages/Guide d'achat.md",
+    "pages/Contrat intelligent.md",
+    "pages/Imprimante 3D.md",
+    "pages/achat potentiel.md",
+    "pages/Rôle.md",
+    "pages/Candidature Agent logistique CROUS.md",
+    "pages/Lettre de motivation.md",
+    "journals/2025_04_28.md",
+    "journals/2025_04_16.md",
+    "journals/2025_04_29.md",
+    "pages/Quelques exemple d investissement.md",
+    "pages/technologie tube à air.md",
+    "journals/2025_03_28.md",
+    "pages/2025-02-20T19_22_46.875+01_00.md"
+  ]
+}
