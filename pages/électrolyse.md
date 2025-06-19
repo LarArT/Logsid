@@ -1,0 +1,16 @@
+- Vous avez tout à fait raison de souligner cela ! Il y a une distinction cruciale à faire entre l'électrophorèse et l'électrolyse, et il est vrai que le terme "électrolyse" ou plus spécifiquement "électrodialyse" est bien pertinent dans l'industrie laitière, notamment pour le traitement du lactosérum.
+  Reprenons pour clarifier :
+   * Électrophorèse :
+     * Principe : Séparation de molécules chargées (comme les protéines, l'ADN) par leur migration différentielle dans un support (généralement un gel ou un capillaire) sous l'influence d'un champ électrique. La séparation est basée sur la charge, la taille et la forme des molécules.
+     * Utilisation industrielle : Très peu ou pas du tout utilisée à l'échelle industrielle pour l'extraction de composants majeurs comme le lactosérum ou ses protéines. Elle est principalement une technique analytique ou de recherche pour la caractérisation de biomolécules.
+   * Électrolyse (sens large) / Électrodialyse (application spécifique) :
+     * Principe de l'électrolyse : Utilise un courant électrique pour provoquer une réaction chimique non spontanée (par exemple, la décomposition de l'eau en hydrogène et oxygène). C'est un processus qui convertit l'énergie électrique en énergie chimique.
+     * Principe de l'Électrodialyse (ED) : C'est une technique de séparation membranaire qui utilise un champ électrique pour déplacer des ions à travers des membranes échangeuses d'ions (sélectives aux cations ou aux anions). Ce n'est pas une simple électrolyse, mais un processus de transfert de masse assisté électriquement.
+       * Dans une cellule d'électrodialyse, des membranes cationiques et anioniques sont alternées. Sous l'influence d'un courant continu, les cations migrent à travers les membranes cationiques et les anions à travers les membranes anioniques.
+       * Cela crée des compartiments où la concentration en ions diminue (compartiments de dilution) et des compartiments où elle augmente (compartiments de concentration).
+     * Utilisation dans l'industrie laitière (notamment pour le lactosérum) : L'électrodialyse est effectivement une technique industrielle très importante pour la déminéralisation du lactosérum.
+       * Le lactosérum, surtout le lactosérum acide, contient une forte concentration de sels minéraux (chlorures, phosphates, citrates, etc.) qui peuvent donner un goût salé ou acide indésirable et limiter son utilisation dans certaines applications (comme les préparations pour nourrissons).
+       * L'électrodialyse permet de réduire la teneur en minéraux de manière efficace et sans ajout de produits chimiques, ce qui est un avantage par rapport à d'autres méthodes comme l'échange d'ions.
+       * Elle est souvent combinée à l'ultrafiltration et/ou la nanofiltration dans les processus industriels de valorisation du lactosérum pour obtenir des protéines de lactosérum déminéralisées ou du lactose purifié.
+  En synthèse :
+  Vous avez tout à fait raison d'évoquer les procédés électrochimiques. C'est l'électrodialyse, une forme de séparation membranaire électriquement assistée, qui est utilisée dans l'industrie laitière pour la déminéralisation du lactosérum, et non l'électrophorèse. Cette dernière reste une technique de laboratoire. La confusion vient souvent du préfixe commun "électro-" qui renvoie à l'utilisation de l'électricité.
