@@ -7,9 +7,12 @@
 - [[architecture]]
 - [[langage de programmation à suivre]]
 - [algèbre diagrammatique](https://smf.emath.fr/system/files/filepdf/G163.pdf)
--
+- [[Cuisine moléculaire]]
 - [[Manpage]]
--
+- [[liste des organismes de recherche en France]]
+- [Installations Classées pour la Protection de l'Environnement (ICPE)](https://aida.ineris.fr/thematiques/nomenclature-icpe)
+- [[marché public]]
+- [[douane]]
 - [[Génération de logo]]
 - Lettre
 	- [règle de rédaction](https://www.calliope.be/french/html/topic_28EE19B2-7532-46FD-BE1E-45C57D981DD9_2AE56876-C3BC-4C9E-9C27-A00507CA6CB0_1.htm)
@@ -43,15 +46,17 @@
 	- Activité cardiaque
 	  collapsed:: true
 		- Photopléthysmographie
+	- [suivi de la cortisol]((https://eli.health/products/cortisol))
 - Nutrition
 	- [Table de composition nutritionnelle AnSES](https://ciqual.anses.fr/?hl=fr-FR)
 	- Tag:: sante
 - # science
--
+- Achat à pour expérience pédagogique : https://www.pierron.fr/
 - [[mathématiques]]
+- [[biologie]]
 -
 - [[électricité]]
--
+- [[biohaking]]
 - [[chimie]]
 - -[[Informatique]]
 - [[mathématiques]]

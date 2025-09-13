@@ -3,5 +3,5 @@
 - Prompt
 	- [Guide de rédaction Prompt]([[Prompt]])
 -
--
+- [[mathématiques]]
 -
