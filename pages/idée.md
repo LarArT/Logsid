@@ -18,7 +18,12 @@
 	- [règle de rédaction](https://www.calliope.be/french/html/topic_28EE19B2-7532-46FD-BE1E-45C57D981DD9_2AE56876-C3BC-4C9E-9C27-A00507CA6CB0_1.htm)
 	- [charte orthographique en vigueur dans l'administration française](https://www.legifrance.gouv.fr/contenu/Media/Files/autour-de-la-loi/legislatif-et-reglementaire/charte_typographique_jo_janvier_2021.pdf?hl=fr-FR)
 	  -[législation](https://www.legifrance.gouv.fr/) + blockchain + assistant de preuve = [[Contrat intelligent]]
-- # restauration
+- # travail 
+  ## agent brigadier 
+  [[Police municipale]] 
+  
+  
+  ## restauration
 - ## ressources
 - https://www.referentiel-restauration-collective.fr/les-outils/
 - https://logiciel.emapp.fr/login.php
@@ -79,4 +84,34 @@
 - **05:21** [[quick capture]]:  https://docs.logseq.com/?hl=fr-FR#/page/contents
 - https://hub.logseq.com/features/av5LyiLi5xS7EFQXy4h4K8/getting-started-with-advanced-queries/8xwSRJNVKFJhGSvJUxs5B2
 - https://github.com/logseq/awesome-logseq
+-
+- # droit
+- [[introduction droit]]
+  
+  ## institution administrative comparer 
+  [[États-Unis]] 
+  [[Droit des obligations]] 
+  [[Ensemble des codes en vigueur en janvier 2025 en France]]
+  
+  
+  [Institution administrative comparée](https://cours-de-droit.net/institutions-administratives-comparees-a121603182/)
+-
+- https://jurisguide.fr/
+- [[trouver dans la formation légal]]
+- [[rechercher jurisprudence]]
+-
+-
+- [[deep tech]]
+-
+- # urbanisme 
+  [[Scot (schéma de cohérence territoriale)]]
+- # entrepreneuriat 
+  [[Plan d'investissement]]
+-
+-
+- # psychologie
+- ## personnalité
+- [[hexaco]]
+-
+- [[ocean]]
 -

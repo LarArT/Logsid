@@ -1,0 +1,108 @@
+- Très bonne question ! Je vais te détailler **toute la chaîne d’un marché public** en France (2025), depuis l’expression du besoin jusqu’à l’exécution et l’archivage, en insistant sur les plateformes et les réglementations applicables.
+  
+  ---
+- ## 1. Définition du besoin et planification
+- **Acteurs** : pouvoir adjudicateur (État, collectivités territoriales, hôpitaux, etc.) ou entité adjudicatrice (secteurs spéciaux : énergie, transport, poste, eau).
+- **Étapes** :
+	- Définition du besoin (technique, fonctionnel, quantité, durée, etc.).
+	- Vérification si le marché est nécessaire et si d’autres procédures (accord-cadre, groupement de commandes) existent.
+	- Estimation financière → choix de la procédure en fonction des seuils européens/nationaux.
+	  
+	  👉 **Référence** : *Code de la commande publique* (ordonnance n° 2018-1074 et décret n° 2018-1075, consolidés).
+	  
+	  ---
+- ## 2. Choix de la procédure
+  
+  Selon le **montant estimé HT** :
+- **< 40 000 € HT** : marché sans publicité ni mise en concurrence obligatoire, mais respect du principe de bonne gestion (article R2122-8 CCP).
+- **40 000 € – 140 000 € HT (fournitures/services) ou 5 382 000 € (travaux)** : publicité adaptée (MAPA).
+- **Au-delà des seuils européens** : appel d’offres formalisé (ou procédure adaptée mais motivée).
+  
+  👉 Seuils européens 2024-2025 (arrêté 21 décembre 2023) :
+- Fournitures/services État : 140 000 €.
+- Fournitures/services collectivités : 215 000 €.
+- Travaux : 5 382 000 €.
+- Secteurs spéciaux : 431 000 €.
+  
+  ---
+- ## 3. Publicité et mise en concurrence
+- ### Obligations de publicité
+- **Marchés nationaux** :
+	- BOAMP (*Bulletin officiel des annonces de marchés publics*).
+	- Presse locale ou spécialisée (facultatif).
+- **Marchés européens (au-dessus des seuils)** :
+	- JOUE (*Journal officiel de l’Union européenne* via Tenders Electronic Daily – TED).
+	  
+	  👉 La publicité doit mentionner : objet, procédure, critères, délais, accès aux documents de consultation.
+	  
+	  ---
+- ## 4. Plateformes utilisées
+  
+  Depuis le 1er octobre 2018 (obligation de dématérialisation) :
+- **Profil d’acheteur** : plateforme dématérialisée où les acheteurs publient et gèrent les marchés (téléchargement DCE, dépôt des offres, échanges).
+  
+  Exemples :
+	- [PLACE](https://www.marches-publics.gouv.fr/) pour l’État et établissements publics nationaux.
+	- [Marchés sécurisés](https://www.marches-securises.fr/), [Maximilien](https://marches.maximilien.fr/), [AWS-Achat](https://www.marches-publics.info/), etc. pour les collectivités.
+- **BOAMP** : diffusion des annonces.
+- **TED (Tenders Electronic Daily)** : diffusion européenne.
+  
+  👉 Les candidats doivent obligatoirement déposer leurs offres via ces plateformes (plus de transmission papier, sauf exception).
+  
+  ---
+- ## 5. Phase de consultation
+- Publication de l’**avis de marché** et mise à disposition du **Dossier de consultation des entreprises (DCE)** comprenant :
+	- RC (règlement de consultation).
+	- CCTP (cahier des clauses techniques particulières).
+	- CCAP (cahier des clauses administratives particulières).
+	- Bordereau de prix / DPGF.
+- Questions/réponses via la plateforme.
+- Dépôt électronique des offres (signature électronique possible mais pas toujours exigée).
+  
+  ---
+- ## 6. Analyse des offres
+- Ouverture des plis via la plateforme.
+- Vérification de la conformité administrative (capacités financières, techniques, habilitations).
+- Analyse selon les critères annoncés (prix, valeur technique, délais, développement durable, innovation…).
+- Classement et choix de l’attributaire.
+  
+  👉 **Principe** : transparence, égalité de traitement, liberté d’accès.
+  
+  ---
+- ## 7. Attribution et notification
+- Décision d’attribution par l’acheteur.
+- Information des candidats non retenus (*débriefing* obligatoire si procédure formalisée).
+- Publication de l’**avis d’attribution** (BOAMP, TED si seuils UE).
+- Signature du marché (électronique ou papier scanné).
+- Notification à l’attributaire (le marché prend effet à partir de cette date).
+  
+  ---
+- ## 8. Exécution du marché
+- Mise en œuvre des prestations / travaux.
+- Suivi administratif et financier :
+	- Ordres de service.
+	- Avances, acomptes, solde (délais de paiement publics : 30 jours, 50 jours pour les établissements de santé).
+- Gestion des modifications (avenants, actes spéciaux de sous-traitance).
+- Réception et garantie.
+  
+  ---
+- ## 9. Archivage et open data
+- Archivage numérique obligatoire.
+- **Open data** : depuis 2019, obligation de publication des données essentielles des marchés publics (> 40 000 € HT) sur les profils d’acheteurs, réutilisées par des plateformes comme [data.gouv.fr](https://www.data.gouv.fr/).
+  
+  ---
+  
+  ✅ **Résumé visuel de la chaîne** :
+- Définition du besoin →
+- Estimation financière & choix de la procédure →
+- Publicité (BOAMP, TED) & mise en ligne sur profil d’acheteur →
+- Consultation (DCE, questions/réponses) →
+- Dépôt électronique des offres →
+- Analyse & choix de l’attributaire →
+- Notification & signature →
+- Exécution & suivi →
+- Archivage & open data.
+  
+  ---
+  
+  Veux-tu que je t’organise cela en **schéma visuel (carte de processus)** ou plutôt en **fiche synthèse avec références juridiques article par article** ?
