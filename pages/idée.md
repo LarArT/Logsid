@@ -21,9 +21,11 @@
 - # travail 
   ## agent brigadier 
   [[Police municipale]] 
-  
-  
-  ## restauration
+  [[Guide de rédaction, note et rapport]]
+-
+- [[asvp]]
+-
+- ## restauration
 - ## ressources
 - https://www.referentiel-restauration-collective.fr/les-outils/
 - https://logiciel.emapp.fr/login.php
@@ -48,6 +50,9 @@
 	- Montre connectée
 		- Withing Marques
 		- Empatica EmbracePlus et E4
+- Neurostimulation
+	- Sonore et auditive
+		- Mit 2016 spin off : Cognito Therapeutics.
 	- Activité cardiaque
 	  collapsed:: true
 		- Photopléthysmographie
@@ -92,17 +97,15 @@
   [[États-Unis]] 
   [[Droit des obligations]] 
   [[Ensemble des codes en vigueur en janvier 2025 en France]]
-  
-  
-  [Institution administrative comparée](https://cours-de-droit.net/institutions-administratives-comparees-a121603182/)
+- [Institution administrative comparée](https://cours-de-droit.net/institutions-administratives-comparees-a121603182/)
 -
 - https://jurisguide.fr/
 - [[trouver dans la formation légal]]
 - [[rechercher jurisprudence]]
--
+- [[guide de rédaction d'un texte, la législatif]]
 -
 - [[deep tech]]
--
+- [[rédaction juridique]]
 - # urbanisme 
   [[Scot (schéma de cohérence territoriale)]]
 - # entrepreneuriat 
@@ -114,4 +117,22 @@
 - [[hexaco]]
 -
 - [[ocean]]
+- [[science comportementale]]
+- # gestion de projet
+- ## pmbok
+- [[management adaptatif]]
+-
+- [[Maîtriser les 12 Principes du Management de Projet (PMBOK 7)]]
+-
+- [[les 8 domaines de performance]]
+-
+- # bibliothèque
+- ## Dewey
+- [[table 6]]
+- [[table 5]]
+- [[table 4]]
+- [[table 3]]
+- [[table 2]]
+- [[table 1]]
+- [[principe généraux]]
 -

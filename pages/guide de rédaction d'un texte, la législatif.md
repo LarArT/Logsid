@@ -1,0 +1,5 @@
+- https://www.legifrance.gouv.fr/contenu/Media/Files/autour-de-la-loi/guide-de-legistique/guide-de-legistique-edition-2017-format-pdf.pdf
+-
+- https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/guide-de-legistique
+-
+-
