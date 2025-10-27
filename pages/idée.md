@@ -1,9 +1,12 @@
 - [[note de lecture]]
 - [[à approfondir]]
 - [[smartphone]]
+- [[stratégie de recherche]]
 - Electrostatisme
 	- [[protection]]
+- [[méthodologie]]
 - [Normes AFNOR d'application obligatoire](https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/entreprises/normes-afnor-d-application-obligatoire?hl=fr-FR)
+-
 - [[architecture]]
 - [[langage de programmation à suivre]]
 - [algèbre diagrammatique](https://smf.emath.fr/system/files/filepdf/G163.pdf)
@@ -18,13 +21,26 @@
 	- [règle de rédaction](https://www.calliope.be/french/html/topic_28EE19B2-7532-46FD-BE1E-45C57D981DD9_2AE56876-C3BC-4C9E-9C27-A00507CA6CB0_1.htm)
 	- [charte orthographique en vigueur dans l'administration française](https://www.legifrance.gouv.fr/contenu/Media/Files/autour-de-la-loi/legislatif-et-reglementaire/charte_typographique_jo_janvier_2021.pdf?hl=fr-FR)
 	  -[législation](https://www.legifrance.gouv.fr/) + blockchain + assistant de preuve = [[Contrat intelligent]]
-- # travail 
-  ## agent brigadier 
-  [[Police municipale]] 
+- # travail
+- ## SSIAP1
+- [[texte réglementation ssiap1]]
+- ## brigadier
+-
+- [[Police municipale]] 
   [[Guide de rédaction, note et rapport]]
+- ## habilitation électrique
+- Inrs
+	- [programme](https://www.inrs.fr/media.html?refINRS=ED%206127) : voir bibliographie
+	- [normes habilitation électrique](https://afpsecourisme.fr/wp-content/uploads/2017/08/Norme-NF-C-18-510.pdf)
+	-
+- Vidéo surveillance
+	- [texte réglementaire](https://www.aude.gouv.fr/Actions-de-l-Etat/Securite-et-protection-de-la-population/Cameras/Videoprotection/Que-dit-la-loi/Reglementation)
+- [[plan de formation agent de vidéoprotection]]
+-
 -
 - [[asvp]]
--
+- [[Action logement]]
+- [[conducteur de train]]
 - ## restauration
 - ## ressources
 - https://www.referentiel-restauration-collective.fr/les-outils/
@@ -33,12 +49,15 @@
 - https://ma-cantine.agriculture.gouv.fr/accueil
 - http://www.gemrcn.fr/definition-gemrcn
 - https://www.economie.gouv.fr/daj/recommandation-nutrition
-- ## HACCP
+- ### HACCP
 - [norme européenne](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:2004R0852:20090420:fr:PDF&hl=fr-FR)
 - [guide de température](https://walter-learning.com/blog/restauration/haccp/guide-temperatures-restauration-pdf?hl=fr-FR)
 - [guide du ministère de l'Agriculture](https://agriculture.gouv.fr/mise-en-place-dun-plan-de-maitrise-sanitaire-en-restauration-collective-un-guide-pour-les-petits?hl=fr-FR)
 - [guide européen](https://food.ec.europa.eu/document/download/33573cbc-fd1c-4db4-b09c-17c22f9cacf6_fr?filename=biosafety_fh_legis_guidance_reg-2004-852_fr.pdf&hl=fr-FR)
   [[Guide de cuisson HACCP]]
+-
+- ## VAE
+- [[validation VAE]]
 -
 - ## mots clés
 - CNRC (Conseil National de la Restauration Collective
@@ -106,6 +125,8 @@
 -
 - [[deep tech]]
 - [[rédaction juridique]]
+- https://codes.droit.org/
+-
 - # urbanisme 
   [[Scot (schéma de cohérence territoriale)]]
 - # entrepreneuriat 
@@ -125,7 +146,8 @@
 - [[Maîtriser les 12 Principes du Management de Projet (PMBOK 7)]]
 -
 - [[les 8 domaines de performance]]
--
+- Mooc : https://www.pm-coaching.org/view/courses/pmp/1630790-le-project-performance-domain/5416389-performance-domain-pmbok-7-0
+	- https://www.coursera.org/learn/project-planning-fr
 - # bibliothèque
 - ## Dewey
 - [[table 6]]
@@ -135,4 +157,26 @@
 - [[table 2]]
 - [[table 1]]
 - [[principe généraux]]
+-
+- [[Classification Dewey deux premiers niveaux]]
+-
+- # France
+- [[opérateur public]]
+- [document de planification oiv](https://armement.defense.gouv.fr/securite-et-habilitation/securite-des-activites-dimportance-vitale-saiv/documents-de-planification)
+- [Protection du Potentiel Scientifique et Technique (PPST)](https://armement.defense.gouv.fr/securite-et-habilitation/ppst)
+- [Habilitation des personnes morales et physiques](https://armement.defense.gouv.fr/securite-et-habilitation/habilitation-des-personnes-morales-et-physiques)
+- [plan de continuité des activités](https://www.economie.gouv.fr/files/hfds-guide-pca-plan-continuite-activite-_sgdsn.pdf)
+- ISO 22000 - Management de la Sécurité des Denrées Alimentaires
+-
+- # collectivité territoriale
+-
+- [[dotation aux collectivités territoriales]]
+-
+- # SNCF
+- [[opérateur de production des trains]]
+-
+- [[sûreté ferroviaire]]
+-
+- # France
+- [[partenaire de la Défense nationale]]
 -

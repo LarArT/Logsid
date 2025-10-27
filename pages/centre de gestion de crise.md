@@ -1,0 +1,6 @@
+- Des centres de gestion de crise 24/7
+  Véritable épicentre de la coordination opérationnelle, le Centre National de Sûreté ferroviaire (CNSF), dispose 24h/24 et 7j/7 d’une vision à 360° de l’environnement ferroviaire. Il intègre :
+  Le Poste de Commandement National Sûreté (PCNS) assure le déclenchement des interventions et garantit la circulation instantanée des informations entre les équipes de la Sûreté ferroviaire et les forces de l’ordre.
+  La Patrouille Vidéo (PV) observe en temps réel les images issues des caméras de vidéo protection implantées dans les gares et détecte les faits sûreté.
+  Le Centre Vidéo Sûreté d’Ile-de-France (CVSI) centralise et transmet les images des gares et /ou des trains pour répondre aux demandes de réquisitions judiciaires des Officiers de Police Judiciaire (OPJ) leur permettant de mener leurs enquêtes.
+  DNSF : point d’entrée en cas de situation de sûreté dégradée ou potentiellement à risque, de nature à impacter l’exploitation ferroviaire, le Dirigeant National Sûreté ferroviaire (DNSF) assure l’astreinte nationale et coordonne les moyens opérationnels de la Sûreté, en gestion de crise.
