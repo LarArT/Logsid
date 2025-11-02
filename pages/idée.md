@@ -22,8 +22,17 @@
 	- [charte orthographique en vigueur dans l'administration française](https://www.legifrance.gouv.fr/contenu/Media/Files/autour-de-la-loi/legislatif-et-reglementaire/charte_typographique_jo_janvier_2021.pdf?hl=fr-FR)
 	  -[législation](https://www.legifrance.gouv.fr/) + blockchain + assistant de preuve = [[Contrat intelligent]]
 - # travail
+- ## référent sûreté
+	- [formation](https://www.83-629.fr/formation-des-referents-surete-a-lecole-nationale-superieure-de-la-police-ouverte-aux-acteurs-prives/)
+-
 - ## SSIAP1
 - [[texte réglementation ssiap1]]
+-
+- ## opérateur vidéoprotection
+- https://www.seine-et-marne.fr/sites/default/files/media/downloads/dadt-22-brochure-guide-videoprotection_mar22-vf_04042022.pdf
+- [[présentation vidéo surveillance]]
+- [[fiche de suivi vidéo protection]] : un acte légal
+- [feuille de registre] ((690732e1-b240-4d8e-8eef-353d4c9aaa22))
 - ## brigadier
 -
 - [[Police municipale]] 
@@ -37,8 +46,10 @@
 	- [texte réglementaire](https://www.aude.gouv.fr/Actions-de-l-Etat/Securite-et-protection-de-la-population/Cameras/Videoprotection/Que-dit-la-loi/Reglementation)
 - [[plan de formation agent de vidéoprotection]]
 -
--
+- ## asvp
 - [[asvp]]
+-
+-
 - [[Action logement]]
 - [[conducteur de train]]
 - ## restauration
@@ -63,6 +74,8 @@
 - CNRC (Conseil National de la Restauration Collective
 - GEMRCN
 -
+- ## DPO
+- [[DPO]]
 -
 - # santé
 - Monitoring de santé en temps réel
@@ -115,7 +128,7 @@
   ## institution administrative comparer 
   [[États-Unis]] 
   [[Droit des obligations]] 
-  [[Ensemble des codes en vigueur en janvier 2025 en France]]
+  [[Ensemble des codes en vigueur en janvier 2025 en France]]#
 - [Institution administrative comparée](https://cours-de-droit.net/institutions-administratives-comparees-a121603182/)
 -
 - https://jurisguide.fr/
@@ -171,6 +184,7 @@
 - # collectivité territoriale
 -
 - [[dotation aux collectivités territoriales]]
+- Étude de sûreté et de sécurité publique
 -
 - # SNCF
 - [[opérateur de production des trains]]
@@ -180,3 +194,7 @@
 - # France
 - [[partenaire de la Défense nationale]]
 -
+- # CNIL
+- [[mooc cnil]]
+-
+- [[DPO]]
