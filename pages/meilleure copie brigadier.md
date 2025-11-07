@@ -1,0 +1,2 @@
+- https://www.cdg59.fr/fileadmin/services/documentation_concours/meilleurescopies/concGBPM2018/2018concGBPMRapportext.pdf
+-

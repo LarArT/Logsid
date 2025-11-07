@@ -177,6 +177,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -188,7 +189,14 @@
   },
   "active": "ea7bb22efc28ccfd",
   "lastOpenFiles": [
+    "journals/2025-11-05.md",
     "pages/idée.md",
+    "logseq/bak/pages/idée/2025-11-05T10_42_29.611Z.android.md",
+    "logseq/bak/pages/idée/2025-11-02T13_49_06.362Z.android.md",
+    "logseq/bak/pages/idée/2025-11-02T13_47_45.385Z.android.md",
+    "logseq/bak/pages/idée/2025-11-02T13_47_41.105Z.android.md",
+    "logseq/bak/pages/idée/2025-11-02T13_47_36.845Z.android.md",
+    "logseq/bak/pages/idée/2025-11-02T13_47_30.448Z.android.md",
     "pages/Mypkm.md",
     "pages/langage de programmation à suivre.md",
     "pages/écouteur.md",
@@ -211,12 +219,6 @@
     "pages/Rôle.md",
     "pages/Candidature Agent logistique CROUS.md",
     "pages/Lettre de motivation.md",
-    "journals/2025_04_28.md",
-    "journals/2025_04_16.md",
-    "journals/2025_04_29.md",
-    "pages/Quelques exemple d investissement.md",
-    "pages/technologie tube à air.md",
-    "journals/2025_03_28.md",
-    "pages/2025-02-20T19_22_46.875+01_00.md"
+    "journals/2025_04_28.md"
   ]
 }

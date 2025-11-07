@@ -4,3 +4,5 @@
   id:: 690732e1-b240-4d8e-8eef-353d4c9aaa22
 -
 -
+- [transfert de données or UE](https://www.cnil.fr/fr/les-outils-de-la-conformite/transferer-des-donnees-hors-de-lue)
+-
