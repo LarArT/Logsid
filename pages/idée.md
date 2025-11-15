@@ -23,24 +23,34 @@
 	  -[législation](https://www.legifrance.gouv.fr/) + blockchain + assistant de preuve = [[Contrat intelligent]]
 - # travail
 - [profession réglementée](https://www.inpi.fr/annuaire-activites-et-professions?hl=fr-FR)
--
+- [[rapport d'étonnement]]
 - ## collectivité territoriale
 - https://prospectiveterritoriale.fr/
 -
 -
 - # sécurité
-  ## conflit 
+- ## conflit 
   (Modes alternatifs de règlement des litiges marl)
 - ## sécurité publique
 - [[Dictionnaire des vocabulaires et expressions-types utilisés dans la rédaction des procédures de police administrative et judiciaire]]
 - [[douane]]
 - ### brigadier
+- [[framework emmie]]
+  id:: 69167737-52e6-46ac-8017-c2e9a0db3cf0
 - [[demain, reine]]
 - https://efus.eu/thematiques/espaces-publics/renforcer-la-confiance-entre-police-et-citoyens-un-travail-indispensable/?lang=fr&utm_source=perplexity
 - [[Police municipale]] 
   [[Guide de rédaction, note et rapport]]
 - [[meilleure copie brigadier]]
+  [[Service Rennes Métropole police municipale organisation]]
+- [crime résolution toolkit](https://www.college.police.uk/research/crime-reduction-toolkit)
+  id:: 691677f4-a502-4e29-af14-42c909ac3195
+- [[publication]]
 -
+-
+- ## plainte
+- [gestion de plainte](https://icoca.ch/wp-content/uploads/2020/07/guide-dinterpretation.pdf)
+  [Outils et ressources plainte](https://www.cao-ombudsman.org/grm/fr/tools-and-resources.html)
 - ## habilitation électrique
 - Inrs
 	- [programme](https://www.inrs.fr/media.html?refINRS=ED%206127) : voir bibliographie
@@ -49,7 +59,8 @@
 -
 - ## asvp
 - [[asvp]]
--
+- [[ONU DC nim: 9 techniques d'analyse du renseignement]]
+  [[Processus renseignement]]
 - ## référent sûreté
 	- [formation](https://www.83-629.fr/formation-des-referents-surete-a-lecole-nationale-superieure-de-la-police-ouverte-aux-acteurs-prives/)
 -
@@ -71,7 +82,7 @@
 - [[Action logement]]
 - [[conducteur de train]]
 - ## restauration
-- ## ressources
+- ### ressources
 - https://www.referentiel-restauration-collective.fr/les-outils/
 - https://logiciel.emapp.fr/login.php
 - https://ma-cantine-1.gitbook.io/ma-cantine-egalim/diversification-des-sources-de-proteines-et-menus-vegetariens/guide-pour-la-mise-en-place-du-menu-vegetarien-en-milieu-scolaire
@@ -112,11 +123,18 @@
 	- Tag:: sante
 - # science
 - Achat à pour expérience pédagogique : https://www.pierron.fr/
+- ## mathématiques
 - [[mathématiques]]
+-
+- ## biologie
 - [[biologie]]
 -
+- ## électricité
 - [[électricité]]
 - [[biohaking]]
+- [[norme perturbation électromagnétique]]
+-
+- ## chimie
 - [[chimie]]
 - -[[Informatique]]
 - [[mathématiques]]
@@ -189,7 +207,12 @@
 - [[principe généraux]]
 -
 - [[Classification Dewey deux premiers niveaux]]
--
+- ## archive
+  [[Structure archive]] 
+  
+  [[Archive]]
+  
+  [Entrepôt de données](https://cat.opidor.fr/index.php/Entrep%C3%B4t_de_donn%C3%A9es)
 - # France
 - [[opérateur public]]
 - [document de planification oiv](https://armement.defense.gouv.fr/securite-et-habilitation/securite-des-activites-dimportance-vitale-saiv/documents-de-planification)
@@ -217,6 +240,16 @@
 -
 - [[DPO]]
 - [table et cahier de la CNIL](https://www.cnil.fr/fr/tables-informatique-et-libertes-cahiers-decisions-2024) : doctrine et décision rendue
--
+- [[rgpd en bref]]
 - ## juriste
 - [[la procédure d'acte de juriste]]
+-
+- ## risque
+- [[registre des actifs]]
+-
+- # rssi
+  
+  [[Plan rssi]]
+- ## iso 18788
+  https://cdn.standards.iteh.ai/samples/63380/e48f665b9c9a4c7f8668702597859f39/ISO-18788-2015.pdf
+-

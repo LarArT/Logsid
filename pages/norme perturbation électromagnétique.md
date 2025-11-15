@@ -1,0 +1,6 @@
+- 2. MIL-STD-461 (CEM/EMI)
+- La norme spécifique qui régit les interférences électromagnétiques (IEM/EMI) et la Compatibilité Électromagnétique (CEM/EMC) est la MIL-STD-461 (actuellement en révision G).
+- C'est cette norme qui définit:
+- Les tests de susceptibilité conduite (perturbations reçues par les câbles).
+- Les tests de susceptibilité rayonnée (résistance aux champs électromagnétiques externes).
+- Les tests d'émission conduite et d'émission rayonnée (les perturbations émises par l'appareil lui-même)
