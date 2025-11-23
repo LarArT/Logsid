@@ -2,6 +2,10 @@
 - [[à approfondir]]
 - [[smartphone]]
 - [[stratégie de recherche]]
+-
+- Ebios emmie projet risk dpo "élicitations PEACE"
+- Rssi cert rocq
+-
 - Electrostatisme
 	- [[protection]]
 - [[méthodologie]]
@@ -27,8 +31,23 @@
 - ## collectivité territoriale
 - https://prospectiveterritoriale.fr/
 -
--
+- # SST
+	- [cours SST par l'Organisation internationale du travail](https://www.iloencyclopaedia.org/fr/)
 - # sécurité
+- ## sécurité économique
+- [la sécurité économique en 28 fiches](https://www.entreprises.gouv.fr/la-dge/publications/la-securite-economique-en-28-fiches-thematiques)
+- [[entreprise stratégique]]
+- [Loi n° 68-678 du 26 juillet 1968 relative à la communication de documents et renseignements d'ordre économique, commercial, industriel, financier ou technique à des personnes physiques ou morales étrangères](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000501326) -> et suivant [²](https://www.entreprises.gouv.fr/priorites-et-actions/autonomie-strategique/consolider-notre-politique-de-securite-economique)
+- [Flash ingérence](https://www.dgsi.interieur.gouv.fr/dgsi-a-vos-cotes/contre-espionnage/conseils-aux-entreprises-flash-ingerence): exemple d'ingérence par dgSI
+- [[polycrise]]
+-
+- ### militarisation des flux
+- Réponse européenne -> [critical raw act](https://commission.europa.eu/topics/competitiveness/green-deal-industrial-plan/european-critical-raw-materials-act_fr) : réduction de la dépendance tes matières premières.
+-
+- ### organisation territoriale
+- [[organisation territoriale intelligence économique]]
+-
+-
 - ## conflit 
   (Modes alternatifs de règlement des litiges marl)
 - ## sécurité publique
@@ -47,6 +66,11 @@
   id:: 691677f4-a502-4e29-af14-42c909ac3195
 - [[publication]]
 -
+- # interrogatoire
+- Méthode peace -> [Manuel sur les
+  Entretiens menés dans le 
+  cadre d’enquêtes pénales](https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Thematic%20Operational%20Activities/Police%20and%20Law%20Enforcement/2024.01%20Manual%20on%20Investigative%20Interviewing%20for%20Criminal%20Investigation%20(2024)%20(French).pdf)
+- [procédure complète](https://www.apt.ch/sites/default/files/publications/apt_PoEI_FR_03.pdf)
 -
 - ## plainte
 - [gestion de plainte](https://icoca.ch/wp-content/uploads/2020/07/guide-dinterpretation.pdf)
@@ -246,10 +270,17 @@
 -
 - ## risque
 - [[registre des actifs]]
--
+- https://ready.csod.com/ui/lms-learning-details/app/test/3308f459-d6c3-46a4-9223-f4c50a3ab6ee
 - # rssi
   
   [[Plan rssi]]
 - ## iso 18788
   https://cdn.standards.iteh.ai/samples/63380/e48f665b9c9a4c7f8668702597859f39/ISO-18788-2015.pdf
+-
+- # onu
+- [[sécurité sûreté ONU]]
+-
+- # parlementaire
+- ## liberté d'expression
+- [[la liberté d'expression pour les parlementaires]]
 -
