@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7e22db9e0904e5a2",
+        "id": "24b6daaf3caf0898",
         "type": "tabs",
         "children": [
           {
-            "id": "6cf759b76848821a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "88f619e10d28b4bb",
+            "id": "64c411f342914a40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Processus renseignement.md",
+                "file": "pages/Mypkm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Processus renseignement"
-            }
-          },
-          {
-            "id": "fc5dd716028f6c2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Police municipale.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Police municipale"
+              "title": "Mypkm"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Impliquer",
+            "query": ".gi",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -82,7 +57,7 @@
             "sortOrder": "alphabetical"
           },
           "icon": "lucide-search",
-          "title": "Search"
+          "title": "Rechercher"
         }
       },
       {
@@ -183,8 +158,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-ghost",
+          "title": "calendar"
         }
       },
       {
@@ -193,8 +168,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "icon": "lucide-ghost",
+          "title": "git-view"
         }
       }
     ],
@@ -202,24 +177,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
       "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc5dd716028f6c2a",
+  "active": "a999381e60510850",
   "lastOpenFiles": [
-    "pages/Untitled 2.md",
-    "pages/Processus renseignement.md",
-    "pages/Conseil numéro 1.md",
-    "pages/Police municipale.md",
-    "pages/Untitled 1.md",
+    "Logsid",
     "pages/idée.md",
+    "pages/Mypkm.md",
+    "pages/Police municipale.md",
+    "pages/Processus renseignement.md",
+    "pages/Untitled 2.md",
+    "pages/Conseil numéro 1.md",
+    "pages/Untitled 1.md",
     "pages/Plan rssi.md",
     "journals/2025-11-05.md",
     "logseq/bak/pages/idée/2025-11-05T10_42_29.611Z.android.md",
@@ -228,7 +205,6 @@
     "logseq/bak/pages/idée/2025-11-02T13_47_41.105Z.android.md",
     "logseq/bak/pages/idée/2025-11-02T13_47_36.845Z.android.md",
     "logseq/bak/pages/idée/2025-11-02T13_47_30.448Z.android.md",
-    "pages/Mypkm.md",
     "pages/langage de programmation à suivre.md",
     "pages/écouteur.md",
     "logseq/bak/pages/écouteur/2025-05-03T10_25_37.547Z.android.md",
@@ -243,7 +219,6 @@
     "journals/2025_03_30.md",
     "pages/Untitled.md",
     "pages/Guide d'achat.md",
-    "pages/Contrat intelligent.md",
-    "pages/Imprimante 3D.md"
+    "pages/Contrat intelligent.md"
   ]
 }
