@@ -6,7 +6,10 @@
 - Ebios emmie projet risk dpo "élicitations PEACE"
 - Rssi cert rocq
 -
+- Ml xai owl blockchain
+- Ngac, abac
 - Electrostatisme
+  collapsed:: true
 	- [[protection]]
 - [[méthodologie]]
 - [Normes AFNOR d'application obligatoire](https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/entreprises/normes-afnor-d-application-obligatoire?hl=fr-FR)
@@ -27,6 +30,9 @@
 	  -[législation](https://www.legifrance.gouv.fr/) + blockchain + assistant de preuve = [[Contrat intelligent]]
 - # travail
 - [profession réglementée](https://www.inpi.fr/annuaire-activites-et-professions?hl=fr-FR)
+  
+  ## transport
+  Formation : isteli
 - [[rapport d'étonnement]]
 - ## collectivité territoriale
 - https://prospectiveterritoriale.fr/
@@ -71,6 +77,9 @@
   Entretiens menés dans le 
   cadre d’enquêtes pénales](https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Thematic%20Operational%20Activities/Police%20and%20Law%20Enforcement/2024.01%20Manual%20on%20Investigative%20Interviewing%20for%20Criminal%20Investigation%20(2024)%20(French).pdf)
 - [procédure complète](https://www.apt.ch/sites/default/files/publications/apt_PoEI_FR_03.pdf)
+  
+  
+  [[Élicitation]]
 -
 - ## plainte
 - [gestion de plainte](https://icoca.ch/wp-content/uploads/2020/07/guide-dinterpretation.pdf)
@@ -271,7 +280,12 @@
 - ## risque
 - [[registre des actifs]]
 - https://ready.csod.com/ui/lms-learning-details/app/test/3308f459-d6c3-46a4-9223-f4c50a3ab6ee
-- # rssi
+-
+- # SSI
+- Vision de la direction -> pssi
+-
+-
+- ## rssi
   
   [[Plan rssi]]
 - ## iso 18788
