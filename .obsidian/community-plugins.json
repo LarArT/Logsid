@@ -1,6 +1,5 @@
 [
-  "obsidian-admonition",
-  "calendar",
-  "obsidian-tasks-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-outliner",
+  "obsidian-zoom"
 ]
