@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "feffb9737045e825",
+        "id": "948d26e4ca3c6525",
         "type": "tabs",
         "children": [
           {
-            "id": "f252326508306c46",
+            "id": "c8c64ec1c9f77243",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "pages/Jeu des 8 familles d'atteintes à la sécurité économique.md",
-                "bFile": "pages/Jeu des 8 familles d'atteintes à la sécurité économique.md",
-                "aRef": ""
+                "file": "pages/Mypkm.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff: Jeu des 8 familles d'atteintes à la sécurité économique"
+              "icon": "lucide-file",
+              "title": "Mypkm"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Mypk",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -177,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f252326508306c46",
+  "active": "c8c64ec1c9f77243",
   "lastOpenFiles": [
+    "pages/gestion conflit de crise.md",
     "pages/Untitled 2.md",
     "logseq/bak/pages/Untitled 2/2026-01-04T08_50_08.438Z.android.md",
     "logseq/bak/pages/Untitled 2/2026-01-04T08_49_55.997Z.android.md",
@@ -206,7 +207,6 @@
     "pages/validation VAE.md",
     "pages/trouver dans la formation légal.md",
     "pages/théorie des effets.md",
-    "pages/texte réglementation ssiap1.md",
     "logseq/custom.css",
     "logseq/config.edn",
     "whiteboards",

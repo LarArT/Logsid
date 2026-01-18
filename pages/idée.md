@@ -39,6 +39,48 @@
 -
 - # SST
 	- [cours SST par l'Organisation internationale du travail](https://www.iloencyclopaedia.org/fr/)
+	- [[les principaux acteurs externes de la prévention en entreprise]]
+	- Les 9 PGP (principes généraux de prévention)
+		- Éviter les risques, c’est supprimer le danger ou l’exposition au danger.
+		- Évaluer les risques, c’est apprécier l’exposition au danger et l’importance du risque afin de prioriser les actions de prévention à mener.
+		- Combattre les risques à la source, c’est intégrer la prévention le plus en amont possible, notamment dès la conception des lieux de travail, des équipements ou des modes opératoires.
+		- Adapter le travail au collaborateur, en tenant compte des différences interindividuelles, notamment entre hommes et femmes, dans le but de réduire les effets du travail sur la santé.
+		- Tenir compte de l’évolution de la technique, c’est adapter la prévention aux évolutions techniques et organisationnelles.
+		- Remplacer ce qui est dangereux par ce qui l’est moins, c’est éviter l’utilisation de procédés ou de produits dangereux lorsqu’un même résultat peut être obtenu avec une méthode présentant des dangers moindres.
+		- Planifier la prévention en intégrant technique, organisation et conditions de travail, relations sociales et environnement.
+		- Donner la priorité aux mesures de protection collective et n’utiliser les équipements de protection individuelle (EPI) qu’en complément des protections collectives si elles se révèlent insuffisantes.
+		- Donner les instructions appropriées aux collaborateurs, c’est les former et les informer afin qu’ils connaissent les risques et les mesures de prévention.
+	- Accident de travail
+		- Signaler dès que possible à son dirigeant
+		- Le dirigeant
+			- dispose de __48 heures__ pour informer la CPAM
+			- Informe le délégué du personnel
+	- Une maladie professionnelle
+		- figure dans Un des [__tableaux général__ de la sécurité sociale](https://www.inrs.fr/publications/bdd/mp.html)
+		- Cycle:
+			- Victime
+				- Certificat médical auprès d'un médecin
+				- Déclaration à la CPAM
+			- CPAM informe en entreprise
+		-
+	- Accident de trajet
+		- Plus court chemin entre domicile et travail
+		- Incluant des trajets habituels tel que les trajets journaliers vers les crèches et écoles
+		-
+	- Les acteurs internes de la prévention en entreprise :
+		- Le salarié désigné compétent
+			- Mission
+				- Évaluation et élaboration DUer
+				- Planification et organisation des actions de prévention qui en découlent
+				- Suivi de leur mise en œuvre
+				- Promotion de la santé et sécurité au travail
+	- Analyse du risque
+		- Composant du risque
+			- Gravité probable
+			- Temps d'exposition
+			- Niveau de protection
+			- Environnement de travail
+			- Compétence du travailleur
 - # sécurité
 - ## sécurité économique
 - [la sécurité économique en 28 fiches](https://www.entreprises.gouv.fr/la-dge/publications/la-securite-economique-en-28-fiches-thematiques)
@@ -57,6 +99,8 @@
 -
 - ## négociation 
   [[Traité pratique de négociation]]
+- [[gestion conflit de crise]]
+-
 - ## conflit 
   (Modes alternatifs de règlement des litiges marl)
 - ## sécurité publique
@@ -148,7 +192,6 @@
 - # santé
 - Monitoring de santé en temps réel
 	- Montre connectée
-	  collapsed:: true
 		- Withing Marques
 		- Empatica EmbracePlus et E4
 - Neurostimulation
@@ -332,4 +375,4 @@
 - [[polka]]
 -
 - [[sûreté]]
-- ![2026-01-03-09-35-17.aac](../assets/2026-01-03-09-35-17.aac)
+-
