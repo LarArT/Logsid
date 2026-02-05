@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Mypkm.md",
+                "file": "pages/idée.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mypkm"
+              "title": "idée"
             }
           }
         ]
@@ -179,6 +179,12 @@
   },
   "active": "c8c64ec1c9f77243",
   "lastOpenFiles": [
+    "pages/Les 9 PGP (principes généraux de prévention).md",
+    "logseq/bak/pages/idée/2026-01-27T13_00_25.099Z.android.md",
+    "pages/idée.md",
+    "logseq/bak/pages/idée/2026-01-27T12_59_24.486Z.android.md",
+    "logseq/bak/pages/idée/2026-01-27T12_59_09.863Z.android.md",
+    "pages/Mypkm.md",
     "pages/gestion conflit de crise.md",
     "pages/Untitled 2.md",
     "logseq/bak/pages/Untitled 2/2026-01-04T08_50_08.438Z.android.md",
@@ -186,8 +192,6 @@
     "logseq/bak/pages/Untitled 2/2026-01-04T08_48_26.509Z.android.md",
     "logseq/bak/pages/Untitled 2/2026-01-04T08_48_22.282Z.android.md",
     "pages/cas pratique opération BlackStone.md",
-    "pages/Mypkm.md",
-    "pages/idée.md",
     "pages/maths.md",
     "logseq/bak/pages/idée/2026-01-01T09_57_03.209Z.android.md",
     "logseq/bak/pages/Projet/2026-01-01T09_56_50.803Z.android.md",
@@ -203,10 +207,6 @@
     "pages/écouteur.md",
     "pages/à approfondir.md",
     "pages/États-Unis.md",
-    "pages/Élicitation.md",
-    "pages/validation VAE.md",
-    "pages/trouver dans la formation légal.md",
-    "pages/théorie des effets.md",
     "logseq/custom.css",
     "logseq/config.edn",
     "whiteboards",

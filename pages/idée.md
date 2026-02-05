@@ -20,7 +20,6 @@
 - [[Cuisine moléculaire]]
 - [[Manpage]]
 - [[liste des organismes de recherche en France]]
-- [Installations Classées pour la Protection de l'Environnement (ICPE)](https://aida.ineris.fr/thematiques/nomenclature-icpe)
 - [[marché public]]
 -
 - [[Génération de logo]]
@@ -36,20 +35,15 @@
 -
 - ## collectivité territoriale
 - https://prospectiveterritoriale.fr/
+- [[Registre]]
+- [[stratégie nationale résilience]]
 -
 - # SST
 	- [cours SST par l'Organisation internationale du travail](https://www.iloencyclopaedia.org/fr/)
+	  id:: 69623f55-c8a0-4ab3-8f4d-e9751c19a763
 	- [[les principaux acteurs externes de la prévention en entreprise]]
-	- Les 9 PGP (principes généraux de prévention)
-		- Éviter les risques, c’est supprimer le danger ou l’exposition au danger.
-		- Évaluer les risques, c’est apprécier l’exposition au danger et l’importance du risque afin de prioriser les actions de prévention à mener.
-		- Combattre les risques à la source, c’est intégrer la prévention le plus en amont possible, notamment dès la conception des lieux de travail, des équipements ou des modes opératoires.
-		- Adapter le travail au collaborateur, en tenant compte des différences interindividuelles, notamment entre hommes et femmes, dans le but de réduire les effets du travail sur la santé.
-		- Tenir compte de l’évolution de la technique, c’est adapter la prévention aux évolutions techniques et organisationnelles.
-		- Remplacer ce qui est dangereux par ce qui l’est moins, c’est éviter l’utilisation de procédés ou de produits dangereux lorsqu’un même résultat peut être obtenu avec une méthode présentant des dangers moindres.
-		- Planifier la prévention en intégrant technique, organisation et conditions de travail, relations sociales et environnement.
-		- Donner la priorité aux mesures de protection collective et n’utiliser les équipements de protection individuelle (EPI) qu’en complément des protections collectives si elles se révèlent insuffisantes.
-		- Donner les instructions appropriées aux collaborateurs, c’est les former et les informer afin qu’ils connaissent les risques et les mesures de prévention.
+	- [[Les 9 PGP (principes généraux de prévention)]]
+		-
 	- Accident de travail
 		- Signaler dès que possible à son dirigeant
 		- Le dirigeant
@@ -82,6 +76,9 @@
 			- Environnement de travail
 			- Compétence du travailleur
 - # sécurité
+- ## sécurité privée
+- ### APS
+-
 - ## sécurité économique
 - [la sécurité économique en 28 fiches](https://www.entreprises.gouv.fr/la-dge/publications/la-securite-economique-en-28-fiches-thematiques)
 - [[entreprise stratégique]]
@@ -90,22 +87,20 @@
 - [[polycrise]]
 - [[Jeu des 8 familles d'atteintes à la sécurité économique]]
 - ### militarisation des flux
-- Réponse européenne -> [critical raw act](https://commission.europa.eu/topics/competitiveness/green-deal-industrial-plan/european-critical-raw-materials-act_fr) : réduction de la dépendance tes matières premières.
--
+- Réponse européenne -> [critical raw act](https://commission.europa.eu/topics/competitiveness/green-deal-industrial-plan/european-critical-raw-materials-act_fr) : réduction de la dépendance tes matières premières
 - ### organisation territoriale
 - [[organisation territoriale intelligence économique]]
--
 - [[intelligence économique]]
--
-- ## négociation 
-  [[Traité pratique de négociation]]
-- [[gestion conflit de crise]]
--
+- ## négociation
+	- [[Traité pratique de négociation]]
+	- [[gestion conflit de crise]]
 - ## conflit 
   (Modes alternatifs de règlement des litiges marl)
 - ## sécurité publique
 - [[Dictionnaire des vocabulaires et expressions-types utilisés dans la rédaction des procédures de police administrative et judiciaire]]
-- [[douane]]
+  [[Registre]]
+  [[douane]]
+-
 - ### brigadier
 - [[framework emmie]]
   id:: 69167737-52e6-46ac-8017-c2e9a0db3cf0
@@ -118,9 +113,15 @@
 - [crime résolution toolkit](https://www.college.police.uk/research/crime-reduction-toolkit)
   id:: 691677f4-a502-4e29-af14-42c909ac3195
 - [[publication]]
+- [[placier Rennes]]
+- [[Police municipale]]
+- [[polka]]
+- [[sûreté]]
 - # sûreté
   [[étude de cas système de vidéo surveillance]]
   [[étude de cas détection intrusion]]
+- [[traite des êtres humains]]
+- Collecte de preuves criminalistiques ISO 27037
 - ## interrogatoire
 - Méthode peace -> [Manuel sur les Entretiens menés dans le  cadre d’enquêtes pénales](https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Thematic%20Operational%20Activities/Police%20and%20Law%20Enforcement/2024.01%20Manual%20on%20Investigative%20Interviewing%20for%20Criminal%20Investigation%20(2024)%20(French).pdf)
 - [procédure complète](https://www.apt.ch/sites/default/files/publications/apt_PoEI_FR_03.pdf)
@@ -136,18 +137,19 @@
 - Inrs
 	- [programme](https://www.inrs.fr/media.html?refINRS=ED%206127) : voir bibliographie
 	- [normes habilitation électrique](https://afpsecourisme.fr/wp-content/uploads/2017/08/Norme-NF-C-18-510.pdf)
-	-
--
+	- [[H0 B0]]
 - ## asvp
 - [[asvp]]
 - [[ONU DC nim: 9 techniques d'analyse du renseignement]]
   [[Processus renseignement]]
 - ## référent sûreté
 	- [formation](https://www.83-629.fr/formation-des-referents-surete-a-lecole-nationale-superieure-de-la-police-ouverte-aux-acteurs-prives/)
+- ### DPO
+- [[DPO]]
 -
 - ## SSIAP1
 - [[texte réglementation ssiap1]]
--
+- [Installations Classées pour la Protection de l'Environnement (ICPE)](https://aida.ineris.fr/thematiques/nomenclature-icpe)
 - ## opérateur vidéoprotection
 - https://www.seine-et-marne.fr/sites/default/files/media/downloads/dadt-22-brochure-guide-videoprotection_mar22-vf_04042022.pdf
 - [[présentation vidéo surveillance]]
@@ -170,8 +172,6 @@
 - https://ma-cantine.agriculture.gouv.fr/accueil
 - http://www.gemrcn.fr/definition-gemrcn
 - https://www.economie.gouv.fr/daj/recommandation-nutrition
--
--
 - ### HACCP
 - [norme européenne](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:2004R0852:20090420:fr:PDF&hl=fr-FR)
 - [guide de température](https://walter-learning.com/blog/restauration/haccp/guide-temperatures-restauration-pdf?hl=fr-FR)
@@ -185,10 +185,8 @@
 - ## mots clés
 - CNRC (Conseil National de la Restauration Collective
 - GEMRCN
--
-- ## DPO
-- [[DPO]]
--
+- ## neuropsychologie
+- [[état de l'art]]
 - # santé
 - Monitoring de santé en temps réel
 	- Montre connectée
@@ -339,7 +337,6 @@
 - ## SSI
 - Vision de la direction -> pssi
 - ## rssi
-  
   [[Plan rssi]]
 -
 - ## physique
@@ -367,12 +364,4 @@
 - Prompt
 	- [Guide de rédaction Prompt]([[Prompt]])
 - [[mathématiques]]
--
-- [[placier Rennes]]
--
-- [[Police municipale]]
--
-- [[polka]]
--
-- [[sûreté]]
 -

@@ -1,6 +1,9 @@
 - [[L'Institut NERA]]
+- [[négociation GIGN]]
+-
 - [[alliance opérationnel]]
 - [[justice procédurale]]
+- https://hr4free.com/fr/Gestion-des-conflits/Questionnaire-auto-%C3%A9valuation-affirmation-de-soi
 -
 - La règle (la face) ->  label (reformulation) -> tactique (mirror, ) -> engagement (reframing)
 -
