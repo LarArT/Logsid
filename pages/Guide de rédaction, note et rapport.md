@@ -1,5 +1,6 @@
 - Vous avez raison de chercher des alternatives ! Si le plan bipartite (Analyse/Propositions) est le plus fréquent et le plus sécuritaire dans le cadre des concours administratifs (notes avec propositions et rapports), d'autres structures peuvent être plus pertinentes et vous permettre de vous démarquer en montrant votre capacité d'adaptation au sujet.
-  Voici trois structures alternatives, chacune adaptée à un type de sujet spécifique :
+- Tout rapport devrait contenir les variables de ventilation de la classification internationale des infractions ((69861237-df02-4e56-9062-596f30fdbf9d))
+- Voici trois structures alternatives, chacune adaptée à un type de sujet spécifique :
   1. La Structure Thématique (pour une Note de Synthèse pure)
   Ce plan est idéal lorsque la consigne demande une simple note de synthèse ou une note d'information (sans propositions demandées), ou lorsque le dossier est très riche et traite le sujet sous différents angles qui s'équilibrent.
   | Partie | Objectif de la partie | Contenu typique |

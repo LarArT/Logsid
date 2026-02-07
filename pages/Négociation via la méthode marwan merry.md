@@ -1,4 +1,8 @@
 - [[méthode Pacific]]
+- Identifier les parties prenantes : sociogramme
+- Identifier les personnes complexes
+-
+-
 - Méry définit 10 compétences-socle mesurables via le test ADN Insider :
 	- Appétence au conflit
 	- Empathie (soigneusement distinguée de la sympathie)

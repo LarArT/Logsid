@@ -13,7 +13,6 @@
 	- [[protection]]
 - [[méthodologie]]
 - [Normes AFNOR d'application obligatoire](https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/entreprises/normes-afnor-d-application-obligatoire?hl=fr-FR)
--
 - [[architecture]]
 - [[langage de programmation à suivre]]
 - [algèbre diagrammatique](https://smf.emath.fr/system/files/filepdf/G163.pdf)
@@ -43,7 +42,6 @@
 	  id:: 69623f55-c8a0-4ab3-8f4d-e9751c19a763
 	- [[les principaux acteurs externes de la prévention en entreprise]]
 	- [[Les 9 PGP (principes généraux de prévention)]]
-		-
 	- Accident de travail
 		- Signaler dès que possible à son dirigeant
 		- Le dirigeant
@@ -78,7 +76,8 @@
 - # sécurité
 - ## sécurité privée
 - ### APS
--
+	- [Sécurité renforcée](69876280-8ae5-44aa-954e-2e5ed6f047f5)
+	-
 - ## sécurité économique
 - [la sécurité économique en 28 fiches](https://www.entreprises.gouv.fr/la-dge/publications/la-securite-economique-en-28-fiches-thematiques)
 - [[entreprise stratégique]]
@@ -100,7 +99,8 @@
 - [[Dictionnaire des vocabulaires et expressions-types utilisés dans la rédaction des procédures de police administrative et judiciaire]]
   [[Registre]]
   [[douane]]
--
+- [[classification internationale des infractions]]
+- [donner issue de la classification internationale des infractions](http://data.unodc.org/node/1)
 - ### brigadier
 - [[framework emmie]]
   id:: 69167737-52e6-46ac-8017-c2e9a0db3cf0
@@ -116,12 +116,14 @@
 - [[placier Rennes]]
 - [[Police municipale]]
 - [[polka]]
-- [[sûreté]]
+-
 - # sûreté
   [[étude de cas système de vidéo surveillance]]
   [[étude de cas détection intrusion]]
 - [[traite des êtres humains]]
 - Collecte de preuves criminalistiques ISO 27037
+- [[sûreté]]
+  id:: 69876280-8ae5-44aa-954e-2e5ed6f047f5
 - ## interrogatoire
 - Méthode peace -> [Manuel sur les Entretiens menés dans le  cadre d’enquêtes pénales](https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Thematic%20Operational%20Activities/Police%20and%20Law%20Enforcement/2024.01%20Manual%20on%20Investigative%20Interviewing%20for%20Criminal%20Investigation%20(2024)%20(French).pdf)
 - [procédure complète](https://www.apt.ch/sites/default/files/publications/apt_PoEI_FR_03.pdf)
@@ -288,7 +290,6 @@
 - [[table 2]]
 - [[table 1]]
 - [[principe généraux]]
--
 - [[Classification Dewey deux premiers niveaux]]
 - ## archive
   [[Structure archive]] 
@@ -305,15 +306,11 @@
 - ISO 22000 - Management de la Sécurité des Denrées Alimentaires
 -
 - # collectivité territoriale
--
 - [[dotation aux collectivités territoriales]]
 - Étude de sûreté et de sécurité publique
--
 - # SNCF
 - [[opérateur de production des trains]]
--
 - [[sûreté ferroviaire]]
--
 - # France
 - [[partenaire de la Défense nationale]]
 - # numérique 

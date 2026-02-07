@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/idée.md",
+                "file": "pages/Mypkm.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "idée"
+              "title": "Mypkm"
             }
           }
         ]
@@ -179,8 +179,9 @@
   },
   "active": "c8c64ec1c9f77243",
   "lastOpenFiles": [
-    "pages/H0 b0.md",
     "pages/idée.md",
+    "pages/69876280-8ae5-44aa-954e-2e5ed6f047f5.md",
+    "pages/H0 b0.md",
     "pages/Les 9 PGP (principes généraux de prévention).md",
     "logseq/bak/pages/idée/2026-01-27T13_00_25.099Z.android.md",
     "logseq/bak/pages/idée/2026-01-27T12_59_24.486Z.android.md",
@@ -206,7 +207,6 @@
     "pages/électrolyse.md",
     "pages/électricité.md",
     "pages/écouteur.md",
-    "pages/à approfondir.md",
     "logseq/custom.css",
     "logseq/config.edn",
     "whiteboards",
