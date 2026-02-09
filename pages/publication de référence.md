@@ -1,0 +1,4 @@
+- ​L'IALEIA publie des ressources académiques et pratiques :
+	- ​Journal of Intelligence and Analysis : Une revue annuelle avec des articles de recherche sur les méthodes d'analyse.
+	- ​IntelScope : Un bulletin d'information sur les dernières tendances du métier.
+	- ​Criminal Intelligence for the 21st Century : Un manuel de référence pour les praticiens.

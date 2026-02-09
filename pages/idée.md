@@ -2,7 +2,7 @@
 - [[à approfondir]]
 - [[smartphone]]
 - [[stratégie de recherche]]
--
+- [profession réglementée](https://www.inpi.fr/annuaire-activites-et-professions?hl=fr-FR)
 - Ebios emmie projet risk dpo "élicitations PEACE"
 - Rssi cert rocq
 -
@@ -26,17 +26,13 @@
 	- [règle de rédaction](https://www.calliope.be/french/html/topic_28EE19B2-7532-46FD-BE1E-45C57D981DD9_2AE56876-C3BC-4C9E-9C27-A00507CA6CB0_1.htm)
 	- [charte orthographique en vigueur dans l'administration française](https://www.legifrance.gouv.fr/contenu/Media/Files/autour-de-la-loi/legislatif-et-reglementaire/charte_typographique_jo_janvier_2021.pdf?hl=fr-FR)
 	  -[législation](https://www.legifrance.gouv.fr/) + blockchain + assistant de preuve = [[Contrat intelligent]]
-- # travail
-- [profession réglementée](https://www.inpi.fr/annuaire-activites-et-professions?hl=fr-FR)
 - ## transport
-  Formation : isteli
+	- Formation : isteli
 - [[rapport d'étonnement]]
--
 - ## collectivité territoriale
 - https://prospectiveterritoriale.fr/
 - [[Registre]]
 - [[stratégie nationale résilience]]
--
 - # SST
 	- [cours SST par l'Organisation internationale du travail](https://www.iloencyclopaedia.org/fr/)
 	  id:: 69623f55-c8a0-4ab3-8f4d-e9751c19a763
@@ -73,68 +69,75 @@
 			- Niveau de protection
 			- Environnement de travail
 			- Compétence du travailleur
-- # sécurité
-- ## sécurité privée
-- ### APS
-	- [Sécurité renforcée](69876280-8ae5-44aa-954e-2e5ed6f047f5)
-	-
-- ## sécurité économique
-- [la sécurité économique en 28 fiches](https://www.entreprises.gouv.fr/la-dge/publications/la-securite-economique-en-28-fiches-thematiques)
-- [[entreprise stratégique]]
-- [Loi n° 68-678 du 26 juillet 1968 relative à la communication de documents et renseignements d'ordre économique, commercial, industriel, financier ou technique à des personnes physiques ou morales étrangères](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000501326) -> et suivant [²](https://www.entreprises.gouv.fr/priorites-et-actions/autonomie-strategique/consolider-notre-politique-de-securite-economique)
-- [Flash ingérence](https://www.dgsi.interieur.gouv.fr/dgsi-a-vos-cotes/contre-espionnage/conseils-aux-entreprises-flash-ingerence): exemple d'ingérence par dgSI
-- [[polycrise]]
-- [[Jeu des 8 familles d'atteintes à la sécurité économique]]
-- ### militarisation des flux
-- Réponse européenne -> [critical raw act](https://commission.europa.eu/topics/competitiveness/green-deal-industrial-plan/european-critical-raw-materials-act_fr) : réduction de la dépendance tes matières premières
-- ### organisation territoriale
-- [[organisation territoriale intelligence économique]]
-- [[intelligence économique]]
-- ## négociation
-	- [[Traité pratique de négociation]]
-	- [[gestion conflit de crise]]
-- ## conflit 
-  (Modes alternatifs de règlement des litiges marl)
-- ## sécurité publique
-- [[Dictionnaire des vocabulaires et expressions-types utilisés dans la rédaction des procédures de police administrative et judiciaire]]
-  [[Registre]]
-  [[douane]]
-- [[classification internationale des infractions]]
-- [donner issue de la classification internationale des infractions](http://data.unodc.org/node/1)
-- ### brigadier
-- [[framework emmie]]
-  id:: 69167737-52e6-46ac-8017-c2e9a0db3cf0
-- [[demain, reine]]
-- https://efus.eu/thematiques/espaces-publics/renforcer-la-confiance-entre-police-et-citoyens-un-travail-indispensable/?lang=fr&utm_source=perplexity
-- [[Police municipale]] 
-  [[Guide de rédaction, note et rapport]]
-- [[meilleure copie brigadier]]
-  [[Service Rennes Métropole police municipale organisation]]
-- [crime résolution toolkit](https://www.college.police.uk/research/crime-reduction-toolkit)
-  id:: 691677f4-a502-4e29-af14-42c909ac3195
-- [[publication]]
-- [[placier Rennes]]
-- [[Police municipale]]
+- # sécurité / sûreté / analyste
+	- [[formation]]
+	- ## analyste
+		- [[publication de référence]]
+	- ## sécurité
+		- ## sécurité privée
+			- ### APS
+				- [Sécurité renforcée](69876280-8ae5-44aa-954e-2e5ed6f047f5)
+				-
+		- ## sécurité économique
+			- [la sécurité économique en 28 fiches](https://www.entreprises.gouv.fr/la-dge/publications/la-securite-economique-en-28-fiches-thematiques)
+				- [[entreprise stratégique]]
+		- [Loi n° 68-678 du 26 juillet 1968 relative à la communication de documents et renseignements d'ordre économique, commercial, industriel, financier ou technique à des personnes physiques ou morales étrangères](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000501326) -> et suivant [²](https://www.entreprises.gouv.fr/priorites-et-actions/autonomie-strategique/consolider-notre-politique-de-securite-economique)
+		- [Flash ingérence](https://www.dgsi.interieur.gouv.fr/dgsi-a-vos-cotes/contre-espionnage/conseils-aux-entreprises-flash-ingerence): exemple d'ingérence par dgSI
+		- [[polycrise]]
+			- [[Jeu des 8 familles d'atteintes à la sécurité économique]]
+	- ### militarisation des flux
+		- Réponse européenne -> [critical raw act](https://commission.europa.eu/topics/competitiveness/green-deal-industrial-plan/european-critical-raw-materials-act_fr) : réduction de la dépendance tes matières premières
+	- ### organisation territoriale
+		- [[organisation territoriale intelligence économique]]
+		- [[intelligence économique]]
+	- ## négociation
+		- [[Traité pratique de négociation]]
+		- [[gestion conflit de crise]]
+	- ## conflit
+		- mode alternatifs de règlement des litiges marl)
+	- ## sécurité publique
+	  collapsed:: true
+		- [[Dictionnaire des vocabulaires et expressions-types utilisés dans la rédaction des procédures de police administrative et judiciaire]]
+		  [[Registre]]
+		  [[douane]]
+	- [[classification internationale des infractions]]
+	- [donner issue de la classification internationale des infractions](http://data.unodc.org/node/1)
+	- ### brigadier
+	- [[framework emmie]]
+	  id:: 69167737-52e6-46ac-8017-c2e9a0db3cf0
+		- [[demain, reine]]
+			- https://efus.eu/thematiques/espaces-publics/renforcer-la-confiance-entre-police-et-citoyens-un-travail-indispensable/?lang=fr&utm_source=perplexity
+				- [[Police municipale]] 
+				  [[Guide de rédaction, note et rapport]]
+				- [[meilleure copie brigadier]]
+				  [[Service Rennes Métropole police municipale organisation]]
+				- [crime résolution toolkit](https://www.college.police.uk/research/crime-reduction-toolkit)
+				  id:: 691677f4-a502-4e29-af14-42c909ac3195
+				- [[publication]]
+					- [[placier Rennes]]
+					- [[Police municipale]]
 - [[polka]]
 -
-- # sûreté
-  [[étude de cas système de vidéo surveillance]]
-  [[étude de cas détection intrusion]]
-- [[traite des êtres humains]]
-- Collecte de preuves criminalistiques ISO 27037
-- [[sûreté]]
-  id:: 69876280-8ae5-44aa-954e-2e5ed6f047f5
-- ## interrogatoire
-- Méthode peace -> [Manuel sur les Entretiens menés dans le  cadre d’enquêtes pénales](https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Thematic%20Operational%20Activities/Police%20and%20Law%20Enforcement/2024.01%20Manual%20on%20Investigative%20Interviewing%20for%20Criminal%20Investigation%20(2024)%20(French).pdf)
-- [procédure complète](https://www.apt.ch/sites/default/files/publications/apt_PoEI_FR_03.pdf)
-  
-  
-  [[Élicitation]]
-- [[Entrisme]]
-  id:: 695632d1-57a6-454f-af1b-5ea39d58c020
-- ## plainte
-- [gestion de plainte](https://icoca.ch/wp-content/uploads/2020/07/guide-dinterpretation.pdf)
-  [Outils et ressources plainte](https://www.cao-ombudsman.org/grm/fr/tools-and-resources.html)
+	- # sûreté
+		- [[étude de cas système de vidéo surveillance]]
+		  [[étude de cas détection intrusion]]
+	- [[traite des êtres humains]]
+	- Collecte de preuves criminalistiques ISO 27037
+	- [[sûreté]]
+	  id:: 69876280-8ae5-44aa-954e-2e5ed6f047f5
+		- ## interrogatoire
+			- Méthode peace -> [Manuel sur les Entretiens menés dans le  cadre d’enquêtes pénales](https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Thematic%20Operational%20Activities/Police%20and%20Law%20Enforcement/2024.01%20Manual%20on%20Investigative%20Interviewing%20for%20Criminal%20Investigation%20(2024)%20(French).pdf)
+	- [procédure complète](https://www.apt.ch/sites/default/files/publications/apt_PoEI_FR_03.pdf)
+	  
+	  
+	  [[Élicitation]]
+	- [[Entrisme]]
+	  id:: 695632d1-57a6-454f-af1b-5ea39d58c020
+		- ## plainte
+			- [gestion de plainte](https://icoca.ch/wp-content/uploads/2020/07/guide-dinterpretation.pdf)
+			  [Outils et ressources plainte](https://www.cao-ombudsman.org/grm/fr/tools-and-resources.html)
+	- ## référent sûreté
+		- [formation](https://www.83-629.fr/formation-des-referents-surete-a-lecole-nationale-superieure-de-la-police-ouverte-aux-acteurs-prives/)
 - ## habilitation électrique
 - Inrs
 	- [programme](https://www.inrs.fr/media.html?refINRS=ED%206127) : voir bibliographie
@@ -144,8 +147,6 @@
 - [[asvp]]
 - [[ONU DC nim: 9 techniques d'analyse du renseignement]]
   [[Processus renseignement]]
-- ## référent sûreté
-	- [formation](https://www.83-629.fr/formation-des-referents-surete-a-lecole-nationale-superieure-de-la-police-ouverte-aux-acteurs-prives/)
 - ### DPO
 - [[DPO]]
 -
@@ -163,6 +164,9 @@
 -
 - ### caméra de vidéoprotection
   [[Technologie de transmission]]
+- ## criminalité organisée
+- [[convention de Palerme]]
+- [[criminalité financière]]
 -
 - [[Action logement]]
 - [[conducteur de train]]
@@ -194,14 +198,23 @@
 	- Montre connectée
 		- Withing Marques
 		- Empatica EmbracePlus et E4
-- Neurostimulation
-	- Sonore et auditive
-		- Mit 2016 spin off : Cognito Therapeutics.
-	- Activité cardiaque
-	  collapsed:: true
-		- Photopléthysmographie
-	- [suivi de la cortisol]((https://eli.health/products/cortisol))
-- Nutrition
+- ## Neurosciences
+	- Neurostimulation
+		- Neuromodulation
+			- Diy
+				- [openstim](https://github.com/Open-Stim)
+			- [[Brain waves entrainment]]
+			  [[Dispositif  approuvé par la FDA]]
+			-
+		- Sonore et auditive
+			- Mit 2016 spin off : Cognito Therapeutics.
+		- Activité cardiaque
+		  collapsed:: true
+			- Photopléthysmographie
+		- [suivi de la cortisol]((https://eli.health/products/cortisol))
+	- [[Modèle validé par la neuroscience]]
+	-
+- ## Nutrition
 	- [Table de composition nutritionnelle AnSES](https://ciqual.anses.fr/?hl=fr-FR)
 	- Tag:: sante
 - # science
@@ -321,9 +334,11 @@
 - [[DPO]]
 - [table et cahier de la CNIL](https://www.cnil.fr/fr/tables-informatique-et-libertes-cahiers-decisions-2024) : doctrine et décision rendue
 - [[rgpd en bref]]
-- ## juriste
-- [[la procédure d'acte de juriste]]
--
+- ## droit
+	- ### juriste
+		- [[la procédure d'acte de juriste]]
+	- [[introduction droit]]
+	-
 - # gestion des risques
 - [[registre des actifs]]
 - https://ready.csod.com/ui/lms-learning-details/app/test/3308f459-d6c3-46a4-9223-f4c50a3ab6ee

@@ -11,14 +11,14 @@
             "id": "c8c64ec1c9f77243",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "pages/Mypkm.md",
-                "mode": "preview",
-                "source": false
+                "aFile": "pages/concept.md",
+                "bFile": "pages/concept.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Mypkm"
+              "icon": "git-pull-request",
+              "title": "Diff: concept"
             }
           }
         ]
@@ -179,6 +179,8 @@
   },
   "active": "c8c64ec1c9f77243",
   "lastOpenFiles": [
+    "pages/concept.md",
+    "pages/Mypkm.md",
     "pages/idée.md",
     "pages/69876280-8ae5-44aa-954e-2e5ed6f047f5.md",
     "pages/H0 b0.md",
@@ -186,7 +188,6 @@
     "logseq/bak/pages/idée/2026-01-27T13_00_25.099Z.android.md",
     "logseq/bak/pages/idée/2026-01-27T12_59_24.486Z.android.md",
     "logseq/bak/pages/idée/2026-01-27T12_59_09.863Z.android.md",
-    "pages/Mypkm.md",
     "pages/gestion conflit de crise.md",
     "pages/Untitled 2.md",
     "logseq/bak/pages/Untitled 2/2026-01-04T08_50_08.438Z.android.md",
@@ -200,7 +201,6 @@
     "logseq/bak/pages/Projet",
     "pages/Actionnable.md",
     "pages/Projet.md",
-    "pages/concept.md",
     "pages/cryptogaphie.md",
     "whiteboards/6918e136-5450-4f33-8b9c-bc399c9592da.edn",
     "pages/électrophorèse.md",
