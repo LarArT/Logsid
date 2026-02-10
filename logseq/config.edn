@@ -426,4 +426,5 @@
  :graph/settings {:excluded-pages? false
  :builtin-pages? false
  :orphan-pages? true
- :journal? false}}
+ :journal? false}
+ :publishing/all-pages-public? true}

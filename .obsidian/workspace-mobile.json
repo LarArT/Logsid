@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "948d26e4ca3c6525",
+        "id": "1b613e5508443192",
         "type": "tabs",
         "children": [
           {
-            "id": "c8c64ec1c9f77243",
+            "id": "93fd07a39d5efa21",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "aFile": "pages/concept.md",
-                "bFile": "pages/concept.md",
-                "aRef": ""
-              },
-              "icon": "git-pull-request",
-              "title": "Diff: concept"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -177,11 +173,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8c64ec1c9f77243",
+  "active": "93fd07a39d5efa21",
   "lastOpenFiles": [
-    "pages/concept.md",
-    "pages/Mypkm.md",
+    "logseq/bak/pages/sûreté en entreprise/2026-02-10T11_29_52.362Z.android.md",
+    "logseq/bak/pages/sûreté en entreprise/2026-02-10T11_29_52.361Z.android.md",
+    "pages/sûreté en entreprise.md",
+    "logseq/bak/pages/sûreté en entreprise/2026-02-10T11_28_25.395Z.android.md",
+    "logseq/bak/pages/sûreté en entreprise/2026-02-10T11_28_21.308Z.android.md",
+    "logseq/bak/pages/sûreté en entreprise/2026-02-10T11_28_17.260Z.android.md",
+    "logseq/bak/pages/sûreté en entreprise/2026-02-10T11_28_09.097Z.android.md",
+    "logseq/bak/pages/sûreté en entreprise/2026-02-10T11_28_07.058Z.android.md",
+    "logseq/bak/pages/sûreté en entreprise/2026-02-10T11_28_05.005Z.android.md",
+    "logseq/bak/pages/sûreté en entreprise/2026-02-10T11_28_02.959Z.android.md",
+    "logseq/bak/pages/sûreté en entreprise",
     "pages/idée.md",
+    "pages/Mypkm.md",
+    "pages/concept.md",
     "pages/69876280-8ae5-44aa-954e-2e5ed6f047f5.md",
     "pages/H0 b0.md",
     "pages/Les 9 PGP (principes généraux de prévention).md",
@@ -195,25 +202,14 @@
     "logseq/bak/pages/Untitled 2/2026-01-04T08_48_26.509Z.android.md",
     "logseq/bak/pages/Untitled 2/2026-01-04T08_48_22.282Z.android.md",
     "pages/cas pratique opération BlackStone.md",
-    "pages/maths.md",
-    "logseq/bak/pages/idée/2026-01-01T09_57_03.209Z.android.md",
-    "logseq/bak/pages/Projet/2026-01-01T09_56_50.803Z.android.md",
     "logseq/bak/pages/Projet",
-    "pages/Actionnable.md",
-    "pages/Projet.md",
-    "pages/cryptogaphie.md",
     "whiteboards/6918e136-5450-4f33-8b9c-bc399c9592da.edn",
-    "pages/électrophorèse.md",
-    "pages/électrolyse.md",
-    "pages/électricité.md",
-    "pages/écouteur.md",
     "logseq/custom.css",
     "logseq/config.edn",
     "whiteboards",
     "pages",
     "logseq/bak/pages/écouteur",
     "logseq/bak/pages/idée",
-    "logseq/bak/pages/Police municipale",
-    "logseq/bak/pages/Génération de logo"
+    "logseq/bak/pages/Police municipale"
   ]
 }

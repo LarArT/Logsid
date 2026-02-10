@@ -1,0 +1,522 @@
+- [Première partie - FAITS ET CHIFFRES](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/4-23)
+- [Chapitre 1. Statistiques et retours d’expérience](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/5-25)
+	- 1.1 Criminalité et délinquance
+	- 1.2 Les actes de malveillance en entreprise
+	- 1.3 Les cyberattaques
+	- 1.4 Les agressions au travail
+- [Chapitre 2. Les mots‑clés de la malveillance](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/6-37)
+	- 2.1 Terminologie
+	- 2.2 Sigles techniques usuels
+- [Chapitre 3. Les acteurs publics de la sûreté](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/7-61)
+	- 3.1 L’inspection du travail
+	- 3.2 La Commission consultative départementale de sécurité et d’accessibilité (CCDSA)
+	- 3.3 Le maire
+		- 3.3.1 Les fonctions du maire
+		- 3.3.2 Le pouvoir de police du maire
+		- 3.3.3 Rôle du maire dans les établissements recevant du public
+		- 3.3.4 Les plans communaux et intercommunaux de sauvegarde
+	- 3.4 Le préfet et les préfectures
+		- 3.4.1 Missions du préfet
+		- 3.4.2 Le préfet de Paris
+	- 3.5 La Commission nationale de l’informatique et des libertés (Cnil)
+	- 3.6 L’Institut national de la propriété industrielle (Inpi)
+	- 3.7 La Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF)
+	- 3.8 La justice
+		- 3.8.1 Le ministre de la Justice
+		- 3.8.2 Le ministère public
+		- 3.8.3 Le juge d’instruction
+	- 3.9 La police nationale
+		- 3.9.1 La sécurité publique
+		- 3.9.2 La police judiciaire
+	- 3.10 La Direction générale de la sécurité intérieure (DGSI)
+	- 3.11 Les polices municipales
+	- 3.12 La gendarmerie nationale
+	- 3.13 La Direction du renseignement et de la sécurité de la Défense (DRSD)
+	- 3.14 La douane
+	- 3.15 Le Conseil national des activités privées de sécurité (Cnaps)
+	- 3.16 Le concept de sécurité globale
+		- 3.16.1 Les pouvoirs des polices municipales
+		- 3.16.2 Le contrôle de la sécurité privée
+- [Deuxième partie - PRÉVENTION ET APPROCHE DU RISQUE](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/8-101)
+- [Chapitre 4. L’organisation de la sécurité](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/9-103)
+	- 4.1 L’analyse et la maîtrise du risque sûreté
+		- 4.1.1 Les facteurs clés de la sûreté malveillance dans l’entreprise
+		- 4.1.2 L’analyse du risque et de la vulnérabilité selon le référentiel CNPP 6011
+		- 4.1.3 La surveillance des risques d’une entreprise selon le référentiel APSAD R8
+		- 4.1.4 Le référentiel CNPP 1008, un outil de surveillance des risques
+		- 4.1.5 Le système de management de la sûreté selon le référentiel CNPP 1302
+	- 4.2 Les acteurs de la prévention
+		- 4.2.1 La culture sécurité et sûreté
+		- 4.2.2 Le chef d’établissement ou l’employeur
+		- 4.2.3 Les travailleurs
+		- 4.2.4 Les interlocuteurs de l’employeur et de la fonction sûreté
+		- 4.2.5 Le comité social et économique (CSE)
+		- 4.2.6 Le chargé de sûreté
+		- 4.2.7 Le responsable de la sécurité des systèmes d’information (RSSI)
+		- 4.2.8 Le délégué à la protection des données
+	- 4.3 Les moyens de surveillance
+		- 4.3.1 Le service de surveillance
+		- 4.3.2 Les rondes
+		- 4.3.3 Le poste de sécurité
+		- 4.3.4 L’intervention
+		- 4.3.5 La surveillance par les drones
+	- 4.4 La sensibilisation et la formation du personnel
+		- 4.4.1 La formation et l’information dans les lieux de travail
+		- 4.4.2 La formation et l’information selon le référentiel APSAD R8
+		- 4.4.3 Les certificats de qualification professionnelle
+	- 4.5 Les documents et outils d’organisation de la sécurité
+		- 4.5.1 Le règlement intérieur
+		- 4.5.2 Le document unique d’évaluation des risques
+		- 4.5.3 Le plan de prévention
+		- 4.5.4 Le protocole de sécurité
+		- 4.5.5 Les plans de mise en sécurité en cas d’attaque
+		- 4.5.6 Les consignes de sécurité et de sûreté
+		- 4.5.7 Les consignes de surveillance selon le référentiel APSAD R8
+		- 4.5.8 Les procédures
+		- 4.5.9 La signalisation d’un système de vidéosurveillance
+		- 4.5.10 La signalisation de sûreté
+	- 4.6 Le registre de sécurité
+		- 4.6.1 Le registre de sécurité des bâtiments d’habitation
+		- 4.6.2 Le registre de sécurité des lieux de travail
+		- 4.6.3 Le registre de sécurité des ERP
+		- 4.6.4 Le registre de sécurité des IGH
+		- 4.6.5 La gestion des événements selon le référentiel APSAD R8
+- [Chapitre 5. La gestion des risques de l’entreprise](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/10-157)
+	- 5.1 La malveillance interne
+		- 5.1.1 Le vol interne
+		- 5.1.2 Le sabotage
+		- 5.1.3 La malveillance interne contre les systèmes d’information
+	- 5.2 La malveillance externe
+		- 5.2.1 Le vol sur chantiers
+		- 5.2.2 L’agression au travail
+		- 5.2.3 La food defense
+		- 5.2.4 L’utilisation malveillante des drones
+	- 5.3 La cybersécurité
+		- 5.3.1 Les principales menaces de cybersécurité
+		- 5.3.2 Les bons réflexes pour limiter le risque
+		- 5.3.3 La protection des systèmes de sécurité selon le référentiel APSAD D32
+		- 5.3.4 Répondre à un incident cyber
+	- 5.4 L’atteinte au secret
+		- 5.4.1 L’atteinte au secret professionnel
+		- 5.4.2 L’atteinte au secret des correspondances
+		- 5.4.3 La violation du secret de fabrique
+		- 5.4.4 L’atteinte au secret Défense
+	- 5.5 La propriété intellectuelle
+		- 5.5.1 La propriété industrielle
+		- 5.5.2 Le droit d’auteur
+	- 5.6 La fraude
+		- 5.6.1 La fraude interne
+		- 5.6.2 La fraude externe
+	- 5.7 La continuité d’activité et la gestion de crise
+		- [5.7.1 Le plan de continuité d’activité (PCA)](https://www.defense.gouv.fr/drsd/ressources-entreprises/guides-supports-surete#title-99029)
+		- 5.7.2 Le responsable PCA (RPCA)
+		- 5.7.3 La cellule de crise
+		- 5.7.4 La crise et le PCA cyber
+	- 5.8 Le terrorisme [les guides]([[Vigipirate]])
+		- 5.8.1 Les différentes formes de terrorisme
+		- 5.8.2 Le plan Vigipirate
+		- 5.8.3 Faire face à la menace dans les organisations publiques et privées
+	- 5.9 Les déplacements professionnels
+		- 5.9.1 La protection de l’information
+		- 5.9.2 Les déplacements à l’étranger
+	- 5.10 L’intelligence artificielle, applications et limites
+		- 5.10.1 Quelques applications en sûreté
+		- 5.10.2 Les risques induits par les IA génératives : phénomène de « shadow AI »
+		- 5.10.3 Un autre phénomène à surveiller : les détournements
+		- 5.10.4 Une législation européenne sur l’IA, l’AI Act
+- [Chapitre 6. L’assurance](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/11-193)
+	- 6.1 Analyse des risques et assurance
+		- 6.1.1 L’identification et l’analyse des risques
+		- 6.1.2 L’inventaire des biens
+	- 6.2 Les pertes d’exploitation subies
+	- 6.3 L’assurance vol
+		- 6.3.1 Les garanties de l’assurance vol
+		- 6.3.2 Nomenclature des marchandises et des activités
+	- 6.4 Les cyber‑risques
+	- 6.5 Le risque attentat
+- [Troisième partie – CONNAISSANCES GÉNÉRALES SUR LA SÛRETÉ](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/12-203)
+- [Chapitre 7. La menace et le passage à l’acte](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/13-205)
+	- 7.1 Les caractéristiques du risque de malveillance
+		- 7.1.1 L’entreprise face aux risques
+		- 7.1.2 Sécurité ou sûreté ?
+		- 7.1.3 Le risque de malveillance : une menace évolutive
+	- 7.2 La prise en compte du contexte
+		- 7.2.1 Risque de malveillance : l’environnement naturel et urbain
+		- 7.2.2 Risque de malveillance : l’environnement socio‑économique
+		- 7.2.3 Risque de malveillance : l’environnement géopolitique
+		- 7.2.4 Risque de malveillance : le contexte économique
+	- 7.3 L’étude des flux
+		- 7.3.1 L’appréhension du risque de malveillance par l’analyse des flux
+		- 7.3.2 Le flux humain
+		- 7.3.3 Le flux produits, biens et marchandises
+		- 7.3.4 Le flux énergies et fluides
+		- 7.3.5 Le flux finances
+		- 7.3.6 Le flux information
+	- 7.4 Les caractéristiques de la menace
+		- 7.4.1 Le triangle de la menace
+		- 7.4.2 Agir sur le triangle de la menace
+	- 7.5 Les caractéristiques de l’agresseur et le passage à l’acte
+		- 7.5.1 Le triangle de l’agresseur
+		- 7.5.2 La facilité de l’acte de malveillance
+		- 7.5.3 La prise de risque lors de l’acte de malveillance
+		- 7.5.4 La motivation de l’acte de malveillance
+	- 7.6 Les motivations de l’acte de malveillance
+		- 7.6.1 La pyramide de Maslow
+		- 7.6.2 Une première approche du passage à l’acte
+	- 7.7 La prévention situationnelle
+		- 7.7.1 Le concept de prévention situationnelle
+		- 7.7.2 Prévention situationnelle, triangle de la menace et triangle de l’agresseur
+- [Chapitre 8. Typologie et modes opératoires des agresseurs](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/14-227)
+	- 8.1.1 Typologie des agresseurs : définitions des référentiels produits
+- 8.1 La typologie des agresseurs
+	- 8.1.2 Intérêt d’une typologie des agresseurs
+- 8.2 Les modes opératoires de l’agresseur
+	- 8.2.1 Les notions de social engineering et de facilitateur
+	- 8.2.2 Comment contrer les techniques de social engineering ?
+- [Chapitre 9. Les comportements agressifs](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/15-235)
+- 9.1 L’incivilité
+	- 9.1.1 Définition de l’incivilité
+	- 9.1.2 Causes et conséquences des incivilités
+	- 9.2.1 Définitions de l’agressivité, de la dangerosité, de l’agitation et de la violence
+- 9.2 L’agressivité
+	- 9.2.2 Les causes institutionnelles et personnelles de l’agressivité
+- 9.3 Le conflit
+	- 9.3.1 Les origines du conflit
+	- 9.3.2 Le développement du conflit
+	- 9.3.3 Le développement de l’agression
+	- 9.3.4 Les conséquences du conflit
+- 9.4 Le stress
+	- 9.4.1 Les effets du stress
+	- 9.4.2 Les comportements de stress applicables à l’agression
+- 9.5 La crise
+	- 9.5.1 L’origine de la crise
+	- 9.5.2 Le passage à l’acte
+- 9.6 Prévenir et gérer l’agression
+	- 9.6.1 La prise en compte globale des incivilités et du risque agression
+	- 9.6.2 La prévention de l’agression par la communication d’accueil
+	- 9.6.3 La prévention et l’anticipation de l’agression
+	- 9.6.4 Gérer l’agression par la communication
+	- 9.6.5 Gérer l’agression : le processus de résolution des problèmes
+	- 9.6.6 Les stratégies d’entretien en cas d’agression
+	- 9.6.7 Gérer l’agression par le recours à l’environnement institutionnel
+- [Quatrième partie – TECHNIQUES ET TECHNOLOGIES DE SÉCURITÉ](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/16-255)
+- [[système de gestion de la sécurité]]
+- [Chapitre 10. La protection mécanique](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/17-257)
+	- 10.1 Les principes de la protection mécanique
+		- 10.1.1 Protection mécanique : objectifs et caractéristiques
+		- 10.1.2 Le concept de la protection mécanique : l’analyse du risque
+		- 10.1.3 La protection selon le principe des trois cercles
+		- 10.1.4 La protection selon le principe des trois cubes
+		- 10.1.5 Les référentiels en protection mécanique
+	- 10.2 La protection périphérique
+		- 10.2.1 Les objectifs de la protection périphérique
+		- 10.2.2 Les franchissements possibles
+		- 10.2.3 Les clôtures : définitions et objectifs
+		- 10.2.4 Les grillages
+		- 10.2.5 Les clôtures en panneaux de treillis soudés
+		- 10.2.6 Les clôtures à barreaudage modulaire en panneaux
+		- 10.2.7 Les clôtures barreaudées
+		- 10.2.8 Les haies vives
+		- 10.2.9 Les clôtures pleines
+		- 10.2.10 Les clôtures mixtes (avec soubassement)
+		- 10.2.11 Les palissades
+		- 10.2.12 Les murs d’enceinte
+		- 10.2.13 Les clôtures électrifiées
+		- 10.2.14 Les renforts de sécurité des clôtures : barbelés, bavolets, ronces, concertinas
+		- 10.2.15 Principes de construction de la clôture et éclairage
+		- 10.2.16 Les points de passage et les portails
+		- 10.2.17 Les aménagements anti-véhicule bélier
+	- 10.3 Les parois de bâtiments
+		- 10.3.1 La résistance à l’effraction des parois
+		- 10.3.2 Les parois d’enceintes techniques de sécurité (PETS)
+		- 10.3.3 Les charpentes, bardages et toitures
+	- 10.4 Les fenêtres et fermetures de bâtiments
+		- 10.4.1 Les fenêtres, les portes‑fenêtres et les châssis fixes
+		- 10.4.2 Les volets, les persiennes et les jalousies
+		- 10.4.3 Le renforcement des volets et persiennes
+		- 10.4.4 Les grilles et les barreaux
+		- 10.4.5 Les portes de garage
+		- 10.4.6 Le renforcement des portes de garage
+		- 10.4.7 La certification des volets, fenêtres, fermetures de bâtiment et portes de garage
+	- 10.5 Les produits verriers
+		- 10.5.1 La fixation des vitrages
+		- 10.5.2 Les produits verriers de sécurité
+		- 10.5.3 Performances des produits verriers de sécurité
+		- 10.5.4 Le renforcement des produits verriers
+	- 10.6 Les vitrines et les baies
+		- 10.6.1 Installation des vitrines et des baies
+		- 10.6.2 Les grilles coulissantes ou extensibles
+		- 10.6.3 Les rideaux métalliques
+		- 10.6.4 Les grilles à enroulement
+		- 10.6.5 Les volets roulants de sécurité
+	- 10.7 Les portes
+		- 10.7.1 Les blocs‑portes
+		- 10.7.2 Les huisseries
+		- 10.7.3 Les vantaux
+		- 10.7.4 Les paumelles, les barres de pivotement et les protège‑gonds
+		- 10.7.5 Le blindage
+		- 10.7.6 Les dispositifs anti‑pinces
+		- 10.7.7 La certification des blocs‑portes
+	- 10.8 Les serrures et les verrous
+		- 10.8.1 Les fonctions et caractéristiques des serrures
+		- 10.8.2 Classement en fonction de la sûreté de la serrure
+		- 10.8.3 Serrures : classement en fonction du mode de pose
+		- 10.8.4 Serrures : classement par mode de fonctionnement
+		- 10.8.5 Les serrures multi‑points
+		- 10.8.6 Les serrures anti‑panique
+		- 10.8.7 Serrures : les clés hiérarchisées et la gestion des clés
+		- 10.8.8 Le renforcement des serrures
+		- 10.8.9 Les serrures à sûreté électronique
+		- 10.8.10 La certification des serrures
+		- 10.8.11 Les verrous
+	- 10.9 Les coffres‑forts, portes, chambres et armoires fortes
+		- 10.9.1 Les coffres‑forts
+		- 10.9.2 Les armoires fortes
+		- 10.9.3 Les meubles réfractaires
+		- 10.9.4 La certification des coffres‑forts, des chambres fortes, des portes fortes et des serrures de coffres
+- [Chapitre 11. La détection électronique](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/18-349)
+- 11.1 Les principes de la détection électronique
+	- 11.1.1 Détection d’intrusion : définitions et objectifs
+	- 11.1.2 L’installation des systèmes de détection d’intrusion selon le référentiel APSAD R81
+	- 11.1.3 La certification des matériels de détection d’intrusion
+	- 11.1.4 La certification de service de détection d’intrusion
+- 11.2 La détection extérieure ou périphérique
+	- 11.2.1 Les objectifs de la détection périphérique
+	- 11.2.2 Les barrières à infrarouge
+	- 11.2.3 Les barrières à hyperfréquence
+	- 11.2.4 Les câbles rayonnants enterrés
+	- 11.2.5 Les détecteurs sismiques enterrés
+	- 11.2.6 Les détecteurs de vibrations : les détecteurs à masselotte et les câbles microphoniques
+	- 11.2.7 Les détecteurs de tensions
+	- 11.2.8 Les détecteurs de clôture à fil électrifié
+	- 11.2.9 Les détecteurs de clôture à champ magnétique
+	- 11.2.10 Les détecteurs de clôture à fibre optique
+- 11.3 La détection périmétrique
+	- 11.3.1 Les objectifs de la détection périmétrique
+	- 11.3.2 Les détecteurs d’ouverture à contacts magnétiques
+	- 11.3.3 Les détecteurs de chocs
+	- 11.3.4 Les détecteurs de chocs à masselotte
+	- 11.3.5 Les détecteurs de chocs à billes
+	- 11.3.6 Les câbles détecteurs
+	- 11.3.7 Les détecteurs de bris de verre
+	- 11.3.8 Les détecteurs de bris de verre piézo‑électriques
+	- 11.3.9 Les détecteurs de bris de verre acoustiques de type microphonique
+	- 11.3.10 Les détecteurs sismiques
+- 11.4 La détection volumétrique
+	- 11.4.1 Les principes de la détection volumétrique
+	- 11.4.2 Les détecteurs à infrarouge passif
+	- 11.4.3 Les détecteurs à hyperfréquence
+	- 11.4.4 Les détecteurs à ultrasons
+	- 11.4.5 Les détecteurs double technologie
+- 11.5 La détection intérieure ponctuelle
+	- 11.5.1 Les principes de la détection intérieure ponctuelle
+	- 11.5.2 Les détecteurs ponctuels
+- 11.6 Les moyens de communication filaires et radio en détection électronique
+	- 11.6.1 La centrale d’alarme
+	- 11.6.2 La liaison centrale/détecteurs par technologie filaire conventionnelle
+	- 11.6.3 La liaison centrale/détecteurs par technologie filaire à BUS
+	- 11.6.4 La liaison centrale/détecteurs par technologie radio
+	- 11.6.5 Le contrôleur enregistreur
+- 11.7 Les dispositifs d’avertissement
+	- 11.7.1 Les principes de la signalisation d’alarme
+	- 11.7.2 Les dispositifs d’avertissement sonore
+	- 11.7.3 Les dispositifs d’alarme lumineux à éclats
+	- 11.7.4 La transmission téléphonique
+	- 11.7.5 Les diffuseurs de brouillard ou de fumée
+- 11.8 La protection contre la démarque inconnue
+	- 11.8.1 Démarque inconnue : définitions et techniques
+	- 11.8.2 Démarque inconnue : les antennes
+	- 11.8.3 Démarque inconnue : les étiquettes
+	- 11.8.4 Démarque inconnue : la protection à la source ou protection intégrée
+	- 11.8.5 La RFID ou identification par radiofréquence
+- [Chapitre 12. Le contrôle d’accès et la biométrie](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/19-431)
+- 12.1 Les systèmes de contrôle d’accès
+	- 12.1.1 Le rôle du contrôle d’accès
+	- 12.1.2 Les fonctions et caractéristiques du contrôle d’accès
+	- 12.1.3 La fonction identification du contrôle d’accès
+	- 12.1.4 Les claviers et codes d’accès
+	- 12.1.5 Les cartes et les badges
+	- 12.1.6 Les lecteurs biométriques
+	- 12.1.7 La fonction traitement des données du contrôle d’accès
+	- 12.1.8 La fonction verrouillage du contrôle d’accès
+	- 12.1.9 Les gâches électriques
+	- 12.1.10 Les verrous motorisés
+	- 12.1.11 Les ventouses électromagnétiques
+	- 12.1.12 Contrôle d’accès et issues de secours
+	- 12.1.13 Les dispositifs intégrés autonomes
+	- 12.1.14 L’étude et le choix d’un contrôle d’accès
+	- 12.1.15 L’installation d’un contrôle d’accès selon le référentiel APSAD D83
+	- 12.1.16 Les niveaux de sûreté d’un site sous contrôle d’accès
+	- 12.1.17 Les référentiels techniques de contrôle d’accès
+	- 12.1.18 La certification des matériels de contrôle d’accès
+- 12.2 Les dispositifs physiques de contrôle d’accès
+	- 12.2.1 Rôle d’un dispositif mécanique de contrôle d’accès
+	- 12.2.2 Les portes de contrôle d’accès
+	- 12.2.3 Les sas de sécurité
+	- 12.2.4 Les tripodes
+	- 12.2.5 Les portillons coulissants
+	- 12.2.6 Les tourniquets
+	- 12.2.7 Les barrières levantes
+	- 12.2.8 Les herses à pics
+	- 12.2.9 Les bornes escamotables
+- 12.3 La biométrie
+	- 12.3.1 Définition de la biométrie
+	- 12.3.2 Le contrôle d’accès biométrique sur les lieux de travail
+	- 12.3.3 Les principes de la reconnaissance biométrique
+	- 12.3.4 Intérêts et limites de la biométrie
+	- 12.3.5 Questions préalables à la mise en œuvre d’une solution biométrique
+	- 12.3.6 Critères de choix d’une solution biométrique
+	- 12.3.7 La reconnaissance biométrique de la morphologie de la main, du doigt ou de la paume
+	- 12.3.8 La reconnaissance biométrique de l’empreinte digitale
+	- 12.3.9 La reconnaissance biométrique du réseau veineux de la main
+	- 12.3.10 La reconnaissance biométrique de l’iris
+	- 12.3.11 La reconnaissance biométrique de la rétine
+	- 12.3.12 La reconnaissance biométrique de la voix
+- 12.4 La vidéosurveillance, outil de gestion des accès
+	- 12.4.1 La vidéosurveillance et l’accès des personnes
+	- 12.4.2 La reconnaissance biométrique du visage
+	- 12.4.3 La vidéosurveillance et l’accès des véhicules
+- [Chapitre 13. La vidéosurveillance](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/20-489)
+- 13.1 Les systèmes de vidéosurveillance
+	- 13.1.1 Fonctions et caractéristiques d’un système de vidéosurveillance
+	- 13.1.2 L’installation d’un système de vidéosurveillance selon le référentiel APSAD R82
+	- 13.1.3 La télévidéosurveillance
+	- 13.1.4 La maintenance des systèmes de vidéosurveillance
+	- 13.1.5 La certification du service de vidéosurveillance
+- 13.2 Les caméras de vidéosurveillance et la prise de vue
+	- 13.2.1 Fonctions et caractéristiques des caméras
+	- 13.2.2 Les capteurs vidéo des caméras
+	- 13.2.3 Les systèmes optiques des caméras
+	- 13.2.4 La sensibilité des caméras
+	- 13.2.5 L’éclairage des caméras
+	- 13.2.6 Les types et accessoires des caméras
+	- 13.2.7 Les caméras mégapixels et les caméras haute définition
+	- 13.2.8 Les caméras thermiques
+	- 13.2.9 L’alimentation électrique des équipements de vidéosurveillance
+- 13.3 La transmission des données de télévidéosurveillance
+	- 13.3.1 Fonctions de la transmission en vidéosurveillance
+	- 13.3.2 Les liaisons filaires de transmission en vidéosurveillance
+	- 13.3.3 Les liaisons sans fil de transmission en vidéosurveillance
+	- 13.3.4 Transmission et vidéosurveillance : le type d’information transmise
+- 13.4 La restitution des images de vidéosurveillance
+	- 13.4.1 La restitution en direct : la visualisation d’images sur écrans
+	- 13.4.2 La restitution indirecte : l’enregistrement
+- 13.5 Les systèmes de vidéosurveillance intelligente
+	- 13.5.1 Quand la caméra se transforme en capteur
+	- 13.5.2 Fonctions et caractéristiques des systèmes vidéointelligents
+	- 13.5.3 L’évaluation des systèmes vidéointelligents
+- [Chapitre 14. La télésurveillance](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/21-535)
+- 14.1 Télésurveillance : principes et architectures
+	- 14.1.1 Rôle de la télésurveillance
+	- 14.1.2 Les stations de télésurveillance selon le référentiel APSAD R31
+	- 14.1.3 Le traitement des données de télésurveillance
+	- 14.1.4 Télésurveillance : analyse des risques de défaillance
+	- 14.1.5 La prestation de télésurveillance : contrat et obligations
+	- 14.1.6 Télésurveillance et télésécurité
+- 14.2 La transmission des données de télésurveillance
+	- 14.1.7 La certification du service de télésurveillance
+	- 14.2.1 Le principe de la transmission des données en télésurveillance
+	- 14.2.2 Les réseaux filaires en télésurveillance
+	- 14.2.3 Les réseaux hertziens en télésurveillance
+- [Cinquième partie – RÉGLEMENTATION ET SÛRETÉ](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/22-561)
+- [Chapitre 15. Notions de droit](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/23-563)
+- 15.1 Les sources du droit
+	- 15.1.1 Le droit de l’Union européenne
+	- 15.1.2 Le droit national
+	- 15.1.3 La jurisprudence
+- 15.2 L’État de droit
+	- 15.2.1 La notion d’État de droit
+	- 15.2.2 Les libertés publiques
+- 15.3 L’organisation du droit
+	- 15.3.1 Les différentes branches du droit
+	- 15.3.2 L’organisation judiciaire
+- 15.4 La responsabilité civile et pénale
+	- 15.4.1 La responsabilité civile
+	- 15.4.2 La responsabilité pénale
+	- 15.4.3 La délégation de pouvoirs, mécanisme spécifique de la responsabilité pénale
+- [Chapitre 16. Droit pénal, procédure pénale, informatique et libertés](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/24-583)
+- 16.1 Le droit pénal
+	- 16.1.1 Les principes du droit pénal
+	- 16.1.2 La notion d’infraction
+	- 16.1.3 Exemples d’infractions
+- 16.2 La procédure pénale
+	- 16.2.1 Les principes de la procédure pénale
+	- 16.2.2 L’enquête préliminaire
+	- 16.2.3 L’enquête de flagrant délit
+	- 16.2.4 L’enquête sur commission rogatoire
+	- 16.2.5 La tentative d’infraction
+	- 16.2.6 La complicité
+	- 16.2.7 Le droit d’appréhension
+	- 16.2.8 La légitime défense
+- 16.3 Informatique et libertés
+	- 16.3.1 Domaine d’application de la loi Informatique et libertés
+	- 16.3.2 Les droits garantis par la loi Informatique et libertés
+	- 16.3.3 Loi Informatique et libertés : les obligations des utilisateurs de données personnelles
+	- 16.3.4 Informatique et libertés et impératif de sûreté
+	- 16.3.5 Les formalités préalables au traitement des données personnelles
+- [Chapitre 17. La réglementation des matériels et installations de sûreté](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/25-625)
+- 17.1 Le cadre juridique des clôtures
+	- 17.1.1 Les clôtures dans le Code pénal
+	- 17.1.2 Le droit de clore
+	- 17.1.3 Clôture et mitoyenneté
+	- 17.1.4 La hauteur autorisée d’une clôture
+	- 17.1.5 L’édification ou la remise en état d’une clotûre
+	- 17.1.6 Les clôtures électriques
+- 17.2 Le cadre juridique des dispositifs d’alarme
+	- 17.1.7 Les conflits liés aux clôtures
+	- 17.2.1 La réglementation des dispositifs d’alarme sonore audibles de la voie publique
+	- 17.2.2 La réglementation des diffuseurs de brouillard et de fumée
+- 17.3 Le cadre juridique des systèmes de contrôle d’accès
+	- 17.3.1 Le contrôle d’accès des lieux de travail
+	- 17.3.2 Le contrôle d’accès des immeubles de grande hauteur
+	- 17.3.3 Le contrôle d’accès des installations classées
+	- 17.3.4 Informatique et libertés – Contrôle d’accès des lieux de travail (hors biométrie)
+	- 17.3.5 Informatique et libertés – Contrôle d’accès biométrique des lieux de travail
+- 17.4 Le cadre juridique des issues de secours
+	- 17.4.1 Verrouillage des issues de secours et réglementation
+	- 17.4.2 Commande des issues de secours et réglementation
+- 17.5 Le cadre juridique des systèmes de vidéoprotection
+	- 17.5.1 Les cas où la vidéosurveillance (ou vidéoprotection) peut être rendue obligatoire
+	- 17.5.2 La transmission des images de vidéoprotection aux services d’ordre
+	- 17.5.3 La vidéoprotection de la voie publique et des lieux ouverts au public
+	- 17.5.4 Les normes techniques obligatoires en vidéoprotection
+- 17.6 Le cadre juridique de la télésurveillance
+	- 17.5.5 Les conditions légales de la certification des installateurs de systèmes de vidéoprotection
+	- 17.6.1 Télésurveillance et intervention des forces de l’ordre
+	- 17.6.2 Télésurveillance et clauses abusives
+- 17.7 Le cadre juridique de la géolocalisation
+	- 17.7.1 Géolocalisation dans le cadre d’enquêtes et d’instructions pénales
+	- 17.7.2 Informatique et libertés et géolocalisation des employés
+	- 17.7.3 Informatique et libertés et géolocalisation embarquée dans les véhicules
+- [Chapitre 18. La réglementation des activités et des établissements](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/26-679)
+- 18.1 Le cadre juridique des activités de sécurité privée
+	- 18.1.1 Définition de la sécurité privée
+	- 18.1.2 Conditions d’exercice des entreprises de surveillance et de gardiennage
+	- 18.1.3 Missions des entreprises de surveillance et de gardiennage : obligations et interdictions
+	- 18.1.4 Surveillance et gardiennage : uniformes, voitures et armement
+	- 18.1.5 Aptitude professionnelle et carte professionnelle des agents de surveillance et de gardiennage
+	- 18.1.6 Dispositions spécifiques à certains services internes de sécurité
+	- 18.1.7 Liens entre les activités privées de sécurité et les activités de sécurité incendie
+	- 18.2.1 Intervention de la police et de la gendarmerie dans les immeubles à usage d’habitation
+- 18.2 Surveillance : droits et obligations
+	- 18.2.2 Obligation de gardiennage ou de surveillance des immeubles
+	- 18.2.3 Surveillance : obligations liées à l’utilisation de chiens
+- 18.3 La sûreté et la surveillance des transports de fonds
+	- 18.3.1 Exigences d’aménagement des locaux de transport de fonds
+	- 18.3.2 Transports de fonds : exigences particulières liées au type d’établissement ou au mode de transport
+- 18.4 La sûreté et la surveillance des dépôts d’explosifs
+	- 18.4.1 Exigences de sûreté des dépôts d’explosifs
+	- 18.4.2 Exigences de surveillance des dépôts d’explosifs
+- 18.5 Les études de sûreté et de sécurité publique (ESSP)
+	- [Protection du Patrimoine Scientifique et Techniques](https://www.legifrance.gouv.fr/download/pdf/circ?id=36329)
+	- Les secteurs d'activités d'importance vitale
+	- [la protection du secret de la défense nationale](https://cyber.gouv.fr/reglementation/cybersecurite-systemes-dinformation/protection-du-secret/instruction-generale-interministerielle-n1300/)
+	- 18.5.2 Dossier de l’étude de sécurité publique
+	- 18.5.1 Projets soumis à une étude de sécurité publique
+- 18.6 La sécurité des activités d’importance vitale (SAIV)
+	- [[SAIV]] [[ZRR]]
+- 18.7 Le cadre réglementaire des drones
+	- 18.7.1 Terminologie
+	- 18.7.2 Notion de risque liée au vol
+	- 18.7.3 Prise de vue et respect de la vie privée
+- [Index](https://cybel.cnpp.com/lire-traite-pratique-de-surete-malveillance-2024/27-725)

@@ -1,0 +1,12 @@
+- Voici les principales sources réglementaires sur Légifrance encadrant le SGS et la gestion des accès
+	- Textes Socles (Industrie & Seveso):
+		- Arrêté du 10 mai 2000 : Texte fondateur définissant le SGS pour les installations classées (ICPE). L'annexe III détaille l'organisation et le contrôle opérationnel.
+		- Arrêté du 26 mai 2014 : Précise les exigences de sécurité pour les sites Seveso (Seuils Haut et Bas), notamment via l'Annexe I sur le contenu du SGS.
+		- Article R515-87 du Code de l'environnement : Définit l'obligation de mise en œuvre de la politique de prévention des accidents majeurs (PPAM).
+	- Gestion des Accès et Sûreté
+		- Arrêté du 25 juillet 2017 : Relatif à la sûreté des sites Seveso (Industries Chimiques), imposant des contrôles d'accès stricts pour les personnels et entreprises extérieures.
+		- Article L4121-1 du Code du travail : Obligation générale de sécurité de l'employeur, base juridique pour le contrôle des accès en zone de travail.
+	- Ressources Techniques (Hors Légifrance)
+		- Guide INERIS - Inspection du SGS : Guide méthodologique pour l'application pratique des textes.
+		- Référentiel MASE : Standard industriel utilisé pour certifier la gestion des entreprises extérieures et leurs accès.
+		  Souhaitez-vous que j'extraie les points de contrôle spécifiques que les inspecteurs vérifient lors d'un audit de ces textes ?
