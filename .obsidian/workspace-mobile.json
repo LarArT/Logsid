@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1b613e5508443192",
+        "id": "782b8d7209c0d44a",
         "type": "tabs",
         "children": [
           {
-            "id": "93fd07a39d5efa21",
+            "id": "0d8bb8c159462c8c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "pages/Mypkm.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Mypkm"
             }
           }
         ]
@@ -173,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93fd07a39d5efa21",
+  "active": "0d8bb8c159462c8c",
   "lastOpenFiles": [
     "logseq/bak/pages/sûreté en entreprise/2026-02-10T11_29_52.362Z.android.md",
     "logseq/bak/pages/sûreté en entreprise/2026-02-10T11_29_52.361Z.android.md",

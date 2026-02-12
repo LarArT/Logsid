@@ -1,0 +1,113 @@
+- Pour qu'un conflit ait lieu il faut impérativement :
+	- Divergence d'opinion
+	- Émotion
+	- Interdépendance
+	- Sur au moins une personne engagée dans le conflit
+- Coût
+	- Direct
+		- Argent
+		- Temps
+	- Indirect
+		- RH
+		- Legaux (harcèlement burn out)
+	- Court terme
+		- Climat
+		- Perte de productivité
+	- Moyen terme
+		- Démission
+		- Contamination groupe
+		- Crédibilité du manager
+- Source de conflit :
+  collapsed:: true
+	- Traitapble
+	  collapsed:: true
+		- Traiter et fait
+		- Divergence d'opinion
+		- Structure organisationnelle
+	- Non traitable
+	  collapsed:: true
+		- Valeur
+		  collapsed:: true
+			- Formation
+			- Générationnel
+		- Personnalité
+		- Environnement
+		  collapsed:: true
+			- Économique
+			- Normatif /législatif
+	- Environnement
+	  collapsed:: true
+		- Contexte économique (faillite)
+		- Main d'oeuvre diversifiée (culturel)
+	- Organisationnel
+	  collapsed:: true
+		- Charge de travail
+		- Leadership
+	- Structurel
+	  collapsed:: true
+		- Procédure floue
+- Efficacité d'une solution :
+	- Stabilité
+	- Satisfaisabilité
+	- Maintien de lien
+- Résolution d'un conflit
+	- Justice procédurale: équité
+	- Justice distributive : satisfaction
+	- Justice relationnelle : reconnaissance
+- Option de gestion du conflit
+	- Voici le tableau extrait de l'image, formaté en Markdown pour une lecture optimale :
+	  |  | Gestion autocratique | Gestion participative |
+	  |---|---|---|
+	  | Indirecte | ✓ Restructurer | ✓ Coacher |
+	  | Directe | ✓ Enquêter et arbiter | ✓ Utiliser la médiation |
+	  Souhaitez-vous que je développe les définitions ou les cas d'usage pour chacun de ces modes de gestion ?
+- Conflit   =
+	- problème (source)+
+	- inflation ( facteur )
+		- Divergence solution
+		- Application d'une procédure
+		- Psychologie
+- Identifier -> catégoriser -> formuler
+-
+- ## 1. Sources (Vert)
+	- ### ​A. Sources traitables
+		- ​**Données et faits** : Désaccords basés sur des informations divergentes ou incomplètes.
+		- ​**Intérêts divergeants** : Besoins ou objectifs différents entre les parties.
+		- ​**Structures organisationnelles** : Problèmes liés à la hiérarchie, aux rôles ou aux processus.
+	- ### ​B. Sources non traitables
+		- ​**Valeurs** : Croyances profondes et principes moraux.
+		- ​**Personnalités peu compatibles** : Tempéraments ou styles de communication qui s'entrechoquent.
+		- ​**Environnement externe** : Facteurs hors du contrôle direct des individus (économie, politique, etc.).
+	- ## ​2. Dynamiques (Bleu)
+		- ### ​A. Facteurs d'évitement
+			- ​**Inhibition et déficit d'habileté** : Ne pas savoir comment aborder le problème.
+			- ​**Peur de perdre et anxiété relationnelle** : Crainte des conséquences sur le lien avec l'autre.
+			- ​**Croyance que les choses vont s'arranger** : Espoir passif que le temps réglera le conflit sans intervention.
+		- ### ​B. Facteurs d'escalade
+			- ​**Présence d'une personne compétitive** : Volonté de gagner plutôt que de résoudre.
+			- ​**Blessures émotives** : Ressentiment ou douleur causés par des interactions passées.
+			- ​**Attribution de responsabilité** : Blâmer l'autre plutôt que de chercher des solutions communes.
+	- ## C. Vecteur
+		- Intérêt tangible/concret
+		- Intérêt psychologique
+		- Intérêt procédural
+- stratégie Intervention :
+	- Identifier la source
+		- Arbre des causes
+			- Traitable
+				- Repose sur un manque d'information
+				- Inclus des intérêts divergents
+				- Résulte de la structure organisationnelle
+			- Non traitable
+				- Valeur différente
+				- Personnalité complexe
+				- Circonstances externe
+	- Gérer les facteurs -> [[Négociation via la méthode marwan merry]]
+		- Durcir/ réduire/ circonscrire
+		- Éviter
+		- Transférer
+		- Accepter
+	- Moduler le facteur
+-
+- # médiation
+-

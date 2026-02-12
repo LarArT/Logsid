@@ -5,7 +5,7 @@
 - [profession réglementée](https://www.inpi.fr/annuaire-activites-et-professions?hl=fr-FR)
 - Ebios emmie projet risk dpo "élicitations PEACE"
 - Rssi cert rocq
--
+- [[méthode EBIOS]]
 - Ml xai owl blockchain
 - Ngac, abac
 - Electrostatisme
@@ -100,6 +100,7 @@
 		- [[organisation territoriale intelligence économique]]
 		- [[intelligence économique]]
 	- ## négociation
+		- [[conflit]]
 		- [[Traité pratique de négociation]]
 		- [[gestion conflit de crise]]
 		- [négociation humanitaire référence](https://frontline-negotiations.org/fr/home/resources/)
