@@ -378,5 +378,6 @@
 - [[mathématiques]]
 - Économie internationale
 	- [[mooc économie international]]
-	-
+	- [carte des sanctions de l'Union européenne](https://www.sanctionsmap.eu/#/main?search=%7B%22value%22:%22%22,%22searchType%22:%7B%7D%7D)
+-
 -

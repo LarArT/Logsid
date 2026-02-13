@@ -110,4 +110,21 @@
 	- Moduler le facteur
 -
 - # médiation
+	- ## amorçage
+		- [[Explication]]
+		- [[Impartialité]]
+		- Empathie
+	- ## Exploration
+		- Simplification
+		- Encadrement
+			- Clarifier les priorités
+			- Focaliser les priorités : éviter les éparpillement
+		- Facilité
+	- ## Résolution
+		- Solution
+		- Consolidation
+		- Suivi
+	- ## faire face aux impasses
+		- [[stratégie de résolution]]
+-
 -
