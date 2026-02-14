@@ -1,7 +1,5 @@
 - https://cours.unjf.fr/course/view.php?id=105
-  
-  
-  ## [Méthodologie : Le raisonnement juridique : la méthode syllogistique](https://cours.unjf.fr/repository/coursefilearea/file.php/105/Cours/0001_item/indexI0.htm)
+- ## [Méthodologie : Le raisonnement juridique : la méthode syllogistique](https://cours.unjf.fr/repository/coursefilearea/file.php/105/Cours/0001_item/indexI0.htm)
 - ## Méthodologie : Le raisonnement juridique : la méthode syllogistique
   https://cours.unjf.fr/repository/coursefilearea/file.php/105/Cours/0001_item/indexI0.htm
 - Maîtriser le Cas Pratique Juridique : Votre Guide Pas à Pas
@@ -137,3 +135,5 @@
   Vous l'aurez compris, le cas pratique est avant tout un exercice de construction. Il ne s'agit pas de réciter des connaissances, mais de bâtir une argumentation solide et logique, brique par brique. En maîtrisant la méthode du syllogisme et en suivant rigoureusement les étapes de l'analyse et de la rédaction, vous ne résolvez pas seulement un exercice : vous apprenez à penser comme un juriste. C'est une compétence fondamentale qui vous servira tout au long de votre parcours.
 -
 -
+- # Tentative
+- Seul les crimes et délits sont passible d'être punissable

@@ -6,50 +6,9 @@
   
   "Ces données doivent être traitées loyalement, à des fins déterminées et sur la base du consentement de la personne concernée ou en vertu d'un autre fondement légitime prévu par la loi. Toute personne a le droit d'accéder aux données collectées la concernant et d'en obtenir la rectification";
   
-  "Le respect de ces règles est soumis au contrôle d'une autorité indépendante".
   
-  Le droit français a été pionnier en la matière : la loi dite informatique et libertés, adoptée le 6 janvier 1978, est l'une des premières législation qui traite de manière globale les questions qui naissent du rapprochement de l'informatique, des fichiers et des libertés !
+  y 
   
-  C'est également en 1978 qu'est créée la CNIL, la Commission nationale de l'informatique et des libertés, qui est l'autorité chargée de veiller au respect de cette législation.
-  
-  La protection des données à caractère personnel a progressivement pris une dimension toute particulière avec l'avénement de l'ère du numérique. :o Les illustrations abondent :
-  
-  Les wikileaks, l'affaire Snowden, les vols de données personnels contenus dans les fichiers d'Uber, l'affaire Facebook-Cambridge Analytica...
-  
-  Le marketing qui développe des outils de profiling grâce aux multiples données que les utilisateurs laissent lors de l'utilisation des services.
-  
-  Les utilisations possibles désormais du big data, le traitement de données en masse.
-  
-  Il y a donc un besoin de mieux encadrer et d'assurer la protection des données personnelles. Les règles qui s'appliquent sont issus du paquet européen de protection des données, adopté par le Parlement européen le 27 avril 2016. 
-  
-  Le règlement (UE) 2016/679 dit règlement général sur la protection des données (RGPD) ;
-  
-  La directive (UE) 2016/680 relative aux traitements de données personnelles mis en œuvre à des fins de prévention et de détection des infractions pénales.
-  
-  Instrument
-  
-  entrée en vigueur
-  
-  abroge et remplace
-  
-  Règlement (UE) 2016/679
-  
-  25 mai 2018
-  
-  directive 95/46/CE
-  
-  Directive (UE) 2016/680
-  
-  6 mai 2018
-  
-  décision-cadre 2008/977/JAI
-  
-  Le Parlement français a adopté une nouvelle loi afin d'adapter le droit et les institutions nationales à ce nouveau dispositif, la loi relative à la protection des données personnelles.
-  
-  Synthèse du RGPD
-  Les sources du régime juridique applicable en France sont :
-  
-  le règlement (UE) 2016/679 ;
   
   la loi Informatique et libertés de 1978 (modifiée par la loi de 2018). Cette loi est augmentée d'un nouveau chapitre rassemblant l'ensemble des règles applicables aux traitements de données à caractère personnel en matière pénale (issues de la directive 2016/680).
   
@@ -59,15 +18,9 @@
   
   Quant aux droits substantiels, le règlement maintient et conforte les droits des personnes physiques sur leurs données à caractère personnel, tels que le droit d'information. Il en créé de nouveaux tel que le droit à l'effacement des données ("droit à l'oubli") ou le droit à la portabilité des données. 
   
-  Le champ d'application du RGPD
-  Le champ territorial
-  Comme il s'agit d'un règlement européen, tous les États membres appliquent le même texte.
   
-  Il restera néanmoins des différences entre les législations des États membres car le règlement prévoit certaines marge d'aménagement.
   
   Par exemple, le règlement dispose que l'âge à partir duquel un mineur peut consentir à une offre directe de services de la société de l'information est fixé à 16 ans, mais il offre la possibilité aux États membres d'abaisser cet âge jusqu'à 13 ans.
-  
-  La protection des données personnelles bénéficie donc de règles harmonisées au sein de l’Union européenne lesquelles sont :
   
   applicables à tous les acteurs sur le territoire de l’Union européenne,
   
@@ -86,7 +39,8 @@
   
   Concrètement : les informations utilisées par la fonction RH, la géolocalisation d'un véhicule employé par un salarié, un fichier client, la tenue des comptes clients, le partage d'une base de contacts... 
   
-  Données à caractère personnel : toute information se rapportant à une personne physique identifiée ou identifiable directement ou indirectement. Ce peut être un nom, un numéro d'identification, des données de localisation, un identifiant en ligne, un élément d'identité physique, physiologique, génétique, psychique, économique, culturel ou social.
+  Données à caractère personnel : toute information se rapportant à :
+  une personne physique identifiée ou identifiable directement ou indirectement. Ce peut être un nom, un numéro d'identification, des données de localisation, un identifiant en ligne, un élément d'identité physique, physiologique, génétique, psychique, économique, culturel ou social.
   
   Concrètement : la couleur des yeux, de la peau ou des cheveux, une infirmité, la taille, le poids, les croyances religieuses, l'appartenance politique, le niveau de vie, la fonction professionnelle, les pratiques sexuelles, les goûts alimentaires, le passe-temps... 
   
@@ -97,7 +51,7 @@
   Dès lors que l'action consistant à traiter des données à caractère personnel est mise en œuvre par une entité, le régime de protection s'applique.
   
   Les principes du RGPD
-  Principes directeurs
+- # Principes directeurs
   Le traitement des données à caractère personnel doit se conformer à des principes directeurs, au nombre de 7 (art. 5, règlement 2016/679).
   
   1° Licéité, loyauté et transparence
@@ -156,8 +110,7 @@
   Le RGPD s'applique à vous dès lors que vous communiquez en ligne, gérez des données de clients, clients potentiels ou fournisseurs ou lorsque vous conservez des données.
   
   C'est une logique de contrôle a posteriori  qui s'applique, et le respect des droits des personnes repose principalement sur une logique de responsabilisation des entreprises.
-  
-  Respectez le règlement
+- # Respectez le règlement
   Vous devez tout d'abord respecter le règlement, c'est-à-dire que vous devez respecter les droits des personnes protégées (concernées par les données).
   
   Cela signifie que vous devez alors :
@@ -180,7 +133,7 @@
   Ensuite, vous devez documenter la mise en œuvre de votre traitement afin de garantir et démontrer que vous vous conformez aux principes directeurs.
   
   En pratique, l'enjeu essentiel est donc celui de l'identification des obligations de documentation de sa propre conformité : le règlement prévoit des outils de conformité.
-  
+  /Expli
   Pour faciliter cette identification (et donner une plus grande sécurité juridique aux acteurs du secteur) vous pouvez vous appuyer sur diverses sources et outils :
   
   La Commission européenne publie des questions/réponses et des analyses.
@@ -190,7 +143,7 @@
   La CNIL, au niveau national, développe des analyses et offre des outils de conformité.
   
   Par exemple, le logiciel PIA (privacy impact assessment) est un logiciel libre d'utilisation (open source) que la CNIL met à disposition des responsables de traitement, afin de faciliter votre conduite d'une analyse d'impact qui est une des modalités exigée par le régime RGDP.
-  
+- # outil de conformité
   Dès lors que vous mettez en place un traitement de données à caractère personnel, il vous faut identifier l'outil de conformité à mettre en place. Ils sont au nombre de trois.
   
   (1) Le registre des activités de traitement (art. 30 du RGPD)
@@ -206,92 +159,85 @@
   Les activités de base du traitement consistent en des opérations qui exigent un suivi régulier et systématique à grande échelle des données personnelles ;
   
   Les activités de base du traitement consistent en un traitement à grande échelle de catégories particulières de données (celles de l'article 9 du RGPD).
-  
-  Le DPO peut être membre de l'organisation (salarié, par exemple) ou un tiers (contrat de service). Il est désigné en fonction de ses qualités professionnelles et, en particulier, de ses connaissances spécialisées du droit et des pratiques en matière de protection des données.
-  
-  Il doit accomplir les missions suivantes :
-  
-  informer et conseiller le responsable du traitement sur ses obligations ;
-  
-  contrôler le respect du RGPD ;
-  
-  dispenser des conseils concernent l'analyse d'impact qui doit éventuellement être réalisée ;
-  
-  coopérer avec l'autorité de contrôle ;
-  
-  faire office de point de contact pour l'autorité de contrôle.
-  
-  (3) L'analyse d'impact (art. 35 du RGPD)
-  
-  Dès lors que le traitement que vous envisagez est susceptible d'engendrer un risque élevé pour les droits et libertés des personnes physiques, il est exigé d'effectuer, avant la mise en place du traitement, une analyse de l'impact des opérations de traitement envisagées sur la protection des données à caractère personnel.
-  
-  Ce risque s'identifie notamment à raison du recours à de nouvelles technologies, et compte tenu de la nature, de la portée, du contexte et des finalités du traitement.
-  
-  L'évaluation doit porter sur l'origine, la nature, la particularité et la gravité du risque que le traitement fait naître. La loi européenne précise le contenu de cette analyse en indiquant que l'on doit y retrouver a minima les éléments suivants :
-  
-  une description systématique du traitement et de ses finalités, ainsi que la précision de l'intérêt légitime poursuivi ;
-  
-  l'évaluation de la nécessité et de la proportionnalité du traitement par rapport aux finalités poursuivies ;
-  
-  une évaluation des risques pour les droits et libertés (des personnes physiques concernées) ;
-  
-  les mesure envisagées à cet égard, afin de protéger les données à caractère personnel.
-  
-  Si votre analyse d'impact révèle un risque élevé à défaut de mesures prises par le responsable du traitement, vous devez consulter l'autorité de contrôle (en France : la CNIL).
-  
-  Assurez votre conformité au RGPD
-  Aspects pratiques : la check-list de conformité (ou les 6 étapes de la RGPD)
-  
-  Étape
-  
-  Action
-  
-  Ressources
-  
-  1.
-  
-  Désigner un pilote (un DPO)
-  
-  Guide CNIL : Devenir DPO
-  
-  2.
-  
-  Établir un registre des activités (cartographie des traitements de données personnelles)
-  
-  Modèle de registre
-  
-  3.
-  
-  Prioriser les actions à entreprendre
-  
-   
-  
-  4.
-  
-  Gérer les risques
-  
-  Guides CNIL étude d'impact (PIA, privacy impact assessment)
-  
-  5.
-  
-  Organiser les processus internes
-  
-  Téléservice de notification de violation (site CNIL) 
-  
-  6.
-  
-  Documenter la conformité
-  
-   
-  
-  Si vous êtes concerné, vous devez impérativement envisager 4 actions principales :
-  
-  Constituer un registre de vos traitement de données (étape 2 ci-dessus, en vous aidant du modèle de registre), ce qui suppose de formaliser l'objectif poursuivi, les différentes catégories de données utilisées, d'identifier qui a accès aux données et de préciser la durée de conservation.
-  
-  Faire le tri dans vos données, en déterminant quelles sont les données réellement nécessaires et si, parmi celles-ci, il y en a qui relèvent de la catégorie des données dites sensibles.
-  
-  Respecter les droits des individus en mettant en œuvre une politique de transparence (au moyen de mention ou de renvoi à un document de politique de confidentialité) et en permettant aux personnes d'exercer leurs droits (accès, rectification, opposition, effacement, portabilité).
-  
-  Sécuriser vos données en adoptant les mesures raisonnables et nécessaires afin de garantir la sécurité des données. En l'absence de risque zéro, ce seront les process mis en place, la surveillance constante et l'efficacité des mesures qui permettent de contenir votre risque juridique.
-  
-  Pour vous aider, la CNIL a dressé une liste des
+	- # DPO
+	  Le DPO peut être membre de l'organisation (salarié, par exemple) ou un tiers (contrat de service). Il est désigné en fonction de ses qualités professionnelles et, en particulier, de ses connaissances spécialisées du droit et des pratiques en matière de protection des données.
+	  
+	  Il doit accomplir les missions suivantes :
+	  
+	  informer et conseiller le responsable du traitement sur ses obligations ;
+	  
+	  contrôler le respect du RGPD ;
+	  
+	  dispenser des conseils concernent l'analyse d'impact qui doit éventuellement être réalisée ;
+	  
+	  coopérer avec l'autorité de contrôle ;
+	  
+	  faire office de point de contact pour l'autorité de contrôle.
+	  
+	  (3) L'analyse d'impact (art. 35 du RGPD)
+	  
+	  Dès lors que le traitement que vous envisagez est susceptible d'engendrer un risque élevé pour les droits et libertés des personnes physiques, il est exigé d'effectuer, avant la mise en place du traitement, une analyse de l'impact des opérations de traitement envisagées sur la protection des données à caractère personnel.
+	  
+	  Ce risque s'identifie notamment à raison du recours à de nouvelles technologies, et compte tenu de la nature, de la portée, du contexte et des finalités du traitement.
+	  
+	  L'évaluation doit porter sur l'origine, la nature, la particularité et la gravité du risque que le traitement fait naître. La loi européenne précise le contenu de cette analyse en indiquant que l'on doit y retrouver a minima les éléments suivants :
+	  
+	  une description systématique du traitement et de ses finalités, ainsi que la précision de l'intérêt légitime poursuivi ;
+	  
+	  l'évaluation de la nécessité et de la proportionnalité du traitement par rapport aux finalités poursuivies ;
+	  
+	  une évaluation des risques pour les droits et libertés (des personnes physiques concernées) ;
+	  
+	  les mesure envisagées à cet égard, afin de protéger les données à caractère personnel.
+	  
+	  Si votre analyse d'impact révèle un risque élevé à défaut de mesures prises par le responsable du traitement, vous devez consulter l'autorité de contrôle (en France : la CNIL).
+	  
+	  Assurez votre conformité au RGPD
+	  Aspects pratiques : la check-list de conformité (ou les 6 étapes de la RGPD)
+	  
+	  Étape
+	  
+	  Action
+	  
+	  
+	  Désigne dpo
+	  
+	  Établir un registre des activités (cartographie des traitements de données personnelles)
+	  
+	  Modèle de registre
+	  
+	  3.
+	  
+	  Prioriser les actions à entreprendre
+	  
+	   
+	  
+	  4.
+	  
+	  Gérer les risques
+	  
+	  Guides CNIL étude d'impact (PIA, privacy impact assessment)
+	  
+	  5.
+	  
+	  Organiser les processus internes
+	  
+	  Téléservice de notification de violation (site CNIL) 
+	  
+	  6.
+	  
+	  Documenter la conformité
+	  
+	   
+	  
+	  Si vous êtes concerné, vous devez impérativement envisager 4 actions principales :
+	  
+	  Constituer un registre de vos traitement de données (étape 2 ci-dessus, en vous aidant du modèle de registre), ce qui suppose de formaliser l'objectif poursuivi, les différentes catégories de données utilisées, d'identifier qui a accès aux données et de préciser la durée de conservation.
+	  
+	  Faire le tri dans vos données, en déterminant quelles sont les données réellement nécessaires et si, parmi celles-ci, il y en a qui relèvent de la catégorie des données dites sensibles.
+	  
+	  Respecter les droits des individus en mettant en œuvre une politique de transparence (au moyen de mention ou de renvoi à un document de politique de confidentialité) et en permettant aux personnes d'exercer leurs droits (accès, rectification, opposition, effacement, portabilité).
+	  
+	  Sécuriser vos données en adoptant les mesures raisonnables et nécessaires afin de garantir la sécurité des données. En l'absence de risque zéro, ce seront les process mis en place, la surveillance constante et l'efficacité des mesures qui permettent de contenir votre risque juridique.
+	  
+	  Pour vous aider, la CNIL a dressé une liste des

@@ -1,0 +1,4 @@
+- Préparer en profondeur l'État aux crises
+- "l'appareil d'Etat le plus solide ne résisterait pas à un effondrement moral de la population, qui demeure le centre de gravité de la Nation en situation de crise sévère"
+-
+- https://www.sgdsn.gouv.fr/files/files/1.%2020220315_NP_SGDSN_Document%20cadre_SNR_FR_0.pdf

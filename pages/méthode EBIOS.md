@@ -1,0 +1,17 @@
+- __Préjudice__ := disponibilité, intégrité, compromission, traçabilité et plus globalement à la qualité de service et aux performances auxquelles la valeur métier doit répondre
+- __Événement redouté__ := préjudice lié à l’atteinte de la valeur métier
+- __Impact__ := ils peuvent être:
+	- juridique, financier, réputation, opérationnel
+	- interne, externe
+	- direct, indirect
+- __Gravité__ := considérer tous les types d'impact envisageable
+- __Source de risque__ := élément déclencheur d'un risque (humaine volontaire ou involontaire par exemple) => lorsqu'elle est volontaire __objectif visé__
+- __Partie prenante__ := participe objectif d'entreprise
+- __scénario opérationnel__ := Une situation où une _Source de Risque_ réalise une _suite d'actions_ pour atteindre un _Objectif Visé_
+- __niveau de risque__ := déterminé par la _gravité des impacts_ et la _vraisemblance des scénarii opérationnels_
+-
+- Conflit, sécurité, sûreté
+- Problème, danger, vulnérabilité
+- Intérêt, intérêt, bien support
+-
+-
