@@ -422,9 +422,4 @@
  :journal/page-title-format "yyyy-MM-dd"
  :zotero/settings-v2 {"default" {:type-id "16481611"}
  "Zolo" {:type-id "16481611"}}
- :editor/logical-outdenting? true
- :graph/settings {:excluded-pages? false
- :builtin-pages? false
- :orphan-pages? true
- :journal? false}
- :publishing/all-pages-public? true}
+ :editor/logical-outdenting? true}

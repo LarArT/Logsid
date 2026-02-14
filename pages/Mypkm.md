@@ -1,6 +1,3 @@
 - [[idée]]
 - [[concept]]
 - [[Actionnable]]
-- [[TODO]]
--
--

@@ -1,9 +1,0 @@
-- Éviter les risques, c’est supprimer le danger ou l’exposition au danger.
-- Évaluer les risques, c’est apprécier l’exposition au danger et l’importance du risque afin de prioriser les actions de prévention à mener.
-- Combattre les risques à la source, c’est intégrer la prévention le plus en amont possible, notamment dès la conception des lieux de travail, des équipements ou des modes opératoires.
-- Adapter le travail au collaborateur, en tenant compte des différences interindividuelles, notamment entre hommes et femmes, dans le but de réduire les effets du travail sur la santé.
-- Tenir compte de l’évolution de la technique, c’est adapter la prévention aux évolutions techniques et organisationnelles.
-- Remplacer ce qui est dangereux par ce qui l’est moins, c’est éviter l’utilisation de procédés ou de produits dangereux lorsqu’un même résultat peut être obtenu avec une méthode présentant des dangers moindres.
-- Planifier la prévention en intégrant technique, organisation et conditions de travail, relations sociales et environnement.
-- Donner la priorité aux mesures de protection collective et n’utiliser les équipements de protection individuelle (EPI) qu’en complément des protections collectives si elles se révèlent insuffisantes.
-- Donner les instructions appropriées aux collaborateurs, c’est les former et les informer afin qu’ils connaissent les risques et les mesures de prévention.

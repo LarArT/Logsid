@@ -1,8 +1,0 @@
-- Exportarteur -
-- transiteur ou freihgt forwarder - commissionnaire
-- Assureur
-	- Douane
-- Crédit documentaire
-- Importateur
--
--

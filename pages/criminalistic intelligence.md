@@ -3,5 +3,4 @@
 	- https://www.unodc.org/documents/organized-crime/Law-Enforcement/Criminal_Intelligence_for_Front_Line_Law_Enforcement.pdf?utm_source=perplexity
 	-
 - Source : United Nations Office on Drugs and Crime https://share.google/CCBOOsSuCJnaoCi8z
-- [[cas_pratique_opération_Blackstone]]
 -

@@ -1,4 +1,3 @@
--
 - repose sur quatre principes clés : la surveillance naturelle (maximiser la visibilité des espaces), le contrôle d'accès naturel (guider les flux de personnes), le renforcement territorial (délimiter clairement les espaces publics et privés) et la maintenance (assurer la propreté et l'entretien pour montrer que l'espace est contrôlé).
 - Risk, Arkane. « Urbanisme et sécurité intégrée : guide complet Arkane Risk ». Arkane Risk, 19 septembre 2025, https://www.arkanerisk.com/post/urbanisme-securite-integree-guide.
 -

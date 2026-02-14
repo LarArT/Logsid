@@ -1,8 +1,0 @@
-- Démarche volontaire
-- Reçois un récépissé sous 8 jours
-- Public concernés
-	- Personne de 65 ans et plus
-	- Personne de 60 ans inapte le travail
-	- Adulte handicapé
--
--

@@ -1,9 +1,0 @@
-- En cas d'événement de sécurité civile
-- Conformément au disposition du code de la sécurité intérieure
-- À l'initiative du maire
-- Démarche volontaire
-- Peut contenir
-	- Les personnes vulnérables équivalent au registre d'alerte et d'urgence
-	- Les personnes résidant sur le territoire communal ou un risque accru est avéré
-- Déclencher par
--
