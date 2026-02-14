@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Sofa",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "b55b42b5fe3607e1",
@@ -177,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20f8fbf67742b1ae",
+  "active": "62c3aa86bd303c2e",
   "lastOpenFiles": [
     "Sans titre",
     "pages/Sans titre.base",
