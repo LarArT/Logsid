@@ -13,3 +13,18 @@ IDENTIFIEZ L'ORDRE DE PRIORITÉ ENTRE CES AXES : qu'est-ce qui est important pou
 
 | IDENTIFIEZ LE POINT DE RUPTURE SUR CHACUN DES AXES : quel est le point que vous ne dépasserez pas et qui arrêtera la négociation ?
 
+# rapport de force 
+Le temps 
+L'argent 
+L'éthique
+
+# cerner la partie adverse 
+Quelle connaissance a-t-elle du contexte qui affecte la négociation 
+Rapport de force 
+Les compétences 
+Sa toile
+L'importance qu'elle accorde
+
+# fermer son environnement 
+Identique point précédent pour sa propre organisation 
+
