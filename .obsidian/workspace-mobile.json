@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3800a6bc7709b948",
+        "id": "6d13609e4eea0b93",
         "type": "tabs",
         "children": [
           {
-            "id": "082b362b6555a0e3",
+            "id": "741c5b2ad2da3f90",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace-mobile.json",
-                "bFile": ".obsidian/workspace-mobile.json",
-                "aRef": ""
-              },
-              "icon": "git-pull-request",
-              "title": "Diff: workspace-mobile.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -49,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "sofa",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -100,7 +96,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "b55b42b5fe3607e1",
@@ -149,7 +145,7 @@
             "searchQuery": ""
           },
           "icon": "lucide-list",
-          "title": "Outline"
+          "title": "Plan"
         }
       },
       {
@@ -177,8 +173,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "082b362b6555a0e3",
+  "active": "fb74c9f7b8dac45d",
   "lastOpenFiles": [
+    "Sans titre",
+    "pages/Sans titre.base",
+    "Sans titre 1.canvas",
     "journals/2026-02-14.md",
     "journals/2026_02_14.md",
     "Sans titre.canvas",
@@ -206,7 +205,6 @@
     "pages/gestion conflit de crise.md",
     "pages/Untitled 2.md",
     "logseq/bak/pages/Untitled 2/2026-01-04T08_50_08.438Z.android.md",
-    "logseq/bak/pages/Untitled 2/2026-01-04T08_49_55.997Z.android.md",
     "logseq/bak/pages/Projet",
     "whiteboards/6918e136-5450-4f33-8b9c-bc399c9592da.edn",
     "logseq/custom.css",
@@ -214,7 +212,6 @@
     "whiteboards",
     "pages",
     "logseq/bak/pages/écouteur",
-    "logseq/bak/pages/idée",
-    "logseq/bak/pages/Police municipale"
+    "logseq/bak/pages/idée"
   ]
 }
