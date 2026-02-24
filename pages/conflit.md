@@ -108,8 +108,30 @@
 		- Transférer
 		- Accepter
 	- Moduler le facteur
--
+- Voici le détail des 9 stades regroupés en 3 grands niveaux de gravité, présentés de manière synthétique :
+	- Niveau 1 : Gagnant-Gagnant (Le conflit est encore gérable)
+	  À ce stade, une résolution est possible par la discussion et la médiation simple.
+		- Durcissement : Les opinions s'affrontent, mais on croit encore qu'on peut résoudre le problème par la discussion.
+		- Débat et Polémique : On essaie de convaincre l'autre. L'usage de la logique laisse place à l'émotion et à la tactique.
+		- Les actes, pas les mots : On ne croit plus à la discussion. On agit (faits accomplis) pour bloquer l'autre, mais on évite encore de le blesser directement.
+	- Niveau 2 : Gagnant-Perdant (L'un doit gagner, l'autre doit perdre)
+	  La relation humaine disparaît au profit de la victoire personnelle. On cherche à humilier l'adversaire.
+		- Images et Coalitions : On cherche des alliés. On "diabolise" l'autre : il est le méchant, je suis le gentil.
+		- Perte de face : Attaque directe et publique de l'intégrité de l'autre. La confiance est totalement brisée.
+		- AStratégies de menaces : On utilise le chantage et les ultimatums pour forcer l'autre à céder.
+	- Niveau 3 : Perdant-Perdant (La destruction totale)
+	  On ne cherche plus à gagner, mais à anéantir l'autre, même si cela nous coûte tout.
+		- Destruction limitée : On cherche à nuire physiquement ou matériellement à l'autre de manière ciblée.
+		- Éclatement (Fragmentation) : On vise la destruction du système de survie de l'adversaire (sa réputation, son emploi, sa famille).
+		- Le gouffre (Ensemble dans l'abîme) : C'est le stade "Kamikaze". On accepte sa propre destruction totale pourvu que l'adversaire soit lui aussi anéanti.
+		- | Niveau | Objectif des parties | Sortie possible |
+		  |---|---|---|
+		  | I. Tension | Résoudre le problème | Médiation / Discussion |
+		  | II. Combat | Gagner contre l'autre | Arbitrage extérieur |
+		  | III. Guerre | Détruire l'autre | Intervention de force|
+- [1] Gordon Crossings, "Escalade du conflit : le modèle Glasl," Gordon Crossings - Management & Résolution de conflits, 2024. [En ligne]. Disponible sur : https://www.gordon-crossings.com/escalade-du-conflit-le-modele-glasl/. [Consulté le : 21-févr.-2026].
 - # médiation
+	-
 	- ## amorçage
 		- [[Explication]]
 		- [[Impartialité]]

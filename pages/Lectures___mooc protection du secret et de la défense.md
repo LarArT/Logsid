@@ -1,0 +1,59 @@
+source:: https://www.defense.gouv.fr/drsd/ressources-entreprises/formation-protection-du-secret-defense-nationale
+
+- Premier ministre : en charge de la protection nationale
+	- délégation le **sgdsm**
+		- prend les décisions de classification et d'habilitation concernant certains documents
+			- très secrets
+			- Les classifications spéciales correspondent aux priorités gouvernementales en matière de défense
+		- les supervise les échanges d'informations avec lesautorités nationales de sécurité partenaire et qui participent à la mise en place des règles de sécurité au sein des organisations internationale échanges d'informations
+	- Chaque ministre
+		- décline dans son champ d'action la mesure de protection du secret
+		- aidé du
+			- haut fonctionnaire de défense et de sécurité HDFS
+				- coordonne cette disposition
+				- Prends les décisions de classification du niveau
+					- très secret (5 ans)
+					- secret (7 ans)
+					- à l'exception de classification spéciale qui est l'apanage du Premier ministre
+				- Il est assisté pour cela d'un fonctionnaire de sécurité défense FSD
+				- D'un système d'un fonctionnaire de sécurité des système d'information
+					- Ils sont en lien avec les organisme brassant des informations classifiées avec
+						- un officier de sécurité
+							- Il est en charge de rédiger et de faire appliquer la politique de sécurité
+							- Si ces organismes traitent des documents très secrets, ils doivent posséder un bureau de protection du secret
+- Un document classifié contient
+	- Référence de l'auteur
+	- Organisme émetteur
+	- Date d'émission
+	- Échéance de classification
+	- Numéro d'enregistrement
+	- Façon optionnel
+		- Configurer dans la marge des indications indiquant éventuellement des des classifications inférieur
+	- Un informations et support classifiés (ISC) secret peut-être
+		- Envoyer par la poste
+		- Reproduit par l'autorité détentrice
+		- Sous condition que la reproduction soit faite par un dispositif homologué au moins équivalent à cette classification
+	- Un document classifié très secret
+		- Ne peut être envoyé que par valise diplomatique à l'étranger
+		- Manipuler, conditionné,  exetera exclusivement dans un __bureau de protection du secret__
+		- Ne peut pas être reproduit
+	- état des lieux par un inventaire
+		- Chaque année
+		- Lors d'un arrivée ou d'un départ
+		- Mise en place de
+			- Archivage
+			- Destruction avec procès-verbal
+- PROTECTION DU SECRET DE LA DÉFENSE NATIONALE
+	- [Fiches pratiques à destination des personnes habilitées](https://www.sgdsn.gouv.fr/files/files/Nos_missions/fiches-pratiques-psdn-personnes-habilitees-num-v20211001.pdf)
+	- [texte de référence protection du secret](https://www.sgdsn.gouv.fr/files/files/Nos_missions/igi-1300-20210809.pdf) IGI1300
+- Sur les ICS doit figurer :
+	- Au centre en haut et en bas le degré de classification
+	- Pour la diffusion restreinte seulement en haut
+	- Doit être produit par un dispositif ayant le même degré de classification
+	- Encore de possibilité de déterminer une date de fin du classification utilisé moins de 20 ans
+	- Auquel peut être accolé « spécial France » timbre bleu
+- Glossaire
+	- CTIC : CENTRE DE TRAITEMENT DES INFORMATIONS CLASSIFIÉES
+- ​[1] Ministère des Armées, "Formation à la protection du secret de la défense nationale," *Direction du Renseignement et de la Sécurité de la Défense (DRSD)*, 2024. [En ligne]. Disponible sur : [https://www.defense.gouv.fr/drsd/ressources-entreprises/formation-protection-du-secret-defense-nationale](https://www.defense.gouv.fr/drsd/ressources-entreprises/formation-protection-du-secret-defense-nationale). [Consulté le : 21-févr.-2026].
+-
+-

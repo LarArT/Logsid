@@ -1,4 +1,2 @@
-icon:: :pdf:
-
--
+- [[Mooc. Resilience]]
 -

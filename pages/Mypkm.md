@@ -1,6 +1,11 @@
 - [[idée]]
-- [[concept]]
+- [[Eeee]]
 - [[Actionnable]]
-- [[TODO]]
--
--
+- Journaux/
+- Brouillon/
+- Lectures/
+- Atome/
+- Mypkm/
+- Project/
+- Archives/
+	- /Journals

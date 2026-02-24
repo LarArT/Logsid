@@ -8,3 +8,14 @@
 	- [Instruction générale interministérielle relative la sécurité des activités d’importance vitale](https://www.legifrance.gouv.fr/download/pdf/circ?id=37828)
 - [la protection du secret de la défense nationale](https://cyber.gouv.fr/reglementation/cybersecurite-systemes-dinformation/protection-du-secret/instruction-generale-interministerielle-n1300/)
 - defense.gouv.fr/sites/default/files/drsd/20230921-Guide-pratique-analyse-de-risques
+- [1] Naval Group, "Kit Fournisseur : Référentiel Sûreté," v01, déc. 2025. [En ligne]. Disponible sur : https://web.archive.org/web/20260221080854if_/https://www.naval-group.com/sites/default/files/2025-12/CS-PU_Kit%20Fournisseur_R%C3%A9f%C3%A9rentiel_S%C3%BBret%C3%A9_v01_0.pdf. [Consulté le : 21-févr.-2026].
+- Proposer des newsletters ou pages internet à suivre pour recevoir les dernières actualités ou 
+  bonnes pratiques :
+	- Flash ingérence de la DGSI : https://www.dgsi.interieur.gouv.fr/dgsi-a-vos-cotes/contre-
+	  espionnage/conseils-aux-entreprises-flash-ingerence
+	- Lettre d’information économique de la DRSD : https://www.drsd.defense.gouv.fr/lie
+	- Infolettre de CyberMalveillance.gouv.fr : https://www.cybermalveillance.gouv.fr/tous-
+	  nos-contenus/bonnes-pratiques/reseaux-sociaux
+	- Infolettre du MEDEF Souveraineté et sécurité : 
+	  https://www.medef.com/fr/actualites/souverainete-et-securite-toutes-les-ressources-
+	  du-medef-pour-les-entreprises-1

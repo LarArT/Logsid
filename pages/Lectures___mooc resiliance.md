@@ -1,0 +1,73 @@
+source:: guide-continuite-activite.sgdsn.gouv.fr
+
+- Pca = ISO 22301
+- La démarche:
+	- Identifier les produits et services, les activités et les ressources
+	- Déterminer les besoins de continuité et les délais de reprise
+	- Comprendre le risque de perturbation
+	- Traiter le risque d'interruption
+	- S'assurer que ces dispositions demeurent efficaces dans la durée
+	- conduisant à une démarche en six grandes étapes:
+- L'acteur clé = le responsable PCA (RPCA)
+	- Gère et anime le dispositif
+	- Possède une connaissance intime de l'organisme
+	- Dispose d'une autorité reconnue
+- Impacts habituellement retenus:
+	- Impact
+		- sur l'organisme:
+			- Financier
+			- Opérationnel
+			- Juridique
+			- Image
+		- Impact sur les clients
+	- => résulte un indicateur : le DMIA délai maximal d'interruption acceptable ou durée maximale de détérioration
+		- Lorsque l'on parle le système d'information cet indicateur est nommé perte maximale de données tolérable
+- L'analyse des impacts
+	- se fait par :
+		- Questionnaire
+		- Entretien
+	- Selon des hypothèses les plus défavorables
+- Les catégories de risques suivantes sont généralement admises en matière de continuité d'activité :
+	- Les risques naturels: inondations, tempêtes, sécheresse, feu de forêt, etc.
+	- Les risques technologiques: incendies ou les explosions accidentels sur son propre site, accidents industriels à proximité de son site en lien par exemple avec un site SEVESO, une installation nucléaire ou un transport de matières dangereuses.
+	- Le risque sanitaire: épidémie / pandémie.
+	- Les risques d'origine humaine: cyberattaques, actions violentes (terrorisme, émeutes, etc.), malveillance (intrusion, sabotage, vol, destruction, etc.), conflits sociaux (grèves, manifestations, etc.), etc.
+	- En complément, les risques suivants méritent également d'être mentionnés car de plus en plus prégnants:
+	- • Risque lié à la chaine d'approvisionnement: disponibilité des matières premières, rupture de stock, retards de production et de transport, etc.
+	- Risque lié au personnel: indisponibilité du dirigeant, compétences rares, difficultés de recrutement, etc.
+	- ## Outils d'information
+	  collapsed:: true
+		-
+	- Des outils, tels ceux présentés ci-après, vous permettent de vous informer sur votre exposition aux risques,
+		- niveau national comme au niveau local.
+			- Risques majeurs : gouvernement.fr/risques
+			- Risques naturels et technologiques : georisques.gouv.fr
+			- Risque particulier des crues: vigicrues.gouv.fr
+		- Au niveau départemental:
+			- DDRM: dossier départemental sur les risques majeurs (risques naturels et technologiques).
+		- Au niveau communal:
+			- DICRIM: document d'information communal sur les risques majeurs.
+			- PCS et PICS: plan communal ou intercommunal de sauvegarde.
+	- Les risques auxquels l'organisme est exposé étant identifiés, il s'agit ensuite de les analyser.
+	- Traitement du risque, équilibre entre :
+		- Coup des mesures
+		- Criticité des risques
+		- Besoin de continuité
+	- convient également de les apprécier sous l'angle des opportunités qu'elles peuvent générer,
+		- la confiance des partenaires et clients ou
+		- bien l'avantage concurrentiel engendré dans un contexte les clauses de continuité d'activité sont amenées à se multiplier dans les commandes publiques comme privées.
+	- Il est également important de s'assurer que les solutions vont fonctionner en cas d'activation, ce qui implique de les préparer et d'en contrôler le caractère opérationnel en amont de la crise.
+	- Elles doivent en outre être réexaminées lorsque des changements sont apportés au fonctionnement de l'organisme. Enfin, l'ensemble des solutions doit être abordé sous un angle éminemment flexible.
+	- Si certaines d'entre elles peuvent être mises en œuvre telles quelles et indépendamment des autres, la plupart ont en effet vocation à être combinées et adaptées en fonction des caractéristiques de la perturbation et de la crise.
+	- Ainsi, en gestion de crise, les décideurs doivent pouvoir choisir les mesures qui leur conviennent et les adapter, voire en créer de nouvelles, afin de construire une réponse. Il s'agit là, comme nous avons déjà pu le voir, de la nécessaire combinaison de la préparation en amont avec l'agilité en situation de crise.
+	- l convient aussi de s'assurer que les solutions ne sont pas exposées aux mêmes risques. Si par exemple un organisme est implanté en zone inondable, son site de repli ne doit pas s'y trouver aussi.
+	-
+	- [[PCA]]
+	- ​[1] SGDSN, "Guide pour réaliser un plan de continuité d'activité (PCA)," Ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique, 2024. [En ligne]. Disponible sur : [https://www.economie.gouv.fr/files/hfds-guide-pca-plan-continuite-activite-_sgdsn.pdf](https://www.economie.gouv.fr/files/hfds-guide-pca-plan-continuite-activite-_sgdsn.pdf). [Consulté le : 21-févr.-2026].
+- vous pouvez prendre connaissance des documents d’information préventive mis à la disposition de la population :
+	- auprès de votre mairie, par le biais de son document d’information communal sur les risques majeurs (DICRIM).
+	- auprès de votre préfecture, par le biais du dossier départemental des risques majeurs (DDRM)
+- Pex
+	- Sa structure se compose:
+	- du récit de l'intervention (contexte, moyens engagés, description de la zone d'intervention, situation à l'arrivée des premiers moyens...); des explications relatives à un ou plusieurs thèmes (ex. < focus sur la reconnaissance avec un moyen en eau» en lien avec la problématique rencontrée; focus sur la sécurité.....);
+	- des enseignements issus de l'intervention (éléments favorables ou défavorables; leçons apprises, rappels sur la doctrine...).

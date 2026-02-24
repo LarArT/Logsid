@@ -1,0 +1,9 @@
+- Plateforme d'apprentissage
+	- tag:: mooc
+	- https://www.plateforme-apis.fr/my/
+- Retex
+	- tag:: retex
+	- https://mobile.interieur.gouv.fr/Le-ministere/Securite-civile/Documentation-technique/Les-RETEX
+- Pex
+	- tag:: tex
+	- https://mobile.interieur.gouv.fr/Le-ministere/Securite-civile/Documentation-technique/Les-sapeurs-pompiers/Doctrines-et-techniques-professionnelles/Partage-d-information-operationnelle?hl=fr-FR-u-fw-mon-mu-celsius

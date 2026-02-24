@@ -1,0 +1,7 @@
+- Le PCA définit:
+	- Rôles et responsabilités des équipes impliquées
+	- Actions à conduire
+	- Procédures **simples** associées documentées
+	- Besoins en ressources
+-
+-

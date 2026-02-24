@@ -1,0 +1,3 @@
+- ctif-cfi.be/images/documents/French/Vademecum_blanchiment_de_capitaux.pdf
+- Vernier, Éric. Techniques de blanchiment et moyens de lutte. 3e éd, Dunod, 2013. Fonctions de l’entreprise.
+-

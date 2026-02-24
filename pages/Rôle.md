@@ -1,13 +1,11 @@
 - [[courses]]
 - [[rédaction]]
-	-
 - [[santé]]
 - [[achat potentiel]]
 	-
 - #Recherche
 	-
 - [[base de données]]
-- Pixel usine
 	- https://www.chemspider.com
 		-
 		- Ai studio
@@ -20,5 +18,3 @@
 		- Distribution de données
 	- Modèle discriminatif
 		- Classe de données
-		-
-	-
