@@ -1,0 +1,24 @@
+- [[courses]]
+- [[rédaction]]
+	-
+- [[santé]]
+- [[achat potentiel]]
+	-
+- #Recherche
+	-
+- [[base de données]]
+- Pixel usine
+	- https://www.chemspider.com
+		-
+		- Ai studio
+		- Notebookll
+		- Typst
+		- https://citeseerx.ist.psu.edu/
+		-
+- IA
+	- Modèle génératif
+		- Distribution de données
+	- Modèle discriminatif
+		- Classe de données
+		-
+	-

@@ -1,4 +1,3 @@
--
 - Au niveau international et européen, la résilience s'intègre aux principales stratégies de défense et de sécurité
   L’Organisation du Traité de l’Atlantique Nord (OTAN)
   Pour l’OTAN, la résilience est une condition préalable à l’accomplissement des missions fondamentales de l’Alliance. L’article 3 du Traité de l’Atlantique Nord dispose que les Alliés doivent maintenir et accroître leur capacité individuelle et collective de résistance à une attaque armée.
@@ -21,10 +20,7 @@
 - ​Le mécanisme de protection civile de l’Union (MPCU), qui facilite la coopération en cas de catastrophe majeure.
   
   ​La France, notamment sous sa présidence du Conseil de l’Union européenne (PFUE) au premier semestre 2022, a activement promu le renforcement de la résilience collective européenne.
--
 - [ISO 22300:2021 Sécurité et résilience — Vocabulaire](https://www.iso.org/obp/ui/#iso:std:iso:22300:ed-3:v1:fr:term:3.1.19)
--
 - [les risques près de chez moi](https://www.georisques.gouv.fr/)
--
 - [évaluer les risques de sa collectivité](https://lesrisquesdemacollectivite.fr/)
 -
