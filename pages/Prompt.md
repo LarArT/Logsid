@@ -1,6 +1,7 @@
--
+title:: Prompt
+
 - [ ] Input
-	-
+	- [[prompt matinal]]
 - [ ] Formatage entrée/sortie
 - [ ] Auto-Évaluation des sorties
 - [ ] Nombre de sorties

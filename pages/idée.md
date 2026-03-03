@@ -1,4 +1,5 @@
 - [[note de lecture]]
+- [[Outils de communication]]
 - [[mooc]]
 - [[à approfondir]]
 - [[smartphone]]
@@ -98,6 +99,7 @@
 		- ### sécurité privée
 			- #### APS
 				- [Sécurité renforcée](69876280-8ae5-44aa-954e-2e5ed6f047f5)
+				- [[communication radio]]
 				-
 		- ### sécurité économique
 			- [la sécurité économique en 28 fiches](https://www.entreprises.gouv.fr/la-dge/publications/la-securite-economique-en-28-fiches-thematiques)
@@ -110,7 +112,16 @@
 		- [[texte réglementation ssiap1]]
 		- [Installations Classées pour la Protection de l'Environnement (ICPE)](https://aida.ineris.fr/thematiques/nomenclature-icpe)
 		- [ERP](https://www.wikiterritorial.cnfpt.fr/xwiki/bin/view/vitrine/Les%20Etablissements%20recevant%20du%20public%20%28ERP%29%20et%20l%27obligation%20g%C3%A9n%C3%A9rale%20de%20s%C3%A9curit%C3%A9)
-		-
+		- [Principes des Premiers Secours Psychologiques ](https://ready.csod.com/lms/scorm/clientLMS/Scorm12IframeContainer.aspx?aicc_sid=AICCj9JMjOpdURbbduG2a3os1Q&aicc_url=https://ready.csod.com/LMS/scorm/aicc.aspx) : International Medical Corps
+			- International Medical Corps
+			- Les PSP sont définis comme une aide humaine, solidaire et concrète apportée à toutes les personnes récemment exposées à des facteurs de stress importants. Cela implique de:
+				- Fournir des soins de manière concrète et en toute discrétion.
+				- Évaluer les besoins et les difficultés.
+				- Rester à l'écoute des personnes sans les juger. Rassurer et apaiser les autres.
+				- Permettre aux personnes de communiquer pour s'informer et bénéficier de services et de soutiens sociaux.
+				- Protéger les personnes pour leur éviter de subir d'autres préjudices.
+			-
+		- Rester à l'écoute des personnes sans les mettre sous pression.
 	- ### militarisation des flux
 		- Réponse européenne -> [critical raw act](https://commission.europa.eu/topics/competitiveness/green-deal-industrial-plan/european-critical-raw-materials-act_fr) : réduction de la dépendance tes matières premières
 	- ### organisation territoriale
@@ -404,8 +415,10 @@
 	- [Entrepôt de données](https://cat.opidor.fr/index.php/Entrep%C3%B4t_de_donn%C3%A9es)
 	- ISO 22000 - Management de la Sécurité des Denrées Alimentaires
 - # collectivité territoriale
-- [[dotation aux collectivités territoriales]]
-- Étude de sûreté et de sécurité publique
+	- [[dotation aux collectivités territoriales]]
+	- Étude de sûreté et de sécurité publique
+	- [[concours]]
+	-
 - # SNCF
   collapsed:: true
 	- [[opérateur de production des trains]]

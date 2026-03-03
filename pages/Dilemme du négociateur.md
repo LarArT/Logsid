@@ -1,0 +1,5 @@
+- #a_approfondir
+- Et cette articulation entre coopération et compétition génère ce que William Zartman a appelé le dilemme du négociateur.
+- Pour le résumer, plus un négociateur se montre intraitable, en compétition contre l'autre, plus ses chances d'obtenir la meilleure part du gâteau augmentent, mais plus la probabilité de trouver un accord diminue, parce que l'autre négociateur est peu susceptible d'accepter un accord qui le désavantage.
+- En revanche, plus un négociateur se montre souple, coopératif, prêt à faire des concessions, plus ses chances de conclure un accord augmentent, puisqu'il fait des efforts dans ce sens, mais plus la probabilité d'obtenir une part équitable du gâteau diminue, parce que là c'est l'autre partie qui est susceptible d'en tirer avantage.
+-

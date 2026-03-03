@@ -7,4 +7,6 @@
 			- liés à la souveraineté, au contrôle territorial, à la légitimité d'un gouvernement ou d'un groupe armé  // accès aux populations, vaccination, distribution de nourriture
 	-
 - Lors d'une négociation technique
-	-
+- [[Dilemme du négociateur]]
+-
+-

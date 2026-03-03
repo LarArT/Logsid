@@ -1,7 +1,7 @@
 - Plateforme d'apprentissage
 	- tag:: mooc
 	- https://www.plateforme-apis.fr/my/
-- Retex
+- [[Retex]]
 	- tag:: retex
 	- https://mobile.interieur.gouv.fr/Le-ministere/Securite-civile/Documentation-technique/Les-RETEX
 - Pex

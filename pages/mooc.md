@@ -1,4 +1,5 @@
 - [bpi](https://universite.bpifrance.fr/Catalog/trainings?sort=creationDate&order=desc&page=1)
 - [sdis](https://www.plateforme-apis.fr/login/index.php)
--
--
+- https://flirtmooc.wixsite.com/flirt-mooc-telecom
+	- [MOOC supervision des réseaux et services](https://ultv.univ-lorraine.fr/mooc-supervision-de-reseaux-et-services/)
+	-

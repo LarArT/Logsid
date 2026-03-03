@@ -47,9 +47,8 @@
   # Chapitre 6 – Techniques de résolution de problèmes – p. 247
    * Outil 37 : La matrice d’affectation des responsabilités (RACI ou RASCI) – p. 249
    * Outil 38 : Le diagramme de Pareto (80/20) – p. 254
-   * Outil 39 : Le diagramme d’Ishikawa (Causes-Effets) – p. 257
-     
-   * Outil 40 : La méthode des « 5 pourquoi » – p. 261
+- Outil 39 : Le [[diagramme d’Ishikawa ]] Causes-Effets)
+- Outil 40 : La méthode des « 5 pourquoi » – p. 261
    * Outil 41 : La matrice d’Eisenhower – p. 264
    * Outil 42 : Le diagramme SIPOC – p. 275
   # Chapitre 7 – Techniques liées au processus d’achats – p. 281

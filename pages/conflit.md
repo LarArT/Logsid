@@ -1,3 +1,6 @@
+- [[diagramme d’Ishikawa]]
+	- Le conflit est larvé :
+		- Lors de l'étape 3 chaque élément du conflit est réparti dans un groupe
 - Pour qu'un conflit ait lieu il faut impérativement :
 	- Divergence d'opinion
 	- Émotion
@@ -149,4 +152,8 @@
 	- ## faire face aux impasses
 		- [[stratégie de résolution]]
 -
--
+	- ## prévenir la résurgence d'un conflit
+		- Esprit d'équipe
+		- Informations
+		- Clarifier les rôles
+		-

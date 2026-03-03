@@ -1,0 +1,3 @@
+- [[méthode PINFS]]
+- ### ​Pourquoi utiliser PINF (méthode inso)?
+- ​En passant de la **Position** (blocage) aux **Frayeurs** (psychologie), vous quittez le mode "confrontation" pour entrer en mode "résolution de problème". Cela permet de respecter vos **Principes Humanitaires** tout en trouvant un compromis opérationnel pour l'**Accès**.
