@@ -1,0 +1,7 @@
+-
+- Les bases :
+	- Quelles sont les grandes phases et à quel livrable à bout Distel
+	- Compétence majeure à chaque phase
+	- Quelles sont les procédures d'acceptation et de validation des livrables
+	- Quelles sont les règles de passage de phase
+-

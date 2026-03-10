@@ -25,21 +25,18 @@
 - [[Manpage]]
 - [[liste des organismes de recherche en France]]
 - [[marché public]]
--
+- - [[rapport d'étonnement]]
 - [[Génération de logo]]
 - Lettre
   collapsed:: true
 	- [règle de rédaction](https://www.calliope.be/french/html/topic_28EE19B2-7532-46FD-BE1E-45C57D981DD9_2AE56876-C3BC-4C9E-9C27-A00507CA6CB0_1.htm)
 	- [charte orthographique en vigueur dans l'administration française](https://www.legifrance.gouv.fr/contenu/Media/Files/autour-de-la-loi/legislatif-et-reglementaire/charte_typographique_jo_janvier_2021.pdf?hl=fr-FR)
 	  -[législation](https://www.legifrance.gouv.fr/) + blockchain + assistant de preuve = [[Contrat intelligent]]
-- ## transport
-  collapsed:: true
+- ## transport / import / export  / logistique
 	- Formation : isteli
-- [[rapport d'étonnement]]
-- ## collectivité territoriale
-- https://prospectiveterritoriale.fr/
-- [[Registre]]
-- [[stratégie nationale résilience]]
+	- [[réaliser une étude de marché]]
+	- [mooc bpi](https://academiedelexport.fr/catalogue/recherche?f[]=10&pr[]=0)
+	- [[Manuel et plateforme de référence]]
 - # SST
   collapsed:: true
 	- [cours SST par l'Organisation internationale du travail](https://www.iloencyclopaedia.org/fr/)
@@ -89,7 +86,7 @@
 			- Environnement de travail
 			- Compétence du travailleur
 - # sécurité / sûreté / analyste
-	- [[formation]]ˆˆ
+	- [[formation]]
 	- [[cartographie des risques]]
 	- ## Urbanisme
 		- [[CPTED]]
@@ -139,7 +136,7 @@
 		- mode alternatifs de règlement des litiges marl)
 	- ## sécurité publique
 		- [[Dictionnaire des vocabulaires et expressions-types utilisés dans la rédaction des procédures de police administrative et judiciaire]]
-		- [[Registre]]
+		- [[Registre collectivité territoriale]]
 		- [[douane]]
 		- [[classification internationale des infractions]]
 		- [donner issue de la classification internationale des infractions](http://data.unodc.org/node/1)
@@ -148,7 +145,7 @@
 		- https://www.seine-et-marne.fr/sites/default/files/media/downloads/dadt-22-brochure-guide-videoprotection_mar22-vf_04042022.pdf
 		- [[présentation vidéo surveillance]]
 		- [[fiche de suivi vidéo protection]] : un acte légal
-		- [feuille de registre] [feuille de registre](https://www.cnil.fr/sites/default/files/atoms/files/registre_rgpd_basique.pdf)
+		- [feuille de registre](https://www.cnil.fr/sites/default/files/atoms/files/registre_rgpd_basique.pdf)
 		  Vidéo surveillance
 			- [texte réglementaire](https://www.aude.gouv.fr/Actions-de-l-Etat/Securite-et-protection-de-la-population/Cameras/Videoprotection/Que-dit-la-loi/Reglementation)
 		- [[plan de formation agent de vidéoprotection]]
@@ -157,6 +154,7 @@
 	- ## asvp
 		- [[asvp]]
 	- ### brigadier
+		- [[concours police municipale]]
 		- [[framework emmie]]
 		  id:: 69167737-52e6-46ac-8017-c2e9a0db3cf0
 			- [[demain, reine]]
@@ -191,11 +189,7 @@
 			- Directeur de la sûreté
 				- développement économique de l'entre- prise,
 					- Veille géopolitique -> ARNAUD KALIKA recommandation dans le livre banc blanc CDSE
-						- Le Centre de crise et de soutien du quai d'Orsay
-				- de la sécurité des expatriés
-				- risque réputationnel
-				- protection de son patrimoine matériel e
-				- immatériel.
+						- Le Centre de crise et de soutien du quai d'Orsay de la sécurité des expatriés risque réput ationnel protection  de son patrimoine matériel e imma tériel.
 		- [[APS]]
 		- ## criminalité organisée
 			- [[convention de Palerme]]
@@ -214,13 +208,16 @@
 	- # gestion de projet
 		- [[Pratique de management de projet: 50 outils]]
 		- Mooc : https://www.pm-coaching.org/view/courses/pmp/1630790-le-project-performance-domain/5416389-performance-domain-pmbok-7-0
+		- https://pm4ngos.org/wpfd_file/project-dpro-guide-pmd-pro-2nd-edition-francais/
 		- https://www.coursera.org/learn/project-planning-fr
 		- [[les 8 domaines de performance]]
+		- [[gestion de projet disaster ready]]
 		- ## pmbok
 			- [[management adaptatif]]
 			- [[Maîtriser les 12 Principes du Management de Projet (PMBOK 7)]]
 			- Pour que la certification PMI reste à jour il faut engranger des [[PDU]]
 				- Pour cela la [plateforme du PMI](ProjectManagement.com) peut permettre de il est validé
+				- [[table des matières PMbok ]]
 		- [[mooc gdp Centrale Lille]]
 		-
 	- # gestion des risques
@@ -311,7 +308,6 @@
 - # science
 - Achat à pour expérience pédagogique : https://www.pierron.fr/
 - ## mathématiques
-  collapsed:: true
 	- [[mathématiques]]
 	- [[cryptogaphie]]
 -
@@ -327,7 +323,6 @@
   collapsed:: true
 	- [[chimie]]
 - -[[Informatique]]
-- [[mathématiques]]
 - # Intelligence artificielle
   collapsed:: true
 	- Deep learning with certified robustness
@@ -351,6 +346,8 @@
 				   Magnet (Lille), Multispeech (Nancy), Orpailleur (Nancy): injection de connaissance 
 				   SequeL (Lille) et 
 				  TAU (Saclay, issu du LIMSI et du LRI qui sont devenus le lisn (pôle mondial) et lmf; compréhension des causes
+	- [[axe de recherche française sur l'intelligence artificielle]]
+	-
 - # ressources logsec
   collapsed:: true
 	- https://discuss.logseq.com/t/lesson-5-how-to-power-your-workflows-using-properties-and-dynamic-variables/10173?hl=fr-FR
@@ -418,7 +415,10 @@
 	- [[dotation aux collectivités territoriales]]
 	- Étude de sûreté et de sécurité publique
 	- [[concours]]
-	-
+	- https://prospectiveterritoriale.fr/
+	- [[Registre collectivité territoriale]]
+	- [[stratégie nationale résilience]]
+	- [[Concours chef de service]]
 - # SNCF
   collapsed:: true
 	- [[opérateur de production des trains]]
@@ -445,10 +445,10 @@
 - Prompt
   collapsed:: true
 	- [Guide de rédaction Prompt]([[Prompt]])
-- [[mathématiques]]
-- Économie internationale
+- ## Économie internationale
   collapsed:: true
 	- [[mooc économie international]]
 	- [carte des sanctions de l'Union européenne](https://www.sanctionsmap.eu/#/main?search=%7B%22value%22:%22%22,%22searchType%22:%7B%7D%7D)
 -
 - [[psychologie]]
+-

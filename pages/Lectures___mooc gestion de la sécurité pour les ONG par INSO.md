@@ -1,5 +1,8 @@
 source:: https://ready.csod.com/lms/scorm/clientLMS/Scorm12IframeContainer.aspx?aicc_sid=AICCjim_l_-pUXndrL9atWX30Q&aicc_url=https://ready.csod.com/LMS/scorm/aicc.aspx
 
+-
+- Repose beaucoup sur ce document:
+	- Hpn 8 Revue des bonnes pratiques Gestion opérationnelle de la sécurité dans des contextes violents
 - [[Droit international humanitaire]]
 - DIH : Points clés
   
@@ -16,8 +19,14 @@ source:: https://ready.csod.com/lms/scorm/clientLMS/Scorm12IframeContainer.aspx?
 - [[cadre de gestion de la sûreté de la sécurité]]
 - [[analyse du contexte]]
 - [[gestion des informations de sécurité]]
+- [[stratégie de sécurité]]
+- [[POS]]
+- [[plan de contingence]]
+- [[grille des phases]]
+- [[plan de sécurité du pays]]
 - ## classification des incidents par un inso
 - [Classification des incidents affectant les ONG](https://ngosafety.org/terms-and-definitions/) #classification
+-
 -
 -
 -
