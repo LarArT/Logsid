@@ -18,7 +18,7 @@
 		- Parole d'expert : Simon Martenot (p. 70)
 		- Section 5 : Le leadership du négociateur en situation de tension (p. 74)
 		- Parole d'expert : Michaël Aguilar (p. 75)
-	- [[Chapitre 3 : Analyse du contexte]] (p. 81)
+	- [[Chapitre 3 : Analyse du contexte]] (p. 81) voir aussi doc [gppac](((69b6a858-91ec-4d0b-9a4e-2ec5036c9d62)))
 		- Section 1 : Les prérequis à l'analyse (p. 90)
 		- Parole d'expert : Olivier Hérisson (p. 91)
 		- Section 2 : Les motivations de la partie adverse (p. 97)

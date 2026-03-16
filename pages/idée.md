@@ -134,6 +134,8 @@
 		- [[negociator]]
 	- ## conflit
 		- mode alternatifs de règlement des litiges marl)
+		- Analyse du contexte : [voir la section template de ce document](https://gppac.net/files/2018-11/GPPAC%20CAFGuide_Interactive%20version_febr2018_.pdf)
+		  id:: 69b6a858-91ec-4d0b-9a4e-2ec5036c9d62
 	- ## sécurité publique
 		- [[Dictionnaire des vocabulaires et expressions-types utilisés dans la rédaction des procédures de police administrative et judiciaire]]
 		- [[Registre collectivité territoriale]]
@@ -387,12 +389,13 @@
 		- [normes habilitation électrique](https://afpsecourisme.fr/wp-content/uploads/2017/08/Norme-NF-C-18-510.pdf)
 		- [[H0 B0]]
 - # psychologie
-  collapsed:: true
 	- ## personnalité
-	  collapsed:: true
 		- [[hexaco]]
 		- [[ocean]]
 		- [[science comportementale]]
+		- [[Hogan assesement]]
+		- [[corrélation entre modèle [[HPI]] hogan et [[OCEAN]]]]
+		-
 - # bibliothèque
   collapsed:: true
 	- ## Dewey
@@ -446,9 +449,9 @@
   collapsed:: true
 	- [Guide de rédaction Prompt]([[Prompt]])
 - ## Économie internationale
-  collapsed:: true
 	- [[mooc économie international]]
 	- [carte des sanctions de l'Union européenne](https://www.sanctionsmap.eu/#/main?search=%7B%22value%22:%22%22,%22searchType%22:%7B%7D%7D)
+	- [[livre de référence kruckman]]
 -
 - [[psychologie]]
 -

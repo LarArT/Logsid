@@ -1,5 +1,5 @@
 - Exportarteur -
-- transiteur ou freihgt forwarder - commissionnaire
+- transiteur ou freihgt forwarder - commissionnaire le transport
 - Assureur
 	- Douane
 - Crédit documentaire

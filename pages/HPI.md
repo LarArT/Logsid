@@ -1,0 +1,43 @@
+- HPI (Hogan Personality Inventory) - Échelles et Sous-échelles
+	- 1. Stabilité Émotionnelle (Adjustment)
+		- Confiance
+		- Absence de regrets
+		- Calme
+		- Sans anxiété
+		- Optimisme
+	- 2. Ambition (Ambition)
+		- Compétitif
+		- Confiance en soi
+		- Énergique
+		- Orienté vers les résultats
+		- Leadership
+	- 3. Sociabilité (Sociability)
+		- Besoin d'interaction
+		- Grégaire
+		- Enthousiaste
+		- Expressif
+		- Orienté vers les autres
+	- 4. Sensibilité Interpersonnelle (Interpersonal Sensitivity)
+		- Tact
+		- Perceptif
+		- À l'écoute
+		- Attentionné
+		- Soutien
+	- 5. Prudence (Prudence)
+		- Responsable
+		- Consciencieux
+		- Organisé
+		- Fiable
+		- Discipliné
+	- 6. Curiosité (Inquisitive)
+		- Imaginatif
+		- Créatif
+		- Ouvert d'esprit
+		- Intellectuel
+		- Visionnaire
+	- 7. Apprentissage (Learning Approach)
+		- Orientation scolaire
+		- Intérêt pour la formation
+		- Lecture
+		- Mémorisation
+		- Goût pour les études
