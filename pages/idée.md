@@ -1,4 +1,5 @@
 - [[note de lecture]]
+- [[open data]]
 - [[Outils de communication]]
 - [[mooc]]
 - [[à approfondir]]
@@ -36,6 +37,7 @@
 	- Formation : isteli
 	- [[réaliser une étude de marché]]
 	- [mooc bpi](https://academiedelexport.fr/catalogue/recherche?f[]=10&pr[]=0)
+	- [[lectures/mooc découvrez les processus au cœur de la logistique]]
 	- [[Manuel et plateforme de référence]]
 - # SST
   collapsed:: true
@@ -86,6 +88,7 @@
 			- Environnement de travail
 			- Compétence du travailleur
 - # sécurité / sûreté / analyste
+  collapsed:: true
 	- [[formation]]
 	- [[cartographie des risques]]
 	- ## Urbanisme
@@ -308,73 +311,70 @@
 	- [Table de composition nutritionnelle AnSES](https://ciqual.anses.fr/?hl=fr-FR)
 	- Tag:: sante
 - # science
-- Achat à pour expérience pédagogique : https://www.pierron.fr/
-- ## mathématiques
-	- [[mathématiques]]
-	- [[cryptogaphie]]
--
-- ## biologie
-  collapsed:: true
-	- [[biologie]]
-- ## électricité
-  collapsed:: true
-	- [[électricité]]
-	- [[biohaking]]
-	- [[norme perturbation électromagnétique]]
-- ## chimie
-  collapsed:: true
-	- [[chimie]]
-- -[[Informatique]]
-- # Intelligence artificielle
-  collapsed:: true
-	- Deep learning with certified robustness
+	- Achat à pour expérience pédagogique : https://www.pierron.fr/
+	- ## mathématiques
+		- [[mathématiques]]
+		- [[cryptogaphie]]
+		- [[Classification msc 2020]]
+	- ## électricité
 	  collapsed:: true
-		- • [[Probabilistic programming]] with dependent types: Cette approche permet de représenter des programmes probabilistes de manière rigoureuse et de raisonner sur leur comportement.
-		- • Neuro-symbolic Al: Cette approche vise à combiner les réseaux de neurones avec des représentations symboliques pour créer des systèmes d'intelligence artificielle plus flexibles et plus interprétables. Avez-vous d'autres questions sur ce . C'est un domaine de recherche hybride qui vise à combiner les forces des approches symboliques (comme la programmation logique) et des approches connexionnistes (comme les réseaux de neurones
-		- Régulation contrôle
+		- [[électricité]]
+		- [[biohaking]]
+		- [[norme perturbation électromagnétique]]
+	- ## Informatique
+		- -[[Informatique]]
+	- ## biologie
+	  collapsed:: true
+		- [[biologie]]
+	- ## chimie
+	  collapsed:: true
+		- [[chimie]]
+	- ## Intelligence artificielle
+	  collapsed:: true
+		- Deep learning with certified robustness
 		  collapsed:: true
-			- https://www.peren.gouv.fr/
-		- [[Logique]]
-		  collapsed:: true
-			- Conférence
+			- • [[Probabilistic programming]] with dependent types: Cette approche permet de représenter des programmes probabilistes de manière rigoureuse et de raisonner sur leur comportement.
+			- • Neuro-symbolic Al: Cette approche vise à combiner les réseaux de neurones avec des représentations symboliques pour créer des systèmes d'intelligence artificielle plus flexibles et plus interprétables. Avez-vous d'autres questions sur ce . C'est un domaine de recherche hybride qui vise à combiner les forces des approches symboliques (comme la programmation logique) et des approches connexionnistes (comme les réseaux de neurones
+			- Régulation contrôle
 			  collapsed:: true
-				- https://en.m.wikipedia.org/wiki/Logic_for_Programming,_Artificial_Intelligence_and_Reasoning
-		- [[XAI]]
-		  collapsed:: true
-			- [[preuve de théorème]]
-			- # France
+				- https://www.peren.gouv.fr/
+			- [[Logique]]
 			  collapsed:: true
-				- modèles. C'est l'objectif d'HyAIAI, un projet qui associe six équipes Inria spécialisées dans le domaine : Lacodam (Rennes): inspection et débogage 
-				   Magnet (Lille), Multispeech (Nancy), Orpailleur (Nancy): injection de connaissance 
-				   SequeL (Lille) et 
-				  TAU (Saclay, issu du LIMSI et du LRI qui sont devenus le lisn (pôle mondial) et lmf; compréhension des causes
-	- [[axe de recherche française sur l'intelligence artificielle]]
-	-
-- # ressources logsec
-  collapsed:: true
-	- https://discuss.logseq.com/t/lesson-5-how-to-power-your-workflows-using-properties-and-dynamic-variables/10173?hl=fr-FR
-	- https://hub.logseq.com/features/av5LyiLi5xS7EFQXy4h4K8/getting-started-with-advanced-queries/8xwSRJNVKFJhGSvJUxs5B2
-	- **05:21** [[quick capture]]:  https://docs.logseq.com/?hl=fr-FR#/page/contents
-	- https://github.com/logseq/awesome-logseq
-- # droit
-  collapsed:: true
-	- [[introduction droit]]
-	- ## institution administrative comparer
+				- Conférence
+				  collapsed:: true
+					- https://en.m.wikipedia.org/wiki/Logic_for_Programming,_Artificial_Intelligence_and_Reasoning
+			- [[XAI]]
+			  collapsed:: true
+				- [[preuve de théorème]]
+				- # France
+				  collapsed:: true
+					- modèles. C'est l'objectif d'HyAIAI, un projet qui associe six équipes Inria spécialisées dans le domaine : Lacodam (Rennes): inspection et débogage 
+					   Magnet (Lille), Multispeech (Nancy), Orpailleur (Nancy): injection de connaissance 
+					   SequeL (Lille) et 
+					  TAU (Saclay, issu du LIMSI et du LRI qui sont devenus le lisn (pôle mondial) et lmf; compréhension des causes
+		- [[axe de recherche française sur l'intelligence artificielle]]
+		-
+	- ## droit
 	  collapsed:: true
-		- [[États-Unis]]
-		- [[Droit des obligations]]
-		- [[Ensemble des codes en vigueur en janvier 2025 en France]]#
-		- [Institution administrative comparée](https://cours-de-droit.net/institutions-administratives-comparees-a121603182/)
-	- https://jurisguide.fr/
-	- [[guide de rédaction d'un texte, la législatif]]
-	- [[rechercher jurisprudence]]
-	- [[trouver dans la formation légal]]
-	- [[deep tech]]
-	- [[rédaction juridique]]
-	- https://codes.droit.org/
-	- ### juriste
-	  collapsed:: true
-		- [[la procédure d'acte de juriste]]
+		- [[introduction droit]]
+		- ## institution administrative comparer
+		  collapsed:: true
+			- [[États-Unis]]
+			- [[Droit des obligations]]
+			- [[Ensemble des codes en vigueur en janvier 2025 en France]]#
+			- [Institution administrative comparée](https://cours-de-droit.net/institutions-administratives-comparees-a121603182/)
+		- https://jurisguide.fr/
+		- [[guide de rédaction d'un texte, la législatif]]
+		- [[rechercher jurisprudence]]
+		- [[trouver dans la formation légal]]
+		- [[deep tech]]
+		- [[rédaction juridique]]
+		- https://codes.droit.org/
+		- ### juriste
+		  collapsed:: true
+			- [[la procédure d'acte de juriste]]
+	- ## sciences humaines
+		- [[méthodologie de l'enquête]]
 - # urbanisme
   collapsed:: true
 	- [[Scot (schéma de cohérence territoriale)]]
@@ -422,6 +422,7 @@
 	- [[Registre collectivité territoriale]]
 	- [[stratégie nationale résilience]]
 	- [[Concours chef de service]]
+	- [[CLSPD]]
 - # SNCF
   collapsed:: true
 	- [[opérateur de production des trains]]
@@ -452,6 +453,15 @@
 	- [[mooc économie international]]
 	- [carte des sanctions de l'Union européenne](https://www.sanctionsmap.eu/#/main?search=%7B%22value%22:%22%22,%22searchType%22:%7B%7D%7D)
 	- [[livre de référence kruckman]]
--
+	- [Décryptage matière première](https://www.ifpenergiesnouvelles.fr/enjeux-et-prospective/decryptages?hl=fr-FR)
 - [[psychologie]]
+- # Matière première
+	- [[Analyse cycle de vie]]
+-
+- # ressources logsec
+  collapsed:: true
+	- https://discuss.logseq.com/t/lesson-5-how-to-power-your-workflows-using-properties-and-dynamic-variables/10173?hl=fr-FR
+	- https://hub.logseq.com/features/av5LyiLi5xS7EFQXy4h4K8/getting-started-with-advanced-queries/8xwSRJNVKFJhGSvJUxs5B2
+	- **05:21** [[quick capture]]:  https://docs.logseq.com/?hl=fr-FR#/page/contents
+	- https://github.com/logseq/awesome-logseq
 -
