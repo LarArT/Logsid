@@ -210,21 +210,6 @@
 		- [[DPO]]
 		- [[mooc cnil]]
 		- [[sanction]]
-	- # gestion de projet
-		- [[Pratique de management de projet: 50 outils]]
-		- Mooc : https://www.pm-coaching.org/view/courses/pmp/1630790-le-project-performance-domain/5416389-performance-domain-pmbok-7-0
-		- https://pm4ngos.org/wpfd_file/project-dpro-guide-pmd-pro-2nd-edition-francais/
-		- https://www.coursera.org/learn/project-planning-fr
-		- [[les 8 domaines de performance]]
-		- [[gestion de projet disaster ready]]
-		- ## pmbok
-			- [[management adaptatif]]
-			- [[Maîtriser les 12 Principes du Management de Projet (PMBOK 7)]]
-			- Pour que la certification PMI reste à jour il faut engranger des [[PDU]]
-				- Pour cela la [plateforme du PMI](ProjectManagement.com) peut permettre de il est validé
-				- [[table des matières PMbok ]]
-		- [[mooc gdp Centrale Lille]]
-		-
 	- # gestion des risques
 		- [[registre des actifs]]
 		- https://ready.csod.com/ui/lms-learning-details/app/test/3308f459-d6c3-46a4-9223-f4c50a3ab6ee
@@ -247,6 +232,24 @@
 		- [Protection du Potentiel Scientifique et Technique (PPST)](https://armement.defense.gouv.fr/securite-et-habilitation/ppst)
 		- [Habilitation des personnes morales et physiques](https://armement.defense.gouv.fr/securite-et-habilitation/habilitation-des-personnes-morales-et-physiques)
 		- [plan de continuité des activités](https://www.economie.gouv.fr/files/hfds-guide-pca-plan-continuite-activite-_sgdsn.pdf)
+- # gestion de projet
+	- [[Pratique de management de projet: 50 outils]]
+	- Mooc : https://www.pm-coaching.org/view/courses/pmp/1630790-le-project-performance-domain/5416389-performance-domain-pmbok-7-0
+	- https://pm4ngos.org/wpfd_file/project-dpro-guide-pmd-pro-2nd-edition-francais/
+	- https://www.coursera.org/learn/project-planning-fr
+	- [[les 8 domaines de performance]]
+	- [[gestion de projet disaster ready]]
+	- [[Brainstorming]]
+	- [[évaluation]]
+	- [piloter gérer un projet par l'impact](https://www.modernisation.gouv.fr/campus-de-la-transformation-publique/catalogue-de-ressources/outil/la-mallette-du-pilotage-de)
+	- ## pmbok
+		- [[management adaptatif]]
+		- [[Maîtriser les 12 Principes du Management de Projet (PMBOK 7)]]
+		- Pour que la certification PMI reste à jour il faut engranger des [[PDU]]
+			- Pour cela la [plateforme du PMI](ProjectManagement.com) peut permettre de il est validé
+			- [[table des matières PMbok ]]
+	- [[mooc gdp Centrale Lille]]
+	-
 -
 - [[Action logement]]
 - [[conducteur de train]]
@@ -424,6 +427,7 @@
 	- [[stratégie nationale résilience]]
 	- [[Concours chef de service]]
 	- [[CLSPD]]
+	- [entretien semis directif dans le contexte d'un diagnostic de sécurité](https://www.inspq.qc.ca/sites/default/files/publications/1315_guideorgaentretienssemidiriginformcles2eed.pdf)
 - # SNCF
   collapsed:: true
 	- [[opérateur de production des trains]]

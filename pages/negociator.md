@@ -38,6 +38,7 @@
 				- [[Modèle ADN]]
 		- Parole d'expert : Rabih el Haddad (p. 211)
 	- [[Chapitre 5 : Identification de la stratégie]] (p. 231)
+		- [utilisation de la TCC](https://www.modernisation.gouv.fr/files/2021-06/ditp_sc_cartesenligne_v3_compresse_0.pdf)
 		- Section 1 : Qu'est-ce que la stratégie ? (p. 232)
 		- Parole d'expert : Jean-Michel Brière (p. 236)
 		- Section 2 : Stratégies, tactiques et techniques de négociation (p. 243)
