@@ -10,11 +10,11 @@
 - __scénario opérationnel__ := Une situation où une _Source de Risque_ réalise une _suite d'actions_ pour atteindre un _Objectif Visé_
 - __niveau de risque__ := déterminé par la _gravité des impacts_ et la _vraisemblance des scénarii opérationnels_
 -
-- Conflit, sécurité, sûrete, pca
-- . , . , Valeur métier, produit et service prioritaire -> le concept
-- . , . , Risque, dmia
-- Problème, danger, vulnérabilité,
-- Intérêt, intérêt, bien support, activité
+- Conflit, sécurité, sûrete, pca, négociation
+- . , . , Valeur métier, produit et service prioritaire -> le concept, en jeu
+- . , . , Risque, dmia, .
+- Problème, danger, vulnérabilité, .
+- Intérêt, intérêt, bien support, activité, objectif( mandascan)
 - Parti prenante, ressources
 	-
 -

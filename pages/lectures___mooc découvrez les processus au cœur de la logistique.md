@@ -1,3 +1,5 @@
+Source:: https://openclassrooms.com/fr/courses/7779336-decouvrez-les-processus-au-coeur-de-la-logistique
+
 - Distribution Resource Planning (DRP) fera une suggestion de commande à l’approvisionneur en prenant en compte différentes contraintes :
   
   disponibilité de la marchandise chez le fournisseur ; 

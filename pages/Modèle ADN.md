@@ -1,0 +1,20 @@
+- Norme
+- Vision du temps
+	- Polychronique
+	- Monochronique
+- Analyse des situations
+	- Déductive
+	- Inductive
+- Conduite des opérations
+	- Collaborative
+	- Compétitive
+- Relation interpersonnelle
+	- Formelle
+	- Informel
+- Notion de confiance
+	- Implicite
+	- Formaliser
+- Certitude
+- Prise de décision
+	- Centraliser
+	- Décentraliser

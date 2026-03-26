@@ -1,6 +1,9 @@
 - http://opendatacommons.org/licenses/odbl/1.0/
   
   manhack.net/
+- https://www.casd.eu/donnees-utilisees-sur-le-casd/
+- # Législation
+- https://leximpact.an.fr/
 - # toutes entreprises francaises
   https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/
 - # beaucoup de tout

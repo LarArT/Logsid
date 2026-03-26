@@ -160,7 +160,7 @@
 		- [[asvp]]
 	- ### brigadier
 		- [[concours police municipale]]
-		- [[framework emmie]]
+		- [[framework emmie]] <> théorie du changement (analyse de la contribution)
 		  id:: 69167737-52e6-46ac-8017-c2e9a0db3cf0
 			- [[demain, reine]]
 				- https://efus.eu/thematiques/espaces-publics/renforcer-la-confiance-entre-police-et-citoyens-un-travail-indispensable/?lang=fr&utm_source=perplexity
@@ -373,8 +373,9 @@
 		- ### juriste
 		  collapsed:: true
 			- [[la procédure d'acte de juriste]]
-	- ## sciences humaines
+	- ## sciences humaines et social
 		- [[méthodologie de l'enquête]]
+		- [valeur de référence pour valoriser les effets non marchands référencer dans le complément b de cette page](https://www.strategie-plan.gouv.fr/conseil-scientifique-des-methodes-devaluation-socioeconomique)
 - # urbanisme
   collapsed:: true
 	- [[Scot (schéma de cohérence territoriale)]]

@@ -32,6 +32,10 @@
 		- Section 2 : L'organisation de la partie adverse (p. 173)
 		- Section 3 : Les profils complexes (p. 185)
 		- Section 4 : Interculture et négociation (p. 209)
+			- Modèle culturel
+				- [[ modèle Meyer]]
+				- Modèle h o F t e D E
+				- [[Modèle ADN]]
 		- Parole d'expert : Rabih el Haddad (p. 211)
 	- [[Chapitre 5 : Identification de la stratégie]] (p. 231)
 		- Section 1 : Qu'est-ce que la stratégie ? (p. 232)
@@ -39,9 +43,11 @@
 		- Section 2 : Stratégies, tactiques et techniques de négociation (p. 243)
 		- Parole d'expert : Philippe Schmidt (p. 253)
 		- Section 3 : Le rapport de force en négociation (p. 267)
+			- [[RAPFOR]]
 		- Parole d'expert : Jean Zetlaoui (p. 268)
 		- Section 4 : L'ossature stratégique de la négociation (p. 283)
 		- Section 5 : La confirmation du mandat : le Mandascan (p. 291)
+			- [[mandascan]]
 		- Section 6 : Concessions et contreparties (p. 298)
 		- Parole d'expert : Silvia Bravard (p. 299)
 		- Section 7 : Stratégies de négociation avancées (p. 304)
