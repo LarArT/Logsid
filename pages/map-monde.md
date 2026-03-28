@@ -1,0 +1,4096 @@
+- [[anwar al-alwaki]]
+  - note :: livre morgen storm
+  - url :: https://en.wikipedia.org/wiki/Anwar_al-Awlaki
+  - [[inspire]]
+  - [[Yemen]]
+    - note :: ibn saoud est parvenu à lui ravir certaines provinces au nord en 1934 et le contentieux territorial demeure. zaydite, chiite dans le Nord Shaafi'i et soufie dans le sud le whaabisme a gagné en popularité notamment grace à lecole de Dammaj, l'un des princpaux centres d'enseignement soutenus par l'arabie. - le pays est marqué par l'opposition entre les grandes familles de sayyeds arrivées avec le prophète contre grandes familles de qadis, nobles autochtones ; Zaydis contre Chafiis
+    - url :: https://en.wikipedia.org/wiki/Yemen
+  - [[AQPA]] dirige
+    - url :: https://en.wikipedia.org/wiki/Al-Qaeda_in_the_Arabian_Peninsula
+- [[Youssef al-Qaradâwî]]
+  - url :: https://fr.wikipedia.org/wiki/Youssef_al-Qarad%C3%A2w%C3%AE
+  - [[Muslim Brotherhood]]
+  - [[Qatar]] se refugie
+    - note :: stratégie embivalent : l a été à l'avant garde des activité s et des intérets américains: base arrière guerre saddam 2003 acceuille youssuouf al Qaradawi utilisation d'al jazeera comme porte voie d'al qaida dialogue constant avec israel en acceiullant une représentation diplomation à Doha reçu Mahmoud abbas et l'ont influencé sa façon de pener et ses projets persuader les Palestiniens de modérer leur positino et de chercher des compromis avec Israel abritaient des leaders du Hamas Livre Halevy
+    - url :: https://en.wikipedia.org/wiki/Qatar
+  - [[idéologue fondamentaliste]]
+    - [[Salafi Movement]]
+  - [[Al Azhar Mosque]]
+    - url :: https://en.wikipedia.org/wiki/Al-Azhar_Mosque
+    - [[Egypte]]
+  - [[International Union For 
+Muslim Scholars]] dirige
+    - url :: https://en.wikipedia.org/wiki/International_Union_for_Muslim_Scholars
+    - [[Qatar]]
+    - [[Muslim Brotherhood]]
+- [[/Iran_Air_Flight_655 uss vincennes 88]]
+  - url :: https://en.wikipedia.org/wiki/Iran_Air_Flight_655
+- [[Abdelhak Layada]]
+  - url :: https://fr.wikipedia.org/wiki/Abdelhak_Layada
+  - [[Groupe Islamique Armée]]
+  - [[Djamel Zitouni]]
+    - url :: https://fr.wikipedia.org/wiki/Djamel_Zitouni
+    - [[Groupe Islamique Armée]]
+- [[Antar Zouabri]]
+  - note :: massacre de civils méthode très peu apprécié de Ben Laden.
+  - url :: https://fr.wikipedia.org/wiki/Antar_Zouabri
+  - [[Djamel Zitouni]] assasine
+  - [[Groupe Islamique Armée]]
+- [[Mokhtar Belmokhtar]]
+  - url :: https://fr.wikipedia.org/wiki/Mokhtar_Belmokhtar
+  - [[arabe afghan]] label
+  - [[aqmi]] dirige une katiba
+  - [[Groupe Islamique Armée]]
+    - url :: https://fr.wikipedia.org/wiki/Groupe_islamique_arm%C3%A9
+    - [[organisation combattantes irrégulières]]
+    - [[gspc]]
+      - url :: https://fr.wikipedia.org/wiki/Groupe_salafiste_pour_la_pr%C3%A9dication_et_le_combat
+      - [[aqmi]] devient
+        - url :: https://fr.wikipedia.org/wiki/Al-Qa%C3%AFda_au_Maghreb_islamique
+        - [[Al Qaeda]]
+        - [[Les Signataires Par Le Sang]] scission
+        - [[Jama'at Nasr Al Islam Wal 
+Muslimin (JNIM)]]
+          - url :: https://en.wikipedia.org/wiki/Jama%27at_Nasr_al-Islam_wal_Muslimin
+          - [[Al Qaeda]]
+  - [[Al Mourabitoune]] dirige
+    - url :: https://fr.wikipedia.org/wiki/Al-Mourabitoune
+    - [[aqmi]] ralie
+  - [[Abou Zeid]] forte animosité
+    - url :: https://fr.wikipedia.org/wiki/Abou_Ze%C3%AFd
+    - [[aqmi]] dirige une katiba
+  - [[Les Signataires Par Le Sang]] fonde
+    - url :: https://fr.wikipedia.org/wiki/Les_Signataires_par_le_sang
+    - [[Al Mourabitoune]]
+  - [[Prise D'otages D'In Amenas]]
+    - url :: https://fr.wikipedia.org/wiki/Prise_d%27otages_d%27In_Amenas
+- [[Hassan Hattab]]
+  - url :: https://fr.wikipedia.org/wiki/Hassan_Hattab
+  - [[gspc]] dirige
+  - [[Nabil Sahraoui]] succede
+    - url :: https://fr.wikipedia.org/wiki/Nabil_Sahraoui
+    - [[gspc]]
+    - [[Abdelmalek Droukdel]]
+      - url :: https://fr.wikipedia.org/wiki/Abdelmalek_Droukdel
+      - [[aqmi]] dirige
+      - [[gspc]]
+- [[arabe]]
+  - [[primauté du verbe sur la réalité. un beau discours vengeur vaut mieux que toutes les vengeances
+( Chouet acss)]]
+- [[peuple de la région et leurs dirigeants ont tendance à formement surestimer l'I des occidentaux (chouet acss)]]
+- [[Quand leurs interets sont en jeu, ils multiplient les peressions indirectes, les discours allusisfs, interminables, embrouillés et elliptiques, les recherches d'alliances extérieures, persuadés qu les occidentaux décripterons le message et qu'ils éviterons ainsi l'épeuve de fornce
+(chouet acss)]]
+- [[constantin zureick (crhetien)]]
+  - url :: https://en.wikipedia.org/wiki/Constantin_Zureiq
+  - [[Mouvement des nationalistes arabes]] fonde
+  - [[partie socialiste sud yemen]] influence
+    - [[Yemen]]
+  - [[baath]] influence
+    - url :: https://en.wikipedia.org/wiki/Ba%27ath_Party
+- [[flp]]
+  - [[Palestine Liberation 
+Organization]]
+- [[cheick yassin]]
+  - [[Hamas]] fonde
+- [[Noureddine Al Atassi]]
+  - url :: https://fr.wikipedia.org/wiki/Noureddine_al-Atassi
+  - [[neo-marxiste]]
+- [[ba'th syrie]]
+  - [[baath]]
+- [[ba'th irak]]
+  - [[baath]]
+- [[Baloutchistan]]
+  - note :: trafic en tout genre , chouet
+  - url :: https://fr.wikipedia.org/wiki/Baloutchistan
+  - [[Pakistan]]
+    - url :: https://en.wikipedia.org/wiki/Pakistan
+    - [[nord]]
+    - [[Chine]] bonne relation
+    - [[sud]]
+      - note :: populations assez ouvertes sur le monde et le commenc interantiol, tolérant. emigrés indiens . chouet:
+    - [[Operation Searchlight]]
+      - url :: https://en.wikipedia.org/wiki/Operation_Searchlight
+      - [[Bangladesh Liberation War]]
+        - url :: https://en.wikipedia.org/wiki/Bangladesh_Liberation_War
+        - [[Yahya Khan]]
+        - [[Simla Agreement]]
+          - url :: https://en.wikipedia.org/wiki/Simla_Agreement
+- [[Abdul Rachid Dostom]]
+  - url :: https://fr.wikipedia.org/wiki/Abdul_Rachid_Dostom
+  - [[Afghanistan]]
+  - [[National Front Of Afghanistan]] creer
+  - [[Northern Alliance]] m
+    - url :: https://en.wikipedia.org/wiki/Northern_Alliance
+    - [[Islamic Emirate Of 
+Afghanistan]] combat
+- [[Loya Jirga]]
+  - url :: https://en.wikipedia.org/wiki/Loya_jirga
+  - [[Afghanistan]]
+- [[Opium]]
+  - note :: %sp; %sp;Chapitre VI. Drogues : un marché global %sp; %sp;Mickaël R. Roudaut %sp; %sp;Dans Marchés criminels (2010), pages 173 à 213 B – Géopolitique de l’opium
+  - url :: https://en.wikipedia.org/wiki/Opium
+  - [[Afghanistan]]
+- [[Gulbuddin Hekmatyar]]
+  - url :: https://en.wikipedia.org/wiki/Gulbuddin_Hekmatyar
+  - [[Ghilji]]
+  - [[Muslim Youth]]
+  - [[Hezbi Islami]] digire
+    - url :: https://en.wikipedia.org/wiki/Hezbi_Islami
+    - [[Afghanistan]]
+    - [[Peshawar Seven]]
+    - [[Jamiat I Islami]] scission
+- [[minerai]]
+  - [[Afghanistan]]
+- [[Unocal Corporation]]
+  - url :: https://en.wikipedia.org/wiki/Unocal_Corporation
+  - [[gaz]] obtient immense champs 1995
+- [[Turkmenistan]]
+  - url :: https://en.wikipedia.org/wiki/Turkmenistan
+- [[Inter Services Intelligence]]
+  - note :: - pendant la guerre afgahnistan, l'isi finance le peshawar seven (composé de pachtoune excepté Rabanni) -
+  - url :: https://en.wikipedia.org/wiki/Inter-Services_Intelligence
+  - [[Pakistan]]
+  - [[Islami Jamhoori Ittehad]] dirige
+  - [[Peshawar Seven]] finance et forme
+  - [[Operation Cyclone]]
+  - [[Jamaat E Islami]] finance
+  - [[2008 Mumbai Attacks]] appui
+    - url :: https://en.wikipedia.org/wiki/2008_Mumbai_attacks
+    - [[Inde]]
+      - url :: https://en.wikipedia.org/wiki/India
+      - [[Indo Pakistani War Of 1965]]
+      - [[Sino Indian War]]
+        - url :: https://en.wikipedia.org/wiki/Sino-Indian_War
+      - [[ID 2780]]
+- [[Cambodge, où Sihanouk a été jeté dehors en 1970 parce qu'il était un proamériacain trop timide et un
+ prochinois trop voyant. ét qui Washintgton a t il choisi pour prendre sa place ? le maréchal Lon Nol, un militaire 
+d'opérette sants aucune légitimeté, q qu'ils ont abandonné du jour au lendemain n 1975. (p208 chouet ocss)]]
+- [[Mohammed Omar]]
+  - url :: https://en.wikipedia.org/wiki/Mohammed_Omar
+  - [[Osama Bin Laden]]
+  - [[Harakat I Inqilab I Islami]] fait parti
+  - [[Taliban]] dirige
+    - note :: Les US financent zia qui distribue l'argent à JI et JUI-S qui construisent madrasas pour embrigader les talibans. l'ISI, le bureau des services (finance par l'arabie) et la CIA forment et essaye de maitriser tout le petit monde contre les soviets ISLAMIC PARTIES IN PAKISTAN par Crisis group https://www.files.ethz.ch/isn/135504/216%pct;20Islamic%pct;20Parties%pct;20in%pct;20Pakistan.pdf e pakistan promeut l'islamisation pachtouns afin de faire émeregr un islamisme pachtoun dont les pratiquants seraient liés par la solidarité panislamique plus que par une logique ethnique ou tribale. . En cela, il vise à redéfinir la cause pachtoune en conditionnant idéologiquement et religieusement les populations : Khalil Nouri parle d’une stratégie de « dépachtounisation » des Pachtouns Les Talibans, un mouvement tribal plus que pachtoun Définir les Talibans comme un mouvement sociologiquement pachtoun est cependant trompeur : il faut s’intéresser à d’autres clés de lecture. Et notamment prendre en compte l’existence d’identités et de solidarités tribales ou locales. Ainsi, une étude des membres de la direction talibane montrera une surreprésentation des Pachtouns Ghilzai [36] . Plus encore, « la plupart des leaders talibans […] étaient et sont issus de la tribu Hotaki, celle du mollah Omar [37] ». Et le même constat peut être fait à d’autres niveaux de l’insurrection. Par exemple, Anand Gopal explique que presque tous les commandants insurgés du district de Spin Boldak (province de Kandahar) sont issus de la tribu des Noorzais [38] . Cette situation s’explique par la faible opérationnalité de la notion d’ethnicité. En Afghanistan, l’appartenance à un groupe macro-ethnique « ne [suppose] pas nécessairement de solidarités effectives [39] ». Au contraire, « la loyauté première de la plupart des individus est locale [40] ». L’insurrection talibane ne peut donc pas être comprise comme un phénomène ethnique, comme une mobilisation des Pachtouns ; elle se développe au niveau tribal ou local, reposant sur les qowm (réseaux de solidarité). Les Talibans constituent en cela un réseau de réseaux implantés localement : la plupart des insurgés combattent dans leur propre province et même souvent au sein de leur propre communauté [41] . Le recrutement s’effectue sur des lignes tribales, chaque réseau étant dès lors globalement homogène. %sp; %sp;Le Pakistan et l'Afghanistan : paradoxes d'une stratégie %sp; %sp;Adrien Schu %sp; %sp;Dans Politique étrangère 2013/1 (Printemps), pages 177 à 189
+    - url :: https://en.wikipedia.org/wiki/Taliban
+    - [[pachtoune]]
+      - url :: https://fr.wikipedia.org/wiki/Pachtounes
+      - [[Afghanistan]]
+        - note :: nationalite afghan : afgahnistan + les territoires pachtouns du cote pakistanais et la portion du balouchistan nationaliste pachtoun : création d'un pachtounistan indépendant Rashid, Ahmed, Olivier Roy, and Laurent Bury. L’ombre des Taliban. Paris: Éditions Autrement, 2001.
+        - url :: https://en.wikipedia.org/wiki/Afghanistan
+        - url :: https://en.wikipedia.org/wiki/Opium
+        - [[Inde]] bonne relation
+        - [[Afghanistan Conflict (1978 - present)]]
+          - note :: livre notin Rashid, Ahmed, Olivier Roy, and Laurent Bury. L’ombre des Taliban. Paris: Éditions Autrement, 2001.
+          - url :: https://en.wikipedia.org/wiki/Afghanistan_conflict_(1978%E2%80%93present)
+          - [[organisation combattantes irrégulières]] ancien
+combattant
+      - [[nord]]
+        - note :: le nord est dominé par les Patchtouns , plus "rustiques" et repliés sur eux memems , dons la population , plus homogene que celle du sud . hanefite. forte communauté chiite chouet
+      - [[Hazara People]] mésentente
+        - note :: - principalement implemnté à Bamiyan et kaboul (25%pct; de la pop) - particulièrement mal traité par les patchouns
+        - url :: https://en.wikipedia.org/wiki/Hazara_people
+        - [[Chiisme]]
+    - [[Islamic Emirate Of 
+Afghanistan]]
+      - url :: https://en.wikipedia.org/wiki/Islamic_Emirate_of_Afghanistan
+    - [[Abdul Ali Mazârî]]
+      - url :: https://fr.wikipedia.org/wiki/Abdul_Ali_Maz%C3%A2r%C3%AE
+      - [[Hezbe Wahdat]] fonde
+  - [[tribu hotaki]] appartient
+    - [[Ghilji]]
+      - url :: https://en.wikipedia.org/wiki/Ghilji
+      - [[pachtoune]] principal tribu
+      - [[Taliban]] la plupart des leader
+- [[Ali Touchent]]
+  - url :: https://fr.wikipedia.org/wiki/Ali_Touchent
+  - [[Attentats De 1995 En France]] cerveau
+    - url :: https://fr.wikipedia.org/wiki/Attentats_de_1995_en_France
+- [[Michel Debré]]
+  - url :: https://fr.wikipedia.org/wiki/Michel_Debr%C3%A9
+  - [[Fédéraliste]] Bajolet (pal)
+    - [[Union Européenne]]
+      - url :: https://fr.wikipedia.org/wiki/Union_europ%C3%A9enne
+- [[Abou Moussab Al Souri]]
+  - url :: https://fr.wikipedia.org/wiki/Abou_Moussab_al-Souri
+  - [[idéologue fondamentaliste]]
+  - [[arabe afghan]]
+  - [[Appel à la résistance islamique mondiale]]
+- [[ID 608]]
+- [[Dynastie Qing]]
+  - url :: https://fr.wikipedia.org/wiki/Dynastie_Qing
+  - [[Seconde Guerre De L'opium]]
+  - [[Révolution chinoise de 1911]]
+  - [[protectionnisme
+Balance commerciale Thé / Opium]]
+    - [[Première Guerre De 
+L'opium]]
+      - url :: https://fr.wikipedia.org/wiki/Premi%C3%A8re_guerre_de_l%27opium
+      - [[Traiité De Nankin  (1842]]
+        - url :: https://fr.wikipedia.org/wiki/Trait%C3%A9_de_Nankin
+        - [[Hong-kong]]
+      - [[Opium]]
+  - [[Chine]]
+    - note :: - « se rapproche plutot du panthéisme des romains que des mono catho - chinois sont très superstitueux et ouverts à toutes forme de croyances - il n'y a pas de vérité absolue ou de transcendance - le problème avec le Vatican ne tient pas tant à la religion elle meme qu'au caratère inacceptable d'une autorité extérieure à la Chine, d'où cette égiles officielle dite patriotique dont le Parti communiste désigne les pretres, coexsitant avec l'église souterraine dont les eveques sont secrètement nommées par le pape - les autorités chinoises comprennent mieux l'église catho, organisée sur un modèle pyramidal similaire à celui du parti communiste, que les protestants , dont l'organisation est plus diffuse prosélytisme plus subversif. - les chinois sont généralement attachés aux plaisirs de la vie terrestre et n'ont pas le sens du péché, et donc pas de sentiment de culpabilité judéo-chétien. - l'islam est probalemente la religion ue les Chinois ont le plus de mal à comprendre en raison de sa rigidité et du nombre d'interdits, il ne faut pas oublier que le cochon est un animal du zodiaque très postitif (réussite, propspérité, bonheur de vivre) p 178 Bermann, Sylvie. La Chine En Eaux Profondes. Stock, 2017.
+    - url :: https://en.wikipedia.org/wiki/China
+    - [[Guerre entre le Cambodge et le Viêt Nam]] soutien cambodge
+    - [[traité de versailles]]
+      - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Trait%25C3%25A9_de_Versailles&sa=U&ved=2ahUKEwi0won53_blAhVJyxoKHfSOCtQQFjAGegQICBAB&usg=AOvVaw0V-5IOCJrE9NSq3gqHW5tF
+- [[Empire Britannique]]
+  - url :: https://fr.wikipedia.org/wiki/Empire_britannique
+  - [[protectionnisme
+Balance commerciale Thé / Opium]]
+- [[Empire Français]]
+  - url :: https://fr.wikipedia.org/wiki/Empire_fran%C3%A7ais
+  - [[Seconde Guerre De L'opium]]
+    - url :: https://fr.wikipedia.org/wiki/Seconde_guerre_de_l%27opium
+    - [[Opium]]
+    - [[légalisation de l'opium]]
+      - note :: Conséquence directe, le début du xxe siècle vit 20 %pct; de la population chinoise, soit 120 millions de personnes, devenir opiomane [6] . Il faudra attendre 1949 et l’arrivée des communistes pour que la consommation se réduise de façon drastique. [6]A. Labrousse, Géopolitique des drogues, op. cit. p. 20.
+- [[chinois]]
+  - note :: À partir des années 1960, quand la reconquête parut impossible, les milices du Kuomintang se reconvertirent et développèrent la production d’héroïne pour le marché thaïlandais puis vietnamien alors en guerre (forte demande des soldats US). Les milices furent ensuite partiellement et temporairement mises en déroute par le pouvoir birman, appuyé en sous-main par la Chine [8] [ . La diminution de l’aide financière chinoise poussa alors le parti communiste birman à prendre une part active dans le trafic d’héroïne [9] . Les liquidités issues de l’économie du pavot furent notamment employées à l’achat d’armes chinoises, utilisées ensuite contre différentes minorités birmanes [10] Le marché birman se caractérise aujourd’hui par une diversification dans la fabrication de drogues de synthèse, la production de pavot, après une réduction sensible au début des années 2000, semblant atteindre un palier aux alentours de 400 tonnes d’opium par an [11] [11]onudc, Rapport mondial sur les drogues 2009, p. 34. . Quant à la production laotienne et thaïlandaise, après avoir lourdement chuté, elle repartirait à la hausse source chiffre : A. Labrousse, Géopolitique des drogues, op. cit. p. 20. source : %sp; %sp;Chapitre VI. Drogues : un marché global %sp; %sp;Mickaël R. Roudaut %sp; %sp;Dans Marchés criminels (2010), pages 173 à 213
+  - [[opium]] produisent (1960)
+- [[Arnaud Danjean]]
+  - url :: https://fr.wikipedia.org/wiki/Arnaud_Danjean
+  - [[UCK]]
+    - url :: https://fr.wikipedia.org/wiki/Arm%C3%A9e_de_lib%C3%A9ration_du_Kosovo
+- [[cocaïne]]
+  - note :: %sp; %sp;Chapitre VI. Drogues : un marché global %sp; %sp;Mickaël R. Roudaut %sp; %sp;Dans Marchés criminels (2010), pages 173 à 213
+  - [[Afrique de l'ouest]] plaque tournante
+40% export vers europe
+    - [[Guinée  bissau]]
+- [[Abou Mohammed Al Joulani]]
+  - url :: https://fr.wikipedia.org/wiki/Abou_Mohammed_al-Joulani
+  - [[Front Al Nosra]] fonde
+    - url :: https://fr.wikipedia.org/wiki/Front_al-Nosra
+    - [[Al Qaeda]] brance syrienne
+    - [[Hayat Tahrir Al Cham]]
+      - url :: https://fr.wikipedia.org/wiki/Hayat_Tahrir_al-Cham
+- [[Abou Jaber]]
+  - url :: https://fr.wikipedia.org/wiki/Abou_Jaber
+- [[facteur d'engagemnemt]]
+  - [[Installation Navale Russe de Tartous]]
+  - [[Guerre Civile Syrienne]]
+    - url :: https://fr.wikipedia.org/wiki/Guerre_civile_syrienne
+  - [[Gazoduc]]
+- [[Alaouite]]
+  - note :: la clan assad : entre soi, mafieu. bling bling %sp;bajolet memoire
+- [[Abu Mahdi Al Muhandis]]
+  - url :: https://en.wikipedia.org/wiki/Abu_Mahdi_al-Muhandis
+  - [[Popular Mobilization Forces]] leader
+  - [[Kata'ib Hezbollah]] dirige
+    - url :: https://en.wikipedia.org/wiki/Kata%27ib_Hezbollah
+    - [[Popular Mobilization Forces]] plus puissant groupe de (2019)
+- [[Kata'ib Al Imam Ali]]
+  - url :: https://en.wikipedia.org/wiki/Kata%27ib_al-Imam_Ali
+  - [[Popular Mobilization Forces]]
+- [[Asa'ib Ahl Al Haq]]
+  - url :: https://en.wikipedia.org/wiki/Asa%27ib_Ahl_al-Haq
+  - [[Popular Mobilization Forces]]
+  - [[Armée Du Mahdi]] assasine
+- [[Kata'ib Sayyid Al Shuhada]]
+  - url :: https://en.wikipedia.org/wiki/Kata%27ib_Sayyid_al-Shuhada
+  - [[Popular Mobilization Forces]]
+- [[Muqtada Al Sadr]]
+  - url :: https://en.wikipedia.org/wiki/Muqtada_al-Sadr
+  - [[nationaliste]]
+  - [[Armée Du Mahdi]] dirige
+    - url :: https://fr.wikipedia.org/wiki/Arm%C3%A9e_du_Mahdi
+- [[Déclaration Balfour De 
+1917]]
+  - url :: https://fr.wikipedia.org/wiki/D%C3%A9claration_Balfour_de_1917
+  - [[Foryer national juive]]
+- [[Révolte Arabe De 1916 
+1918]]
+  - url :: https://fr.wikipedia.org/wiki/R%C3%A9volte_arabe_de_1916-1918
+  - [[Empire Ottoman]] brise
+    - url :: https://fr.wikipedia.org/wiki/Empire_ottoman
+- [[Accords Sykes Picot]]
+  - url :: https://fr.wikipedia.org/wiki/Accords_Sykes-Picot
+  - [[Jordanie]]
+  - [[irak]]
+  - [[syrie]] label
+- [[Crise Du Canal De Suez]]
+  - url :: https://fr.wikipedia.org/wiki/Crise_du_canal_de_Suez
+- [[Georges Habache]]
+  - url :: https://fr.wikipedia.org/wiki/Georges_Habache
+  - [[FPLP]] fonde
+    - url :: https://fr.wikipedia.org/wiki/Front_populaire_de_lib%C3%A9ration_de_la_Palestine
+    - [[Palestine Liberation 
+Organization]]
+    - [[Dawson's Field Hijackings]]
+      - url :: https://en.wikipedia.org/wiki/Dawson%27s_Field_hijackings
+      - [[Septembre Noir]]
+        - url :: https://fr.wikipedia.org/wiki/Septembre_noir_(%C3%A9v%C3%A9nement)
+        - [[camp palestinien de jordanie]] bombardement
+    - [[Francois Genoud]]
+      - url :: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Genoud
+      - [[Adolf Hitler]]
+      - [[Mohammed Amin Al Husseini]]
+        - url :: https://fr.wikipedia.org/wiki/Mohammed_Amin_al-Husseini
+        - [[Muslim Brotherhood]]
+        - [[Adolf Hitler]]
+          - url :: https://en.wikipedia.org/wiki/Adolf_Hitler
+      - [[Said Ramadan]]
+        - url :: https://en.wikipedia.org/wiki/Said_Ramadan
+        - [[Hassan Al Banna]] fils
+        - [[cia]]
+        - [[Abul A'la Maududi]]
+          - url :: https://en.wikipedia.org/wiki/Abul_A%27la_Maududi
+          - [[Pakistan]]
+          - [[Sayyid Qutb]] influence
+          - [[idéologue fondamentaliste]]
+          - [[Muhammad Zia Ul Haq]] influence
+          - [[Constitution Of Pakistan Of 
+1956]] favorable
+(victoire de l'islam)
+            - url :: https://en.wikipedia.org/wiki/Constitution_of_Pakistan_of_1956
+          - [[Jamaat E Islami]] fonde
+            - url :: https://en.wikipedia.org/wiki/Jamaat-e-Islami
+            - [[Opposition To The Partition 
+Of India]] une et indivisible
+            - [[Islami Jamhoori Ittehad]]
+            - [[ittehad Tanzeem Ul Madaris-e-Deeniya]]
+            - [[Lahore]]
+              - url :: https://en.wikipedia.org/wiki/Lahore
+              - [[Pakistan]]
+            - [[Pakistan National Alliance]]
+              - url :: https://en.wikipedia.org/wiki/Pakistan_National_Alliance
+              - [[1977 Pakistani General 
+Election]] minorite
+                - url :: https://en.wikipedia.org/wiki/1977_Pakistani_general_election
+                - [[Operation Fairplay]]
+                  - url :: https://en.wikipedia.org/wiki/Operation_Fairplay
+                  - [[Zulfikar Ali Bhutto]]
+                    - note :: partisan d'une ligne innflexible vis à vis de l'inde, passant par un rapprochement avec la Chine communiste, ce qui lui vaut alors quelques inimitiés à Washington. nationalisation des industries de base , les banques et compagnies d'assurances. pakistan en 100 question de Boquerat
+                    - url :: https://en.wikipedia.org/wiki/Zulfikar_Ali_Bhutto
+                    - [[Ayub Khan (general)]] ministre
+                    - [[Simla Agreement]]
+                    - [[chiite]]
+                    - [[Pakistan Peoples Party]]
+                      - url :: https://en.wikipedia.org/wiki/Pakistan_Peoples_Party
+                      - [[1970 Pakistani General 
+Election]] minorite
+                      - [[socialiste]]
+                      - [[1977 Pakistani General 
+Election]] majorite
+                      - [[1990 Pakistani General 
+Election]] minorite
+                      - [[1988 Pakistani General 
+Election]] majorite
+                        - url :: https://en.wikipedia.org/wiki/1988_Pakistani_general_election
+                    - [[Operation Gibraltar]]
+                      - url :: https://en.wikipedia.org/wiki/Operation_Gibraltar
+                      - [[Indo Pakistani War Of 1965]]
+                    - [[Constitution Of Pakistan]]
+                      - url :: https://en.wikipedia.org/wiki/Constitution_of_Pakistan
+            - [[Ahmadiyya]]
+              - note :: - persécuté aussi bien par les fondamentalistes sunites que chiites - forte immigration vers USA Boquérat, Gilles. Le Pakistan en 100 questions, 2018.
+              - url :: https://en.wikipedia.org/wiki/Ahmadiyya
+        - [[Malcolm X]]
+          - url :: https://en.wikipedia.org/wiki/Malcolm_X
+      - [[banque arabe de geneve]] dirige
+        - [[Front De Liberation 
+Nationale (Algérie)]]
+          - url :: https://fr.wikipedia.org/wiki/Front_de_lib%C3%A9ration_nationale_(Alg%C3%A9rie)
+          - [[Algérie]]
+            - url :: https://fr.wikipedia.org/wiki/Alg%C3%A9rie
+            - [[Guerre Des Sables]]
+            - [[Sonatrach]]
+              - url :: https://fr.wikipedia.org/wiki/Sonatrach
+- [[Khaled Mashal]]
+  - url :: https://en.wikipedia.org/wiki/Khaled_Mashal
+  - [[Hamas]] dirige (96-17
+  - [[Arabie Saoudite]] plus proche des saoud que
+haniyeh ptot iran
+- [[Franjo Tudman]]
+  - url :: https://fr.wikipedia.org/wiki/Franjo_Tu%C4%91man
+  - [[Croate]]
+    - [[Guerre De Bosnie herzegovine]]
+    - [[catholique]]
+- [[Bakir izetbegovic]]
+  - url :: https://fr.wikipedia.org/wiki/Bakir_Izetbegovi%C4%87
+  - [[Bosniaque]] présient
+- [[Sarajevo]]
+  - url :: https://fr.wikipedia.org/wiki/Sarajevo
+- [[Ratko mladic]]
+  - url :: https://fr.wikipedia.org/wiki/Ratko_Mladi%C4%87
+  - [[Serbie]]
+- [[Radovan karadzic]]
+  - url :: https://fr.wikipedia.org/wiki/Radovan_Karad%C5%BEi%C4%87
+  - [[Serbie]]
+- [[Philippe Rondot]]
+  - url :: https://fr.wikipedia.org/wiki/Philippe_Rondot
+- [[Masoud Barzani]]
+  - note :: Members of the Barzani family allegedly control a large number of commercial enterprises in Iraqi Kurdistan, with a gross value of several billion dollars
+  - url :: https://en.wikipedia.org/wiki/Masoud_Barzani
+  - [[ID 863]]
+- [[Abdul Aziz Al Hakim]]
+  - url :: https://en.wikipedia.org/wiki/Abdul_Aziz_al-Hakim
+  - [[Supreme Council For The 
+Islamic Revolution In Iraq]] dirige
+    - url :: https://en.wikipedia.org/wiki/Supreme_Council_for_the_Islamic_Revolution_in_Iraq
+    - [[Badr Organization]]
+      - url :: https://en.wikipedia.org/wiki/Badr_Organization
+      - [[Popular Mobilization Forces]]
+      - [[irak]]
+        - url :: https://en.wikipedia.org/wiki/Iraq
+        - [[Condor (Argentine Missile)]]
+        - [[Osirak]]
+          - url :: https://fr.wikipedia.org/wiki/Osirak
+          - [[Operation Opera]]
+            - url :: https://en.wikipedia.org/wiki/Operation_Opera
+        - [[Hezbollah]]
+          - url :: https://en.wikipedia.org/wiki/Hezbollah
+          - [[March 8 Alliance]]
+          - [[plaine de la bekaa]] camp d'entreinement
+            - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Plaine_de_la_Bekaa&sa=U&ved=2ahUKEwjHrY2j1MjlAhXhyIUKHWNQCScQFjAKegQICBAB&usg=AOvVaw0XfXCZZB5Ee32PdQ1Ae6y-
+        - [[PDKI]]
+          - [[PDK]]
+        - [[Hezbollah Al-Hejaz]]
+          - url :: https://www.google.com/url?q=https://en.wikipedia.org/wiki/Hezbollah_Al-Hejaz&sa=U&ved=2ahUKEwik-O6L1cjlAhUSuRoKHSlPDUwQFjAAegQICRAB&usg=AOvVaw0vVVr3SWYNxoAwaErrmOaB
+          - [[chiite d'arabie]]
+          - [[Hedjaz]]
+            - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Hedjaz&sa=U&ved=2ahUKEwikje2m1sjlAhWiAmMBHUhXDMAQFjAAegQICRAB&usg=AOvVaw1TPiMytFk8_yFf_fIX17uM
+      - [[Chiisme]]
+        - url :: https://fr.wikipedia.org/wiki/Chiisme
+      - [[Guerre Iran Irak]] combat sadam
+        - url :: https://fr.wikipedia.org/wiki/Guerre_Iran-Irak
+- [[Oslo Accords]]
+  - url :: https://en.wikipedia.org/wiki/Oslo_Accords
+- [[Yitzhak Rabin]]
+  - url :: https://en.wikipedia.org/wiki/Yitzhak_Rabin
+  - [[Shimon Peres]] relation tendu
+(halévy)
+    - url :: https://en.wikipedia.org/wiki/Shimon_Peres
+- [[Labor Party (Israel)]]
+  - url :: https://en.wikipedia.org/wiki/Labor_Party_(Israel)
+- [[Benjamin Netanyahu]]
+  - url :: https://en.wikipedia.org/wiki/Benjamin_Netanyahu
+- [[Menahem Begin]]
+  - url :: https://fr.wikipedia.org/wiki/Menahem_Begin
+  - [[Hussein Of Jordan]] aucune relation
+    - note :: humanïté, attention aux autres , humilité . bajolet memorie
+    - url :: https://en.wikipedia.org/wiki/Hussein_of_Jordan
+    - [[Jordanie]]
+      - url :: https://fr.wikipedia.org/wiki/Jordanie
+      - [[royaliste]] soutien
+      - [[Yom Kippur War]]
+      - [[Guerre Des Six Jours]]
+        - url :: https://fr.wikipedia.org/wiki/Guerre_des_Six_Jours
+    - [[Rogers Plan]]
+      - url :: https://en.wikipedia.org/wiki/Rogers_Plan
+      - [[Dawson's Field Hijackings]]
+    - [[ID 900]]
+    - [[Israel jordan Peace 
+Treaty]]
+      - url :: https://en.wikipedia.org/wiki/Israel%E2%80%93Jordan_peace_treaty
+      - [[Israel]] ms
+- [[Haji Bakr]]
+  - note :: https://www.spiegel.de/international/world/islamic-state-files-show-structure-of-islamist-terror-group-a-1029274.html
+  - url :: https://en.wikipedia.org/wiki/Haji_Bakr
+  - [[daesh]] modelise
+  - [[Camp Bucca]]
+    - url :: https://en.wikipedia.org/wiki/Camp_Bucca
+- [[Abu Bakr Al Baghdadi]]
+  - url :: https://en.wikipedia.org/wiki/Abu_Bakr_al-Baghdadi
+  - [[daesh]] dirige
+  - [[Camp Bucca]]
+- [[Abu Omar Al Baghdadi]]
+  - url :: https://en.wikipedia.org/wiki/Abu_Omar_al-Baghdadi
+  - [[Islamic State Of Iraq]] dirige
+- [[iran]]
+  - [[Bosniaque]] soutient
+    - [[Guerre De Bosnie herzegovine]]
+      - url :: https://fr.wikipedia.org/wiki/Guerre_de_Bosnie-Herz%C3%A9govine
+    - [[sunnite]]
+- [[bosnio-serve]]
+  - [[Bosniaque]]
+- [[bosnio-croate]]
+  - [[Bosniaque]]
+- [[Corée du nord]]
+  - note :: Vers la fin des années 1980, la coree du nord devient l'in des plus importants fournisseurs d'équipement non conventionnel du Moyen Orient. L'égypte est un allié clé des USA dans la région depuis la première guerre du golfe pourtant jusquqqen 2000, elle a continué à se fournir en Scud de fabrication nord-coréenne. Paarmi les clients de Pyongyang, on compte l'iran, l'irak et la syrie. gamme des missiles : moyenne et longue portée. (Halévy)
+  - url :: https://en.wikipedia.org/wiki/North_Korea
+  - [[Soviet - Afghan War]] contre invasion
+- [[ressource minière]]
+- [[Abdul Qadeer Khan]]
+  - url :: https://en.wikipedia.org/wiki/Abdul_Qadeer_Khan
+  - [[Pakistan And Weapons Of Mass 
+Destruction]]
+    - url :: https://en.wikipedia.org/wiki/Pakistan_and_weapons_of_mass_destruction
+  - [[Khan Research Laboratories ou kahuta]]
+    - url :: https://www.google.com/url?q=https://en.wikipedia.org/wiki/Khan_Research_Laboratories&sa=U&ved=2ahUKEwjB2qCNo9DlAhUMoRQKHQLNAFYQFjAPegQIBBAB&usg=AOvVaw2DuAZW79hXOrG9Ot9IqFEZ
+    - [[programme atomique]] aide
+- [[Argentina]]
+  - url :: https://en.wikipedia.org/wiki/Argentina
+  - [[Condor (Argentine Missile)]]
+    - url :: https://en.wikipedia.org/wiki/Condor_(Argentine_missile)
+- [[France]]
+  - [[Osirak]]
+- [[Omar Abdel Rahman]]
+  - url :: https://en.wikipedia.org/wiki/Omar_Abdel-Rahman
+  - [[Al Jama'a Al Islamiyya]] leader
+  - [[1993 World Trade Center 
+Bombing]]
+    - url :: https://en.wikipedia.org/wiki/1993_World_Trade_Center_bombing
+- [[Harkat Ul Mujahideen]]
+  - url :: https://en.wikipedia.org/wiki/Harkat-ul-Mujahideen
+  - [[organisation combattantes irrégulières]]
+  - [[Osama Bin Laden]]
+    - url :: https://en.wikipedia.org/wiki/Osama_bin_Laden
+    - [[Al Qaeda]] dirige
+    - [[Maktab Al Khidamat
+Bureau des services]] fonde
+    - [[Al Shamal Islamic Bank]] investi
+    - [[Djihad contre les juifs et les croisés]]
+      - url :: https://web.archive.org/web/20110807022958/http://www.pbs.org/newshour/terrorism/international/fatwa_1996.html
+    - [[Turki Bin Faisal Al Saud]]
+      - url :: https://en.wikipedia.org/wiki/Turki_bin_Faisal_Al_Saud
+      - [[lien probable avec MI6 ou cia]]
+      - [[General Intelligence Presidency]] dirige
+        - url :: https://en.wikipedia.org/wiki/Al_Mukhabarat_Al_A%27amah
+      - [[Faisal Of Saudi Arabia]] fils de
+        - note :: sobriety, piety, puritanism, thriftiness, and modernization. - a créé un certain nombre d'institution pour contrer le panarabisme de Nasser - fils de la fille du premier mufti du royaume
+        - url :: https://en.wikipedia.org/wiki/Faisal_of_Saudi_Arabia
+        - [[economie]] redresse
+        - [[clan sudairi]] s'allie
+        - [[Saud Of Saudi Arabia]]
+          - note :: plundering of oil revenues, luxurious palaces, and conspiracy inside and outside of Saudi Arabia
+          - url :: https://en.wikipedia.org/wiki/Saud_of_Saudi_Arabia
+          - [[panarabe]]
+          - [[economie]] endette le pays très forteent
+- [[Foreign policy of the Bill Clinton administration]]
+  - url :: https://en.wikipedia.org/wiki/Foreign_policy_of_the_Bill_Clinton_administration#Bosnia
+- [[anwar al shaaban]]
+  - [[organisation combattantes irrégulières]] dirige
+  - [[Ayman Al Zawahiri]]
+    - url :: https://fr.wikipedia.org/wiki/Ayman_al-Zawahiri
+    - [[Al Qaeda]]
+    - [[Egyptian Islamic Jihad]] fonde
+    - [[Mir Hossein Moussavi]] fonde
+    - [[idéologue fondamentaliste]]
+    - [[Abu Musab al-Zarqawi]]
+      - url :: https://en.wikipedia.org/wiki/Abu_Musab_al-Zarqawi
+      - [[Al Qaida In Iraq]] fonde
+        - url :: https://en.wikipedia.org/wiki/Al-Qaida_in_Iraq
+        - [[Islamic State Of Iraq]]
+          - url :: https://en.wikipedia.org/wiki/Islamic_State_of_Iraq
+          - [[daesh]]
+  - [[El Mudžahid]]
+    - url :: https://en.wikipedia.org/wiki/Bosnian_mujahideen
+- [[4 terroriste du 11 / 09]]
+  - [[El Mudžahid]]
+  - [[septembre 11 Attacks]]
+    - url :: https://en.wikipedia.org/wiki/September_11_attacks
+    - [[Al Qaeda]]
+- [[Ahmed Hassan Al Bakr]]
+  - url :: https://en.wikipedia.org/wiki/Ahmed_Hassan_al-Bakr
+  - [[irak]]
+- [[Nadhmi Auchi]]
+  - url :: https://fr.wikipedia.org/wiki/Nadhmi_Auchi
+  - [[Nadhmi Auchi]] gère les intérets
+    - url :: https://fr.wikipedia.org/w/index.php?title=Nadhmi_Auchi&oldid=64249376
+    - [[Saddam Hussein]]
+      - url :: https://en.wikipedia.org/wiki/Saddam_Hussein
+      - [[irak]] label
+      - [[invasion du koweit]]
+        - url :: https://en.wikipedia.org/wiki/Invasion_of_Kuwait
+        - [[Jordanie]] blocus d'aqaba
+        - [[koweit]]
+          - url :: https://en.wikipedia.org/wiki/Kuwait
+      - [[Guerre du Golf]]
+        - url :: https://en.wikipedia.org/wiki/Gulf_War
+        - [[koweit]] label
+- [[Communauté Russe D'Israel]]
+  - url :: https://fr.wikipedia.org/wiki/Communaut%C3%A9_russe_d%27Isra%C3%ABl
+  - [[Israel]] arrivage massive 90
+- [[Hassan Al Hudaybi]]
+  - url :: https://en.wikipedia.org/wiki/Hassan_al-Hudaybi
+  - [[Sayyid Qutb]] rejet appel à la violence de
+    - url :: https://fr.wikipedia.org/wiki/Sayyid_Qutb
+    - [[Muslim Brotherhood]] ideologue
+    - [[idéologue fondamentaliste]]
+    - [[al-Tanzim al-Sirri]]
+  - [[Hassan Al Banna]] succede
+    - url :: https://en.wikipedia.org/wiki/Hassan_al-Banna
+    - [[Muslim Brotherhood]]
+    - [[idéologue fondamentaliste]]
+- [[Ibn Taymiyah]]
+  - url :: https://en.wikipedia.org/wiki/Ibn_Taymiyah
+  - [[idéologue fondamentaliste]]
+- [[Muhammad Abd Al Salam Faraj]]
+  - url :: https://en.wikipedia.org/wiki/Muhammad_abd-al-Salam_Faraj
+  - [[idéologue fondamentaliste]] s
+  - [[Egyptian Islamic Jihad]]
+    - note :: - originaire du Caire - compte parmi eux : abboud al-zomor , issam al qamari, et zawahiri - prise de pouvoir repose sur un putch acclamés par la nation reconnaissante - dirigé par zawahiri
+    - url :: https://en.wikipedia.org/wiki/Egyptian_Islamic_Jihad
+    - [[organisation combattantes irrégulières]]
+    - [[Abdullah Azzam]]
+      - note :: le parcours de Azzam motre qu'ul rejetu toute querelle intestine musulmane, comme la rébellion palestinienne de septembre 1970 en Jordanie. rejet des theses de faraj %sp;(et donc de zawahiri apres sa radicalisation suite au accord de saddate à camp davis) qui prone le renversement des gouvernements y compris musulman. il émet meme une fatwaspécifiant que l'emploi des fonds du djihad pour des terroristes serait contraire à la loi islamique. (sageman, le varai visage des terroristes p21)
+      - url :: https://en.wikipedia.org/wiki/Abdullah_Azzam
+      - [[Muslim Brotherhood]] intègre
+      - [[Maktab Al Khidamat
+Bureau des services]] fonde
+      - [[Lashkar E Taiba]] fonde
+      - [[Osama Bin Laden]] enseigne
+      - [[Hamas]]
+        - url :: https://en.wikipedia.org/wiki/Hamas
+        - [[Izz Ad Din Al Qassam Brigades]]
+          - url :: https://en.wikipedia.org/wiki/Izz_ad-Din_al-Qassam_Brigades
+      - [[Sada training camp]] creer
+    - [[AL fath]]
+- [[Sayyed Imam Al Sharif]]
+  - url :: https://en.wikipedia.org/wiki/Sayyed_Imam_Al-Sharif
+  - [[Egyptian Islamic Jihad]] fonde
+- [[Marc Sageman]]
+  - url :: https://en.wikipedia.org/wiki/Marc_Sageman
+  - [[cia]]
+  - [[Ahmad Shah Massoud]]
+    - url :: https://en.wikipedia.org/wiki/Ahmad_Shah_Massoud
+    - [[Afghanistan]]
+    - [[Tajiks]]
+    - [[Jamiat I Islami]]
+    - [[Shura E Nazar]]
+      - url :: https://en.wikipedia.org/wiki/Shura-e_Nazar
+      - [[Jamiat I Islami]] émanation
+- [[Moro Islamic Liberation Front]]
+  - url :: https://en.wikipedia.org/wiki/Moro_Islamic_Liberation_Front
+  - [[Bangsamoro (political Entity)]]
+    - url :: https://en.wikipedia.org/wiki/Bangsamoro_(political_entity)
+    - [[Philippines]]
+      - url :: https://en.wikipedia.org/wiki/Philippines
+- [[Abdurajak Abubakar Janjalani]]
+  - url :: https://en.wikipedia.org/wiki/Abdurajak_Abubakar_Janjalani
+  - [[arabe afghan]]
+  - [[Abu Sayyaf]] fonde
+    - url :: https://en.wikipedia.org/wiki/Abu_Sayyaf
+    - [[Philippines]]
+    - [[daesh]]
+- [[Salafia Jihadia]]
+  - url :: https://en.wikipedia.org/wiki/Salafia_Jihadia
+  - [[Maroc]]
+- [[Michael G Vickers]]
+  - url :: https://en.wikipedia.org/wiki/Michael_G._Vickers
+  - [[Soviet - Afghan War]] ss
+    - note :: Rashid, Ahmed, Olivier Roy, and Laurent Bury. L’ombre des Taliban. Paris: Éditions Autrement, 2001.
+    - url :: https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War
+    - [[Afghanistan]] s
+    - [[Geneva Accord (1988)]]
+      - url :: https://en.wikipedia.org/wiki/Geneva_Accord_(1988)
+      - [[Soviet Withdrawal From 
+Afghanistan]]
+        - url :: https://en.wikipedia.org/wiki/Soviet_withdrawal_from_Afghanistan
+        - [[operation typhoon]]
+          - [[Ahmad Shah Massoud]] anéantissement
+  - [[cia]]
+    - note :: - proche de la maison blanche, beaucoup moins des chambres des représentants (Paix en guerre farow)
+    - [[USA]] s
+    - [[1953 Iranian Coup D'etat]]
+    - [[Operation IA Feature]]
+    - [[organisation combattantes irrégulières]]
+      - note :: la guerre de Bosnie, laboratoire de la guerre Syrie - Documentaire Histoire https://www.youtube.com/watch?v=KdOZYrMkdm8
+      - url :: https://www.cairn.info/load_pdf.php?ID_ARTICLE=STRAT_103_0219&download=1
+      - [[Croate]] passe par jusqu'en 93
+prise otage militaire croate
+      - [[Bosniaque]]
+- [[the revolution in war]]
+  - note :: Rashid, Ahmed, Olivier Roy, and Laurent Bury. L’ombre des Taliban. Paris: Éditions Autrement, 2001.
+  - url :: http://www.preservingourhistory.com/FutureofWarfare.pdf
+- [[Muhammad Ali Of Egypt]]
+  - url :: https://en.wikipedia.org/wiki/Muhammad_Ali_of_Egypt
+  - [[Egypte]] fondateur de 
+l'Egypte moderne
+  - [[Emirate Of Diriyah]] met fin à
+  - [[Empire Ottoman]]
+    - url :: https://fr.wikipedia.org/wiki/Empire_ottoman
+  - [[Dynastie Saoud]] reponse hors des lieux saint (1814)
+    - note :: Genèse et structure de l'État moderne, 1902-1973 Pascal Ménoret Dans L'énigme saoudienne (2003), pages 85 à 119
+    - url :: https://en.wikipedia.org/wiki/House_of_Saud
+    - [[Muhammad Ibn Abd Al Wahhab]]
+      - url :: https://en.wikipedia.org/wiki/Muhammad_ibn_Abd_al-Wahhab
+      - [[Wahhabism]] label
+      - [[Banu tamims]]
+    - [[Emirate Of Diriyah]]
+      - url :: https://en.wikipedia.org/wiki/Emirate_of_Diriyah
+      - [[Karbala]] rase
+        - url :: https://en.wikipedia.org/wiki/Karbala
+        - [[Chiisme]] ville sainte
+      - [[la mecque]] s'empare de
+        - url :: https://en.wikipedia.org/wiki/Mecca
+    - [[Abdelaziz Ben Abderrahmane 
+Al Saoud]]
+      - url :: https://fr.wikipedia.org/wiki/Abdelaziz_ben_Abderrahmane_Al_Saoud
+      - [[Pacte Du Quincy]]
+        - url :: https://fr.wikipedia.org/wiki/Pacte_du_Quincy
+  - [[History Of Egypt Under The 
+Muhammad Ali Dynasty]]
+    - url :: https://en.wikipedia.org/wiki/History_of_Egypt_under_the_Muhammad_Ali_dynasty
+- [[Gamal Abdel Nasser]]
+  - url :: https://en.wikipedia.org/wiki/Gamal_Abdel_Nasser
+  - [[Muslim Brotherhood]] purge
+    - note :: - s'incrit en opposition aux puissance coloniale (politique)(porte peu d'attention au divergence de courant tant chiite que sunite) contrairement au salafisme qui prend son origine au hanbalisme, au waahbisme en opposition au soufisme (culte des saints) et au chiisme (intermédiaire entre dieu et le croyant) (teologique) (Stéphane Lacroix 20:00 https://www.youtube.com/watch?v=25HB1WN1v6M) -
+    - url :: https://en.wikipedia.org/wiki/Muslim_Brotherhood
+    - [[Al Islah (Yemen)]]
+    - [[Salafi Movement]]
+    - [[Anwar Sadat]]
+      - url :: https://en.wikipedia.org/wiki/Anwar_Sadat
+      - [[Egypte]] presides
+      - [[Safari Club]]
+      - [[Camp David Accords]]
+        - url :: https://en.wikipedia.org/wiki/Camp_David_Accords
+        - [[Al Djihad]]
+          - note :: - les accords %sp;de camp Davids mène à la radicalisation des jaama islamia (petit groupe informel réunissant des activismes disséminés sur l'ensemble du territoire egyptien) et la création de %sp;al djihad - réparti en deux entités : les saids (haute égyptes) et les cairotes
+          - [[Egyptian Islamic Jihad]] siscion
+          - [[Anwar Sadat]] assine
+  - [[républicain]] soutien
+    - [[guerre civile du Yémen du Nord]]
+      - url :: https://www.lesclesdumoyenorient.com/Guerre-civile-au-Yemen-du-Nord.html
+  - [[Free Officers Movement 
+(Egypt)]]
+    - url :: https://en.wikipedia.org/wiki/Free_Officers_Movement_(Egypt)
+    - [[Egyptian Revolution Of 1952]]
+- [[Franklin Delano Roosevelt]]
+  - url :: https://fr.wikipedia.org/wiki/Franklin_Delano_Roosevelt
+  - [[Pacte Du Quincy]]
+- [[Roi Faisal I]]
+  - url :: https://en.wikipedia.org/wiki/Faisal_I_of_Iraq
+  - [[irak]]
+  - [[Hachemites]]
+    - url :: https://en.wikipedia.org/wiki/Hashemites
+    - [[Jordanie]]
+    - [[la mecque]] gere
+    - [[Family Tree Of Muhammad]]
+      - url :: https://en.wikipedia.org/wiki/Family_tree_of_Muhammad
+      - [[Sharif]]
+        - url :: https://en.wikipedia.org/wiki/Sharif
+- [[Rachid Ramda]]
+  - url :: https://fr.wikipedia.org/wiki/Rachid_Ramda
+  - [[Attentats De 1995 En France]] finance
+- [[Londonistan (term)]]
+  - url :: https://en.wikipedia.org/wiki/Londonistan_(term)
+- [[State Of Palestine]]
+  - url :: https://en.wikipedia.org/wiki/State_of_Palestine
+  - [[Palestine (region)]]
+    - url :: https://en.wikipedia.org/wiki/Palestine_(region)
+- [[Gaafar Nimeiry]]
+  - url :: https://en.wikipedia.org/wiki/Gaafar_Nimeiry
+  - [[soudan]]
+- [[Faysal Bank]]
+  - note :: banque off-shore gérant les fonds saoudiens (chouet)
+  - url :: https://www.faysalbank.com/en/about-us/group-information/
+  - [[Omar El Bechir]] soutien
+    - url :: https://fr.wikipedia.org/wiki/Omar_el-Bechir
+    - [[Muslim Brotherhood]]
+    - [[soudan]]
+      - note :: Arabes musulmans au nord , tribus africaines islamisées à l'ouest , tribus africaines chritianisées ou animiste au sud
+      - url :: https://en.wikipedia.org/wiki/Sudan
+- [[Hassan Al Turabi]]
+  - url :: https://en.wikipedia.org/wiki/Hassan_Al-Turabi
+  - [[Muslim Brotherhood]]
+  - [[Omar El Bechir]] influence
+  - [[National Islamic Front]] fonde
+    - url :: https://en.wikipedia.org/wiki/National_Islamic_Front
+    - [[ID 1735]]
+- [[nord]]
+  - [[Zaidiyyah]]
+    - note :: tribaux, montagnards, belliqueux - descendant du prophete du coté d'ali
+    - url :: https://en.wikipedia.org/wiki/Zaidiyyah
+    - [[Chiisme]]
+    - [[Ali Abdullah Saleh]]
+      - url :: https://en.wikipedia.org/wiki/Ali_Abdullah_Saleh
+      - [[Yemen]]
+      - [[Saddam Hussein]] bonne relation
+      - [[Hashid]] appartient
+    - [[’imamat zaydite au Yémen (1948-1962)]]
+      - url :: https://www.lesclesdumoyenorient.com/Fin-de-l-imamat-zaydite-au-Yemen.html
+      - [[guerre civile du Yémen du Nord]]
+- [[Wa'el Hamza Julaidan]]
+  - url :: https://en.wikipedia.org/wiki/Wa%27el_Hamza_Julaidan
+  - [[Maktab Al Khidamat
+Bureau des services]] fonde
+- [[URSS]]
+  - [[républicain]] soutien
+- [[Mohamed Siad Barre]]
+  - url :: https://en.wikipedia.org/wiki/Mohamed_Siad_Barre
+  - [[Somalie]]
+    - note :: cas unique du contient africain car toute loa population y parle la meme langue, appartient à la meme ethnie et pratiqeu la meme religion. la segmentation de la societte y est organisee en grandes familles et en clans en général rivaux. (chouet) - le drapeau de la Somalie représente par les cinq branches de son étoile les régions constitutives de la grandae nation somali : le somaliland britannique, la somalia italiienne, l'Ogaden ethipopien, la proviince fronatoliere du nord est au kenya et le territoire francois des Afars et des issas ( le djibouti actuel )
+    - url :: https://en.wikipedia.org/wiki/Somalia
+    - [[Ogaden War]]
+      - note :: province dans lequelle réside une part importante de somali
+      - url :: https://en.wikipedia.org/wiki/Ogaden_War
+  - [[Darod clan]]
+    - url :: https://www.google.com/url?q=https://en.wikipedia.org/wiki/Darod&sa=U&ved=2ahUKEwitmIWUxeflAhWpxoUKHSjeB-EQFjABegQICBAB&usg=AOvVaw3FmTnhjOl5WDBR_AsU3Gyb
+- [[New Node]]
+- [[base militaire USA]]
+  - note :: and has provided the United States a base in Juffair since the early 1990s, although a US naval presence existed since 1948.[201] This is the home of the headquarters for Commander, United States Naval Forces Central Command (COMUSNAVCENT) / United States Fifth Fleet (COMFIFTHFLT),[202] and around 6,000 United States military personnel.[20
+  - [[USA]]
+  - [[Juffair]]
+    - url :: https://en.wikipedia.org/wiki/Juffair
+    - [[Bahrain]]
+      - note :: ressource naturelle pratiquement épuisée. principales ressources proviennent de la base navale USA, la plus importante de la région. et un paradi off-shore pour les riche Saoudiens (chouet)
+      - url :: https://en.wikipedia.org/wiki/Bahrain
+- [[Malaisie]]
+  - url :: https://en.wikipedia.org/wiki/Malaysia
+- [[Indonésie]]
+  - url :: https://en.wikipedia.org/wiki/Indonesia
+- [[Abu Bakar Ba'asyir]]
+  - url :: https://en.wikipedia.org/wiki/Abu_Bakar_Ba%27asyir
+- [[Abdullah Sungkar]]
+  - url :: https://en.wikipedia.org/wiki/Abdullah_Sungkar
+- [[Ramzi Bin Al Shibh]]
+  - url :: https://en.wikipedia.org/wiki/Ramzi_bin_al-Shibh
+  - [[septembre 11 Attacks]]
+  - [[Guantanamo Bay Detention Camp]]
+    - url :: https://en.wikipedia.org/wiki/Guantanamo_Bay_detention_camp
+- [[Abd Al Rahim Al Nashiri]]
+  - url :: https://en.wikipedia.org/wiki/Abd_al-Rahim_al-Nashiri
+  - [[Guantanamo Bay Detention Camp]]
+  - [[celulle moyen orient]]
+  - [[uss cole bombing 2000]]
+    - url :: https://en.wikipedia.org/wiki/USS_Cole_bombing
+    - [[Al Qaeda]]
+- [[Jamal Khashoggi]]
+  - note :: http://www.guillaume-dasquie.fr/secret-jamal-khashoggi/
+  - url :: https://en.wikipedia.org/wiki/Jamal_Khashoggi
+  - [[Turki Bin Faisal Al Saud]] assiste
+  - [[Osama Bin Laden]] proche de
+  - [[Asharq Al Awsat]] reporteur
+    - url :: https://en.wikipedia.org/wiki/Asharq_Al-Awsat
+  - [[lien probable avec MI6 ou cia]]
+- [[Mohammed Bin Faisal Al Saud]]
+  - url :: https://en.wikipedia.org/wiki/Mohammed_bin_Faisal_Al_Saud
+  - [[Faisal Of Saudi Arabia]] fils
+  - [[Dar Al Maal Al Islami Trust]] dirige
+    - url :: https://en.wikipedia.org/wiki/Dar_Al-Maal_Al-Islami_Trust
+    - [[Faisal Islamic Bank Of Sudan]]
+      - url :: https://en.wikipedia.org/wiki/Faisal_Islamic_Bank_of_Sudan
+      - [[Al Shamal Islamic Bank]] action de
+      - [[soudan]]
+- [[Haydar Mohamed Bin Laden]]
+  - url :: https://en.wikipedia.org/wiki/Haydar_Mohamed_Bin_Laden
+  - [[Al Shamal Islamic Bank]] board director
+    - url :: https://en.wikipedia.org/wiki/Al_Shamal_Islamic_Bank
+    - [[soudan]]
+- [[Arsenal AD]]
+  - url :: https://en.wikipedia.org/wiki/Arsenal_AD
+  - [[daesh]] vend arme
+  - [[Bulgarie]]
+    - note :: - 13 %pct; de la pop musulmans%tab; %tab;- 7 %pct; de turc communauté soudée et homogène plutot aisée %tab;- roms : pauvre et méprisés %tab;- Pomaks (bulgares islamisés) qui ont renetu lattention des groupes islamistes - %sp;le pays serai un centre de transi, de financement, et un sanctuaire du salafisme européen p166 Conesa, Pierre, and Hubert Védrine. Dr. Saoud et Mr. Djihad: la diplomatie religieuse de l’Arabie saoudite. Le monde comme il va. Paris: Robert Laffont, 2016.
+- [[Hristo Ibouchev]]
+  - [[Prvi Partizan]] dirige
+  - [[HEC]]
+- [[James W Pardew]]
+  - note :: approvisionnement arme guerrilla en Syrie http://www.guillaume-dasquie.fr/daesh-kalachnikov-armes-bulgarie/
+  - url :: https://en.wikipedia.org/wiki/James_W._Pardew
+- [[Iyad Ag Ghali]]
+  - url :: https://fr.wikipedia.org/wiki/Iyad_Ag_Ghali
+  - [[Jama'at Nasr Al Islam Wal 
+Muslimin (JNIM)]] dirige
+  - [[Touaregs]]
+    - url :: https://fr.wikipedia.org/wiki/Touaregs
+  - [[Mouvement Populaire De 
+L'Azawad (MPA)]] fonde
+    - url :: https://fr.wikipedia.org/wiki/Mouvement_populaire_de_l%27Azawad
+    - [[Adrar Des Ifoghas]]
+      - url :: https://fr.wikipedia.org/wiki/Adrar_des_Ifoghas
+    - [[Armée revolutionnaire de liberation de l'Azawad  (ARLA).]]
+      - url :: https://fr.wikipedia.org/wiki/Arm%C3%A9e_r%C3%A9volutionnaire_de_lib%C3%A9ration_de_l%27Azawad
+    - [[Mouvement National Pour La 
+Lib%C3%A9ration De L'Az...]]
+      - url :: https://fr.wikipedia.org/wiki/Mouvement_national_pour_la_lib%C3%A9ration_de_l%27Azawad
+  - [[Ansar Dine]] fonde
+    - url :: https://fr.wikipedia.org/wiki/Ansar_Dine
+    - [[Jama'at Nasr Al Islam Wal 
+Muslimin (JNIM)]]
+    - [[Mouvement Islamique De 
+L'Azawad]]
+      - url :: https://fr.wikipedia.org/wiki/Mouvement_islamique_de_l%27Azawad
+  - [[Département du renseignement et de la securite]] entretien de bonne relation avec
+    - url :: https://fr.wikipedia.org/wiki/D%C3%A9partement_du_renseignement_et_de_la_s%C3%A9curit%C3%A9
+    - [[Algérie]]
+  - [[Legion islamique]]
+    - url :: https://en.wikipedia.org/wiki/Islamic_Legion
+    - [[Lybie]]
+      - url :: https://en.wikipedia.org/wiki/Libya
+      - [[Muammar Kadhafi]]
+        - note :: 75 à 80, les palestiniens et les libanais qu'il soutenait dans leur affranemnet avec iscrael se sont mis à profité de sa générosité finaincère sans jamais lui renvoyer l'ascenseur sul le plan politique. Excédé, en 178, il fait venir à Tripoli, pour s'en expliquer , le leader charismatique des chiites libanais , l'iman moussa sadr , le fondateu du mouvement des déshérités qui allait donner naissance au Hezbollah . Maoussa Sadr n'esnt %sp;jamais ressorti de Libye. %sp;Résultat il est mit en quarantaine dans le monde arba, il se tourne donc vers l'Afrique , Tchad et Niger en tete en soutenant des factions dissidentes au pouvoir et à l'encontre des interets francais et britanique.
+        - url :: https://en.wikipedia.org/wiki/Muammar_Gaddafi
+        - [[Pan Am Flight 103]]
+          - url :: https://en.wikipedia.org/wiki/Pan_Am_Flight_103
+          - [[britanique]]
+            - [[royaliste]] soutien
+            - [[ID 1627]]
+        - [[1986 Berlin Discotheque 
+Bombing]]
+          - url :: https://en.wikipedia.org/wiki/1986_Berlin_discotheque_bombing
+          - [[USA]]
+            - url :: https://fr.wikipedia.org/wiki/%C3%89tats-Unis
+            - [[Mobutu Sese Seko]] soutien
+            - [[Muhammad Zia Ul Haq]]
+              - note :: une des pistes possibles qui expliquerais le crash de son avion: - le pilote de l'avion était chiite, il a vengé l'assasinat de hussein al -huseyni mort 11 jours plus tot. %sp;p 145 Kāveh. Le Hezbollah global: les réseaux secrets de l’Iran. Document. Paris: Choiseul, 2012.
+              - url :: https://en.wikipedia.org/wiki/Muhammad_Zia-ul-Haq
+              - [[Pakistan]]
+              - [[Operation Fairplay]]
+              - [[chiite]] politique anti-chiite
+              - [[Jamiat Ulema E Islam (S)]] leader
+                - note :: supporting Jihadism and totalitarian
+                - url :: https://en.wikipedia.org/wiki/Jamiat_Ulema-e-Islam_(S)
+                - [[Jamiat Ulema E Islam]]
+              - [[Darul Uloom Haqqania]] dirige
+                - url :: https://en.wikipedia.org/wiki/Darul_Uloom_Haqqania
+                - [[Taliban]] forme
+            - [[ID 1388]]
+            - [[Khalifa Haftar]]
+              - url :: https://en.wikipedia.org/wiki/Khalifa_Haftar
+            - [[Operation Cyclone]]
+              - url :: https://en.wikipedia.org/wiki/Operation_Cyclone
+              - [[Afghanistan Conflict (1978 - present)]]
+            - [[RENAMO]]
+              - url :: https://en.wikipedia.org/wiki/RENAMO
+              - [[Mozambican Civil War]]
+            - [[Patrice Lumumba]]
+              - url :: https://fr.wikipedia.org/wiki/Patrice_Lumumba
+        - [[UTA Flight 772]]
+          - url :: https://en.wikipedia.org/wiki/UTA_Flight_772
+          - [[France]]
+            - url :: https://fr.wikipedia.org/wiki/France
+            - [[ID 1627]]
+        - [[Niger]]
+          - url :: https://en.wikipedia.org/wiki/Niger
+        - [[Tchad]]
+          - url :: https://en.wikipedia.org/wiki/Chad
+        - [[Moussa Koussa]]
+          - url :: https://en.wikipedia.org/wiki/Moussa_Koussa
+          - [[Al Qaeda]] emmet la premiere alerte interpol
+          - [[Mukhabarat El Jamahiriya]]
+            - url :: https://en.wikipedia.org/wiki/Mukhabarat_el-Jamahiriya
+        - [[Irish Republican Army (1919 -1922)]]
+          - note :: " Conscient que les fonds qui financent ces opérations viennent des Irlando-Américains, et non de Moscou ou de Triopli, le FBI s'efforrce quant à lui d'isoler les réseaux de soutien à l'IRA agissant uax USA." Faligot, Roger, and Rémi Kauffer. Histoire mondiale du renseignement. 2: Les maîtres espions: de la guerre froide à nos jours. Robert Laffont. Notre époque. Paris: Laffont, 1994.
+          - url :: https://en.wikipedia.org/wiki/Irish_Republican_Army_(1919%E2%80%9322)
+          - [[Irish War Of Independence]]
+            - url :: https://en.wikipedia.org/wiki/Irish_War_of_Independence
+            - [[Anglo Irish Treaty]]
+              - url :: https://en.wikipedia.org/wiki/Anglo-Irish_Treaty
+              - [[Irish Free State]]
+                - url :: https://en.wikipedia.org/wiki/Irish_Free_State
+                - [[Dominion]]
+                  - url :: https://en.wikipedia.org/wiki/Dominion
+              - [[Irish Civil War]]
+                - url :: https://en.wikipedia.org/wiki/Irish_Civil_War
+          - [[IRA anti traité]] scission
+            - [[Irish Civil War]] perd
+            - [[Fianna fail]]
+              - url :: https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
+        - [[Tunisie]]
+          - url :: https://fr.wikipedia.org/wiki/Tunisie
+- [[rebellion touaregue 1990 1996]]
+  - url :: https://fr.wikipedia.org/wiki/R%C3%A9bellion_touar%C3%A8gue_de_1990-1996
+- [[MUJAO]]
+  - url :: https://fr.wikipedia.org/wiki/Mouvement_pour_l%27unicit%C3%A9_et_le_jihad_en_Afrique_de_l%27Ouest
+  - [[ID 1803]] fusionne
+- [[Armée nationale populaire (Algérie)]]
+  - url :: https://fr.wikipedia.org/wiki/Arm%C3%A9e_nationale_populaire_(Alg%C3%A9rie)
+  - [[Algérie]]
+  - [[Département du renseignement et de la securite]] forte rivalite
+- [[Front Islamique Du Salut]]
+  - url :: https://fr.wikipedia.org/wiki/Front_islamique_du_salut
+  - [[Algerian Civil War#1992 Coup 
+And Cancellation Of E...]]
+    - url :: https://en.wikipedia.org/wiki/Algerian_Civil_War#1992_coup_and_cancellation_of_elections
+    - [[Groupe Islamique Armée]]
+- [[Abderamane Ghala]]
+  - url :: https://fr.wikipedia.org/wiki/Abderamane_Ghala
+  - [[Armée revolutionnaire de liberation de l'Azawad  (ARLA).]] dirige
+- [[Imghads]]
+  - [[Armée revolutionnaire de liberation de l'Azawad  (ARLA).]]
+- [[Fahd Of Saudi Arabia]]
+  - url :: https://en.wikipedia.org/wiki/Fahd_of_Saudi_Arabia
+  - [[clan sudairi]]
+- [[ARAMCO]]
+  - url :: https://en.wikipedia.org/wiki/ARAMCO
+- [[famille al saoud = état]]
+- [[état ultracentralisé]]
+- [[Bedouin]]
+  - url :: https://en.wikipedia.org/wiki/Bedouin
+- [[Ikhwan]]
+  - url :: https://en.wikipedia.org/wiki/Ikhwan
+- [[Council Of Ministers Of 
+Saudi Arabia]]
+  - note :: %sp; %sp;L’Arabie saoudite à l’épreuve de la transition de pouvoir %sp; %sp;Kamal Kajja %sp; %sp;Dans Hérodote 2016/1-2 (N° 160-161), pages 195 à 208
+  - url :: https://en.wikipedia.org/wiki/Council_of_Ministers_of_Saudi_Arabia
+- [[Khaled Al Tuwaijri]]
+  - url :: https://en.wikipedia.org/wiki/Khaled_al-Tuwaijri
+  - [[Purge de 2017 en Arabie saoudite]]
+  - [[Abdullah Of Saudi Arabia]] shield
+    - url :: https://en.wikipedia.org/wiki/Abdullah_of_Saudi_Arabia
+    - [[Allegiance Council]]
+      - note :: En seront membres, et théoriquement titulaires d’un mandat de quatre ans renouvelable par accord du roi et de ses frères, les fils encore vivants d’Abdul Aziz Ibn Saoud, ainsi qu’un descendant de chacun de ses autres fils décédés ou de ceux qui sont malades ou ayant un empêchement. Deux autres membres seront désignés par le roi et le prince héritier parmi leurs fils. À la mort du roi, le comité désignera immédiatement le prince héritier en tant que nouveau souverain. Ce dernier est tenu de proposer dans un délai de dix jours son candidat au poste de prince héritier, candidat qui peut être rejeté par le comité lequel proposera alors son candidat. Si ce dernier n’obtient pas l’aval du roi, le comité tranchera par la majorité des voix dans un délai n’excédant pas un mois. %sp; %sp;L’Arabie saoudite à l’épreuve de la transition de pouvoir %sp; %sp;Kamal Kajja %sp; %sp;Dans Hérodote 2016/1-2 (N° 160-161), pages 195 à 208
+      - url :: https://en.wikipedia.org/wiki/Allegiance_Council
+  - [[Abdulaziz Al Tuwaijri]] fils
+    - note :: nationaliste, proche de nasser, s'attire les foudres des conservateurs religieux, socialist, conseiller libéral dabdullah http://www.alaraby.co.uk/english/features/2c907c68-eae6-4a10-a0c3-df04845deb83
+    - url :: https://en.wikipedia.org/wiki/Abdulaziz_al-Tuwaijri
+    - [[Abdullah Of Saudi Arabia]] conseille
+    - [[clan Tuwaijri]]
+      - note :: moins dépendant des USA, plus libéraux et ouvert sur le monde que leur rivau (chouet)
+      - [[guarde nationale (SANG)]] tient
+    - [[guarde nationale (SANG)]]
+      - url :: https://en.wikipedia.org/wiki/Saudi_Arabian_National_Guard
+      - [[clan sudairi]] contre pouvoir
+    - [[officiers libres]]
+- [[Liste Des Descendants 
+D'Abdelaziz Al Saoud]]
+  - note :: http://www.monarchie-noblesse.net/arabie/arabie.htm
+  - url :: https://en.wikipedia.org/wiki/Descendants_of_Ibn_Saud
+- [[Ministry Of Interior (Saudi 
+Arabia)]]
+  - url :: https://en.wikipedia.org/wiki/Ministry_of_Interior_(Saudi_Arabia)
+  - [[General Intelligence Presidency]] dirige
+- [[clan des fils de faisal]]
+  - [[Faisal Of Saudi Arabia]] fils
+  - [[clan Tuwaijri]] s'allie
+  - [[diplomatie]] gère
+- [[Hussa Bint Ahmed Al Sudairi]]
+  - url :: https://en.wikipedia.org/wiki/Hussa_bint_Ahmed_Al_Sudairi
+  - [[clan sudairi]] mere
+- [[Talal Bin Abdulaziz Al Saud]]
+  - url :: https://en.wikipedia.org/wiki/Talal_bin_Abdulaziz_Al_Saud
+  - [[Free Princes Movement]] dirige
+    - url :: https://en.wikipedia.org/wiki/Free_Princes_Movement
+- [[Al Otaibi]]
+  - url :: https://en.wikipedia.org/wiki/Al-Otaibi
+  - [[tribu d'arabie]] majeur
+    - url :: https://en.wikipedia.org/wiki/Tribes_of_Arabia
+    - [[Banu Tamim]]
+      - url :: https://en.wikipedia.org/wiki/Banu_Tamim
+      - [[tribu d'arabie]] majeur
+- [[Shammar]]
+  - url :: https://en.wikipedia.org/wiki/Shammar
+  - [[tribu d'arabie]] majeur
+- [[Mutaib Bin Abdullah]]
+  - url :: https://en.wikipedia.org/wiki/Mutaib_bin_Abdullah
+  - [[Abdullah Of Saudi Arabia]] fils
+  - [[Purge de 2017 en Arabie saoudite]]
+  - [[Saudi Arabian National Guard]]
+    - url :: https://en.wikipedia.org/wiki/Saudi_Arabian_National_Guard
+    - [[guarde nationale (SANG)]] dirige
+- [[Salman Al Ouda]]
+  - url :: https://en.wikipedia.org/wiki/Salman_al-Ouda
+- [[Salman Al Ouda]]
+  - url :: https://en.wikipedia.org/wiki/Salman_al-Ouda
+  - [[International Union For 
+Muslim Scholars]] fait partie du board
+  - [[Yemeni Civil War (2015% present)]] favorable
+    - url :: https://en.wikipedia.org/wiki/Yemeni_Civil_War_(2015%E2%80%93present)
+- [[St John Philby]]
+  - url :: https://en.wikipedia.org/wiki/St_John_Philby
+  - [[Saud Of Saudi Arabia]] critique
+  - [[Ibn Saud]] conseiller
+    - url :: https://en.wikipedia.org/wiki/Ibn_Saud
+  - [[Kim Philby]] pere
+    - url :: https://en.wikipedia.org/wiki/Kim_Philby
+- [[zouheir mardam]]
+  - [[ID 1535]] gere les fonds
+- [[Mansour Ojjeh]]
+  - url :: https://en.wikipedia.org/wiki/Mansour_Ojjeh
+  - [[Akram Ojjeh]] fils
+    - note :: s'occupe du marché francais de l'armement à destination de l'arabie
+    - url :: https://fr.wikipedia.org/wiki/Akram_Ojjeh
+    - [[Adnan Khashoggi#Triad 
+International]]
+      - url :: https://en.wikipedia.org/wiki/Adnan_Khashoggi#Triad_International
+    - [[socite Techniques D'avant Garde]]
+      - url :: https://fr.wikipedia.org/wiki/Techniques_d%27avant_garde
+    - [[Wafic Said]]
+      - url :: https://en.wikipedia.org/wiki/Wafic_Sa%C3%AFd
+      - [[BAE Systems]] agent
+      - [[ID 1969]]
+      - [[Said Holdings Limited 
+Michael Butt 19265]] dirige
+        - url :: https://offshoreleaks.icij.org/nodes/80001668
+        - url :: https://www.gov.bm/19265/said-holdings-limited-michael-butt-19265
+      - [[ID 1996]]
+      - [[Sultan Bin Abdulaziz Al Saud]] travail pour
+        - note :: empoche un commision sur tous les contrats d'armement (cable diplomation britanique)
+        - url :: https://en.wikipedia.org/wiki/Sultan_bin_Abdulaziz_Al_Saud
+        - [[Al Yamamah Arms Deal]]
+        - [[Affaire Fregates 
+Arabie Saoudite sawari 2]]
+          - url :: https://fr.wikipedia.org/wiki/Affaire_des_fr%C3%A9gates_d%27Arabie_saoudite_et_des_sous-marins_du_Pakistan
+      - [[jones consultants]] dirige
+      - [[vilmar]] dirige
+      - [[Peter Mandelson]] proche
+        - url :: https://en.wikipedia.org/wiki/Peter_Mandelson
+        - [[Gopichand Hinduja]]
+          - url :: https://en.wikipedia.org/wiki/Gopichand_Hinduja
+          - [[Bofors Scandal]]
+            - url :: https://en.wikipedia.org/wiki/Bofors_scandal
+    - [[Dassault Aviation]]
+      - url :: https://fr.wikipedia.org/wiki/Dassault_Aviation
+    - [[Marché francais de l'armente]]
+      - [[SOFRESA]]
+- [[Mohammad Safadi]]
+  - url :: https://en.wikipedia.org/wiki/Mohammad_Safadi
+  - [[Al Yamamah Arms Deal]] intermediaire
+    - url :: https://en.wikipedia.org/wiki/Al-Yamamah_arms_deal
+    - [[BAE Systems]]
+      - note :: https://www.theguardian.com/baefiles/page/0,,2095840,00.html
+      - url :: https://en.wikipedia.org/wiki/BAE_Systems
+      - [[Red diamond]] officine
+  - [[liban]] ministre de l'economie 08
+- [[abdulaziz al-ibrahim]]
+  - [[Fahd Ben Abdelaziz Al Saoud]] negociateur pour son beau frere
+    - url :: https://fr.wikipedia.org/wiki/Fahd_ben_Abdelaziz_Al_Saoud
+  - [[Aerospace Engineering Design 
+Corp Z4U Panama Compa...]] dirige
+    - url :: https://panama-companies.com/new/fr/aerospace-engineering-design-corp.Z4U.panama-company-profile.html
+- [[80001668]]
+  - url :: https://offshoreleaks.icij.org/nodes/80001668
+- [[Riggs Bank]]
+  - note :: banque qui a vu circuler tous les dictateurs d'amerique latine et d'afrique
+  - url :: https://en.wikipedia.org/wiki/Riggs_Bank
+- [[shailesh vithlani]]
+  - [[BAE Systems]] agent
+  - [[ID 2021]]
+- [[tanil Somaiya]]
+  - [[merlin interational (societe de droit tanzanienne)]] associe
+- [[Ottavio Quattrocchi]]
+  - url :: https://en.wikipedia.org/wiki/Ottavio_Quattrocchi
+  - [[Bofors Scandal]]
+- [[Intelligence Bureau 
+(Pakistan)]]
+  - url :: https://en.wikipedia.org/wiki/Intelligence_Bureau_(Pakistan)
+  - [[Pakistan]]
+- [[Mohamed Al Fayed]]
+  - url :: https://fr.wikipedia.org/wiki/Mohamed_Al-Fayed
+  - [[Dodi Fayed]]
+  - [[Adnan Khashoggi]] associe
+  - [[Nasser]] bien nationalisé par
+  - [[Dubai]] investi
+    - url :: https://en.wikipedia.org/wiki/Dubai
+  - [[Hassanal Bolkiah]] conseiller
+    - url :: https://en.wikipedia.org/wiki/Hassanal_Bolkiah
+- [[EAU]]
+  - [[Bank Of Credit And Commerce 
+International]] detient 77%
+    - url :: https://en.wikipedia.org/wiki/Bank_of_Credit_and_Commerce_International
+    - [[Monte Carlo]]
+- [[Ghaith Pharaon]]
+  - note :: https://www.liberation.fr/planete/2018/04/03/ces-riches-et-louches-migrants-chouchoutes-par-viktor-orban_1640830
+  - url :: https://en.wikipedia.org/wiki/Ghaith_Pharaon
+  - [[Bank Of Credit And Commerce 
+International]] travail
+  - [[Adnan Khashoggi]] proche
+    - note :: tous les achats d'arme de l'arabie passe par kashogie
+    - url :: https://en.wikipedia.org/wiki/Adnan_Khashoggi
+    - [[Bank Of Credit And Commerce 
+International]] transfaction passe par
+    - [[Adnan Khashoggi#Triad 
+International]] dirige
+    - [[Akram Ojjeh]] accocier 
+s'occupe du marche francais
+    - [[Samira Khashoggi]]
+      - [[Dodi Fayed]]
+        - url :: https://en.wikipedia.org/wiki/Dodi_Fayed
+        - [[Diana, Princess Of Wales]]
+          - url :: https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales
+    - [[arabie saoudite]]
+    - [[Ferdinand Marcos]]
+      - url :: https://en.wikipedia.org/wiki/Ferdinand_Marcos
+  - [[rashad pharaon]] fils
+    - [[ambasadeur d'arabie saoudite en France]]
+- [[Lockheed Corporation]]
+  - url :: https://en.wikipedia.org/wiki/Lockheed_Corporation
+  - [[Lockheed Bribery Scandals]]
+    - url :: https://en.wikipedia.org/wiki/Lockheed_bribery_scandals
+    - [[WWF]] commision
+    - [[Kakuei Tanaka]]
+      - url :: https://en.wikipedia.org/wiki/Kakuei_Tanaka
+    - [[Liechtenstein]]
+      - url :: https://en.wikipedia.org/wiki/Liechtenstein
+    - [[Foreign Corrupt Practices Act]]
+      - url :: https://fr.wikipedia.org/wiki/Foreign_Corrupt_Practices_Act
+- [[Henry Kuss]]
+- [[Geoffrey Edwards]]
+- [[francais encore en activite]]
+  - [[georges starckmann]]
+    - [[livre : noir canon]]
+- [[Hughes Aircraft Company]]
+  - url :: https://en.wikipedia.org/wiki/Hughes_Aircraft_Company
+  - [[Iran - Contra Affair]] vend des TOW
+- [[Mahmood Astaneh]]
+  - note :: responsablbe du ministere iranien du petrole
+  - [[Naftiran Intertrade]] gere
+    - url :: https://en.wikipedia.org/wiki/Naftiran_Intertrade
+    - [[corruption contrat gazier south pars]]
+      - note :: https://www.capital.fr/economie-politique/total-en-iran-la-dgse-et-la-cia-enquetent-sur-une-societe-suisse-190333
+      - [[North Dome Gas Condensate 
+Field]]
+        - url :: https://en.wikipedia.org/wiki/South_Pars/North_Dome_Gas-Condensate_field
+      - [[Total S A]]
+        - url :: https://en.wikipedia.org/wiki/Total_S.A.
+        - [[North Dome Gas Condensate 
+Field]] exploite
+    - [[shahpari zanganeh]]
+      - [[Adnan Khashoggi]] femme
+      - [[Bijan Namdar Zangeneh]] famille
+        - note :: ministre du pétrole
+        - url :: https://fr.wikipedia.org/wiki/Bijan_Namdar_Zangeneh
+    - [[suise]]
+    - [[Jersey]]
+- [[National Iranian Oil Company]]
+  - url :: https://en.wikipedia.org/wiki/National_Iranian_Oil_Company
+  - [[Naftiran Intertrade]]
+- [[New Node]]
+- [[Rashid Bin Saeed Al Maktoum]]
+  - url :: https://en.wikipedia.org/wiki/Rashid_bin_Saeed_Al_Maktoum
+  - [[Dubai]]
+- [[Charles De Chambrun (homme 
+Politique, 1930 2010)]]
+  - url :: https://fr.wikipedia.org/wiki/Charles_de_Chambrun_(homme_politique,_1930-2010)
+  - [[Adnan Khashoggi]] ami et salarie
+  - [[Marché francais de l'armente]]
+  - [[relinter]] dirige
+- [[Samir Traboulsi]]
+  - url :: https://fr.wikipedia.org/wiki/Samir_Traboulsi
+  - [[Marché francais de l'armente]]
+  - [[Adnan Khashoggi]] associe
+  - [[Hugues De Lestoile 915911]] entente
+    - url :: https://www.lesechos.fr/1993/11/hugues-de-lestoile-915911
+- [[Antoine Kamouh]]
+  - [[marche allemand]]
+- [[Robert Lee Interational]]
+  - [[BAE Systems]] officie
+- [[Mohammed Zahir Shah]]
+  - url :: https://en.wikipedia.org/wiki/Mohammed_Zahir_Shah
+  - [[Kingdom Of Afghanistan]]
+    - url :: https://en.wikipedia.org/wiki/Kingdom_of_Afghanistan
+    - [[Afghanistan]]
+- [[urss]]
+  - [[ID 2218]]
+    - [[Republic Of Afghanistan]]
+      - url :: https://en.wikipedia.org/wiki/Republic_of_Afghanistan
+- [[China - Pakistan 
+Economic Corridor]]
+  - url :: https://en.wikipedia.org/wiki/China%E2%80%93Pakistan_Economic_Corridor
+  - [[Chine]]
+  - [[Gwadar Port]]
+    - url :: https://en.wikipedia.org/wiki/Gwadar_Port
+- [[Hamid Karzai]]
+  - url :: https://en.wikipedia.org/wiki/Hamid_Karzai
+  - [[Afghanistan]] préside
+  - [[Popalzai]]
+    - url :: https://en.wikipedia.org/wiki/Popalzai
+    - [[Durrani]]
+      - url :: https://en.wikipedia.org/wiki/Durrani
+      - [[pachtoune]] principal tribu
+- [[Nurzai]]
+  - url :: https://en.wikipedia.org/wiki/Nurzai
+  - [[Durrani]] famille
+- [[Bihari Muslim]]
+  - url :: https://en.wikipedia.org/wiki/Bihari_Muslim
+  - [[Bangladesh Liberation War]]
+- [[Persecution Of Biharis In 
+Bangladesh]]
+  - url :: https://en.wikipedia.org/wiki/Persecution_of_Biharis_in_Bangladesh
+- [[Indian Union Muslim League]]
+  - url :: https://en.wikipedia.org/wiki/Indian_Union_Muslim_League
+  - [[All India Muslim League]] succede
+  - [[Inde]]
+- [[Darul Uloom Deoband]]
+  - note :: plus grand centre d'enseignement de l'islam apres al-azhar
+  - url :: https://en.wikipedia.org/wiki/Darul_Uloom_Deoband
+  - [[Deobandi]]
+- [[Council Muslim League]]
+  - url :: https://en.wikipedia.org/wiki/Council_Muslim_League
+  - [[Constitution Of Pakistan Of 
+1962]] oppose
+- [[1985 Pakistani General 
+Election]]
+  - url :: https://en.wikipedia.org/wiki/1985_Pakistani_general_election
+- [[Jawaharlal Nehru]]
+  - url :: https://en.wikipedia.org/wiki/Jawaharlal_Nehru
+  - [[Indian National Congress]]
+    - url :: https://en.wikipedia.org/wiki/Indian_National_Congress
+    - [[Lucknow Pact]] aliance
+    - [[Non Cooperation Movement]]
+  - [[Motilal Nehru]] fils
+    - url :: https://en.wikipedia.org/wiki/Motilal_Nehru
+- [[Mahatma Gandhi]]
+  - url :: https://en.wikipedia.org/wiki/Mahatma_Gandhi
+  - [[Indian National Congress]]
+  - [[Swaraj]]
+    - url :: https://en.wikipedia.org/wiki/Swaraj
+- [[Jamaat E Islami Pakistan]]
+  - url :: https://en.wikipedia.org/wiki/Jamaat-e-Islami_Pakistan
+  - [[Jamaat E Islami]]
+- [[Burhanuddin Rabbani]]
+  - url :: https://en.wikipedia.org/wiki/Burhanuddin_Rabbani
+  - [[Muslim Brotherhood]]
+  - [[Jamiat I Islami]] digire
+    - url :: https://en.wikipedia.org/wiki/Jamiat-i-Islami
+    - [[Peshawar Seven]]
+    - [[Jamaat E Islami]]
+    - [[Tajiks]]
+    - [[Northern Alliance]]
+  - [[Muslim Youth]]
+    - url :: https://en.wikipedia.org/wiki/Muslim_Youth
+    - [[Muslim Brotherhood]]
+- [[Pir Sayed Ahmad Gillani]]
+  - url :: https://en.wikipedia.org/wiki/Pir_Sayed_Ahmad_Gillani
+  - [[National Islamic Front 
+(Afghanistan)]] dirige
+    - url :: https://en.wikipedia.org/wiki/National_Islamic_Front_(Afghanistan)
+    - [[Peshawar Seven]]
+- [[Mohammad Nabi Mohammadi]]
+  - note :: enseignant dans les madrasa afghan. beaucoup des partisans de son mouvement on rejoint les talibans
+  - url :: https://en.wikipedia.org/wiki/Mohammad_Nabi_Mohammadi
+  - [[Darul Uloom Haqqania]]
+  - [[ID 335]]
+  - [[Harakat I Inqilab I Islami]]
+    - url :: https://en.wikipedia.org/wiki/Harakat-i-Inqilab-i-Islami
+    - [[Peshawar Seven]]
+    - [[Taliban]]
+- [[Mulavi Younas Khalis]]
+  - url :: https://en.wikipedia.org/wiki/Mulavi_Younas_Khalis
+  - [[Darul Uloom Haqqania]]
+  - [[Hezb-i Islami Khalis]]
+    - url :: https://en.wikipedia.org/wiki/Khalis_faction
+    - [[Peshawar Seven]]
+    - [[Hezbi Islami]] scission
+- [[Jamiat Ulema E Islam (F)]]
+  - note :: supporting movement for restoration of democracy in Pakistan.
+  - url :: https://en.wikipedia.org/wiki/Jamiat_Ulema-e-Islam
+  - [[Jamiat Ulema E Islam]]
+    - url :: https://en.wikipedia.org/wiki/Jamiat_Ulema-e-Islam
+    - [[Deobandi]]
+    - [[Jamaat E Islami]] rivalité
+    - [[Sipah E Sahaba Pakistan]] scission extrémiste
+- [[Bengali Language]]
+  - url :: https://en.wikipedia.org/wiki/Bengali_language
+  - [[Dominion Of Pakistan]] ignorer
+- [[Muslim League (Qayyum)]]
+  - url :: https://en.wikipedia.org/wiki/Muslim_League_(Qayyum)
+  - [[Pakistan Muslim League]]
+- [[Pakistan Muslim League (N)]]
+  - url :: https://en.wikipedia.org/wiki/Pakistan_Muslim_League_(N)
+  - [[Islami Jamhoori Ittehad]]
+    - url :: https://en.wikipedia.org/wiki/Islami_Jamhoori_Ittehad
+    - [[1988 Pakistani General 
+Election]] minorite
+    - [[1990 Pakistani General 
+Election]]
+      - url :: https://en.wikipedia.org/wiki/1990_Pakistani_general_election
+- [[National Peoples Party 
+(Pakistan)]]
+  - url :: https://en.wikipedia.org/wiki/National_Peoples_Party_(Pakistan)
+  - [[Islami Jamhoori Ittehad]]
+- [[2002 Pakistani General 
+Election]]
+  - url :: https://en.wikipedia.org/wiki/2002_Pakistani_general_election
+- [[Muttahida Majlis E Amal]]
+  - url :: https://en.wikipedia.org/wiki/Muttahida_Majlis-e-Amal
+- [[Free Syrian Army]]
+  - url :: https://en.wikipedia.org/wiki/Free_Syrian_Army
+- [[Salah Al Din Al Bitar]]
+  - url :: https://en.wikipedia.org/wiki/Salah_al-Din_al-Bitar
+  - [[ID 2467]]
+- [[Michel Aflaq]]
+  - url :: https://en.wikipedia.org/wiki/Michel_Aflaq
+  - [[ID 2467]]
+- [[Zaki Al Arsuzi]]
+  - url :: https://en.wikipedia.org/wiki/Zaki_al-Arsuzi
+  - [[baath]] fonde
+- [[Hafiz Mohammed Saeed]]
+  - url :: https://en.wikipedia.org/wiki/Hafiz_Mohammed_Saeed
+  - [[Jamaat-ud Dawa]] fonde
+- [[Zakiur Rehman Lakhvi]]
+  - url :: https://en.wikipedia.org/wiki/Zakiur_Rehman_Lakhvi
+  - [[ID 2477]]
+    - [[Lashkar E Taiba]]
+- [[Jamiat Ahle Hadith]]
+  - url :: https://en.wikipedia.org/wiki/Jamiat_Ahle_Hadith
+  - [[Opposition To The Partition 
+Of India]]
+  - [[Lashkar E Taiba]] lien etroit
+    - url :: https://en.wikipedia.org/wiki/Lashkar-e-Taiba
+    - [[2008 Mumbai Attacks]] responsable
+    - [[Jamaat-ud Dawa]]
+      - note :: Pakistan’s Jamaat-ud Dawa (JuD) is often compared with Lebanon’s Hezbollah thanks to its efforts at blending charitable works and Islamic proselytization with overt political activism. reasury also listed six entities associated with LeT, including Jamaat-ud-Daawa, Al-Anfal Trust, Tehrik-e-Hurmat-e-Rasool, Tehrik-e-Tahafuz Qibla Awwal, Falah-i Insaniat Foundation (FIF), and Idara Khidmat- e Khalaq (IKK).2 3 Despite these efforts, JuD has flourished https://ctc.usma.edu/jamaat-ud-daawa-into-the-mainstream/ Jamaat-ud Daawa: Into the Mainstream April 2015, Volume 8, Issue 4 Authors Animesh Roul
+      - url :: https://ctc.usma.edu/jamaat-ud-daawa-into-the-mainstream/
+  - [[Ahl I Hadith]]
+    - note :: P33 pour les détails - les Saoudiens ont déplacé leur patronage de la Jamaat-e islami vers eux afin d'affaiblir les frères musulmans. https://www.institutmontaigne.org/ressources/pdfs/publications/la-fabrique-de-islamisme.pdf
+    - url :: https://en.wikipedia.org/wiki/Ahl-i_Hadith
+    - [[ittehad Tanzeem Ul Madaris-e-Deeniya]]
+  - [[Wahhabism]] sss
+    - url :: https://en.wikipedia.org/wiki/Wahhabism
+    - [[sahwiste]]
+      - note :: courant bélliqueux qui c'est développé après la guerre du golfe
+- [[Muhammad Ilyas Al Kandhlawi]]
+  - url :: https://en.wikipedia.org/wiki/Muhammad_Ilyas_al-Kandhlawi
+  - [[Tablighi Jamaat]] fonde
+    - note :: discipline religieuse intense. prossélytisme.individuelle et non violente (sageman lvvdt)
+    - url :: https://en.wikipedia.org/wiki/Tablighi_Jamaat
+    - [[Salafi Movement]] strategie individuelle et non violente
+- [[Ramzi Yousef]]
+  - url :: https://en.wikipedia.org/wiki/Ramzi_Yousef
+  - [[1993 World Trade Center 
+Bombing]] label
+  - [[Khalid Sheikh Mohammed]] neuve
+    - url :: https://en.wikipedia.org/wiki/Khalid_Sheikh_Mohammed
+    - [[El Mudžahid]]
+    - [[septembre 11 Attacks]] cerveau
+    - [[Guantanamo Bay Detention Camp]]
+    - [[Muslim Brotherhood]]
+    - [[al-Bunyan al-Marsous,]] travail
+    - [[Sada training camp]] s'entreine
+- [[Ahmed Refai Taha]]
+  - url :: https://en.wikipedia.org/wiki/Ahmed_Refai_Taha
+  - [[Luxor Massacre]]
+    - url :: https://en.wikipedia.org/wiki/Luxor_massacre
+- [[Muhammad Mohaqiq]]
+  - url :: https://en.wikipedia.org/wiki/Muhammad_Mohaqiq
+  - [[Hazara People]]
+  - [[Northern Alliance]]
+  - [[National Front Of Afghanistan]] creer
+  - [[Hezbe Wahdat]] dirige
+    - url :: https://en.wikipedia.org/wiki/Hezbe_Wahdat
+- [[Asif Mohseni]]
+  - url :: https://en.wikipedia.org/wiki/Asif_Mohseni
+- [[Islamic Movement Of 
+Afghanistan]]
+  - url :: https://en.wikipedia.org/wiki/Islamic_Movement_of_Afghanistan
+- [[People's Islamic Unity Party 
+Of Afghanistan]]
+  - url :: https://en.wikipedia.org/wiki/People%27s_Islamic_Unity_Party_of_Afghanistan
+- [[Ismail Khan]]
+  - url :: https://en.wikipedia.org/wiki/Ismail_Khan
+  - [[Jamiat I Islami]]
+  - [[Tajiks]]
+  - [[1979 Herat Uprising]] menel
+    - url :: https://en.wikipedia.org/wiki/1979_Herat_uprising
+    - [[Parti Democratique 
+Populaire D'Afghanistan]] contre
+  - [[Hérat]]
+    - note :: a occupé pendant des siècles une position de carrefour entre les Empires turc et perse rivaux. Rashid, Ahmed, Olivier Roy, and Laurent Bury. L’ombre des Taliban. Paris: Éditions Autrement, 2001.
+    - url :: https://fr.wikipedia.org/wiki/H%C3%A9rat
+- [[Pierre Gemayel]]
+  - url :: https://en.wikipedia.org/wiki/Pierre_Gemayel
+  - [[Kataeb Party]] fonde
+    - url :: https://en.wikipedia.org/wiki/Kataeb_Party
+    - [[Ehden Massacre]]
+    - [[Lebanese Front]]
+      - url :: https://en.wikipedia.org/wiki/Lebanese_Front
+- [[Suleiman Franjieh]]
+  - url :: https://en.wikipedia.org/wiki/Suleiman_Franjieh
+  - [[Hafez El Assad]] bon relation
+  - [[Marada Brigade]] fonde
+    - url :: https://en.wikipedia.org/wiki/Marada_Brigade
+    - [[Lebanese Front]]
+    - [[Ehden Massacre]]
+      - url :: https://en.wikipedia.org/wiki/Ehden_massacre
+- [[Camille Chamoun]]
+  - url :: https://en.wikipedia.org/wiki/Camille_Chamoun
+  - [[National Liberal Party 
+(Lebanon)]] fonde
+    - url :: https://en.wikipedia.org/wiki/National_Liberal_Party_(Lebanon)
+    - [[Lebanese Front]]
+- [[Progressive Socialist Party]]
+  - url :: https://en.wikipedia.org/wiki/Progressive_Socialist_Party
+  - [[Lebanese National Movement]]
+- [[Syrian Social Nationalist 
+Party In Lebanon]]
+  - url :: https://en.wikipedia.org/wiki/Syrian_Social_Nationalist_Party_in_Lebanon
+  - [[Lebanese National Movement]]
+- [[Popular Guard]]
+  - url :: https://en.wikipedia.org/wiki/Popular_Guard
+  - [[Lebanese Communist Party]] branche arme
+    - url :: https://en.wikipedia.org/wiki/Lebanese_Communist_Party
+    - [[Lebanese Communist Party]]
+      - url :: https://en.wikipedia.org/wiki/Lebanese_Communist_Party
+      - [[Lebanese National Movement]]
+- [[Al Mourabitoun]]
+  - url :: https://en.wikipedia.org/wiki/Al-Mourabitoun
+  - [[Lebanese National Movement]]
+- [[Lebanese Arab Army]]
+  - url :: https://en.wikipedia.org/wiki/Lebanese_Arab_Army
+- [[Walid Jumblatt]]
+  - url :: https://en.wikipedia.org/wiki/Walid_Jumblatt
+  - [[Hafez El Assad]] bon relation
+  - [[Kamal Jumblatt]] fils
+    - url :: https://en.wikipedia.org/wiki/Kamal_Jumblatt
+    - [[Lebanese National Movement]]
+      - url :: https://en.wikipedia.org/wiki/Lebanese_National_Movement
+      - [[1978 South Lebanon Conflict]]
+- [[Antoine Lahad]]
+  - url :: https://en.wikipedia.org/wiki/Antoine_Lahad
+  - [[Saad Haddad]] succede
+    - url :: https://en.wikipedia.org/wiki/Saad_Haddad
+    - [[South Lebanon Army]]
+      - url :: https://en.wikipedia.org/wiki/South_Lebanon_Army
+      - [[1978 South Lebanon Conflict]]
+- [[Lebanese Front]]
+  - url :: https://en.wikipedia.org/wiki/Lebanese_Front
+  - [[Lebanese Front]] milice
+- [[Tigers Militia]]
+  - url :: https://en.wikipedia.org/wiki/Tigers_Militia
+  - [[National Liberal Party 
+(Lebanon)]] milice
+- [[Bashir Gemayel]]
+  - url :: https://en.wikipedia.org/wiki/Bashir_Gemayel
+- [[Taif Agreement]]
+  - url :: https://en.wikipedia.org/wiki/Taif_Agreement
+- [[Rafik Hariri]]
+  - url :: https://en.wikipedia.org/wiki/Rafik_Hariri
+  - [[Assassination Of Rafic Hariri]]
+    - url :: https://en.wikipedia.org/wiki/Assassination_of_Rafic_Hariri
+    - [[Cedar Revolution]]
+      - url :: https://en.wikipedia.org/wiki/Cedar_Revolution
+  - [[Future Movement]] fonde
+    - url :: https://en.wikipedia.org/wiki/Future_Movement
+    - [[March 14 Alliance]]
+      - url :: https://en.wikipedia.org/wiki/March_14_Alliance
+- [[Mehlis Report]]
+  - url :: https://en.wikipedia.org/wiki/Mehlis_report
+  - [[Assassination Of Rafic Hariri]]
+- [[2006 Lebanon War]]
+  - url :: https://en.wikipedia.org/wiki/2006_Lebanon_War
+- [[Fatah Al Islam]]
+  - url :: https://en.wikipedia.org/wiki/Fatah_al-Islam
+  - [[2007 Lebanon Conflict]]
+    - url :: https://en.wikipedia.org/wiki/2007_Lebanon_conflict
+- [[2006 - 2008 Lebanese 
+Political Protests]]
+  - url :: https://en.wikipedia.org/wiki/2006%E2%80%932008_Lebanese_political_protests
+- [[South Lebanon Conflict (1980 - 2000)]]
+  - url :: https://en.wikipedia.org/wiki/South_Lebanon_conflict_(1985%E2%80%932000)
+- [[Michel Aoun]]
+  - url :: https://en.wikipedia.org/wiki/Michel_Aoun
+  - [[Free Patriotic Movement]] fonde
+    - url :: https://en.wikipedia.org/wiki/Free_Patriotic_Movement
+    - [[March 8 Alliance]]
+      - url :: https://en.wikipedia.org/wiki/March_8_Alliance
+- [[Abu Nidal Organization]]
+  - url :: https://en.wikipedia.org/wiki/Abu_Nidal_Organization
+- [[Abu Nidal]]
+  - url :: https://en.wikipedia.org/wiki/Abu_Nidal
+  - [[Saddam Hussein]] bonne relation
+  - [[Fatah – The Revolutionary Council]] fonde
+    - url :: https://en.wikipedia.org/wiki/Abu_Nidal#The_ANO
+    - [[Yasser Arafat]] rejette
+    - [[fatah]]
+      - [[Palestine Liberation 
+Organization]]
+      - [[Coastal Road Massacre]]
+        - url :: https://en.wikipedia.org/wiki/Coastal_Road_massacre
+        - [[1978 South Lebanon Conflict]]
+          - url :: https://en.wikipedia.org/wiki/1978_South_Lebanon_conflict
+          - url :: https://en.wikipedia.org/wiki/Coastal_Road_massacre
+- [[Popular Front For The 
+Liberation Of Palestine %
+E2%...]]
+  - url :: https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine_%E2%80%93_General_Command
+  - [[Yasser Arafat]] oppose
+  - [[Rejectionist Front]]
+    - url :: https://en.wikipedia.org/wiki/Rejectionist_Front
+    - [[PLO's Ten Point Program]] rejette
+- [[First Intifada]]
+  - url :: https://en.wikipedia.org/wiki/First_Intifada
+- [[Nayef Hawatmeh]]
+  - url :: https://en.wikipedia.org/wiki/Nayef_Hawatmeh
+  - [[Democratic Front For The 
+Liberation Of Palestine]] leader
+    - url :: https://en.wikipedia.org/wiki/Democratic_Front_for_the_Liberation_of_Palestine
+    - [[FPLP]] scission
+    - [[Palestine Liberation 
+Organization]] membre
+    - [[PLO's Ten Point Program]] supporte
+    - [[Alliance Of Palestinian 
+Forces]]
+      - url :: https://en.wikipedia.org/wiki/Alliance_of_Palestinian_Forces
+- [[Syrian Occupation Of Lebanon]]
+  - url :: https://en.wikipedia.org/wiki/Syrian_occupation_of_Lebanon
+- [[The Wise Men (book)]]
+  - note :: https://www.nytimes.com/1986/11/02/books/cohort-of-the-american-century.html
+  - url :: https://en.wikipedia.org/wiki/The_Wise_Men_(book)
+  - [[hariman, mccloy, kennan, lovett bohlen, acheson]]
+- [[Khan Abdul Ghaffar Khan]]
+  - url :: https://en.wikipedia.org/wiki/Khan_Abdul_Ghaffar_Khan
+- [[Turkish National Movement]]
+  - url :: https://en.wikipedia.org/wiki/Turkish_national_movement
+  - [[Traité de sèvres]] rejette
+    - url :: https://fr.wikipedia.org/wiki/Trait%C3%A9_de_S%C3%A8vres
+    - [[Empire Ottoman]] démentèlement
+    - [[syrie]]
+    - [[Lebanon]]
+      - url :: https://en.wikipedia.org/wiki/Lebanon
+    - [[Turkish War Of Independence]]
+      - url :: https://en.wikipedia.org/wiki/Turkish_War_of_Independence
+      - [[Treaty Of Lausanne]]
+        - url :: https://en.wikipedia.org/wiki/Treaty_of_Lausanne
+- [[Syed Ahmad Khan]]
+  - url :: https://en.wikipedia.org/wiki/Syed_Ahmad_Khan
+  - [[All India Muslim League]] inspire les principaux dirigeants
+  - [[nationaliste pakistanais]]
+- [[Muhammad Iqbal]]
+  - url :: https://en.wikipedia.org/wiki/Muhammad_Iqbal
+  - [[nationaliste pakistanais]]
+  - [[Muhammad Ali Jinnah]] influence
+indépendance pakistan
+    - url :: https://en.wikipedia.org/wiki/Muhammad_Ali_Jinnah
+    - [[All India Muslim League]] leader
+    - [[Indian National Congress]]
+    - [[Pakistan]] fondateur
+    - [[Urdu]]
+      - url :: https://en.wikipedia.org/wiki/Urdu
+      - [[Dominion Of Pakistan]] langue officiel
+        - url :: https://en.wikipedia.org/wiki/Dominion_of_Pakistan
+    - [[ismaelien]]
+      - note :: - on conservé une organisation au niveau mondiale Au pakistan - agriculteur, éleveurs ou vivent du tourisme - occupe des situations sociales souvent èlevées, - fort taux d'alphabétisation et un libéralisme pour ce qui concerne le status social des femmes Boquérat, Gilles. Le Pakistan en 100 questions, 2018.
+      - [[chiite]]
+        - [[ittehad Tanzeem Ul Madaris-e-Deeniya]]
+        - [[Gilgit Baltistan]]
+          - url :: https://fr.wikipedia.org/wiki/Gilgit-Baltistan
+- [[chine]]
+  - [[Sino Indian War]]
+- [[Indo Pakistani War Of 1947 - 1948]]
+  - url :: https://en.wikipedia.org/wiki/Indo-Pakistani_War_of_1947%E2%80%931948
+- [[embargo usa et britanique]]
+  - [[Indo Pakistani War Of 1965]]
+    - url :: https://en.wikipedia.org/wiki/Indo-Pakistani_War_of_1965
+- [[1965: 22 wealthy families]]
+  - note :: http://richpaki.tripod.com/table1.htm https://www.dawn.com/news/279413
+  - url :: https://web.archive.org/web/20130722001847/http://www.mhhdc.org/html/system_blame.htm
+  - [[Pakistan]]
+  - [[Mahbub Ul Haq]]
+    - url :: https://en.wikipedia.org/wiki/Mahbub_ul_Haq
+    - [[Ayub Khan (general)]]
+      - note :: premier pakistanais à etre nomme commandant en chef des forces armees, usccédant au général britannique Douglas Gracey - ministre de la défense entre 54 et 58 - profonde défiance envers le clergé entre 1951 et 1958, le pakistan a sept premiers ministres, et un seul commandant en chef des forces armées : ayub khan. - bilan : les institutions démocratiqus du pays furent perverties, mais ce fut aussi une période de moderniastion économique et sociale le pakistan en 100 qestion Gilles Boquérat
+      - url :: https://en.wikipedia.org/wiki/Ayub_Khan_(general)
+      - [[USA]]
+      - [[Constitution Of Pakistan Of 
+1962]]
+      - [[Indo Pakistani War Of 1965]]
+      - [[Bangladesh]] meprise
+      - [[Convention Muslim League]] leader
+        - url :: https://en.wikipedia.org/wiki/Convention_Muslim_League
+        - [[Constitution Of Pakistan Of 
+1962]]
+          - url :: https://en.wikipedia.org/wiki/Constitution_of_Pakistan_of_1962
+          - [[Pakistan Muslim League]]
+            - url :: https://en.wikipedia.org/wiki/Pakistan_Muslim_League
+            - [[Pakistan National Alliance]]
+            - [[1970 Pakistani General 
+Election]] tres minoritaire
+            - [[Muslim League (Pakistan)]]
+              - url :: https://en.wikipedia.org/wiki/Muslim_League_(Pakistan)
+              - [[Pakistan]]
+              - [[All India Muslim League]] succede
+                - url :: https://en.wikipedia.org/wiki/All-India_Muslim_League
+                - [[Non Cooperation Movement]]
+                - [[Lucknow Pact]]
+                  - url :: https://en.wikipedia.org/wiki/Lucknow_Pact
+                  - [[Hindu Muslim Unity]]
+      - [[ID 2739]] rapprochement
+      - [[1965 Pakistani Presidential 
+Election]]
+        - url :: https://en.wikipedia.org/wiki/1965_Pakistani_presidential_election
+      - [[1969 Mass Uprising In East 
+Pakistan]]
+        - url :: https://en.wikipedia.org/wiki/1969_Mass_uprising_in_East_Pakistan
+        - [[resignation ayub khan]]
+          - [[Yahya Khan]]
+            - url :: https://en.wikipedia.org/wiki/Yahya_Khan
+            - [[Constitution Of Pakistan Of 
+1962]] suspend
+            - [[chiite]]
+- [[price hikes of food consumer products]]
+  - [[resignation ayub khan]]
+- [[Sheikh Mujibur Rahman]]
+  - url :: https://en.wikipedia.org/wiki/Sheikh_Mujibur_Rahman
+  - [[Bengali Language Movement]] lance
+  - [[Awami League]] leader
+    - note :: la mauvaise gestion de l'aide aux sinistrés du cyclone de novembre 1970, qui fait quelque 200 000 victimes, renfoce la désaffection des Bengalis à l'égard d'une administration dominée par les Pendjabis et les mohajrs. en 1960, seul 6%pct; de Bengalis dans l'armée
+    - url :: https://en.wikipedia.org/wiki/Awami_League
+    - [[Bangladesh Liberation War]]
+    - [[All Pakistan Awami Muslim 
+League]] succede
+    - [[Bangladesh]]
+      - url :: https://en.wikipedia.org/wiki/Bangladesh
+      - [[Operation Searchlight]]
+    - [[1970 Pakistani General 
+Election]]
+      - note :: -
+      - url :: https://en.wikipedia.org/wiki/1970_Pakistani_general_election
+      - [[Operation Searchlight]]
+    - [[socialiste]]
+- [[Punjabis]]
+  - url :: https://en.wikipedia.org/wiki/Punjabis
+- [[Muhajir People]]
+  - url :: https://en.wikipedia.org/wiki/Muhajir_people
+- [[Indira Gandhi]]
+  - url :: https://en.wikipedia.org/wiki/Indira_Gandhi
+  - [[Simla Agreement]]
+- [[National Awami Party]]
+  - url :: https://en.wikipedia.org/wiki/National_Awami_Party
+- [[Bangladesh Nationalist Party]]
+  - url :: https://en.wikipedia.org/wiki/Bangladesh_Nationalist_Party
+  - [[Bangladesh]]
+- [[Abdul Hamid Khan Bhashani]]
+  - url :: https://en.wikipedia.org/wiki/Abdul_Hamid_Khan_Bhashani
+  - [[Deobandi]] alumni
+  - [[Khilafat Movement]] participe
+    - url :: https://en.wikipedia.org/wiki/Khilafat_Movement
+    - [[Non Cooperation Movement]]
+      - url :: https://en.wikipedia.org/wiki/Non-cooperation_movement
+    - [[Hindu Muslim Unity]]
+      - url :: https://en.wikipedia.org/wiki/Hindu-Muslim_unity
+    - [[abolition du califat]]
+      - [[Empire Ottoman]] l
+  - [[All Pakistan Awami Muslim 
+League]] fonde
+    - url :: https://en.wikipedia.org/wiki/All_Pakistan_Awami_Muslim_League
+    - [[Muslim League (Pakistan)]] scission
+  - [[CENTO]] oppose
+    - url :: https://en.wikipedia.org/wiki/CENTO
+  - [[SEATO]] oppose
+    - url :: https://en.wikipedia.org/wiki/SEATO
+  - [[Fatima Jinnah]] soutien
+    - url :: https://en.wikipedia.org/wiki/Fatima_Jinnah
+    - [[1965 Pakistani Presidential 
+Election]] soeur
+    - [[Muhammad Ali Jinnah]] soeur
+- [[National Awami Party]]
+  - url :: https://en.wikipedia.org/wiki/National_Awami_Party
+- [[Lashkar E Jhangvi]]
+  - url :: https://ctc.usma.edu/a-profile-of-pakistans-lashkar-i-jhangvi-2/
+  - [[Sipah E Sahaba Pakistan]] bras armé
+    - note :: financé par l'arabie au détriment de Lashkar E Taiba
+    - url :: https://en.wikipedia.org/wiki/Sipah-e-Sahaba_Pakistan
+    - [[Deobandi]]
+    - [[Jamiat Ulema E Islam]] scission
+    - [[chiite]] anti
+    - [[Ahlus Sunnah Wal Jamaah]]
+      - url :: https://en.wikipedia.org/wiki/Ahlus_Sunnah_wal_Jamaah
+  - [[Jammu And Kashmir]]
+    - url :: https://en.wikipedia.org/wiki/Jammu_and_Kashmir
+  - [[Harkat Ul Jihad Al Islami]] s'entraine dans les camps afghan
+    - url :: https://en.wikipedia.org/wiki/Harkat-ul-Jihad-al-Islami
+    - [[Al Qaeda]]
+    - [[mujahideen afghan]]
+      - [[Afghanistan]] ss
+    - [[Harkat Ul Ansar]]
+      - url :: https://en.wikipedia.org/wiki/Harkat-ul-Ansar
+- [[Harkat Ul Mujahideen]]
+  - url :: https://en.wikipedia.org/wiki/Harkat-ul-Mujahideen
+  - [[ID 2860]]
+- [[Qari Saifullah Akhtar]]
+  - url :: https://en.wikipedia.org/wiki/Qari_Saifullah_Akhtar
+  - [[Harkat Ul Jihad Al Islami]] cofonde
+- [[Khal]]
+- [[Fazalur Rehman Khalil]]
+  - url :: https://en.wikipedia.org/wiki/Fazalur_Rehman_Khalil
+  - [[ID 2865]]
+- [[Pakistan’s military establishment]]
+  - [[Harkat Ul Jihad Al Islami]] soutien
+- [[Social Democratic Party Of 
+India]]
+  - url :: https://en.wikipedia.org/wiki/Social_Democratic_Party_of_India
+  - [[salafisme]]
+  - [[Kerala]]
+- [["Mujahideen Arabic College in Palakkad]]
+  - [[salafisme]]
+  - [[Kerala]]
+- [[Islamic Welfare Society]]
+  - url :: https://en.wikipedia.org/wiki/Islamic_Welfare_Society
+  - [[salafisme]]
+    - url :: https://carnegieendowment.org/2017/07/05/saudi-connection-pub-71444
+  - [[Kerala]]
+    - url :: https://en.wikipedia.org/wiki/Kerala
+- [[Popular Front Of India]]
+  - url :: https://en.wikipedia.org/wiki/Popular_Front_of_India
+  - [[salafisme]]
+  - [[Kerala]]
+- [[Ali Al Sistani]]
+  - url :: https://fr.wikipedia.org/wiki/Ali_al-Sistani
+  - [[irak]]
+  - [[république islamique]] seul barage capable de 
+contenir l'influence iranienne
+- [[Kenia]]
+  - url :: https://en.wikipedia.org/wiki/Kenia
+- [[Al Shabaab (militant Group)]]
+  - note :: harakat alshabaab al-mujahideen - à leurs debuts , les chebab ont pu jouir d'une relative popularité car ils ont débarrassé la capitale de ses bandit armés - inspiration wahhabite - acquis une certaine légitimité nationale lorsqu'ils ont pirs le maquis et se sont réorganisés pour repousser les assauts des troupes éthiopiennes qui ont envahi le sud la somalie et renversé le gouvernemnet de l'union des tribunaux islamiques fin 2006 - l'afrique nouvelle frontière du djihad marc antoine perouse de montclos
+  - url :: https://en.wikipedia.org/wiki/Al-Shabaab_(militant_group)
+  - [[Al Qaeda]] label
+- [[Federal Government Of Somalia]]
+  - url :: https://en.wikipedia.org/wiki/Federal_Government_of_Somalia
+  - [[Somalie]]
+- [[Boko Haram]]
+  - url :: https://en.wikipedia.org/wiki/Boko_Haram
+  - [[ISWA]] succede
+    - [[daesh]]
+  - [[Nigeria]]
+    - url :: https://en.wikipedia.org/wiki/Nigeria
+- [[Mali]]
+  - note :: Etat laic à sa naissance par la volonté de Modibo Keita, musèle les wahhabite. Mais lq dictature de Moussa trqore lds remet en selle;
+  - url :: https://en.wikipedia.org/wiki/Mali
+- [[Burkina Faso]]
+  - url :: https://en.wikipedia.org/wiki/Burkina_Faso
+- [[CIA Cryptonym]]
+  - url :: https://en.wikipedia.org/wiki/CIA_cryptonym
+- [[Qajar Dynasty]]
+  - note :: - lors des révolutions de 1911 et 1979, le clergé a joué un role important. - durant le règnes des %sp;Qadjars, despotes faibles, le clergé chiite a renforcé ses positions pendant que le gouvernement se contentait de collecter les impots et d'enroler des hommes - le clergé intervenait constamment dan la vie quotidienne, et collectait des impots religieux qui leur a permit d'avoir une grande indépendance financière Djalili, Moḥammad-Reza, and Thierry Kellner. L’Iran en 100 questions. 2018.
+  - url :: https://en.wikipedia.org/wiki/Qajar_dynasty
+  - [[Iran]] l
+    - url :: https://en.wikipedia.org/wiki/Iran
+    - [[Ansar al-Islam]] soutien
+    - [[Houthis]] soutien
+    - [[pasdaran]]
+      - url :: https://fr.wikipedia.org/wiki/Corps_des_Gardiens_de_la_r%C3%A9volution_islamique
+      - [[Force Al Qods]]
+        - url :: https://fr.wikipedia.org/wiki/Force_Al-Qods
+        - [[Popular Mobilization Forces]]
+          - note :: organisation puissance iarannienne en irak 2019 https://ctc.usma.edu/irans-expanding-militia-army-iraq-new-special-groups/
+          - url :: https://en.wikipedia.org/wiki/Popular_Mobilization_Forces
+          - [[irak]]
+          - [[daesh]] combat
+            - note :: une idéologie : islamisme fondamentaliste une structure, (haji Back nationnaliste) un teritoire : une organisation ( administration, loi charia, impot ) une guérilla : resistance face à l'oppression ( propagande video bombardement.) une organisation criminel : des cellules déconcentrés ( trouver des ressources financières (racket des minorités, petrole turquie), des hommes et femmes) un groupe terrorise %sp;: organisation, formation de terroriste, franchise type al-qaida une " fierté " ( type irannienne) sunnite : lutter contre les usa, contre les juifs, chiites etc --> chacun touche un type d'individu ( irakien sunnite (face au chiite), occidentaux ( justice, malfra etc.), ancien du baast, fondamentaliste. etc
+            - [[propagande]]
+              - [[Dabiq (magazine)]]
+                - url :: https://en.wikipedia.org/wiki/Dabiq_(magazine)
+                - [[Rumiyah (magazine)]]
+                  - url :: https://en.wikipedia.org/wiki/Rumiyah_(magazine)
+              - [[Amaq News Agency]] label
+                - url :: https://en.wikipedia.org/wiki/Amaq_News_Agency
+          - [[Special Groups (Iraq)]] nommé par les usa
+            - url :: https://en.wikipedia.org/wiki/Special_Groups_(Iraq)
+      - [[Bonyad]] controle
+        - url :: https://en.wikipedia.org/wiki/Bonyad
+      - [[Basij]]
+        - url :: https://fr.wikipedia.org/wiki/Basij
+      - [[Khatam al-Anbiya]]
+        - url :: https://en.wikipedia.org/wiki/Khatam-al_Anbiya_Construction_Headquarters
+      - [[andishkadeh think tank]]
+        - note :: think tank http://andishkadeh.ir/ Markaz-e barresiha-ye doktrinyal-e amniyat bedun marz
+        - url :: https://en.wikipedia.org/wiki/Andishkadeh_Yaghin
+    - [[Mir Hossein Moussavi]]
+      - note :: aurait des connivences , depuis 98, avec les selvices americans pour agiter la rue et les universités . (chouet)
+      - url :: https://fr.wikipedia.org/wiki/Mir_Hossein_Moussavi
+    - [[National Iranian Oil Company]]
+      - url :: https://fr.wikipedia.org/wiki/National_Iranian_Oil_Company
+    - [[Dubaï]]
+      - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Duba%25C3%25AF_(ville)&sa=U&ved=2ahUKEwjC0vzVrtPlAhWxVRUIHVSyAEUQFjAQegQICxAB&usg=AOvVaw1zDY_yVGTxh8taG1wVSC-s
+      - [[United Arab Emirates]]
+        - url :: https://en.wikipedia.org/wiki/United_Arab_Emirates
+    - [[Turkish Hezbollah]]
+      - url :: https://en.wikipedia.org/wiki/Turkish_Hezbollah
+      - [[PKK]] combat puis alliance
+  - [[Coup D'etat Du 21 fevrier 1921]]
+    - url :: https://fr.wikipedia.org/wiki/Coup_d%27%C3%89tat_du_21_f%C3%A9vrier_1921
+    - [[Reza Shah]]
+      - url :: https://en.wikipedia.org/wiki/Reza_Shah
+      - [[Mustafa Kemal Ataturk]] modele
+        - url :: https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk
+        - [[Empire Ottoman]]
+      - [[Langues Iraniennes]]
+        - url :: https://fr.wikipedia.org/wiki/Langues_iraniennes
+      - [[Anglo Soviet Invasion Of Iran]]
+        - url :: https://en.wikipedia.org/wiki/Anglo-Soviet_invasion_of_Iran
+        - [[Mohammad Reza Pahlavi]]
+          - url :: https://en.wikipedia.org/wiki/Mohammad_Reza_Pahlavi
+          - [[Iran Crisis Of 1946]]
+            - url :: https://en.wikipedia.org/wiki/Iran_crisis_of_1946
+      - [[Révolution blanche]]
+        - url :: https://fr.wikipedia.org/wiki/R%C3%A9volution_blanche
+  - [[Langues Turques]]
+    - url :: https://fr.wikipedia.org/wiki/Langues_turques
+- [[Harry S]]
+  - url :: https://en.wikipedia.org/wiki/Harry_S._Truman
+  - [[Iran Crisis Of 1946]]
+- [[Joseph Staline]]
+  - url :: https://fr.wikipedia.org/wiki/Joseph_Staline
+  - [[Iran Crisis Of 1946]]
+- [[Iranian Revolution]]
+  - url :: https://en.wikipedia.org/wiki/Iranian_Revolution
+- [[Federal Intelligence Service 
+(Germany)]]
+  - url :: https://en.wikipedia.org/wiki/Federal_Intelligence_Service_(Germany)
+  - [[Gehlen Organization]] succede
+    - url :: https://en.wikipedia.org/wiki/Gehlen_Organization
+  - [[West Germany]]
+    - url :: https://en.wikipedia.org/wiki/West_Germany
+- [[Change To Win Federation]]
+  - url :: https://en.wikipedia.org/wiki/Change_to_Win_Federation
+  - [[AFL - CIO]] scission
+    - url :: https://en.wikipedia.org/wiki/AFL%E2%80%93CIO
+- [[American Federation Of 
+Teachers]]
+  - url :: https://en.wikipedia.org/wiki/American_Federation_of_Teachers
+  - [[AFL - CIO]]
+- [[American Federation Of 
+State, County And 
+Municipal...]]
+  - url :: https://en.wikipedia.org/wiki/American_Federation_of_State,_County_and_Municipal_Employees
+  - [[AFL - CIO]]
+- [[Irving Brown]]
+  - url :: https://en.wikipedia.org/wiki/Irving_Brown
+  - [[AFL - CIO]] representant en europe
+  - [[Force Ouvriere]] cree
+    - url :: https://fr.wikipedia.org/wiki/Force_ouvri%C3%A8re
+- [[cia]]
+  - [[ID 2969]] finance
+- [[Ferdinand Marcos]]
+  - url :: https://en.wikipedia.org/wiki/Ferdinand_Marcos
+- [[Suharto]]
+  - url :: https://en.wikipedia.org/wiki/Suharto
+- [[cia]]
+  - [[Ramon Magsaysay]] logistique et finance
+    - url :: https://en.wikipedia.org/wiki/Ramon_Magsaysay
+- [[edouard Balladur]]
+  - url :: https://fr.wikipedia.org/wiki/%C3%89douard_Balladur
+  - [[Affaire Fregates 
+Arabie Saoudite sawari 2]]
+  - [[affaire Karachi]]
+    - url :: https://fr.wikipedia.org/wiki/Affaire_des_fr%C3%A9gates_d%27Arabie_saoudite_et_des_sous-marins_du_Pakistan
+    - [[société Dargall]] commission
+    - [[Nicolas Bazire]]
+      - url :: https://fr.wikipedia.org/wiki/Nicolas_Bazire
+    - [[Thierry Gaubert]]
+      - url :: https://fr.wikipedia.org/wiki/Thierry_Gaubert
+- [[Guillaume Barazzone]]
+  - url :: https://lecourrier.ch/2018/10/29/de-curieuses-frequentations/
+  - [[Hugo Linares]] ami
+    - [[Alia El assir]]
+      - [[abdul rahman el assir]] fille
+- [[Amir Lodhi]]
+  - [[société Dargall]] dirige
+- [[Asif Ali Zardari]]
+  - [[Benavir Bhutto]] mari
+    - [[affaire Karachi]]
+    - [[Corruption Charges Against 
+Benazir Bhutto And Asif...]]
+      - url :: https://en.wikipedia.org/wiki/Corruption_charges_against_Benazir_Bhutto_and_Asif_Ali_Zardari
+- [[Nayef Bin Abdul Aziz Al Saud]]
+  - url :: https://en.wikipedia.org/wiki/Nayef_bin_Abdul-Aziz_Al_Saud
+  - [[clan sudairi]]
+  - [[Ministry Of Interior (Saudi 
+Arabia)]]
+    - url :: https://en.wikipedia.org/wiki/Ministry_of_Interior_(Saudi_Arabia)
+- [[Brian Mulroney]]
+  - url :: https://en.wikipedia.org/wiki/Brian_Mulroney
+  - [[Airbus Affair]]
+  - [[Canada]]
+    - url :: https://en.wikipedia.org/wiki/Canada
+- [[Karlheinz Schreiber]]
+  - url :: https://en.wikipedia.org/wiki/Karlheinz_Schreiber
+  - [[Germany]]
+    - note :: En allemange, la corruption est tellemnet ancrée dnas la culture commorciale que ce coportement apparait souvent comme une donnée structurelle. en 2005, selon Uve Dolata (enqueteur ) les étudiants croient que la corruption est un élément essetienl du monde des affaires. leur apporche , c'est toute le monde le fait et qu'ils devront y %sp;passer (arme de corruption massive, guisnel)
+    - url :: https://en.wikipedia.org/wiki/Germany
+  - [[CDU Donations Scandal]]
+    - url :: https://en.wikipedia.org/wiki/CDU_donations_scandal
+  - [[Airbus Affair]]
+    - url :: https://en.wikipedia.org/wiki/Airbus_affair
+    - [[airbus]]
+    - [[Max Strauss]]
+      - url :: https://de.wikipedia.org/wiki/Max_Strau%C3%9F
+      - [[Franz Josef Strauss]] fils
+  - [[Franz Josef Strauss]] proche
+    - url :: https://en.wikipedia.org/wiki/Franz_Josef_Strauss
+    - [[1980 West German Federal 
+Election]]
+    - [[Helmut Kohl]]
+      - url :: https://en.wikipedia.org/wiki/Helmut_Kohl
+      - [[Germany]]
+      - [[CDU Donations Scandal]]
+      - [[Helmut Schmidt]] succede
+        - url :: https://en.wikipedia.org/wiki/Helmut_Schmidt
+        - [[Willy Brandt]]
+          - url :: https://en.wikipedia.org/wiki/Willy_Brandt
+        - [[1980 West German Federal 
+Election]]
+          - url :: https://en.wikipedia.org/wiki/1980_West_German_federal_election
+    - [[CSU]]
+      - url :: https://en.wikipedia.org/wiki/Christian_Social_Union_in_Bavaria
+    - [[Ernest F Hauser]]
+      - url :: https://de.wikipedia.org/wiki/Ernest_F._Hauser
+      - [[renseigenment americain]]
+    - [[Lockheed martin]]
+    - [[airbus]]
+- [[Ludwig Holger Pfahls]]
+  - url :: https://de.wikipedia.org/wiki/Ludwig-Holger_Pfahls
+  - [[Franz Josef Strauss]] chef de cabinet
+- [[Hosni Mubarak]]
+  - url :: https://en.wikipedia.org/wiki/Hosni_Mubarak
+  - [[Egypte]]
+  - [[Russie]] formation
+    - [[Slobodan Milosevic]] soutient
+    - [[Saur Revolution]] ne soutien pas
+    - [[Biafra]] m
+    - [[Installation Navale Russe de Tartous]]
+      - url :: https://fr.wikipedia.org/wiki/Installation_navale_russe_%C3%A0_Tartous
+      - [[syrie]]
+      - [[mer Méditerranée]]
+    - [[Yevgeny Primakov]]
+      - url :: https://en.wikipedia.org/wiki/Yevgeny_Primakov
+      - [[Abas]] dirige thèse
+- [[Siemens]]
+  - note :: cà l'allemande, corruption rigoureuse, massive, systématique (guisnel arme de corruption massive)
+  - url :: https://en.wikipedia.org/wiki/Siemens
+  - [[Liechtenstein]]
+  - [[Germany]]
+    - url :: https://en.wikipedia.org/wiki/Germany
+- [[Romania]]
+  - url :: https://en.wikipedia.org/wiki/Romania
+- [[Nicolae Ceausescu]]
+  - note :: http://countrystudies.us/romania/75.htm
+  - url :: https://en.wikipedia.org/wiki/Nicolae_Ceau%C8%99escu
+  - [[West Germany]] relation
+  - [[Lebanon]] relation
+  - [[Guerre Des Six Jours]] maintien relation
+  - [[Palestine Liberation 
+Organization]] bonne relation
+  - [[Soviet - Afghan War]] contre invasion
+  - [[Chine]] soutien
+  - [[Reublique Socialiste 
+De Roumanie]]
+    - url :: https://fr.wikipedia.org/wiki/R%C3%A9publique_socialiste_de_Roumanie
+  - [[Romanian Revolution]]
+    - url :: https://en.wikipedia.org/wiki/Romanian_Revolution
+    - [[National Salvation Front 
+(Romania)]]
+  - [[Gheorghe Gheorghiu Dej]] succede
+    - url :: https://en.wikipedia.org/wiki/Gheorghe_Gheorghiu-Dej
+    - [[Republique Populaire 
+Roumaine]]
+      - url :: https://fr.wikipedia.org/wiki/R%C3%A9publique_populaire_roumaine
+      - [[Comecon]]
+        - url :: https://en.wikipedia.org/wiki/Comecon
+      - [[Warsaw Pact]]
+        - url :: https://en.wikipedia.org/wiki/Warsaw_Pact
+    - [[ID 3186]]
+    - [[Communist Party Of China]]
+      - url :: https://en.wikipedia.org/wiki/Communist_Party_of_China
+    - [[Josip Broz Tito]]
+      - url :: https://en.wikipedia.org/wiki/Josip_Broz_Tito
+      - [[Yugoslavia]]
+        - url :: https://en.wikipedia.org/wiki/Yugoslavia
+  - [[Warsaw Pact Invasion Of 
+Czechoslovakia]] condamne
+    - url :: https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia
+- [[Parti Communiste Roumain]]
+  - url :: https://fr.wikipedia.org/wiki/Parti_communiste_roumain
+- [[Communaute Ethnique 
+(Roumanie)]]
+  - url :: https://fr.wikipedia.org/wiki/Communaut%C3%A9_ethnique_(Roumanie)
+- [[Ion Iliescu]]
+  - url :: https://en.wikipedia.org/wiki/Ion_Iliescu
+  - [[National Salvation Front 
+(Romania)]] dirige
+    - url :: https://en.wikipedia.org/wiki/National_Salvation_Front_(Romania)
+- [[State Protection Authority (AVH)]]
+  - url :: https://en.wikipedia.org/wiki/State_Protection_Authority
+  - [[Hungary]]
+    - url :: https://en.wikipedia.org/wiki/Hungary
+- [[Imre Nagy]]
+  - url :: https://en.wikipedia.org/wiki/Imre_Nagy
+  - [[Hungarian Revolution Of 1956]] l
+    - url :: https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956
+- [[Soviet Union]]
+  - url :: https://en.wikipedia.org/wiki/Soviet_Union
+  - [[Hungarian Revolution Of 1956]] reprime
+- [[1994 Hungarian Parliamentary 
+Election]]
+  - url :: https://en.wikipedia.org/wiki/1994_Hungarian_parliamentary_election
+- [[Yuri Andropov]]
+  - url :: https://en.wikipedia.org/wiki/Yuri_Andropov
+  - [[János Kádár]] proche de
+    - url :: https://en.wikipedia.org/wiki/J%C3%A1nos_K%C3%A1d%C3%A1r
+    - [[Mátyás Rákosi]]
+      - url :: https://en.wikipedia.org/wiki/M%C3%A1ty%C3%A1s_R%C3%A1kosi
+      - [[Hungarian People's Republic]] dirige
+        - url :: https://en.wikipedia.org/wiki/Hungarian_People%27s_Republic
+- [[Operation Gladio]]
+  - note :: - dépendanit en fait bien plus de la CIA et u renseigenment miliitaire US que de l'ètan - outre le soutien ameéricain, cette orga bénéficie d'un appui maçonniquedu type de celui qui s'incarnera ultérieuremente dans la loge p2 - 80%pct; de fasciste - orga calquée sur celle des réseaux de résistance européens cotre le nazisme. - (les maitres espions faligot)
+  - url :: https://en.wikipedia.org/wiki/Operation_Gladio
+- [[Constitution Of Italy]]
+  - url :: https://en.wikipedia.org/wiki/Constitution_of_Italy
+- [[Alcide De Gasperi]]
+  - url :: https://en.wikipedia.org/wiki/Alcide_De_Gasperi
+  - [[Christian Democracy (Italy)]] fonde
+    - url :: https://en.wikipedia.org/wiki/Christian_Democracy_(Italy)
+    - [[1946 Italian Constitutional 
+Referendum]]
+      - url :: https://en.wikipedia.org/wiki/1946_Italian_constitutional_referendum
+- [[Marshall Plan]]
+  - url :: https://en.wikipedia.org/wiki/Marshall_Plan
+- [[Italian Communist Party]]
+  - url :: https://en.wikipedia.org/wiki/Italian_Communist_Party
+  - [[Popular Democratic Front 
+(Italy)]] mene
+    - url :: https://en.wikipedia.org/wiki/Popular_Democratic_Front_(Italy)
+    - [[1946 Italian Constitutional 
+Referendum]]
+- [[1953 Italian General Election]]
+  - url :: https://en.wikipedia.org/wiki/1953_Italian_general_election
+- [[1948 Italian General Election]]
+  - url :: https://en.wikipedia.org/wiki/1948_Italian_general_election
+- [[cia]]
+  - [[Christian Democracy (Italy)]] soutien financier
+  - [[annee 69 - 75]] finance ¿
+    - url :: https://en.wikipedia.org/wiki/Golpe_Borghese
+    - url :: https://en.wikipedia.org/wiki/Piazza_Fontana_bombing
+    - url :: https://en.wikipedia.org/wiki/Propaganda_Due
+    - url :: https://it.wikipedia.org/wiki/Rosa_dei_venti_(storia)
+- [[loge P2]]
+  - url :: https://en.wikipedia.org/wiki/Propaganda_Due
+- [[Rosa Dei Venti (storia)]]
+  - url :: https://it.wikipedia.org/wiki/Rosa_dei_venti_(storia)
+- [[Piazza Fontana Bombing]]
+  - url :: https://en.wikipedia.org/wiki/Piazza_Fontana_bombing
+- [[Golpe Borghese]]
+  - url :: https://en.wikipedia.org/wiki/Golpe_Borghese
+- [[Fran%C3%A7ois De Grossouvre]]
+  - url :: https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_Grossouvre
+  - [[Operation Gladio]]
+    - url :: https://en.wikipedia.org/wiki/Operation_Gladio
+  - [[Fran%C3%A7ois Mitterrand]]
+    - url :: https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Mitterrand
+- [[Greece]]
+  - url :: https://en.wikipedia.org/wiki/Greece
+- [[Greek Military Junta Of 1967 - 1974]]
+  - url :: https://en.wikipedia.org/wiki/Greek_military_junta_of_1967%E2%80%931974
+- [[George Papandreou (senior)]]
+  - url :: https://en.wikipedia.org/wiki/George_Papandreou_(senior)
+- [[John Ioannidis]]
+  - url :: https://en.wikipedia.org/wiki/John_Ioannidis
+- [[Georgios Papadopoulos]]
+  - url :: https://en.wikipedia.org/wiki/Georgios_Papadopoulos
+  - [[1967 Greek Coup D'état]]
+    - url :: https://en.wikipedia.org/wiki/1967_Greek_coup_d%27%C3%A9tat
+  - [[cia]] agent
+- [[Andreas Papandreou]]
+  - url :: https://en.wikipedia.org/wiki/Andreas_Papandreou
+- [[George Papandreou]]
+  - url :: https://en.wikipedia.org/wiki/George_Papandreou
+- [[Konstantinos Karamanlis]]
+  - url :: https://en.wikipedia.org/wiki/Konstantinos_Karamanlis
+- [[KYP]]
+  - url :: https://en.wikipedia.org/wiki/National_Intelligence_Service_(Greece)
+- [[Operation Gladio]]
+  - note :: Les maitres espions (faligot)
+  - url :: https://en.wikipedia.org/wiki/Operation_Gladio
+  - [[La rose des Vents]]
+    - [[Stay-behind France]]
+      - url :: https://fr.wikipedia.org/wiki/Stay-behind
+      - [[bretagne]]
+        - [[Le Roy / Finville]]
+          - [[Jacques Dormoy]]
+          - [[Lily Marec]]
+      - [[Pays Basque / Bordeaux]]
+        - [[Raymond Hamel]]
+          - [[Gilbert Ugnon]]
+          - [[F de grossouvre]]
+          - [[H. Colcombet]]
+      - [[centre]]
+        - [[R. Espitallié]]
+      - [[sud]]
+        - [[Armand Chaumien]]
+        - [[Soupiron]]
+  - [[Arc en ciel]]
+    - [[Stay-behind France]]
+  - [[red sheepskin]]
+    - [[grece]]
+  - [[Operatien en Inlichtinge]]
+    - [[pays bas]]
+  - [[Rocambole]]
+    - [[norvege]]
+  - [[aginter press]]
+    - [[portugal]]
+  - [[sveaborg]]
+    - [[suede]]
+  - [[P26]]
+    - note :: Liens suisse NATO déclassifier en 2020 15 minutes https://www.youtube.com/watch?time_continue=14&v=6G-1dDMCgTI (Le scandale des armées secrètes de l'Otan France 5 2010 )
+    - [[suisse]]
+  - [[counter-guerrilla]]
+    - [[turkey]]
+  - [[OWSGV]]
+    - note :: - animés par des militaits sociaux démocrate s et syndicalistes en liaison avec les àméricans , et notamment avec Irvivg Brown, le représentant de AFL-CIO en Europe
+    - [[autriche]]
+  - [[SDRA8]]
+    - url :: https://en.wikipedia.org/wiki/Belgian_stay-behind_network
+    - [[belgique]]
+  - [[Absalon]]
+    - [[danemark]]
+- [[Francois De Grossouvre]]
+  - url :: https://en.wikipedia.org/wiki/Fran%C3%A7ois_de_Grossouvre
+- [[Rassemblement Du Peuple Francais]]
+  - url :: https://fr.wikipedia.org/wiki/Rassemblement_du_peuple_fran%C3%A7ais
+  - [[Service D'action Civique]] ancetre
+    - url :: https://fr.wikipedia.org/wiki/Service_d%27action_civique
+    - [[Tuerie D'Auriol]]
+      - url :: https://fr.wikipedia.org/wiki/Tuerie_d%27Auriol
+- [[Jacques Foccart]]
+  - url :: https://fr.wikipedia.org/wiki/Jacques_Foccart
+  - [[Service D'action Civique]] fonde
+- [[Charles Pasqua]]
+  - url :: https://fr.wikipedia.org/wiki/Charles_Pasqua
+  - [[ID 3267]]
+- [[Achille Peretti]]
+  - url :: https://fr.wikipedia.org/wiki/Achille_Peretti
+  - [[ID 3267]]
+- [[Robert Bourgi]]
+  - url :: https://fr.wikipedia.org/wiki/Robert_Bourgi
+- [[Paul Henri Spaak]]
+  - url :: https://en.wikipedia.org/wiki/Paul-Henri_Spaak
+  - [[SDRA8]] appartient
+  - [[Conseil De L'Europe]] président
+    - url :: https://fr.wikipedia.org/wiki/Conseil_de_l%27Europe
+- [[Jean Heinrich]]
+  - url :: https://fr.wikipedia.org/wiki/Jean_Heinrich
+  - [[Stay-behind France]] dirige
+  - [[GEOS (entreprise)]] président
+    - url :: https://fr.wikipedia.org/wiki/GEOS_(entreprise)
+- [[Jean Claude Mallet]]
+  - [[livre blanc de la Défense et de la sécurit2008 é]] à la tete
+  - [[black team]]
+    - note :: qui a travaillé secrètement, en parallèle du groupe de travail officiel. Outre Thérèse Delpech, conseillère stratégique au CEA (Commissariat à l’énergie atomique) et participante occasionnelle à ses travaux, ce groupe était composé de Jean-Marc Balencie (docteur en sciences politiques, société d’analyse stratégique Risk & Co) ; Pierre Conesa (administrateur civil qui fut en poste à la DGSE dans les années 1980, directeur général de la Compagnie européenne d’intelligence stratégique) ; Jean-Claude Cousseran (secrétaire général de l’Académie diplomatique internationale (ADI), ancien directeur de la DGSE et homme du Quai d’Orsay ; Philippe Duluc (ingénieur de l’armement en disponibilité, directeur de l’offre de sécurité du groupe Bull) ; l’amiral (deuxième section) Alain Dumontet (ancien du cabinet militaire des Premiers ministres Lionel Jospin et Jean-Pierre Raffarin, ancien chef de la Force d’action navale) ; Nicole Gnesotto (ancienne responsable de l’Institut de sécurité de l’Union européenne) ; Marie Mendras (politologue, spécialiste de la Russie au CERI – Centre d’études et de recherches internationales –, Sciences Po Paris) ; général (deuxième section) Patrice Sartre (conseiller militaire du groupe Safran). Une belle addition de compétences.
+    - [[livre blanc de la Défense et de la sécurit2008 é]] en parallele
+- [[Directeur strategie DGSE]]
+  - [[Rémi Maréchaux]]
+- [[Pascal Teixeira da Silva]]
+- [[Pierre Brochand]]
+  - note :: À l’automne 2008, le service de sécurité de la DGSE découvre des micros dans l’appartement de Brochand, qu’il a habité depuis six ans. Or, depuis 2006, des Américains identifiés – mais un peu tard ! – comme techniciens de la CIA logeaient dans l’appartement juste au-dessus %sp; %sp;Les années Sarkozy (2007-2012) %sp; %sp;Roger Faligot, Jean Guisnel et Rémi Kauffer %sp; %sp;Dans Histoire politique des services secrets français (2013), pages 596 à 658
+- [[GErard Corbin De Mangoux]]
+- [[Ancien DGSE]]
+  - note :: groupes, notamment ceux tournés vers l’étranger (production et export) ou dépendants de contrats publics, comme Thales ou Bouygues », notait par exemple la lettre d’information spécialisée Intelligence Online en 2006. Qui listait ainsi les anciens responsables de la DGSE « pantouflant » en entreprise : Pierre Costedoat, directeur général de SSF Sofema ; Jacques Ricard et Maurice Lesecq, prestataires intelligence économique chez Michelin ; François Muneret, directeur de la sécurité chez Bouygues ; Pierre Pasinetti, Thierry Pujol, Rémi Pagnié, directeurs de la sécurité respectivement chez Thales, Nissan et la Française des jeux ; Alice Lamarque, directrice du renseignement chez Total ; le général Jean-Bernard Pinatel, directeur de la société Datops, opératrice du programme informatique Périclès qui permet aux entreprises de « monitorer » et, dans une certaine mesure, de prévoir les attaques informationnelles dont elles peuvent être les victimes ; Michel Lacarrière, l’ex-directeur du Renseignement, conseiller, avec le général Mermet, de Salamandre ; Pierre-Antoine Lorenzi, président de Serenus Conseil ; Jacques Dewatre, ex-patron de la Piscine, conseiller du président de Crisis Consulting, dont Jean-Marie Albert, Patrick Loth et Olivier Guillard étaient respectivement directeurs et Stephan Malvoisin, directeur associé. Et Intelligence Online de préciser : « Curieusement, alors que la DST est plus active en intelligence économique que la DGSE, peu de ses anciens se retrouvent dans le privé, si ce n’est, dernier exemple significatif en date, l’ancien sous-directeur de la DST en charge du terrorisme, Louis Caprioli, recruté en mai 2004 par Geos
+- [[DGSE]]
+  - url :: https://fr.wikipedia.org/wiki/Direction_g%C3%A9n%C3%A9rale_de_la_S%C3%A9curit%C3%A9_ext%C3%A9rieure
+  - [[DO]]
+- [[Didier Bolelli]]
+  - url :: https://fr.wikipedia.org/wiki/Didier_Bolelli
+  - [[DO]]
+  - [[GEOS (entreprise)]] dirige
+- [[vieille garde]]
+  - [[Soviet - Afghan War]] decide
+  - [[Leonid Brezhnev]] influence (en fin de regne)
+    - note :: en 79, il était plus en mesure de diriger le pays
+    - url :: https://en.wikipedia.org/wiki/Leonid_Brezhnev
+  - [[Yuri Andropov]]
+    - url :: https://en.wikipedia.org/wiki/Yuri_Andropov
+  - [[Andrei Gromyko]]
+    - url :: https://en.wikipedia.org/wiki/Andrei_Gromyko
+  - [[Dmitry Ustinov]]
+    - url :: https://en.wikipedia.org/wiki/Dmitry_Ustinov
+  - [[Operation Storm 333]] decide de lancer
+    - note :: soupçon amin d'etre agent de la CIA (intoxication ?)
+    - url :: https://en.wikipedia.org/wiki/Operation_Storm-333
+    - [[Hafizullah Amin]]
+      - url :: https://en.wikipedia.org/wiki/Hafizullah_Amin
+      - [[Nur Muhammad Taraki]] elimine et succede
+        - url :: https://en.wikipedia.org/wiki/Nur_Muhammad_Taraki
+        - [[Democratic Republic Of 
+Afghanistan]] preside
+        - [[Ghilji]]
+        - [[1979 Herat Uprising]]
+        - [[Khalq]]
+          - url :: https://en.wikipedia.org/wiki/Khalq
+          - [[Parti Democratique 
+Populaire D'Afghanistan]] faction
+            - url :: https://fr.wikipedia.org/wiki/Parti_d%C3%A9mocratique_populaire_d%27Afghanistan
+            - [[Saur Revolution]]
+              - url :: https://en.wikipedia.org/wiki/Saur_Revolution
+              - [[Mohammed Daoud Khan]] renverse
+                - note :: - embrase la cause du pashtounistan %tab;-> ce qui fait herrisé les poils de zia au pakistan - nationnaliste afghan autoritaire
+                - url :: https://en.wikipedia.org/wiki/Mohammed_Daoud_Khan
+                - [[pachtoune]]
+                - [[Kingdom Of Afghanistan]] renverse
+                - [[Republic Of Afghanistan]] preside
+                - [[nationaliste afghan]]
+                - [[Insurgency In Balochistan]]
+                  - url :: https://en.wikipedia.org/wiki/Insurgency_in_Balochistan
+              - [[Democratic Republic Of 
+Afghanistan]]
+                - url :: https://en.wikipedia.org/wiki/Democratic_Republic_of_Afghanistan
+        - [[Parcham]]
+          - url :: https://en.wikipedia.org/wiki/Parcham
+          - [[Parti Democratique 
+Populaire D'Afghanistan]] faction
+- [[Mikhail Gorbachev]]
+  - url :: https://en.wikipedia.org/wiki/Mikhail_Gorbachev
+  - [[prestroika]]
+    - url :: https://fr.wikipedia.org/wiki/Perestro%C3%AFka
+  - [[Glasnost]]
+    - note :: - permet, pendant la guerre afghane, au journaliste d'informer la population des opérations mené par l'urss
+    - url :: https://fr.wikipedia.org/wiki/Glasnost
+- [[Mohammad Najibullah]]
+  - url :: https://en.wikipedia.org/wiki/Mohammad_Najibullah
+  - [[Babrak Karmal]] succede
+    - url :: https://en.wikipedia.org/wiki/Babrak_Karmal
+    - [[Hafizullah Amin]] succede
+- [[ID 3423]]
+- [[Ahmad Zia Massoud]]
+  - url :: https://en.wikipedia.org/wiki/Ahmad_Zia_Massoud
+  - [[Ahmad Shah Massoud]] frere
+  - [[National Front Of Afghanistan]] creer
+    - url :: https://en.wikipedia.org/wiki/National_Front_of_Afghanistan
+- [[2004 Ukrainian Presidential 
+Election]]
+  - url :: https://en.wikipedia.org/wiki/2004_Ukrainian_presidential_election
+  - [[Ukraine]]
+    - url :: https://en.wikipedia.org/wiki/Ukraine
+  - [[Orange Revolution]]
+    - url :: https://en.wikipedia.org/wiki/Orange_Revolution
+- [[Vladyslav Kaskiv]]
+  - url :: https://en.wikipedia.org/wiki/Vladyslav_Kaskiv
+  - [[Orange Revolution]] leader
+- [[Georgia (country)]]
+  - url :: https://en.wikipedia.org/wiki/Georgia_(country)
+- [[Open Society Foundations (OSF)]]
+  - url :: https://en.wikipedia.org/wiki/Open_Society_Foundations
+  - [[Kmara]] finance
+    - url :: https://en.wikipedia.org/wiki/Kmara
+    - [[Rose Revolution]]
+      - url :: https://en.wikipedia.org/wiki/Rose_Revolution
+      - [[Eduard Shevardnadze]] renverse
+        - url :: https://en.wikipedia.org/wiki/Eduard_Shevardnadze
+- [[Giga Bokeria]]
+  - url :: https://en.wikipedia.org/wiki/Giga_Bokeria
+  - [[Rose Revolution]] leader
+  - [[Kmara]]
+- [[ivan marovic]]
+  - [[Otpor]]
+    - url :: https://en.wikipedia.org/wiki/Otpor
+    - [[Révolution]]
+      - [[Slobodan Milosevic]] destitution
+- [[Srdja popovic 
+(activist)]]
+  - url :: https://en.wikipedia.org/wiki/Sr%C4%91a_Popovi%C4%87_(activist)
+  - [[Otpor]] leader
+  - [[CANVAS]] dirige
+    - url :: https://en.wikipedia.org/wiki/Centre_for_Applied_Non_Violent_Actions_and_Strategies
+  - [[Comment Faire Tomber Un 
+Dictateur Quand On Est Seu...]] ecrit
+    - url :: https://fr.wikipedia.org/wiki/Comment_faire_tomber_un_dictateur_quand_on_est_seul,_tout_petit,_et_sans_armes
+- [[Spanish Civil War]]
+  - url :: https://en.wikipedia.org/wiki/Spanish_Civil_War
+- [[Francisco Franco]]
+  - url :: https://en.wikipedia.org/wiki/Francisco_Franco
+- [[Iberian Pact]]
+  - url :: https://en.wikipedia.org/wiki/Iberian_Pact
+- [[Antonio de Spinola]]
+  - url :: https://fr.wikipedia.org/wiki/Ant%C3%B3nio_de_Sp%C3%ADnola
+  - [[Carnation Revolution]]
+    - url :: https://en.wikipedia.org/wiki/Carnation_Revolution
+    - [[Marcelo Caetano]]
+      - url :: https://fr.wikipedia.org/wiki/Marcelo_Caetano
+      - [[Atonio De Oliveira 
+Salazar]] succede
+        - url :: https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar
+        - [[National Union (Portugal)]]
+          - url :: https://en.wikipedia.org/wiki/National_Union_(Portugal)
+        - [[Charles Maurras]]
+          - url :: https://fr.wikipedia.org/wiki/Charles_Maurras
+        - [[Estado Novo (Portugal)]]
+          - url :: https://en.wikipedia.org/wiki/Estado_Novo_(Portugal)
+          - [[Carnation Revolution]]
+    - [[National Salvation Junta]]
+      - url :: https://en.wikipedia.org/wiki/National_Salvation_Junta
+  - [[MFA]]
+    - url :: https://en.wikipedia.org/wiki/Armed_Forces_Movement
+    - [[Carnation Revolution]]
+- [[Portuguese Constitution]]
+  - url :: https://en.wikipedia.org/wiki/Portuguese_Constitution
+- [[Mario Soares]]
+  - url :: https://en.wikipedia.org/wiki/M%C3%A1rio_Soares
+  - [[Socialist Party (Portugal)]] leader
+    - url :: https://en.wikipedia.org/wiki/Socialist_Party_(Portugal)
+- [[Eamon De Valera]]
+  - url :: https://en.wikipedia.org/wiki/%C3%89amon_de_Valera
+  - [[Fianna fail]] fonde
+  - [[Arthur Griffith]] succede
+    - url :: https://en.wikipedia.org/wiki/Arthur_Griffith
+    - [[Sinn Fein]]
+      - url :: https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
+      - [[Republican Sinn Fein]] scission
+        - url :: https://en.wikipedia.org/wiki/Republican_Sinn_F%C3%A9in
+      - [[Sinn Fein The Workers 
+Party]] scission
+        - url :: https://en.wikipedia.org/wiki/Sinn_F%C3%A9in_the_Workers_Party
+- [[Republic Of Ireland]]
+  - url :: https://en.wikipedia.org/wiki/Republic_of_Ireland
+- [[Tomas Mac Giolla]]
+  - url :: https://en.wikipedia.org/wiki/Tom%C3%A1s_Mac_Giolla
+  - [[Sinn Fein The Workers 
+Party]] dirigel
+- [[Ruairi O
+BRadaigh]]
+  - url :: https://en.wikipedia.org/wiki/Ruair%C3%AD_%C3%93_Br%C3%A1daigh
+  - [[Republican Sinn Fein]] dirige
+- [[Good Friday Agreement]]
+  - url :: https://en.wikipedia.org/wiki/Good_Friday_Agreement
+- [[British Empire]]
+  - url :: https://en.wikipedia.org/wiki/British_Empire
+  - [[Irish War Of Independence]]
+  - [[IRA pro-traité]] soutien
+- [[United Kingdom]]
+  - url :: https://en.wikipedia.org/wiki/United_Kingdom
+- [[Northern Ireland]]
+  - url :: https://en.wikipedia.org/wiki/Northern_Ireland
+- [[Unionism In Ireland]]
+  - url :: https://en.wikipedia.org/wiki/Unionism_in_Ireland
+- [[National Endowment For 
+Democracy]]
+  - url :: https://en.wikipedia.org/wiki/National_Endowment_for_Democracy
+- [[Gene Sharp]]
+  - url :: https://en.wikipedia.org/wiki/Gene_Sharp
+  - [[De la dictature à la démocratie]]
+- [[Angola]]
+  - note :: deuxième producteur d'or noir d'Afrique sub-saharienne après le Nigeria https://www.la-croix.com/Economie/En-Angola-grand-menage-petrole-relancer-production-2019-06-22-1301030658 ’Angola est très dépendant des ressources pétrolières, dont la vente représente 90 %pct; de ses exportations et 70 %pct; de ses recettes. https://www.lemonde.fr/afrique/article/2019/04/02/une-nouvelle-unite-de-total-entre-en-production-au-large-de-l-angola_5444707_3212.html
+  - url :: https://en.wikipedia.org/wiki/Angola
+- [[South African Defence Force]]
+  - url :: https://fr.wikipedia.org/wiki/South_African_Defence_Force
+  - [[UNITA]] soutient
+    - url :: https://en.wikipedia.org/wiki/UNITA
+    - [[Angolan Civil War]]
+      - url :: https://en.wikipedia.org/wiki/Angolan_Civil_War
+      - [[Bicesse Accords]]
+        - url :: https://en.wikipedia.org/wiki/Bicesse_Accords
+        - [[1992 Angolan Presidential 
+Election]]
+          - url :: https://en.wikipedia.org/wiki/1992_Angolan_presidential_election
+    - [[Operation IA Feature]]
+      - url :: https://en.wikipedia.org/wiki/Operation_IA_Feature
+- [[Agostinho Neto]]
+  - url :: https://en.wikipedia.org/wiki/Agostinho_Neto
+  - [[MPLA]] dirige
+    - url :: https://fr.wikipedia.org/wiki/Mouvement_populaire_de_lib%C3%A9ration_de_l%27Angola
+    - [[Angolan Civil War]]
+    - [[Eastern Revolt]] scission
+- [[Fidel Castro]]
+  - url :: https://en.wikipedia.org/wiki/Fidel_Castro
+  - [[MPLA]] soutien
+  - [[Cuba]]
+    - url :: https://en.wikipedia.org/wiki/Cuba
+- [[Che Guevara]]
+  - url :: https://en.wikipedia.org/wiki/Che_Guevara
+  - [[Cuba]]
+- [[Angolan War Of Independence]]
+  - url :: https://en.wikipedia.org/wiki/Angolan_War_of_Independence
+  - [[Alvor Agreement]]
+    - url :: https://en.wikipedia.org/wiki/Alvor_Agreement
+    - [[Battle Of Quifangondo]]
+      - url :: https://en.wikipedia.org/wiki/Battle_of_Quifangondo
+      - [[Angolan Civil War]]
+      - [[People's Republic Of Angola]]
+        - url :: https://en.wikipedia.org/wiki/People%27s_Republic_of_Angola
+- [[Total (entreprise)]]
+  - note :: Total, premier opérateur pétrolier en Angola avec une production de 650.000 barils par jour, https://www.la-croix.com/Economie/En-Angola-grand-menage-petrole-relancer-production-2019-06-22-1301030658
+  - url :: https://fr.wikipedia.org/wiki/Total_(entreprise)
+- [[Isabel Dos Santos]]
+  - url :: https://en.wikipedia.org/wiki/Isabel_dos_Santos
+  - [[joses Eduardo Dos Santos]] fille
+    - url :: https://fr.wikipedia.org/wiki/Jos%C3%A9_Eduardo_dos_Santos
+    - [[ID 3552]]
+  - [[Sonangol Group]] dirige
+    - url :: https://en.wikipedia.org/wiki/Sonangol_Group
+- [[Front For The Liberation Of 
+The Enclave Of Cabinda (FLEC)]]
+  - url :: https://en.wikipedia.org/wiki/Front_for_the_Liberation_of_the_Enclave_of_Cabinda
+  - [[Alvor Agreement]] n'est pas consulté
+  - [[Cabinda Province]]
+    - note :: localisation principale des ressources pétrolières du pays
+    - url :: https://en.wikipedia.org/wiki/Cabinda_Province
+- [[Ovimbundu]]
+  - url :: https://en.wikipedia.org/wiki/Ovimbundu
+  - [[Eastern Revolt]]
+- [[Daniel Chipenda]]
+  - url :: https://en.wikipedia.org/wiki/Daniel_Chipenda
+  - [[Eastern Revolt]] dirige
+    - url :: https://en.wikipedia.org/wiki/Eastern_Revolt
+    - [[FNLA]] rejoint
+- [[People's Armed Forces Of 
+Liberation Of Angola]]
+  - url :: https://en.wikipedia.org/wiki/People%27s_Armed_Forces_of_Liberation_of_Angola
+  - [[MPLA]] branche armée
+- [[Putsch Des généraux]]
+  - url :: https://fr.wikipedia.org/wiki/Putsch_des_g%C3%A9n%C3%A9raux
+- [[Guerre D'Algérie]]
+  - url :: https://fr.wikipedia.org/wiki/Guerre_d%27Alg%C3%A9rie
+- [[Chadli Bendjedid]]
+  - url :: https://fr.wikipedia.org/wiki/Chadli_Bendjedid
+  - [[Houari Boumediene]] succede
+    - url :: https://fr.wikipedia.org/wiki/Houari_Boum%C3%A9di%C3%A8ne
+    - [[Algérie]]
+    - [[Ahmed Ben Bella]]
+      - url :: https://fr.wikipedia.org/wiki/Ahmed_Ben_Bella
+- [[Mohammed V]]
+  - url :: https://fr.wikipedia.org/wiki/Mohammed_ben_Youssef
+  - [[Hassan II]] succede
+    - url :: https://fr.wikipedia.org/wiki/Hassan_II
+    - [[UNITA]] soutien
+    - [[Safari Club]]
+    - [[Années De Plomb (Maroc)]]
+      - url :: https://fr.wikipedia.org/wiki/Ann%C3%A9es_de_plomb_(Maroc)
+    - [[Mohammed VI]]
+      - url :: https://fr.wikipedia.org/wiki/Mohammed_VI
+- [[Ahmed Balafrej]]
+  - url :: https://fr.wikipedia.org/wiki/Ahmed_Balafrej
+  - [[branche laique et reformiste]] mene
+  - [[ID 3638]]
+- [[Allal El Fassi]]
+  - url :: https://fr.wikipedia.org/wiki/Allal_El_Fassi
+  - [[Al-Hizb al-Watani]] fonde
+  - [[branche religieuse et conservatrice]] mene
+  - [[Comité d'action macocaine (CAM)]] fonde
+    - [[Dahir Berbe8re]]
+      - note :: - est interpété par les nationalistes comme une manoeuvre pour diviser les Marocains et mieux maitriser le territoire, ainsi qu'un outil de prosélytisme chrétien contre les musulmans et l'arabe. le mondiale des nations de medeiros
+      - url :: https://fr.wikipedia.org/wiki/Dahir_berb%C3%A8re
+    - [[Haraka Al Kaoumia]]
+      - [[Parti Démocratique de l'indépendance]] devient
+    - [[Al-Hizb al-Watani]]
+      - [[partie Istiqlal]] devient
+- [[Mouvement National Marocain]]
+  - url :: https://fr.wikipedia.org/wiki/Mouvement_national_marocain
+  - [[Maroc]]
+- [[Mohamed Hassan El Ouazzani]]
+  - url :: https://fr.wikipedia.org/wiki/Mohamed_Hassan_El_Ouazzani
+  - [[ID 3638]]
+  - [[Parti Démocratique de l'indépendance]] fonde
+    - url :: https://fr.wikipedia.org/wiki/Parti_d%C3%A9mocratique_de_l%27ind%C3%A9pendance
+- [[Manifeste De L'independance]]
+  - url :: https://fr.wikipedia.org/wiki/Manifeste_de_l%27ind%C3%A9pendance
+  - [[partie Istiqlal]] acte fondateur
+    - url :: https://fr.wikipedia.org/wiki/Istiqlal
+    - [[Union Nationale Des Forces 
+Populaires]]
+      - url :: https://fr.wikipedia.org/wiki/Union_nationale_des_forces_populaires
+- [[Mehdi Ben Barka]]
+  - url :: https://fr.wikipedia.org/wiki/Mehdi_Ben_Barka
+  - [[Union Nationale Des Forces 
+Populaires]]
+- [[Mouvement Populaire (Maroc)]]
+  - url :: https://fr.wikipedia.org/wiki/Mouvement_populaire_(Maroc)
+  - [[Berberisme]]
+    - url :: https://fr.wikipedia.org/wiki/Berb%C3%A9risme
+- [[Espagne]]
+  - url :: https://fr.wikipedia.org/wiki/Espagne
+  - [[Crise De L'ilot Persil]]
+- [[Melilla]]
+  - url :: https://fr.wikipedia.org/wiki/Melilla
+  - [[Crise De L'ilot Persil]]
+- [[Ceuta]]
+  - url :: https://fr.wikipedia.org/wiki/Ceuta
+  - [[Crise De L'ilot Persil]]
+- [[état français]]
+  - [[Défense Conseil 
+International (DCI)]] actionnaire
+  - [[SOFRESA]] actionnaire
+- [[Plaquette Organisation Dga 
+Vf 201010]]
+  - url :: https://www.defense.gouv.fr/content/download/17136/149046/plaquette_organisation_dga_vf_201010.pdf
+- [[DGA]]
+  - url :: https://fr.wikipedia.org/wiki/Direction_g%C3%A9n%C3%A9rale_de_l%27Armement
+  - url :: https://www.defense.gouv.fr/content/download/17136/149046/plaquette_organisation_dga_vf_201010.pdf
+- [[direction du développement international (DDI)]]
+  - [[Base Industrielle Et 
+Technologique De Défense]] soutien exportation
+    - url :: https://fr.wikipedia.org/wiki/Base_industrielle_et_technologique_de_d%C3%A9fense
+    - [[GICAT]]
+      - note :: scraping https://www.gicat.com/caracteristique-defense/non-classe/
+      - url :: https://fr.wikipedia.org/wiki/Groupement_des_industries_de_d%C3%A9fense_et_de_s%C3%A9curit%C3%A9_terrestres_et_a%C3%A9roterrestres
+      - [[Eurosatory]] organise
+        - url :: https://fr.wikipedia.org/wiki/Eurosatory
+    - [[GIFAS]]
+      - url :: https://fr.wikipedia.org/wiki/Groupement_des_industries_fran%C3%A7aises_a%C3%A9ronautiques_et_spatiales
+      - [[Salon SIAE (salon du Bourget)]] organise
+        - url :: https://fr.wikipedia.org/wiki/Salon_international_de_l%27a%C3%A9ronautique_et_de_l%27espace_de_Paris-Le_Bourget
+    - [[GICAN]]
+      - [[Euronaval]] organise
+        - url :: https://fr.wikipedia.org/wiki/Euronaval
+    - [[Défense Conseil 
+International (DCI)]]
+      - note :: - fusion de quatre sociétés distinctes (COFRAS, NAVFCO, AIRCO et DESCO)
+      - url :: https://fr.wikipedia.org/wiki/D%C3%A9fense_conseil_international
+- [[MINDEF]]
+  - url :: https://fr.wikipedia.org/wiki/Direction_g%C3%A9n%C3%A9rale_de_l%27Armement
+  - url :: https://www.defense.gouv.fr/content/download/17136/149046/plaquette_organisation_dga_vf_201010.pdf
+- [[SOFEMA]]
+  - note :: https://www.gicat.com/membre/sofema/ - fusion de deux sociétés de service public (l’Ofema et la Sofma)
+  - url :: https://fr.wikipedia.org/wiki/Sofema
+  - [[Défense Conseil 
+International (DCI)]] actionnaire
+- [[Office général de l'air (OGA)]]
+  - [[eurotradia]] devient
+    - [[Défense Conseil 
+International (DCI)]] actionnaire
+- [[Premier ministre]]
+  - [[Exportations d'armes de la France]] controle et autorise
+    - note :: Les cinq sociétés françaises de commercialisation https://www.lesechos.fr/1992/06/les-cinq-societes-francaises-de-commercialisation-927425
+    - url :: https://fr.wikipedia.org/w/index.php?title=Exportations_d%27armes_de_la_France&oldid=162365208
+    - [[Base Industrielle Et 
+Technologique De Défense]]
+    - [[Office francais d'armement]]
+- [[SGDSN]]
+  - url :: https://fr.wikipedia.org/wiki/Secr%C3%A9tariat_g%C3%A9n%C3%A9ral_de_la_D%C3%A9fense_et_de_la_S%C3%A9curit%C3%A9_nationale
+  - [[Commission Interministérielle
+pour l'étude des exportations de matériel de guerre (CIEEMG)]] préside
+- [[Commission interministérielle pour l'étude des exportations de matériel de guerre (CIACI)]]
+  - [[Exportations d'armes de la France]] appui les contrats
+- [[Jean Christophe Mitterrand]]
+  - url :: https://fr.wikipedia.org/wiki/Jean-Christophe_Mitterrand
+- [[Affaire Des frégates de Taiwan]]
+  - url :: https://fr.wikipedia.org/wiki/Affaire_des_fr%C3%A9gates_de_Ta%C3%AFwan
+- [[Andrew Wang]]
+  - url :: https://fr.wikipedia.org/wiki/Andrew_Wang
+  - [[Thomson CSF]] agent
+    - url :: https://fr.wikipedia.org/wiki/Thomson-CSF
+    - [[Thales]]
+      - url :: https://fr.wikipedia.org/wiki/Thales
+- [[Jacques Foccart]]
+  - url :: https://fr.wikipedia.org/wiki/Jacques_Foccart
+  - [[Jacques Chirac]] conseillé
+    - url :: https://fr.wikipedia.org/wiki/Jacques_Chirac
+    - [[UNITA]] soutien
+- [[Félix Houphouët-Boigny]]
+  - url :: https://fr.wikipedia.org/wiki/F%C3%A9lix_Houphou%C3%ABt-Boigny
+  - [[Jonas Savimbi]] soutien
+    - url :: https://en.wikipedia.org/wiki/Jonas_Savimbi
+    - [[UNITA]] dirige
+    - [[FNLA]] issue
+    - [[1992 Angolan Presidential 
+Election]] rejette
+  - [[Cote D'Ivoire]]
+    - url :: https://fr.wikipedia.org/wiki/C%C3%B4te_d%27Ivoire
+  - [[Ibos]] soutien ibos
+    - url :: https://en.wikipedia.org/wiki/Ibos
+    - [[Nigerian Civil War]]
+- [[Pierre Lethier]]
+  - [[Pierre Marion (haut 
+Fonctionnaire)]] chef de cabinet
+    - url :: https://fr.wikipedia.org/wiki/Pierre_Marion_(haut_fonctionnaire)
+- [[François Mermet]]
+  - url :: https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Mermet
+- [[Claude Silberzahn]]
+  - url :: https://fr.wikipedia.org/wiki/Claude_Silberzahn
+- [[Jacques Dewatre]]
+  - url :: https://fr.wikipedia.org/wiki/Jacques_Dewatre
+- [[Jean Claude Cousseran]]
+  - url :: https://fr.wikipedia.org/wiki/Jean-Claude_Cousseran
+- [[Pierre Brochand]]
+  - url :: https://fr.wikipedia.org/wiki/Pierre_Brochand
+- [[Erard Corbin De Mangoux]]
+  - url :: https://fr.wikipedia.org/wiki/Erard_Corbin_de_Mangoux
+- [[Bernard Bajolet]]
+  - url :: https://fr.wikipedia.org/wiki/Bernard_Bajolet
+- [[Bernard émié]]
+  - url :: https://fr.wikipedia.org/wiki/Bernard_%C3%89mi%C3%A9
+- [[Turquie]]
+  - url :: https://en.wikipedia.org/wiki/Turkey
+- [[Chypre]]
+  - url :: https://en.wikipedia.org/wiki/Cyprus
+  - [[gaz naturel chypre]] label
+- [[Northern Cyprus]]
+  - url :: https://www.cnbc.com/2019/02/28/exxonmobil-makes-big-natural-gas-discovery-off-the-coast-of-cyprus.html
+- [[Serbia And Montenegro]]
+  - url :: https://en.wikipedia.org/wiki/Serbia_and_Montenegro
+- [[OTAN]]
+  - [[Kosovo War]] l
+- [[Vojislav Koštunica]]
+  - note :: antiamercain , nationaliste source : 30 mini Bringing Down a Dictator
+  - url :: https://en.wikipedia.org/wiki/Vojislav_Ko%C5%A1tunica
+  - [[Democratic Opposition Of 
+Serbia]] leader
+    - url :: https://en.wikipedia.org/wiki/Democratic_opposition_of_serbia
+    - [[2000 Yugoslavian General 
+Election]]
+      - url :: https://en.wikipedia.org/wiki/2000_Yugoslavian_general_election
+- [[1996 Albanian Parliamentary 
+Election]]
+  - url :: https://en.wikipedia.org/wiki/1996_Albanian_parliamentary_election
+  - [[Albanian Civil War]]
+    - url :: https://en.wikipedia.org/wiki/Albanian_Civil_War
+    - [[Armée de libération du Kosovo
+(UCK)]]
+      - url :: https://fr.wikipedia.org/wiki/Arm%C3%A9e_de_lib%C3%A9ration_du_Kosovo
+      - [[Kosovo War]]
+        - url :: https://en.wikipedia.org/wiki/Kosovo_War
+        - [[NATO Bombing Of Yugoslavia]]
+          - url :: https://en.wikipedia.org/wiki/NATO_bombing_of_Yugoslavia
+          - [[Kosovo Force]]
+            - url :: https://en.wikipedia.org/wiki/Kosovo_Force
+    - [[Government Of National 
+Reconciliation]]
+      - url :: https://en.wikipedia.org/wiki/Government_of_National_Reconciliation
+- [[MKULTRA]]
+  - url :: https://webbrain.com/brainpage/brain/6FBA86B0-0C57-9FCA-5CF9-D742DA541AAA#-168
+- [[exportation arme]]
+  - [[Exportations d'armes de la France]]
+  - [[Europe]]
+    - [[COARM]]
+      - url :: https://www.consilium.europa.eu/fr/council-eu/preparatory-bodies/working-party-conventional-arms-exports/
+- [[Charles Pasqua]]
+  - url :: https://fr.wikipedia.org/wiki/Charles_Pasqua
+  - [[Affaire Des Ventes D'armes  en Angola]]
+- [[Jean Charles Marchiani]]
+  - url :: https://fr.wikipedia.org/wiki/Jean-Charles_Marchiani
+  - [[Pierre Falcone]]
+    - url :: https://fr.wikipedia.org/wiki/Pierre_Falcone
+    - [[Brenco Trading International Limited]]
+      - note :: immatriculée aux îles Vierges britanniques et à l’île de Man
+    - [[SOFREMI]]
+      - url :: https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_fran%C3%A7aise_d%27exportation_de_mat%C3%A9riels,_syst%C3%A8mes_et_services_relevant_du_minist%C3%A8re_de_l%27Int%C3%A9rieur
+      - [[SOFRESA]] fusionne
+        - [[arabie saoudite]] vend
+        - [[Office Francais 
+D'exportation D'armement (ODAS)]]
+          - note :: https://www.universite-defense.org/publications/les_position_papers_2017/odas.htm equivalent du DSCA americain
+          - url :: https://fr.wikipedia.org/wiki/Office_fran%C3%A7ais_d%27exportation_d%27armement
+    - [[Arcadi Gaydamak]]
+      - url :: https://en.wikipedia.org/w/index.php?title=Arcadi_Gaydamak&oldid=892727308
+      - [[DSTl]] source
+      - [[ZTS Osos]] dirige
+        - url :: https://fr.wikipedia.org/wiki/ZTS_Osos
+  - [[Affaire Des Ventes D'armes  en Angola]]
+    - url :: https://fr.wikipedia.org/wiki/Affaire_des_ventes_d%27armes_%C3%A0_l%27Angola
+- [[Pierre Philippe Pasqua]]
+  - url :: https://fr.wikipedia.org/wiki/Pierre-Philippe_Pasqua
+  - [[Affaire Des Ventes D'armes  en Angola]]
+- [[Gunter Guillaume]]
+  - url :: https://fr.wikipedia.org/wiki/G%C3%BCnter_Guillaume
+  - [[Willy Brandt]] conseillé
+  - [[STASI.]] appartient
+    - url :: https://fr.wikipedia.org/wiki/Minist%C3%A8re_de_la_S%C3%A9curit%C3%A9_d%27%C3%89tat
+- [[Attentat De L'Oktoberfest]]
+  - url :: https://fr.wikipedia.org/wiki/Attentat_de_l%27Oktoberfest
+- [[trafficant d'arme]]
+  - [[Monzer Al Kassar]]
+    - url :: https://en.wikipedia.org/wiki/Monzer_al-Kassar
+  - [[Sarkis Soghanalian]]
+    - url :: https://en.wikipedia.org/wiki/Sarkis_Soghanalian
+    - [[Saddam Hussein]]
+    - [[Anastasio Somoza Debayle]]
+      - url :: https://en.wikipedia.org/wiki/Anastasio_Somoza_Debayle
+      - [[Nicaragua]] president
+        - url :: https://en.wikipedia.org/wiki/Nicaragua
+    - [[charles acelor.]]
+      - url :: https://charlesacelor.com/latest-developments/
+    - [[Georges Starckmann 119480]]
+      - url :: https://www.liberation.fr/france-archive/1995/01/18/georges-starckmann_119480
+  - [[Hilal Aouam]]
+    - url :: https://en.wikipedia.org/wiki/Hilal_Aouam
+  - [[sanjivan ruprah]]
+    - url :: http://powerbase.info/index.php/Sanjivan_Ruprah
+  - [[Jean-Bernard Lasnaud]]
+    - url :: http://www.leparisien.fr/faits-divers/les-revelations-du-marchand-d-armes-francais-08-11-2002-2003552870.php
+  - [[Viktor Bout]]
+    - url :: https://en.wikipedia.org/wiki/Viktor_Bout
+- [[Guatemala]]
+  - url :: https://en.wikipedia.org/wiki/Guatemala
+- [[1944 - Guatemala's first free election]]
+  - [[Juan José Arévalo]] élit
+- [[United States Involvement In 
+Regime Change]]
+  - url :: https://en.wikipedia.org/wiki/United_States_involvement_in_regime_change
+- [[Operation PBFORTUNE]]
+  - url :: https://en.wikipedia.org/wiki/Operation_PBFORTUNE
+  - [[1954 Guatemalan coup d'état]]
+    - url :: https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27%C3%A9tat
+    - [[Carlos Castillo Armas]]
+      - url :: https://en.wikipedia.org/wiki/Carlos_Castillo_Armas
+    - [[Jacobo Árbenz Guzmán]]
+      - url :: https://en.wikipedia.org/wiki/Jacobo_%C3%81rbenz
+      - [[Juan José Arévalo]] succède
+        - url :: https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_Ar%C3%A9valo
+      - [[Decree 900]] lance des réformes
+        - url :: https://en.wikipedia.org/wiki/Decree_900
+        - [[United Fruit Company]]
+          - url :: https://en.wikipedia.org/wiki/United_Fruit_Company
+          - [[1954 Guatemalan coup d'état]]
+- [[U.S. Agency for Global Media]]
+  - url :: https://en.wikipedia.org/wiki/U.S._Agency_for_Global_Media
+  - [[United States Information 
+Agency]] succede
+    - url :: https://en.wikipedia.org/wiki/United_States_Information_Agency
+- [[Guus Kouwenhoven]]
+  - url :: https://en.wikipedia.org/wiki/Guus_Kouwenhoven
+  - [[Netherlands]]
+    - url :: https://en.wikipedia.org/wiki/Netherlands
+  - [[Charles G]]
+    - url :: https://en.wikipedia.org/wiki/Charles_G._Taylor
+- [[Liberia]]
+  - url :: https://en.wikipedia.org/wiki/Liberia
+- [[Vladimiro Montesinos]]
+  - note :: traffic d'arme https://www.letemps.ch/monde/proces-raspoutine-andin-eclabousse-cia
+  - url :: https://en.wikipedia.org/wiki/Vladimiro_Montesinos
+  - [[National Intelligence 
+Service (Peru)]] dirige
+    - url :: https://en.wikipedia.org/wiki/National_Intelligence_Service_(Peru)
+  - [[CIA]] lien fort
+    - url :: https://en.wikipedia.org/wiki/CIA
+    - [[Sarkis Soghanalian]] arme milice libanaise
+chrétienne
+- [[Alberto Fujimori]]
+  - url :: https://en.wikipedia.org/wiki/Alberto_Fujimori
+- [[Peru]]
+  - url :: https://en.wikipedia.org/wiki/Peru
+- [[Alain Gomez]]
+  - url :: https://fr.wikipedia.org/wiki/Alain_Gomez
+- [[Jean Luc Lagard%C3%A8re]]
+  - url :: https://fr.wikipedia.org/wiki/Jean-Luc_Lagard%C3%A8re
+  - [[Jean Marie Messier]]
+    - url :: https://fr.wikipedia.org/wiki/Jean-Marie_Messier
+  - [[Jean Louis Gergorin]]
+    - url :: https://fr.wikipedia.org/wiki/Jean-Louis_Gergorin
+- [[dassault]]
+  - url :: http://www.dassault.fr/contenu.php?docid=2338
+- [[Belgium]]
+  - note :: Dans les années 90 ( jusqu'à ???), le système politique était connu, dans le cercle des marchants d'arme, comme étant corrompu jusqu'à la moelle Guisnel, Jean. Armes de corruption massive: secrets et combines des marchands de canons. Cahiers libres. Paris: Découverte, 2011.
+  - url :: https://en.wikipedia.org/wiki/Belgium
+- [[Michel Roussin]]
+  - url :: https://fr.wikipedia.org/wiki/Michel_Roussin
+  - [[Alexandre De Marenches]] directeur de cabinet
+    - url :: https://fr.wikipedia.org/wiki/Alexandre_de_Marenches
+    - [[Hassan II]] bonne relation
+    - [[Mohammad Reza Pahlavi]] bonne relation
+    - [[Mobutu Sese Seko]] bonne relation
+    - [[Ronald Reagan]]
+      - note :: conseiller de Reagan (P258) Faligot, Roger, and Rémi Kauffer. Histoire Mondiale Du Renseignement. 2: Les Maîtres Espions: De La Guerre Froide à Nos Jours. Notre Époque. Paris: Laffont, 1994.
+      - url :: https://en.wikipedia.org/wiki/Ronald_Reagan
+      - [[Muammar Kadhafi]] gros different
+    - [[Safari Club]]
+      - url :: https://en.wikipedia.org/wiki/Safari_Club
+      - [[Camp David Accords]]
+  - [[Bolloré]]
+    - url :: https://fr.wikipedia.org/wiki/Bollor%C3%A9
+- [[Jack Malloch]]
+  - url :: https://en.wikipedia.org/wiki/Jack_Malloch
+  - [[ID 16761]]
+- [[Republic Of The Congo]]
+  - url :: https://en.wikipedia.org/wiki/Republic_of_the_Congo
+- [[Opération Caban]]
+  - url :: https://fr.wikipedia.org/wiki/Op%C3%A9ration_Caban
+- [[République centrafricaine]]
+  - url :: https://fr.wikipedia.org/wiki/R%C3%A9publique_centrafricaine
+- [[Empire Centrafricain]]
+  - url :: https://fr.wikipedia.org/wiki/Empire_centrafricain
+- [[Jean-Bedel Bokassa]]
+  - url :: https://en.wikipedia.org/wiki/Jean-B%C3%A9del_Bokassa
+- [[Alain Gaigneron De Marolles]]
+  - url :: https://fr.wikipedia.org/wiki/Alain_Gaigneron_de_Marolles
+  - [[ivan de ligniere.]]
+    - url :: https://devirisillustribusblog.wordpress.com/2016/12/21/yvan-de-lignieres-le-james-bond-francais/
+    - [[SA]]
+      - [[dgse]]
+        - [[Ahmad Shah Massoud]] soutien
+        - [[UNITA]] soutient (simariny)
+        - [[France]]
+        - [[Amin Wardak]]
+          - url :: https://en.wikipedia.org/wiki/Amin_Wardak
+          - [[Afghanistan]]
+        - [[Nigerian Civil War]]
+          - url :: https://en.wikipedia.org/wiki/Nigerian_Civil_War
+          - [[Biafra]]
+            - url :: https://en.wikipedia.org/wiki/Biafra
+- [[Portuguese Colonial War]]
+  - url :: https://en.wikipedia.org/wiki/Portuguese_Colonial_War
+  - [[MFA]]
+- [[First Portuguese Republic]]
+  - url :: https://en.wikipedia.org/wiki/First_Portuguese_Republic
+  - [[Coup d'État du 28 mai 1926]]
+    - url :: https://fr.wikipedia.org/wiki/Coup_d%27%C3%89tat_du_28_mai_1926
+    - [[Dictature Nationale]]
+      - url :: https://fr.wikipedia.org/wiki/Dictature_nationale
+      - [[Estado Novo (Portugal)]]
+- [[Liste Des Pr%C3%A9sidents De 
+La R%C3%A9publique Po...]]
+  - url :: https://fr.wikipedia.org/wiki/Liste_des_pr%C3%A9sidents_de_la_R%C3%A9publique_portugaise
+  - [[Portugal]]
+    - url :: https://en.wikipedia.org/wiki/Portugal
+- [[Mozambique]]
+  - url :: https://en.wikipedia.org/wiki/Mozambique
+- [[South Africa]]
+  - url :: https://en.wikipedia.org/wiki/South_Africa
+  - [[RENAMO]] soutien
+- [[Southern Rhodesia]]
+  - url :: https://en.wikipedia.org/wiki/Southern_Rhodesia
+  - [[RENAMO]] soutien
+- [[African National Congress]]
+  - url :: https://en.wikipedia.org/wiki/African_National_Congress
+  - [[FRELIMO]] soutien
+    - url :: https://en.wikipedia.org/wiki/FRELIMO
+    - [[People's Republic Of 
+Mozambique]] parti unique
+    - [[Mozambican War Of 
+Independence]]
+      - url :: https://en.wikipedia.org/wiki/Mozambican_War_of_Independence
+      - [[People's Republic Of 
+Mozambique]]
+        - url :: https://en.wikipedia.org/wiki/People%27s_Republic_of_Mozambique
+        - [[Mozambican Civil War]]
+          - url :: https://en.wikipedia.org/wiki/Mozambican_Civil_War
+- [[Zimbabwe African National 
+Union]]
+  - url :: https://en.wikipedia.org/wiki/Zimbabwe_African_National_Union
+  - [[FRELIMO]] soutien
+- [[Habib Bourguiba]]
+  - url :: https://en.wikipedia.org/wiki/Habib_Bourguiba
+  - [[Holden Roberto]] soutien
+- [[Zine El Abidine Ben Ali]]
+  - url :: https://en.wikipedia.org/wiki/Zine_El_Abidine_Ben_Ali
+- [[Tunisia]]
+  - url :: https://en.wikipedia.org/wiki/Tunisia
+- [[cia operation]]
+  - url :: https://en.wikipedia.org/wiki/Category:Central_Intelligence_Agency_operations
+- [[Bob Denard]]
+  - url :: https://fr.wikipedia.org/wiki/Bob_Denard
+- [[Roger Faulques]]
+  - url :: https://fr.wikipedia.org/wiki/Roger_Faulques
+- [[Egyptian Revolution Of 1919]]
+  - url :: https://en.wikipedia.org/wiki/Egyptian_Revolution_of_1919
+- [[Sultanate Of Egypt]]
+  - url :: https://en.wikipedia.org/wiki/Sultanate_of_Egypt
+  - [[Monarchie constitunionnelle d'égypte]]
+  - [[History Of Egypt Under The 
+British]]
+    - url :: https://en.wikipedia.org/wiki/History_of_Egypt_under_the_British
+    - [[History Of Egypt Under The 
+Muhammad Ali Dynasty]]
+- [[Wafd Party]]
+  - url :: https://en.wikipedia.org/wiki/Wafd_Party
+  - [[1923–24 Egyptian parliamentary election]]
+    - url :: https://en.wikipedia.org/wiki/1923%E2%80%9324_Egyptian_parliamentary_election
+    - [[1923 Constitution Of Egypt]]
+      - url :: https://en.wikipedia.org/wiki/1923_Constitution_of_Egypt
+      - [[Monarchie constitunionnelle d'égypte]]
+        - url :: https://en.wikipedia.org/wiki/Kingdom_of_Egypt
+        - [[History Of Egypt Under The 
+British]]
+        - [[Guerre israelo-arabe
+1948]]
+          - url :: https://fr.wikipedia.org/wiki/Guerre_isra%C3%A9lo-arabe_de_1948
+          - [[Israel]] mène à la fondation
+            - note :: Entretient des relations stratégiques principalement dans le domaine de la défense, en entrainant et conseillant les troipes loyales à ces régiems souvent considérés comme dicatoriaux et parfois meme sanguinaire. La politique d'iscrael est guideée globalemente par ses intérets stratégique et ne s'intéresse guère au droits humains. Halevy, Efraim. Mémoires d’un homme de l’ombre: les coulisses de la politique internationale au Moyen-Orient par l’ex-directeur du Mossad. Paris: A. Michel, 2006. Sert de proxy, pour la ventes d'armes, au USA, dans des glonflits où l'oncle Sam de veut pas s'engager directement footnote 11 Chomsky, Noam, Peter R Mitchell, John Schoeffel, Hélène Hiessler, and Thierry Vanès. Comprendre le pouvoir. Montréal (Québec): Lux éditeur, 2018. implication comme intermédiaire lors de iran-contras scandale Guisnel, Jean. Armes de corruption massive: secrets et combines des marchands de canons. Cahiers libres. Paris: Découverte, 2011.
+            - url :: https://en.wikipedia.org/wiki/Israel
+            - [[Operation Opera]]
+            - [[Foryer national juive]]
+            - [[Coastal Road Massacre]]
+            - [[South Lebanon Army]] soutien
+            - [[Guerre Des Six Jours]]
+            - [[Yom Kippur War]]
+            - [[Ariel Sharon]]
+              - url :: https://en.wikipedia.org/wiki/Ariel_Sharon
+              - [[Slobodan Milosevic]] soutient prudent (halevy p76) pendant un court  l'apse de temsp
+                - url :: https://fr.wikipedia.org/wiki/Slobodan_Milo%C5%A1evi%C4%87
+                - [[Serbie]]
+                  - url :: https://fr.wikipedia.org/wiki/Serbie
+                  - [[Guerre De Bosnie herzegovine]]
+                  - [[orthodoxe]]
+                  - [[Prvi Partizan]]
+                    - url :: https://en.wikipedia.org/wiki/Prvi_Partizan
+                    - [[daesh]] vend
+                - [[République fédérale de Yougoslavie]]
+                  - url :: https://fr.wikipedia.org/wiki/R%C3%A9publique_f%C3%A9d%C3%A9rale_de_Yougoslavie
+                  - [[Kosovo War]]
+                - [[Socialist Party Of Serbia]]
+                  - url :: https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+                  - [[2000 Yugoslavian General 
+Election]] perd
+            - [[Operation Joshua]]
+              - url :: https://en.wikipedia.org/wiki/Operation_Joshua
+            - [[Félix  Houphoue 
+Boigny]]
+              - url :: https://en.wikipedia.org/wiki/F%C3%A9lix_Houphou%C3%ABt-Boigny
+              - [[Cote D'Ivoire]]
+                - url :: https://fr.wikipedia.org/wiki/C%C3%B4te_d%27Ivoire
+            - [[Apartheid]]
+              - url :: https://fr.wikipedia.org/wiki/Apartheid
+            - [[Jomo Kenyatta]]
+              - url :: https://en.wikipedia.org/wiki/Jomo_Kenyatta
+            - [[Julius Nyerere]]
+              - url :: https://en.wikipedia.org/wiki/Julius_Nyerere
+            - [[Hassan II Of Morocco]]
+              - note :: - autorité absolue et plus que jamais de droit divin mondiale des nations medeiros
+              - url :: https://en.wikipedia.org/wiki/Hassan_II_of_Morocco
+              - [[Camp David Accords]] contribue au rapprochement egypte iscrael (halevy)
+              - [[Maroc]]
+                - url :: https://fr.wikipedia.org/wiki/Maroc
+                - [[Sharif]]
+                - [[Guerre Des Sables]]
+                  - url :: https://fr.wikipedia.org/wiki/Guerre_des_Sables
+                - [[Crise De L'ilot Persil]]
+                  - url :: https://fr.wikipedia.org/wiki/Crise_de_l%27%C3%AElot_Persil
+            - [[Singapore]]
+              - url :: https://en.wikipedia.org/wiki/Singapore
+              - [[chinoi]] composé de
+            - [[Programme Nucl%C3%A9aire 
+Isra%C3%A9lien]]
+              - url :: https://fr.wikipedia.org/wiki/Programme_nucl%C3%A9aire_isra%C3%A9lien
+              - [[Centre de recherche nucléaire De 
+Dimona]]
+                - url :: https://fr.wikipedia.org/wiki/Centrale_nucl%C3%A9aire_de_Dimona
+            - [[David Ben Gurion]]
+              - note :: en 1948, parties polotique s'identifiaient clairement à l'URSS et staline (renseignement, establisment, elite israellienne). C'est finalement Ben Gourion qui a decdé de suiver les USA et de purger le niveau proefssionnel de la défense de tout élément penchant ouvertemente ou secrètemente pour Moscou.
+              - url :: https://en.wikipedia.org/wiki/David_Ben-Gurion
+              - [[USA]] forte affinite
+            - [[Mobutu Sese Seko]]
+              - url :: https://en.wikipedia.org/wiki/Mobutu_Sese_Seko
+              - [[Safari Club]]
+              - [[Holden Roberto]] soutien
+                - url :: https://en.wikipedia.org/wiki/Holden_Roberto
+                - [[FNLA]]
+                  - url :: https://en.wikipedia.org/wiki/National_Liberation_Front_of_Angola
+                  - [[UNITA]] scission
+                  - [[Operation IA Feature]]
+                  - [[ID 3571]]
+              - [[FLNC]] dirige
+                - url :: https://en.wikipedia.org/wiki/Congolese_National_Liberation_Front
+                - [[MPLA]] lien
+                - [[Lunda (peuple)]]
+                  - url :: https://fr.wikipedia.org/wiki/Lunda_(peuple)
+                - [[Democratic Republic Of The 
+Congo]]
+                  - url :: https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo
+            - [[Mohamed Oufkir]]
+              - url :: https://fr.wikipedia.org/wiki/Mohamed_Oufkir
+            - [[Ilich Ramírez Sánchez dit carlos]]
+              - url :: https://fr.wikipedia.org/wiki/Ilich_Ram%C3%ADrez_S%C3%A1nchez
+        - [[Egyptian Revolution Of 1952]]
+          - url :: https://en.wikipedia.org/wiki/Egyptian_revolution_of_1952
+          - [[roi Farouk]] renverse
+            - url :: https://en.wikipedia.org/wiki/King_Farouk
+            - [[History Of Egypt Under The 
+Muhammad Ali Dynasty]]
+            - [[Monarchie constitunionnelle d'égypte]]
+          - [[Suez Crisis]]
+            - url :: https://en.wikipedia.org/wiki/Suez_Crisis
+            - [[Suez Canal]]
+        - [[Anglo Egyptian Treaty Of 1936]]
+          - url :: https://en.wikipedia.org/wiki/Anglo-Egyptian_Treaty_of_1936
+          - [[Suez Canal]]
+            - url :: https://en.wikipedia.org/wiki/Suez_Canal
+- [[Mohammed Naguib]]
+  - url :: https://en.wikipedia.org/wiki/Mohammed_Naguib
+  - [[Free Officers Movement 
+(Egypt)]]
+- [[Ian MacLeod]]
+  - [[Red Army Faction]]
+    - url :: https://en.wikipedia.org/wiki/Red_Army_Faction
+  - [[MI6]]
+- [[Francisco Franco]]
+  - url :: https://fr.wikipedia.org/wiki/Francisco_Franco
+  - [[Espagne Franquiste]]
+- [[Miguel Primo De Rivera]]
+  - url :: https://fr.wikipedia.org/wiki/Miguel_Primo_de_Rivera
+  - [[Dictature De Primo De Rivera]]
+    - url :: https://fr.wikipedia.org/wiki/Dictature_de_Primo_de_Rivera
+    - [[Seconde République (Espagne)]]
+      - url :: https://fr.wikipedia.org/wiki/Seconde_R%C3%A9publique_(Espagne)
+      - [[Soulèvement nationaliste des 17 et 18 juillet 1936 en Espagne.]]
+        - url :: https://fr.wikipedia.org/wiki/Soul%C3%A8vement_nationaliste_des_17_et_18_juillet_1936_en_Espagne
+        - [[Guerre D'Espagne]]
+          - url :: https://fr.wikipedia.org/wiki/Guerre_d%27Espagne
+          - [[Espagne Franquiste]]
+            - url :: https://fr.wikipedia.org/wiki/Espagne_franquiste
+            - [[Transition démocratique espagnole]]
+              - url :: https://fr.wikipedia.org/wiki/Transition_d%C3%A9mocratique_espagnole
+              - [[Coup d'État du 23 février 1981 en Espagne]]
+                - url :: https://fr.wikipedia.org/wiki/Coup_d%27%C3%89tat_du_23_f%C3%A9vrier_1981_en_Espagne
+- [[Midhat Mursi]]
+- [[Midhat Mursi]]
+  - url :: https://en.wikipedia.org/wiki/Midhat_Mursi
+- [[Darunta Training Camp]]
+  - url :: https://en.wikipedia.org/wiki/Darunta_training_camp
+- [[Hassan Al Turabi]]
+  - url :: https://en.wikipedia.org/wiki/Hassan_Al-Turabi
+- [[Mustafa Setmariam Nasar]]
+  - url :: https://en.wikipedia.org/wiki/Mustafa_Setmariam_Nasar
+- [[Islamic University Of Madinah]]
+  - url :: https://en.wikipedia.org/wiki/Islamic_University_of_Madinah
+  - [[Al Azhar Mosque]] en réaction
+- [[Mohammed Bin Zayed Al Nahyan]]
+  - url :: https://en.wikipedia.org/wiki/Mohammed_bin_Zayed_Al_Nahyan
+  - [[Zayed Bin Sultan Al Nahyan]] fils
+    - url :: https://en.wikipedia.org/wiki/Zayed_bin_Sultan_Al_Nahyan
+    - [[de Gaule]]
+- [[Khalifa Bin Zayed Al Nahyan]]
+  - url :: https://en.wikipedia.org/wiki/Khalifa_bin_Zayed_Al_Nahyan
+  - [[Zayed Bin Sultan Al Nahyan]] fils
+- [[Mati Kochavi]]
+  - url :: https://wikispooks.com/wiki/Mati_Kochavi
+  - [[AGT International]] dirige
+    - url :: https://wikispooks.com/wiki/AGT_International
+- [[Defense Security Cooperation 
+Agency]]
+  - url :: https://en.wikipedia.org/wiki/Defense_Security_Cooperation_Agency
+- [[Chiang Kai Shek]]
+  - url :: https://en.wikipedia.org/wiki/Chiang_Kai-shek
+  - [[Kuomintang]]
+  - [[Tongmenghui]]
+  - [[Kuomintang]]
+    - url :: https://fr.wikipedia.org/wiki/Kuomintang
+    - [[1911 Republic Of China 
+Provisional Presidential 
+El...]] remporte
+    - [[Chinese Civil War]]
+      - url :: https://en.wikipedia.org/wiki/Chinese_Civil_War
+      - [[Birmanie]] réfugie
+      - [[Taiwan]] réfugie
+        - url :: https://en.wikipedia.org/wiki/Taiwan
+    - [[ID 679]]
+    - [[ID 680]]
+  - [[National Revolutionary Army]] dirige
+    - url :: https://en.wikipedia.org/wiki/National_Revolutionary_Army
+- [[Chinese Civil War]]
+  - url :: https://en.wikipedia.org/wiki/Chinese_Civil_War
+- [[Green Gang]]
+  - url :: https://en.wikipedia.org/wiki/Green_Gang
+  - [[Kuomintang]] finance
+    - url :: https://en.wikipedia.org/wiki/Kuomintang
+- [[Benito Mussolini]]
+  - url :: https://en.wikipedia.org/wiki/Benito_Mussolini
+  - [[Sicilian Mafia]] lutte
+    - url :: https://en.wikipedia.org/wiki/Sicilian_Mafia
+- [[Henri Weill]]
+  - url :: https://www.babelio.com/auteur/Henri-Weill/208348
+  - [[Éric Besson]]
+    - url :: https://fr.wikipedia.org/wiki/%C3%89ric_Besson
+    - [[avisa partners]]
+      - url :: https://www.avisa-partners.com/en/team/
+  - [[livre Trente ans, deux mois. Du journalisme au cabinet d'Eric Besson]]
+- [[HistoireQuand Les Services 
+Secrets Francais Detrui...]]
+  - url :: https://www.lorientlejour.com/article/589929/HistoireQuand_les_services_secrets_francais_detruisaient_un_navire_libyen_a_Genes.html
+  - [[livre Trente ans, deux mois. Du journalisme au cabinet d'Eric Besson]]
+  - [[Tragédie d'Ustica]] contexte
+- [[Massacres de Sétif, Guelma et Kherrata]]
+  - url :: https://fr.wikipedia.org/wiki/Massacres_de_S%C3%A9tif,_Guelma_et_Kherrata
+  - [[MTLD Mouvement pour le triomphe des libertés démocratiques]]
+    - url :: https://fr.wikipedia.org/wiki/Mouvement_pour_le_triomphe_des_libert%C3%A9s_d%C3%A9mocratiques
+- [[Messali Hadj]]
+  - url :: https://fr.wikipedia.org/wiki/Messali_Hadj
+  - [[MTLD Mouvement pour le triomphe des libertés démocratiques]] préside
+- [[Organisation spéciale (Algérie)]]
+  - url :: https://fr.wikipedia.org/wiki/Organisation_sp%C3%A9ciale_(Alg%C3%A9rie)
+  - [[MTLD Mouvement pour le triomphe des libertés démocratiques]] bras armée
+- [[UCOII]]
+  - url :: https://en.wikipedia.org/wiki/UCOII
+  - [[Muslim Brotherhood]]
+  - [[Italy]]
+    - note :: https://www-cairn-info.passerelle.univ-rennes1.fr/histoire-de-l-italie-depuis-1943-a-nos-jours--9782200262150.htm
+    - url :: https://en.wikipedia.org/wiki/Italy
+    - [[Tragédie d'Ustica]]
+      - note :: "%tab;Une semaine après la dispartion du DC9 d'ïtavia, la ruemeur circule : une tentative de putsch aurait eu lieu à partir de Tobrouk, écasée dans le sang par le commandant Jalloud, avec l'aide des experts de la STASI. Des ingénieurs italiens sont arretés. Maltraités, il avoient avoir travaillé pour les Français.Simultanément, à Malte un misérieux Maltese Liberation Front monte des attentats contre les intérets libyens. il est en fait manipulé par le MI6 de Sir Dick Franks %tab;A cet étonnant puzzle, manquait une pièce : la destrcution du DC 9 d'Itavia est intervenue précisément en prélude au soulèvement de Tobrouk. Mais par mééprise. Un avion des services français, parti de Corse, devait amener des armes en égypte pour des opération anti-kadhafi. %tab;il se trouve qu'existait alors à l'inérieur des services italiens, le SISMI, un important lobby probibyen, animé entre autres par le général Giuseppe Santovito, un dignitaire de la fameuse loge maçonnique P-2. C'est du SISIMI qu'est venue l'information alertaant Tripoli du passage de l'avion français bourré d'armes. Les Migs prennes leur envol pour l'abatre, peut-etre meme depuis la base d eSan Pancrazio Salentino, dans le taln de la botte italienne ... %tab;du fait de son retard, le DC9 d'Itavia va se retroiver dans la meme zone que le transport de matériel militaire camouflé. L'arrivée des Migs provoquant une contre riposte de chasseurs américains ou français , l'un de ceux ci abattra l'avion civil." p 325 Faligot, Roger, and Rémi Kauffer. Histoire mondiale du renseignement. 2: Les maîtres espions: de la guerre froide à nos jours. Robert Laffont. Notre époque. Paris: Laffont, 1994.
+      - url :: https://fr.wikipedia.org/wiki/Trag%C3%A9die_d%27Ustica
+- [[Al Taqwa Bank]]
+  - url :: https://en.wikipedia.org/wiki/Al_Taqwa_Bank
+  - [[Muslim Brotherhood]]
+- [[ligue des musulmans de belgique]]
+  - [[Muslim Brotherhood]]
+- [[Qatar Charity]]
+  - url :: https://en.wikipedia.org/wiki/Qatar_Charity
+  - [[Qatar]]
+  - [[Muslim Brotherhood]] finance
+- [[morgan y morgan]]
+  - [[Panama]]
+    - url :: https://fr.wikipedia.org/wiki/Panama
+  - [[offshore]]
+- [[GRK]]
+- [[HPG]]
+  - [[PKK]] branche armee
+    - url :: https://fr.wikipedia.org/wiki/Parti_des_travailleurs_du_Kurdistan
+    - [[UPK]] soutien
+    - [[KCK]]
+      - [[PYD]]
+      - [[PJAK]]
+        - [[Iran]]
+      - [[KDSP]]
+        - [[irak]]
+- [[Abdullah Öcalan]]
+  - url :: https://fr.wikipedia.org/wiki/Abdullah_%C3%96calan
+  - [[PKK]] dirige
+- [[Mustafa Barzani (1903 1979)]]
+  - url :: https://fr.wikipedia.org/wiki/Mustafa_Barzani_(1903-1979)
+  - [[PDK]] dirige
+    - note :: conservateur religieux, libéralisme économique
+    - url :: https://fr.wikipedia.org/wiki/Parti_d%C3%A9mocratique_du_Kurdistan
+    - [[Iraqi Kurdish Civil War]]
+    - [[TCK]]
+      - [[PYD]] opposé
+      - [[syrie]]
+- [[Jalal Talabani]]
+  - url :: https://fr.wikipedia.org/wiki/Jalal_Talabani
+  - [[UPK]] dirige
+    - note :: politique pro-chiite
+    - url :: https://fr.wikipedia.org/wiki/Union_patriotique_du_Kurdistan
+    - [[Iraqi Kurdish Civil War]]
+      - url :: https://en.wikipedia.org/wiki/Iraqi_Kurdish_Civil_War
+- [[usa]]
+  - [[PKK]] terroriste
+  - [[YPG]] soutien financier
+    - [[syrie]]
+    - [[PYD]] branche armee
+- [[PDK/Bakur/]]
+  - url :: https://en.wikipedia.org/wiki/Kurdistan_Democratic_Party/North
+  - [[PDK]]
+  - [[Turkey]]
+    - url :: https://en.wikipedia.org/wiki/Turkey
+    - [[PDK]] soutien
+    - [[Iran]] pouvoir de destabilisation important
+- [[PDKS]]
+  - [[PDK]]
+- [[Walid Bin Attash]]
+  - url :: https://en.wikipedia.org/wiki/Walid_bin_Attash
+  - [[celulle moyen orient]]
+    - [[Al Qaeda]]
+- [[Abu Bakar Ba'asyir]]
+  - url :: https://en.wikipedia.org/wiki/Abu_Bakar_Ba%27asyir
+- [[Rami Makhlouf]]
+  - url :: https://en.wikipedia.org/wiki/Rami_Makhlouf
+  - [[Bachar El Assad]]
+    - url :: https://fr.wikipedia.org/wiki/Bachar_el-Assad
+    - [[Hafez El Assad]]
+      - note :: homme simple, austère, qui n'aimait pas le luxe, attitude hiératique, ricanait à ses propres traits d'humour. exigeant dans la négociation. parole donnée. prévisible et fiable. antisémite. gouvernait de façon solitaire. élimine sans hésitation %sp;-> bajolet memoire
+      - url :: https://fr.wikipedia.org/wiki/Hafez_el-Assad
+      - [[Russie]] formation
+      - [[syrie]] préside
+        - url :: https://en.wikipedia.org/wiki/Syria
+        - [[Guerre Des Six Jours]]
+        - [[PKK]] soutien
+        - [[Salah Jedid]]
+          - url :: https://fr.wikipedia.org/wiki/Salah_Jedid
+          - [[camp palestinien de jordanie]] aide
+        - [[Yom Kippur War]]
+          - url :: https://en.wikipedia.org/wiki/Yom_Kippur_War
+          - [[Anwar Sadat]] rapprochement vers les usa
+au détriment de l'urss
+          - [[Golda Meir]] demission
+            - url :: https://en.wikipedia.org/wiki/Golda_Meir
+          - [[PLO's Ten Point Program]]
+            - url :: https://en.wikipedia.org/wiki/PLO%27s_Ten_Point_Program
+      - [[Yasser Arafat]] aversion
+        - note :: les responsables régionaux ont considéré unaminement qu'il était un menteur compulsif, un individu qui n'hononrait jamais ses engagemenets et faisait montre d'in mépris éhonté pour ses pairs. Arafat était en ountre obsédé par l'argente et le financement de la cause. Lui meme menait une vie spartiaite, mais il adorait jouer avec d'énormes sommes amassées dans le monde entrier. un amour immodéré, voire obsesionnel , pour l'espionnage et le renseigenment apris avec le KGB ( ephraim halevy)
+        - url :: https://en.wikipedia.org/wiki/Yasser_Arafat
+        - [[Russie]] formation
+        - [[ID 3117]]
+    - [[nationaliste]]
+- [[Abdullah Bin Nasser Bin 
+Khalifa Al Thani]]
+  - url :: https://en.wikipedia.org/wiki/Abdullah_bin_Nasser_bin_Khalifa_Al_Thani
+- [[Victor Chapot]]
+  - [[Valéry Giscard D'Estaing]] monsieur caisse noire
+    - url :: https://fr.wikipedia.org/wiki/Val%C3%A9ry_Giscard_d%27Estaing
+    - [[UNITA]] soutien
+- [[Nicolas Sarkozy]]
+  - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Nicolas_Sarkozy&sa=U&ved=2ahUKEwjjnvLe9JPlAhWK5OAKHXUeCugQmhMwAnoECAwQBw&usg=AOvVaw1SNDPGpYB27QJaH2tRIpKu
+  - [[Hamad Bin Khalifa Al Thani]] bonne relation
+    - url :: https://en.wikipedia.org/wiki/Hamad_bin_Khalifa_Al_Thani
+- [[Sultan Bin Abdulaziz]]
+  - url :: https://en.wikipedia.org/wiki/Sultan_bin_Abdulaziz
+  - [[clan sudairi]]
+  - [[Minister Of Defense (Saudi 
+Arabia)]]
+- [[Ahmed Bin Abdulaziz Al Saud]]
+  - url :: https://en.wikipedia.org/wiki/Ahmed_bin_Abdulaziz_Al_Saud
+  - [[clan sudairi]] l
+  - [[Ministry Of Interior (Saudi 
+Arabia)]]
+- [[nabil ennasri]]
+  - url :: https://www.google.com/url?q=https://twitter.com/nabilennasri%3Flang%3Dfr&sa=U&ved=2ahUKEwj9w_Oq8JTlAhVLXBoKHfeUAt8QFjAEegQIChAB&usg=AOvVaw346rvDuprv4O4mu3lxlWZ0
+  - [[Muslim Brotherhood]]
+- [[religieux rigoristes]]
+  - [[Conseil Des oulemas]]
+    - url :: https://fr.wikipedia.org/wiki/Conseil_des_oul%C3%A9mas
+  - [[Ministry Of Justice (Saudi 
+Arabia)]] controle
+    - url :: https://en.wikipedia.org/wiki/Ministry_of_Justice_(Saudi_Arabia)
+  - [[ministère de l'éducation]] controle
+- [[Imam Muhammad Ibn Saud 
+Islamic University]]
+  - url :: https://en.wikipedia.org/wiki/Imam_Muhammad_ibn_Saud_Islamic_University
+  - [[mutawwa'in]] forme
+    - url :: https://en.wikipedia.org/?title=Mutawwa%27in&redirect=no
+- [[Abd Al Rahman Al Nuaimi]]
+  - note :: finance terrorisme - liste noire usa - europe - arabie saoudite
+  - url :: https://en.wikipedia.org/wiki/Abd_Al-Rahman_al-Nuaimi
+  - [[Qatar Islamic Bank]]
+    - url :: https://en.wikipedia.org/wiki/Qatar_Islamic_Bank
+  - [[Alkarama]] fonde
+    - url :: https://en.wikipedia.org/wiki/Alkarama
+- [[ffammille faraoun, rajhi adboulatif jamil]]
+  - note :: nos très chers émirs chesnot
+  - [[soutien al nostra]]
+- [[Adel Al Joubeir]]
+  - url :: https://fr.wikipedia.org/wiki/Adel_al-Joubeir
+  - [[Mohammad Bin Salman]] proche
+    - url :: https://en.wikipedia.org/wiki/Mohammad_bin_Salman
+    - [[Salmane ben Abdelaziz Al Saoud]]
+      - url :: https://en.wikipedia.org/wiki/Salman_of_Saudi_Arabia
+      - [[clan sudairi]]
+        - note :: inféodé au USA, plus conservateur que leur rivaux (chouet)
+        - url :: https://en.wikipedia.org/wiki/Sudairi_Seven
+        - [[clan Tuwaijri]] forte rivalité
+      - [[Muqrin Bin Abdulaziz]] écarte
+        - url :: https://en.wikipedia.org/wiki/Muqrin_bin_Abdulaziz
+        - [[Abdullah Of Saudi Arabia]] allié par défaut
+      - [[technocratie]] fait emmerger
+    - [[Purge de 2017 en Arabie saoudite]]
+      - url :: https://en.wikipedia.org/wiki/2017%E2%80%9319_Saudi_Arabian_purge
+    - [[Minister Of Defense (Saudi 
+Arabia)]]
+      - url :: https://en.wikipedia.org/wiki/Minister_of_Defense_(Saudi_Arabia)
+      - [[Forces armées saoudiennes (SAAF)]] dirige
+        - url :: https://en.wikipedia.org/wiki/Armed_Forces_of_Saudi_Arabia
+- [[New Node]]
+- [[tribu]]
+  - [[Banu tamims]]
+  - [[Shammar]]
+    - url :: https://en.wikipedia.org/wiki/Shammar
+  - [[al sudayri]]
+  - [[al shaykh]]
+  - [[al juluwi]]
+  - [[al thunayan]]
+  - [[banu khalid]]
+  - [[ajman]]
+  - [[anaza]]
+- [[al thani]]
+  - [[Banu tamims]]
+- [[Al Ash Sheikh]]
+  - url :: https://en.wikipedia.org/wiki/Al_ash-Sheikh
+  - [[Muhammad Ibn Abd Al Wahhab]] descendant
+- [[Hassan Al Saffar]]
+  - url :: https://en.wikipedia.org/wiki/Hassan_al-Saffar
+  - [[chiite d'arabie]] leader
+    - url :: https://en.wikipedia.org/wiki/Shia_Islam
+    - [[Qatif]]
+      - url :: https://en.wikipedia.org/wiki/Qatif
+      - [[Arabie Saoudite]]
+        - note :: - très grande importance de l'origine
+        - url :: https://fr.wikipedia.org/wiki/Arabie_saoudite
+        - [[organisation combattantes irrégulières]] finance
+        - [[Dynastie Saoud]]
+        - [[Sipah E Sahaba Pakistan]] soutien
+        - [[salafisme]] finance
+        - [[UNITA]] soutien
+        - [[royaliste]]
+          - [[guerre civile du Yémen du Nord]]
+          - [[Zaidiyyah]]
+        - [[Muslim World League]]
+          - note :: ligue islamique mondiale - fut financée à l'origine par ARAMCO à ces débuts. p104 - à la base pour «contrer» la ligue arabe de Nasser %sp;p98 - Mais le système de financement s'est progressivement complexifiè et opacfié: la banque al baraka, créee en 1982 qui finance la LIM, est principalement abondée par faysal islamic bank, créee en 1977. Elle est elle meme une filiale de la DMI ( dar Al Maal Al islami) (1981) %sp;considére comme la structure centrale du financement par les saoudiens de l'islamise international - a hébergé Azzam et différent proche de ben laden, zawahiri, sayyaf %sp;(p105) Conesa, Pierre, and Hubert Védrine. Dr. Saoud et Mr. Djihad: la diplomatie religieuse de l’Arabie saoudite. Le monde comme il va. Paris: Robert Laffont, 2016.
+          - url :: https://en.wikipedia.org/wiki/Muslim_World_League
+          - [[Ligue arabe]] en réaction
+          - [[International Islamic Relief 
+Organization]] fonde
+            - url :: https://en.wikipedia.org/wiki/International_Islamic_Relief_Organization
+          - [[saudi relief committee]]
+          - [[membership-muslim-world-league-global-organizations]] membre de
+            - url :: http://en.themwl.org/membership-muslim-world-league-global-organizations
+        - [[Maktab Al Khidamat
+Bureau des services]]
+          - note :: https://www.cf2r.org/foreign/origins-of-al-qaeda-revisiting-maktab-ul-khidmat-al-mujahedeen-services-bureau-for-the-holy-warriors-2/
+          - url :: https://en.wikipedia.org/wiki/Maktab_al-Khidamat
+          - [[Al Qaeda]] devient
+            - note :: https://firstmonday.org/ojs/index.php/fm/article/view/941/863
+            - url :: https://en.wikipedia.org/wiki/Al-Qaeda
+            - [[Al Nusra Front]]
+              - url :: https://en.wikipedia.org/wiki/Al-Nusra_Front
+            - [[Salafi Movement]]
+              - note :: différentes strategies: - individuelle et non violente : tabligh - activisme politique pacifique qui consise à transformer la socitété à travers les organes de l'état : les freres musulmans, (al-banna), et jamaat -e-islami (mawdoudi) le djidhad vilonent contre le colon infidèle étant admis (djihad defensive) , ces partis s'allient aux musulmans nationaliste qui cherchent à s'affranchir %sp;( egypte, maroc, pakistan - djihad violente.: sayyid Qutb. le systeme est corrompu economique, politique, sociaux : il faut le renverser par la violance en commencant par l'ennemi porche : le gouvernement musulman local.. influence burhanuddin Rabbani, al-zawahiri, ali rachidi, sobhi abou sitta, abdessalam Faraj, choukri. - djihad mondial : les chefs locaux musulmans takfir passent pour les pions d'une puissance mondiale, il faut donc s'attaquer à l'ennemie lointain. al qaida sageman lvvdt
+              - url :: https://en.wikipedia.org/wiki/Salafi_movement
+          - [[arabe afghan]] lève des fonds
+            - url :: https://en.wikipedia.org/wiki/Mujahadeen
+            - [[Afghanistan Conflict (1978 - present)]] combat
+        - [[Al Islah (Yemen)]]
+          - url :: https://en.wikipedia.org/wiki/Al-Islah_(Yemen)
+          - [[Ali Abdullah Saleh]] lutte contre
+        - [[ID 1754]]
+        - [[ID 1759]]
+        - [[Abdul Rasul Sayyaf]]
+          - url :: https://en.wikipedia.org/wiki/Abdul_Rasul_Sayyaf
+          - [[Muslim Brotherhood]] s
+          - [[Muslim Youth]]
+          - [[Islamic Union For The 
+Liberation Of Afghanistan]] dirige
+            - url :: https://en.wikipedia.org/wiki/Islamic_Union_for_the_Liberation_of_Afghanistan
+            - [[Peshawar Seven]]
+            - [[al-Bunyan al-Marsous,]]
+    - [[tribu al nakhil]]
+      - [[medine]]
+        - [[Hedjaz]]
+  - [[shirazisme]]
+    - note :: - bon rapport avec les saoud
+    - [[mouvement pour la réforme islamique en arabie]]
+- [[Oman]]
+  - url :: https://fr.wikipedia.org/wiki/Oman
+- [[House Of Al Said]]
+  - url :: https://en.wikipedia.org/wiki/House_of_Al_Said
+- [[Hamad Bin Jassim Bin Jaber 
+Al Thani]]
+  - note :: homme -orchestre rusé et maniputalteur qui avait permis à Hamad de réussir son coup d'état en 1995 où il déposa son père -> nos très chers émirs chesnot
+  - url :: https://en.wikipedia.org/wiki/Hamad_bin_Jassim_bin_Jaber_Al_Thani
+- [[Hind Bint Hamad Bin Khalifa 
+Al Thani]]
+  - url :: https://en.wikipedia.org/wiki/Hind_bint_Hamad_bin_Khalifa_Al-Thani
+  - [[Tamim Bin Hamad Al Thani]] soeur et proche
+    - note :: - plus conservateur et religieux que son père - peu charismatique - faible connaissance de son territoire et des jeux d'alliance - a fait émergé une génération de technocrates formés dans les plus grandes universités mondiales nos très chers émirs chesnot
+    - url :: https://en.wikipedia.org/wiki/Tamim_bin_Hamad_Al_Thani
+    - [[Hamad Bin Khalifa Al Thani]] fils
+    - [[Recep Tayyip Erdoğan]]
+      - url :: https://fr.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan
+      - [[Necmettin Erbakan]] mentor
+        - url :: https://fr.wikipedia.org/wiki/Necmettin_Erbakan
+- [[Azmi Bishara]]
+  - url :: https://en.wikipedia.org/wiki/Azmi_Bishara
+  - [[Tamim Bin Hamad Al Thani]] conseillé
+  - [[Muslim Brotherhood]] idéologue
+  - [[Israel]] député
+- [[Ras Laffan]]
+  - note :: le quatar ne pdispose que de 72 heures de réserve d'eau potable, produite par les usines de dessalement de Ras laffan nos tres chers émirs chesnot
+  - url :: https://fr.wikipedia.org/wiki/Ras_Laffan
+  - [[Qatar]] centre névralgique
+- [[Yevgeny Prigozhin]]
+  - url :: https://en.wikipedia.org/wiki/Yevgeny_Prigozhin
+  - [[Vladimir Poutine]] proche
+    - url :: https://fr.wikipedia.org/wiki/Vladimir_Poutine
+    - [[Omar El Bechir]]
+      - url :: https://fr.wikipedia.org/wiki/Omar_el-Bechir
+      - [[Soudan]]
+        - url :: https://fr.wikipedia.org/wiki/Soudan
+  - [[Wagner Group]] fonde
+    - url :: https://en.wikipedia.org/wiki/Wagner_Group
+- [[chine]]
+  - [[Zimbabwe]] investissement majeur
+- [[poutine]]
+  - [[Robert Mugabe]] lien fort
+    - url :: https://fr.wikipedia.org/wiki/Robert_Mugabe
+    - [[Zimbabwe]]
+      - url :: https://en.wikipedia.org/wiki/Zimbabwe
+- [[Ahmed Gailani]]
+  - url :: https://en.wikipedia.org/wiki/Ahmed_Gailani
+  - [[Qadiriyya]]
+    - url :: https://en.wikipedia.org/wiki/Qadiriyya
+    - [[soufie]]
+      - url :: https://fr.wikipedia.org/wiki/Tariqa
+  - [[National Islamic Front Of 
+Afghanistan]] fonde
+    - url :: https://en.wikipedia.org/wiki/National_Islamic_Front_of_Afghanistan
+- [[Sibghatullah Mojaddedi]]
+  - url :: https://en.wikipedia.org/wiki/Sibghatullah_Mojaddedi
+  - [[Afghan National Liberation Front]]
+    - url :: https://en.wikipedia.org/w/index.php?title=Afghan_National_Liberation_Front&action=edit&redlink=1
+    - [[Peshawar Seven]]
+      - url :: https://en.wikipedia.org/wiki/Peshawar_Seven
+  - [[Naqshbandi]]
+    - url :: https://en.wikipedia.org/wiki/Naqshbandi
+    - [[soufie]]
+- [[Pervez Musharraf]]
+  - url :: https://en.wikipedia.org/wiki/Pervez_Musharraf
+  - [[Mustafa Kemal Atatürk]] admire
+    - url :: https://fr.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk
+- [[Coup d'État du 12 septembre 1980]]
+  - url :: https://fr.wikipedia.org/wiki/Coup_d%27%C3%89tat_du_12_septembre_1980_en_Turquie
+  - [[kurde]] répression
+- [[gauche]]
+- [[Coup d'État de 71]]
+  - url :: https://fr.wikipedia.org/wiki/Coup_d%27%C3%89tat_de_1971_en_Turquie
+- [[Wafaq Ul Madaris Al Arabia, 
+Pakistan]]
+  - url :: https://en.wikipedia.org/wiki/Wafaq_ul_Madaris_Al-Arabia,_Pakistan
+  - [[Deobandi]] courant de madrasas dominant
+- [[National Association Of 
+Evangelicals]]
+  - url :: https://en.wikipedia.org/wiki/National_Association_of_Evangelicals
+- [[Djemâl ad-Dîn al-Afghâni]]
+  - url :: https://fr.wikipedia.org/wiki/Djem%C3%A2l_ad-D%C3%AEn_al-Afgh%C3%A2ni
+  - [[Hassan Al Banna]] influence
+- [[Belgique]]
+  - url :: https://fr.wikipedia.org/wiki/Belgique
+  - [[Moïse Tshombé]] soutien
+    - url :: https://fr.wikipedia.org/wiki/Mo%C3%AFse_Tshomb%C3%A9
+    - [[%C3%89tat Du Katanga]]
+      - url :: https://fr.wikipedia.org/wiki/%C3%89tat_du_Katanga
+      - [[Democratic Republic Of The 
+Congo]]
+- [[Tehreek E Labbaik Pakistan]]
+  - note :: extrémiste
+  - url :: https://en.wikipedia.org/wiki/Tehreek-e-Labbaik_Pakistan
+  - [[Barelvi]]
+    - url :: https://en.wikipedia.org/wiki/Barelvi
+    - [[Inde]] majorite
+    - [[Hanafi]]
+    - [[Deobandi]]
+      - note :: l'un des princpiaux centre de ponée et d'étude islamique de l'emire des Indes se trouvait dans la ville de Deoban , a proximité de Delhi. Cette école pratiquait deja depuis de 19 siecle une vison de l'isal rigoriste , néohanbalite, agressive à l'égard de son E hindou . La partition de 47 n'arrange rien : les oulémas de l'écolede de Deoband, sont contraits de plier bagage et de se refugier à lahore dans la province de Penjab, ou il s'organisent en diverses madrasas. forme des talibans.
+      - url :: https://en.wikipedia.org/wiki/Deobandi
+      - [[Muhammad Zia Ul Haq]] soutien
+      - [[Taliban]]
+      - [[ittehad Tanzeem Ul Madaris-e-Deeniya]]
+      - [[Hanafi]]
+        - url :: https://en.wikipedia.org/wiki/Hanafi
+        - [[Pakistan]]
+      - [[Opposition To The Partition 
+Of India]] oppose mais favorable a
+une separation indou / musulman
+        - url :: https://en.wikipedia.org/wiki/Opposition_to_the_partition_of_India
+        - [[Indian Independence Movement]]
+          - url :: https://en.wikipedia.org/wiki/Indian_independence_movement
+    - [[Jamiat Ulema E Pakistan]]
+      - url :: https://en.wikipedia.org/wiki/Jamiat_Ulema-e-Pakistan
+      - [[Pakistan National Alliance]]
+      - [[Sunni Ittehad Council]]
+        - url :: https://en.wikipedia.org/wiki/Sunni_Ittehad_Council
+    - [[Sunni Tehreek]]
+      - note :: extrémiste
+      - url :: https://en.wikipedia.org/wiki/Sunni_Tehreek
+      - [[Sunni Ittehad Council]]
+    - [[ittehad Tanzeem Ul Madaris-e-Deeniya]]
+      - note :: fédération des roganisations éducatives religieuses, réunit les 4 écoles de pensée : ahl i hadith, deobandi, chiite, barelvie, et le système éducatinf rattaché à la Jamaat i islami
+- [[hazara]]
+  - [[chiite]]
+  - [[Quetta]]
+    - url :: https://fr.wikipedia.org/wiki/Quetta
+- [[Shia Ulema Council]]
+  - url :: https://en.wikipedia.org/wiki/Shia_Ulema_Council
+  - [[Chiisme duodécimain]]
+    - url :: https://fr.wikipedia.org/wiki/Chiisme_duod%C3%A9cimain
+    - [[chiite]]
+- [[mosqué rouge]]
+  - url :: https://fr.wikipedia.org/wiki/Mosqu%C3%A9e_rouge
+- [[22 familles]]
+  - note :: selon Mahbub ul haq, 22 familles controlaient les 2 / 3 du secteur industriel et possédanient 87 %pct; du secteur bancaire et des assurances en 1968
+  - [[Pakistan]]
+- [[Conference Of Presidents Of 
+Major American Jewish ...]]
+  - note :: infuent lobby juif à washington - machine à collecte de don plus que à mobiliser le vote communautaire
+  - url :: https://en.wikipedia.org/wiki/Conference_of_Presidents_of_Major_American_Jewish_Organizations
+- [[American Israel Public 
+Affairs Committee]]
+  - note :: infuent lobby juif à washington - machine à collecte de don plus que à mobiliser le vote communautaire
+  - url :: https://fr.wikipedia.org/wiki/American_Israel_Public_Affairs_Committee
+- [[Defense Policy Board 
+Advisory Committee]]
+  - note :: forte influence
+  - url :: https://en.wikipedia.org/wiki/Defense_Policy_Board_Advisory_Committee
+- [[al yam]]
+  - note :: tribu chiite du sud (proche yemen) qui a aidé ibn saoud lors de la conquete du sud dans les années 20 - 30
+  - [[chiite d'arabie]]
+  - [[Ibn Saud]]
+- [[Nawaz Sharif]]
+  - url :: https://fr.wikipedia.org/wiki/Nawaz_Sharif
+  - [[Arabie Saoudite]] lien fort
+- [[Bektashi Order]]
+  - note :: soutient l'indépendance de l'albanie vis à vis de l'empire ottoman
+  - url :: https://en.wikipedia.org/wiki/Bektashi_Order
+  - [[Albania]]
+    - url :: https://en.wikipedia.org/wiki/Albania
+- [[communauté libanaise]]
+  - url :: https://www.diploweb.com/Communaute-libanaise-en-Afrique-de.html
+  - [[Lebanon]]
+- [[Ministry Of Intelligence vevak]]
+  - url :: https://en.wikipedia.org/wiki/Ministry_of_Intelligence
+  - [[irak]]
+- [[Anjuman-e Tablighat-e Islami
+ou 
+association de la propagande islamique]]
+  - note :: mouvement né, dans les années 30, parmi les religieux et les pieux marchands du bazar voulait combattre l'abandon des traditions et particulièrement certains mouvements schismatiques comme le baha'isme, les confréries soufies, les ahl-e haqq, les ali'allahi, les ismailiens et tout les partis athées de type occidental.
+- [[Mahmoud Zakerzadeh Tavallai 
+ou cheikh mahmoud halabi]]
+  - note :: - lutte contre les baha'isme et les communisme - proche de la SAVAK - propere sous les Pahlavis - combat les khomeini puis sont intégrés par le régime afin de consolider leur base. Kāveh. Le Hezbollah global: les réseaux secrets de l’Iran. Document. Paris: Choiseul, 2012.
+  - [[Société Hojjatieh Mahdavieh]] fonde
+    - [[Mohammad Mosaddegh]]
+      - url :: https://en.wikipedia.org/wiki/Mohammad_Mosaddegh
+      - [[1953 Iranian Coup D'etat]]
+        - url :: https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat
+        - [[Fazlollah Zahedi]]
+          - url :: https://en.wikipedia.org/wiki/Fazlollah_Zahedi
+        - [[Royal Dutch Shell]]
+          - url :: https://en.wikipedia.org/wiki/Royal_Dutch_Shell
+        - [[Total]]
+          - url :: https://en.wikipedia.org/wiki/Compagnie_Fran%C3%A7aise_des_P%C3%A9troles
+        - [[compagnie petrolire americaine]]
+      - [[Anglo Persian Oil Company]] nationalise
+        - url :: https://en.wikipedia.org/wiki/Anglo-Persian_Oil_Company
+        - [[1953 Iranian Coup D'etat]]
+        - [[BP]]
+          - url :: https://en.wikipedia.org/wiki/BP
+    - [[Haghani Circle]]
+      - url :: https://en.wikipedia.org/wiki/Haghani_Circle
+      - [[courant hojjatis]]
+- [[Rouhollah Khomeini]]
+  - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Rouhollah_Khomeini&sa=U&ved=2ahUKEwjevNSd4cjlAhVQzYUKHeHzAX0QFjALegQICBAB&usg=AOvVaw1p6-O1_d62TMLcYEobGfXX
+- [[Akbar Hashemi Rafsanjani]]
+  - url :: https://en.wikipedia.org/wiki/Akbar_Hashemi_Rafsanjani
+  - [[programme atomique]] soutien
+- [[Ali Akbar Velayati]]
+  - url :: https://en.wikipedia.org/wiki/Ali_Akbar_Velayati
+  - [[Ali Khamenei]] proche conseillé
+affaire étrangère
+    - url :: https://www.google.com/search?client=firefox-b-e&q=Ali+Khamenei&stick=H4sIAAAAAAAAAONgFuLQz9U3MMsqrlDiBLGMjEyyirSkspOt9AtS8wtyUoFUUXF-nlVxZkpqeWJl8SJWHsecTAXvjMTc1LzUTADAEJ6vQgAAAA&sa=X&ved=2ahUKEwjevNSd4cjlAhVQzYUKHeHzAX0Q0I4BMAp6BAgLECQ
+    - [[programme atomique]]
+- [[Mahmoud Ahmadinejad]]
+  - url :: https://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad
+  - [[Société Hojjatieh Mahdavieh]] proche
+  - [[Alliance Of Builders Of 
+Islamic Iran]]
+    - url :: https://en.wikipedia.org/wiki/Alliance_of_Builders_of_Islamic_Iran
+    - [[courant hojjatis]]
+      - url :: https://en.wikipedia.org/wiki/Hojjatieh
+      - [[Société Hojjatieh Mahdavieh]]
+    - [[ultra-conservateur]]
+- [[Mostafa Chamran]]
+  - url :: https://en.wikipedia.org/wiki/Mostafa_Chamran
+- [[Mostafa Chamran]]
+  - url :: https://en.wikipedia.org/wiki/Mostafa_Chamran
+  - [[Amal Movement]] fonde
+    - url :: https://en.wikipedia.org/wiki/Amal_Movement
+    - [[March 8 Alliance]]
+- [[Mohammad Taqi Mesbah Yazdi]]
+  - url :: https://en.wikipedia.org/wiki/Mohammad-Taqi_Mesbah-Yazdi
+  - [[Société Hojjatieh Mahdavieh]]
+  - [[anti-democratique]]
+- [[Front Of Islamic Revolution 
+Stability]]
+  - url :: https://en.wikipedia.org/wiki/Front_of_Islamic_Revolution_Stability
+- [[Mohammad Reza Mahdavi Kani]]
+  - url :: https://en.wikipedia.org/wiki/Mohammad-Reza_Mahdavi_Kani
+  - [[anti-democratique]]
+- [[Hussein Ali Montazeri]]
+  - url :: https://en.wikipedia.org/wiki/Hussein-Ali_Montazeri
+- [[Islamic Coalition Party]]
+  - url :: https://en.wikipedia.org/wiki/Islamic_Coalition_Party
+  - [[ultra-conservateur]]
+  - [[Mohammad Khatami]]
+    - url :: https://www.google.com/url?q=https://en.wikipedia.org/wiki/Mohammad_Khatami&sa=U&ved=2ahUKEwi26s_I4sjlAhVPxYUKHUFsA1sQFjAMegQICRAB&usg=AOvVaw1TptwE8TXanBpMGmr2RXLj
+- [[VEVAK]]
+  - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Minist%25C3%25A8re_des_Renseignements_et_de_la_S%25C3%25A9curit%25C3%25A9_nationale&sa=U&ved=2ahUKEwj8n4uUoM7lAhUIfBoKHXI6Dj4QFjAAegQICBAB&usg=AOvVaw23jkgFJa045sFlBmP2IZqy
+  - [[Iran]]
+  - [[Majlis D'Iran]] autorise candidature
+- [[Shaykh Uthman Abd-Aziz]]
+  - [[Bzotnawa]] fonde
+    - [[UPK]] assasine membre
+    - [[Ansar al-Islam]]
+      - url :: https://en.wikipedia.org/wiki/Ansar_al-Islam
+- [[Mullah Krekar]]
+  - url :: https://en.wikipedia.org/wiki/Mullah_Krekar
+  - [[Ansar al-Islam]] fonde
+- [[Mohammed Bin Awad Bin Laden]]
+  - url :: https://en.wikipedia.org/wiki/Mohammed_bin_Awad_bin_Laden
+  - [[Faisal Of Saudi Arabia]] proche
+- [[Bani Utbah]]
+  - url :: https://en.wikipedia.org/wiki/Bani_Utbah
+- [[House Of Khalifa]]
+  - url :: https://en.wikipedia.org/wiki/House_of_Khalifa
+  - [[Utub]]
+    - url :: https://en.wikipedia.org/wiki/Utub
+    - [[Anizah]]
+      - url :: https://en.wikipedia.org/wiki/Anizah
+- [[Al Wefaq]]
+  - url :: https://www.google.com/url?q=https://en.wikipedia.org/wiki/Al_Wefaq&sa=U&ved=2ahUKEwjRtoeqqtPlAhWlBWMBHdwIBuQQFjAEegQICRAB&usg=AOvVaw23F5Gq90A0bj7l1LdoJCpf
+  - [[chiite]]
+- [[Arif Hussain Hussaini]]
+  - url :: https://en.wikipedia.org/wiki/Arif_Hussain_Hussaini
+  - [[Tehrik E Jafaria]] fonde
+    - url :: https://en.wikipedia.org/wiki/Tehrik-e-Jafaria
+    - [[Tehrik-e-Nifaz-e-Fiqh-e-Jafaria]]
+      - [[chiite]]
+    - [[Sipah E Muhammad Pakistan]]
+      - url :: https://en.wikipedia.org/wiki/Sipah-e-Muhammad_Pakistan
+      - [[Sipah E Sahaba Pakistan]] en réaction
+- [[Imamia Students Organisation]]
+  - url :: https://en.wikipedia.org/wiki/Imamia_Students_Organisation
+  - [[Tehrik E Jafaria]]
+- [[List Of Iranian Research 
+Centers]]
+  - url :: https://en.wikipedia.org/wiki/List_of_Iranian_research_centers
+- [[United States Information 
+Agency]]
+  - url :: https://fr.wikipedia.org/wiki/United_States_Information_Agency
+- [[International Visitor 
+Leadership Program]]
+  - url :: https://en.wikipedia.org/wiki/International_Visitor_Leadership_Program
+- [[Azerbaïdjan]]
+  - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Azerba%25C3%25AFdjan&sa=U&ved=2ahUKEwjB5Prt39flAhWrBWMBHQZYDVoQFjALegQICRAB&usg=AOvVaw1zawkmdq76WwaX6J9y4w6y
+  - [[soufi]] majorité
+    - [[chiite]]
+- [[Azeris]]
+  - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Az%25C3%25A9ris&sa=U&ved=2ahUKEwjb8sTS4NflAhVr1-AKHZJ8BKsQFjAAegQIAxAB&usg=AOvVaw0rICZyVxNRuqlf3500OBL7
+  - [[Tabriz]] m
+    - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Tabriz&sa=U&ved=2ahUKEwi-k8q14NflAhWRkhQKHcWgBHkQFjANegQIBRAB&usg=AOvVaw2Kw0Q1vTPmERVJ7CLA_qRL
+    - [[Iran]]
+- [[Aboulfaz Eltchibeï]]
+  - url :: https://fr.wikipedia.org/wiki/Aboulfaz_Eltchibe%C3%AF
+  - [[république islamique]] relations exécrables
+    - url :: https://fr.wikipedia.org/wiki/Iran
+    - [[Hezbe Wahdat]] soutien
+    - [[Hamas]] soutien
+    - [[UPK]] soutien
+    - [[Tehrik E Jafaria]] soutien
+    - [[Nouri Al Maliki]]
+      - url :: https://en.wikipedia.org/wiki/Nouri_al-Maliki
+      - [[irak]] 1er ministre
+      - [[Chiisme]]
+      - [[Sunnite]] politique sectaire
+envers
+    - [[Imamia Students Organisation]]
+      - url :: https://en.wikipedia.org/wiki/Imamia_Students_Organisation
+      - [[chiite]]
+    - [[Islamic Dawa Party]]
+      - url :: https://en.wikipedia.org/wiki/Islamic_Dawa_Party
+    - [[Jihad Islamique Palestinien]]
+      - note :: opposé au salafiste scission avec les frères musulmans médiateur entre les différentes factions palestiinennes. dialogue avec l'olp et le fatah, mais opposé à l'autorité national palestinienne situé à gauche sur l'échéquier politique Histoire du Jihad islamique palestinien - Stéphane Lacroix, Nicolas Dot-Pouillard, Eugénie Rébillard https://www.youtube.com/watch?v=hNNnztLRTBA De la théologie à la libération ? Histoire du Jihad islamique palestinien Par Wissam Alhaj, Nicolas Dot-Pouillard et Eugénie Rébillard https://www-cairn-info.passerelle.univ-rennes1.fr/de-la-theologie-a-la-liberation--9782707177810.htm https://www.lesclesdumoyenorient.com/Le-Mouvement-Jihad-Islamique-Palestinien-une-faction-islamo-nationaliste.html
+      - url :: https://fr.wikipedia.org/wiki/Jihad_islamique_palestinien
+      - [[Muslim Brotherhood]] scission
+      - [[" Courant islamique révolutionnaire"]] succede
+        - [[avant garde islamique]]
+    - [[Ahmed Abdallah Mohamed Sambi]]
+      - url :: https://fr.wikipedia.org/wiki/Ahmed_Abdallah_Mohamed_Sambi
+      - [[Comores]] m
+        - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Comores_(pays)&sa=U&ved=2ahUKEwjJlJukyPHlAhXF5eAKHYx2AhoQFjALegQIChAB&usg=AOvVaw3EEB4mPbfMBaBo4bQOpc30
+- [[Ilham Aliyev]]
+  - url :: https://fr.wikipedia.org/wiki/Ilham_Aliyev
+  - [[Heydar Aliyev]] fils
+    - url :: https://fr.wikipedia.org/wiki/Heydar_Aliyev
+    - [[république islamique]] relation amicale
+- [[Clan de l'ouest]]
+  - [[Abdelaziz Bouteflika]]
+    - url :: https://fr.wikipedia.org/wiki/Abdelaziz_Bouteflika
+- [[clan de l'est]]
+- [[coeur islamisme]]
+  - [[Meknès]]
+    - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Mekn%25C3%25A8s&sa=U&ved=2ahUKEwjzpPTOltjlAhUWDmMBHXyIByUQFjANegQIBBAB&usg=AOvVaw0EOHC0eeDVchBSOI-t3Lte
+    - [[Maroc]]
+- [[Nabil makhloufi]]
+  - url :: https://fr.wikipedia.org/wiki/Nabil_Abou_Alqama
+  - [[aqmi]] dirige
+- [[Audrey Azoulay]]
+  - url :: https://fr.wikipedia.org/wiki/Audrey_Azoulay
+  - [[André Azoulay]] fille
+    - url :: https://fr.wikipedia.org/wiki/Andr%C3%A9_Azoulay
+    - [[Mohammed VI]] proche
+    - [[Hassan II Of Morocco]] proche
+- [[Recep Tayyip Erdoğan]]
+  - url :: https://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan
+  - [[Khalidiyya]]
+    - note :: Sufi orders are known for their esoteric nature, in contrast to orthodox Islam. This has often implied an emphasis on mysticism over literalism and strict interpretation of Sharia law. It would be a mistake, however, to view the Naqshbandi order through this lens. It stands out among Sufi orders for its compatibility with orthodox, official Islam. Indeed, the Naqshbandi differs from most Sufi orders, almost all of whom trace their __silsila__—their chain of spiritual transmission—back to Muhammad via his son-in-law Ali, who is the first imam in the Shia branch of Islam. By contrast, the Naqshbandi is the only order to trace its chain of transmission through the first Sunni Caliph, Abu Bakr. This explains the order’s firm allegiance to the orthodox Sunni tradition, and its strict adherence to Sharia, with mysticism only a second story subservient to the fulfillment of formal Islamic duties.1 https://www.hudson.org/research/11601-the-naqshbandi-khalidi-order-and-political-islam-in-turkey
+    - url :: https://en.wikipedia.org/wiki/Khalidiyya
+    - [[Naqshbandi]]
+      - url :: https://en.wikipedia.org/wiki/Naqshbandi
+      - [[Empire Ottoman]]
+  - [[Justice And Development 
+Party (Turkey)]]
+    - url :: https://en.wikipedia.org/wiki/Justice_and_Development_Party_(Turkey)
+    - [[Khalidiyya]]
+- [[Nur Movement]]
+  - url :: https://en.wikipedia.org/wiki/Nur_movement
+  - [[Khalidiyya]]
+  - [[Mouvement Gülen]]
+    - note :: They are generally pro-American and support Turkey’s European Union integration; even more uniquely, they appear largely devoid of the anti-Semitism that is entrenched in the other orders and movements. In this sense, they diverge considerably from the Naqshbandi-Khalidi movement’s roots. https://www.hudson.org/research/11601-the-naqshbandi-khalidi-order-and-political-islam-in-turkey
+    - url :: https://en.wikipedia.org/wiki/G%C3%BClen_movement
+- [[Bektashi Order]]
+  - url :: https://en.wikipedia.org/wiki/Bektashi_Order
+  - [[Empire Ottoman]]
+- [[Khâlid-i Shahrazuri]]
+  - url :: https://en.wikipedia.org/wiki/Kh%C3%A2lid-i_Shahrazuri
+  - [[Khalidiyya]]
+- [[Necmettin Erbakan]]
+  - note :: The views underlying Erbakan’s long political career have been remarkably consistent and deeply influenced by the Khalidi order’s teachings, as well as global political Islamic movements of the Muslim Brotherhood tradition. The movement rests on an urge to build a powerful, industrialized Turkey that serves as the natural leader of the Muslim world. While accepting the contributions of modern science, and even arguing that modern Western science was based on Islamic knowledge, Erbakan vigorously opposed Western culture. Erbakan also viewed international politics from an anti-colonial and anti-imperialist perspective: Turkey and the Islamic world were being exploited by the West, which in turn was controlled by a global Zionist world conspiracy. In Erbakan’s posthumously published memoirs, anti-Semitic conspiracy theories occupy a central place, just as they play a crucial role in the movement’s ideology. Erbakan believed that Turkey needed to build its own heavy industrial base, yet the Western powers had prevented this at every step. Instead of seeking an alliance with the West, therefore, Turkey should form and lead an Islamic union of states.14 https://www.hudson.org/research/11601-the-naqshbandi-khalidi-order-and-political-islam-in-turkey
+  - url :: https://en.wikipedia.org/wiki/Necmettin_Erbakan
+  - [[Millî Görüş]] fonde
+    - url :: https://fr.wikipedia.org/wiki/Mill%C3%AE_G%C3%B6r%C3%BC%C5%9F
+    - [[Khalidiyya]]
+- [[Süleymancılar]]
+  - url :: https://en.wikipedia.org/wiki/S%C3%BCleymanc%C4%B1lar
+  - [[Khalidiyya]]
+- [[Turgut Özal]]
+  - url :: https://fr.wikipedia.org/wiki/Turgut_%C3%96zal
+  - [[Khalidiyya]]
+- [[Turkish Confederation Of 
+Businessmen And Industria...]]
+  - url :: https://en.wikipedia.org/wiki/Turkish_Confederation_of_Businessmen_and_Industrialists
+  - [[Mouvement Gülen]]
+- [[Zaman (journal)]]
+  - url :: https://fr.wikipedia.org/wiki/Zaman_(journal)
+  - [[Mouvement Gülen]]
+- [[Bank Asya]]
+  - url :: https://en.wikipedia.org/wiki/Bank_Asya
+  - [[Mouvement Gülen]]
+- [[Hassan Abbasi]]
+  - note :: http://hasan-abbasi.ir/ https://twitter.com/hasan_abbasi
+  - url :: https://en.wikipedia.org/wiki/Hassan_Abbasi
+  - [[andishkadeh think tank]]
+- [[Estonie]]
+  - note :: le concept de «pays baltes» est un concept récent et extern, détesté sur place et qui reflète essetiellement l'imprécision des connaissances des Occidentataux sur la région. Il recouvre 3 pays très différentes l'un de l'autre: en particulier, la lituanie catholique, longtemsp polonaise et tournée vers l'éurope centrale, n'a pas grand chose à voir avec la Lettonie et l'estone protestantes, marquées par une forte empreinte allemande et tournées vers la baltique. - la culture estonienne n'a rien à voir avec la culture russe - la Russie n'a été en estonie qu'un envahisseur récent (au 18 eme siècel ) et mal accepté dont l'influence est bien plus superficielle que celle de l'allemangene - la minorité russe joue un role mineur dans le pays - peu %sp;religieux - l'identité estonine est fondée sur la langue de racine finno-ougrienne et par là prete une attention particulière au autre locuteur ayant les memes racines telle que les hongrois, finois, etc... ( ils se sentent plus proches d'une personne n'ayant pas la citoyenneté estonienne mais parlant l'estonien que le contraire) - les russophones et estoniens se fréquentent très peu, système éducatif différent - les russophones sont instrumentalisés par Moscou jean pierre minaudier Le Mondial Des Nations: 30 Chercheurs Enquêtent Sur l’identité Nationale. Choiseul, 2011.
+  - url :: https://fr.wikipedia.org/wiki/Estonie
+- [[Lettonie]]
+  - note :: le concept de «pays baltes» est un concept récent et extern, détesté sur place et qui reflète essetiellement l'imprécision des connaissances des Occidentataux sur la région. Il recouvre 3 pays très différentes l'un de l'autre: en particulier, la lituanie catholique, longtemsp polonaise et tournée vers l'éurope centrale, n'a pas grand chose à voir avec la Lettonie et l'estone protestantes, marquées par une forte empreinte allemande et tournées vers la baltique. - - centrée sur un grand port cosmopolite, ®iga, débouché natuel de la Russie occdentale en Baltique jean pierre minaudier Le Mondial Des Nations: 30 Chercheurs Enquêtent Sur l’identité Nationale. Choiseul, 2011.
+  - url :: https://fr.wikipedia.org/wiki/Lettonie
+- [[Liste De Clans]]
+  - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Liste_de_clans_somalis&sa=U&ved=2ahUKEwitmIWUxeflAhWpxoUKHSjeB-EQFjAAegQIBRAB&usg=AOvVaw23E_AMkJ-3A34PheKHuwes
+- [[Somali (langue)]]
+  - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Somali&sa=U&ved=2ahUKEwikk42xxeflAhWszoUKHbiAD64QFjAKegQIChAB&usg=AOvVaw26IGUDACLbqPe-lVIMcYys
+  - [[Somalie]]
+- [[Ethiopie]]
+  - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/%25C3%2589thiopie&sa=U&ved=2ahUKEwiLgvnaxuflAhVOOhoKHejIAmgQFjALegQIBxAB&usg=AOvVaw1SnxoScnHbKTm10isEIxFg
+  - [[Ogaden War]]
+- [[Bolivie]]
+  - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Bolivie&sa=U&ved=2ahUKEwjxiraIg-rlAhUBtRoKHeaaC3kQFjAXegQICBAB&usg=AOvVaw2EtKLtVmFZWk0U9s9CmFFs
+- [[Quechua]]
+  - url :: https://fr.wikipedia.org/wiki/Quechua
+- [[Felipe Quispe..]]
+  - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Felipe_Quispe&sa=U&ved=2ahUKEwjD2O7dg-rlAhUBhRoKHbtdC-MQmhMwAnoECAsQBw&usg=AOvVaw3ha6pB0nsmltlh5y7pQJZ2
+  - [[Aymara]]
+    - url :: https://fr.wikipedia.org/wiki/Aymara
+  - [[Pachakuti Indigenous Movement]] fonde
+    - url :: https://en.wikipedia.org/wiki/Pachakuti_Indigenous_Movement
+- [[Evo Morales]]
+  - url :: https://en.wikipedia.org/wiki/Evo_Morales
+  - [[Movement For Socialism 
+(Bolivia)]]
+    - note :: - assise dans le Chaparede Cochabamba
+    - url :: https://en.wikipedia.org/wiki/Movement_for_Socialism_(Bolivia)
+- [[Deng Xiaoping]]
+  - url :: https://fr.wikipedia.org/wiki/Deng_Xiaoping
+  - [[Liu Shaoqi]] réhabilite
+    - url :: https://en.wikipedia.org/wiki/Liu_Shaoqi
+- [[Bande Des Quatre]]
+  - url :: https://fr.wikipedia.org/wiki/Bande_des_Quatre
+- [[Mao Zedong]]
+  - url :: https://fr.wikipedia.org/wiki/Mao_Zedong
+- [[Zhou Enlai]]
+  - note :: très apprécié %sp;par la population Bermann, Sylvie. La Chine En Eaux Profondes. Stock, 2017.
+  - url :: https://fr.wikipedia.org/wiki/Zhou_Enlai
+- [[révolution culturel]]
+  - url :: https://fr.wikipedia.org/wiki/R%C3%A9volution_culturelle
+- [[club stolypine]]
+- [[Alexeï Koudrine]]
+  - url :: https://fr.wikipedia.org/wiki/Alexe%C3%AF_Koudrine
+- [[Boris Titov]]
+  - url :: https://fr.wikipedia.org/wiki/Boris_Titov
+- [[Muhammad Al Badr]]
+  - url :: https://en.wikipedia.org/wiki/Muhammad_al-Badr
+- [[Bakil]]
+  - url :: https://en.wikipedia.org/wiki/Bakil
+- [[Madh'hij]]
+  - url :: https://en.wikipedia.org/wiki/Madh%27hij
+- [[Abdullah Ibn Husayn Al Ahmar]]
+  - url :: https://en.wikipedia.org/wiki/Abdullah_ibn_Husayn_al-Ahmar
+  - [[Hashid]]
+    - url :: https://www.google.com/url?q=https://en.wikipedia.org/wiki/Hashid&sa=U&ved=2ahUKEwiHv6rRvvHlAhUNA2MBHeDTBhYQFjAAegQIABAB&usg=AOvVaw2Gthqz97ZXOFwVDHnodeJP
+- [[Sadiq Al Ahmar]]
+  - url :: https://en.wikipedia.org/wiki/Sadiq_al-Ahmar
+  - [[Hashid]]
+  - [[Ali Abdullah Saleh]] lutte
+- [[Party Of Truth (Yemen)
+ou al Haqq.]]
+  - url :: https://www.google.com/url?q=https://en.wikipedia.org/wiki/Party_of_Truth_(Yemen)&sa=U&ved=2ahUKEwjAxcrEwvHlAhUGtRoKHUnVA1sQFjAAegQICBAB&usg=AOvVaw2aunVT4D1QNeuUgvCmjHkM
+  - [[Houthis]]
+    - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Houthis&sa=U&ved=2ahUKEwjAxcrEwvHlAhUGtRoKHUnVA1sQFjAGegQIBhAB&usg=AOvVaw3Z1bcs3ETOvQilaulsflaj
+- [[Organisation Des 
+Moudjahiddines Du Peuple 
+Iranien]]
+  - url :: https://fr.wikipedia.org/wiki/Organisation_des_moudjahiddines_du_peuple_iranien
+- [[ID 17604]]
+- [[Viêt Nam]]
+  - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Vi%25C3%25AAt_Nam&sa=U&ved=2ahUKEwjJkLujzvHlAhUHEBQKHb6LALsQFjAOegQICRAB&usg=AOvVaw0s7o0L7NM7F-xSaAe2ccI9
+  - [[Confucianisme]]
+    - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Confucianisme&sa=U&ved=2ahUKEwjvxaLjzfHlAhVN8BQKHaF7AS8QFjAAegQIAxAB&usg=AOvVaw3L28q7KnbsghNd3cF1PbAc
+- [[Corée du Sud]]
+  - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Cor%25C3%25A9e_du_Sud&sa=U&ved=2ahUKEwiY-uKuzvHlAhVF8OAKHXJ1A2wQFjALegQIChAB&usg=AOvVaw0zdAc_R6YfQs93JeB-vDqV
+  - [[Confucianisme]] m
+- [[Mikhaïl Gorbatchev]]
+  - url :: https://fr.wikipedia.org/wiki/Mikha%C3%AFl_Gorbatchev
+  - [[Chine]] condescendant
+- [[Viêt Nam]]
+  - url :: https://fr.wikipedia.org/wiki/Vi%C3%AAt_Nam
+- [[Conflit Cambodgien (1978 
+1999)]]
+  - url :: https://fr.wikipedia.org/wiki/Conflit_cambodgien_(1978-1999)
+- [[russe]]
+  - [[Guerre entre le Cambodge et le Viêt Nam]] soutien invasion viet
+    - url :: https://fr.wikipedia.org/wiki/Guerre_Cambodge-Vi%C3%AAt_Nam
+- [[usa]]
+  - [[ID 17624]] meme groupe
+- [[Japon]]
+  - url :: https://fr.wikipedia.org/wiki/Japon
+- [[Margaret Thatcher]]
+  - url :: https://fr.wikipedia.org/wiki/Margaret_Thatcher
+  - [[Yasuhiro Nakasone]] très bon rapport
+    - url :: https://fr.wikipedia.org/wiki/Yasuhiro_Nakasone
+- [[Regional Comprehensive 
+Economic Partnership]]
+  - url :: https://en.wikipedia.org/wiki/Regional_Comprehensive_Economic_Partnership
+- [[Phạm Xuân Ẩn]]
+  - url :: https://fr.wikipedia.org/wiki/Ph%E1%BA%A1m_Xu%C3%A2n_%E1%BA%A8n
+- [[Dynastie Yuan]]
+  - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Dynastie_Yuan&sa=U&ved=2ahUKEwiQxerl3fblAhWvA2MBHSOWC_AQFjAAegQICxAB&usg=AOvVaw3AR5FW0IuL_IJHOrz3u22u
+- [[Sun Yat Sen]]
+  - url :: https://en.wikipedia.org/wiki/Sun_Yat-sen
+  - [[Tongmenghui]]
+    - url :: https://en.wikipedia.org/wiki/Tongmenghui
+    - [[Révolution chinoise de 1911]]
+      - url :: https://fr.wikipedia.org/wiki/R%C3%A9volution_chinoise_de_1911
+      - [[1911 Republic Of China 
+Provisional Presidential 
+El...]]
+        - url :: https://en.wikipedia.org/wiki/1911_Republic_of_China_provisional_presidential_election
+- [[Chronologie Du Monde Chinois]]
+  - url :: https://fr.wikipedia.org/wiki/Chronologie_du_monde_chinois
+- [[21 demande 1915 japon]]
+  - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Vingt_et_une_demandes&sa=U&ved=2ahUKEwjaw-TV3_blAhWQ4YUKHRA3ACcQFjAAegQIBhAB&usg=AOvVaw19ooQSiJ0kd72PW1qVmyFt
+- [[Campagne des Cent Fleurs]]
+  - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Campagne_des_Cent_Fleurs&sa=U&ved=2ahUKEwi4-c_Z4fblAhUOohQKHeQ6CbIQFjAAegQIChAB&usg=AOvVaw3cnrjVXoUzWZhHMIEVY-6S
+  - [[Grand Bond En Avant]]
+    - url :: https://fr.wikipedia.org/wiki/Grand_Bond_en_avant
+    - [[révolution Culturelle]]
+      - url :: https://fr.wikipedia.org/wiki/R%C3%A9volution_culturelle
+      - [[Mouvement d'envoi Des 
+Zhiqing à La Campagne
+ou mouvement des jeunes instruits]]
+- [[Xi Jinping]]
+  - url :: https://fr.wikipedia.org/wiki/Xi_Jinping
+  - [[Mouvement d'envoi Des 
+Zhiqing à La Campagne
+ou mouvement des jeunes instruits]]
+    - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Mouvement_d%2527envoi_des_zhiqing_%25C3%25A0_la_campagne&sa=U&ved=2ahUKEwjuhIid4vblAhUs-YUKHVGHBrgQFjAAegQIBhAB&usg=AOvVaw0EDRDlN8ea6MVcCyiB-BJ2
+- [[reconnaissance de la chine par De gaulle 1964]]
+- [[Visite De Richard Nixon En 
+Chine En 1972]]
+  - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Visite_de_Richard_Nixon_en_Chine_en_1972&sa=U&ved=2ahUKEwiBl8Gk4_blAhVBKBoKHbR9C0QQFjAAegQIBBAB&usg=AOvVaw0J8a0G13QiDGss-nh7VCp0
+- [[Rahbar]]
+  - url :: https://fr.wikipedia.org/wiki/Rahbar
+  - [[Conseil Des Gardiens De La 
+Constitution]] nomme
+    - url :: https://fr.wikipedia.org/wiki/Conseil_des_gardiens_de_la_Constitution
+    - [[Majlis D'Iran]]
+      - url :: https://fr.wikipedia.org/wiki/Majlis_d%27Iran
+      - [[Conseil Des Gardiens De La 
+Constitution]] éli
+- [[ministère intérieur]]
+  - [[Majlis D'Iran]] autorise candidature
+- [[Conseil de discernement de l'intérêt supérieur du régime]]
+  - url :: https://fr.wikipedia.org/wiki/Conseil_de_discernement_de_l%27int%C3%A9r%C3%AAt_sup%C3%A9rieur_du_r%C3%A9gime
+- [[Maison De La Direction]]
+  - note :: - état dans l'état - un représentant de cette instance est présent dans chaque ministère et auprès de chaque gouverneur
+  - url :: https://fr.wikipedia.org/wiki/Maison_de_la_Direction
+- [[Ismail Haniyeh]]
+  - url :: https://en.wikipedia.org/wiki/Ismail_Haniyeh
+  - [[Hamas]]
+  - [[Iran]] plus proche des iraniens que 
+yassin et mechaal
+  - [[Gaza Strip]]
+    - url :: https://en.wikipedia.org/wiki/Gaza_Strip
+- [[Sabireen Movement]]
+  - url :: https://en.wikipedia.org/wiki/Sabireen_Movement
+  - [[Gaza Strip]]
+  - [[Jihad Islamique Palestinien]] scission
+  - [[Hezbollah]] proche
+- [[Wang Qishan]]
+  - note :: Mr Tocqueville-anti corruption
+  - url :: https://en.wikipedia.org/wiki/Wang_Qishan
+- [[Ali Hassan Salameh]]
+  - url :: https://en.wikipedia.org/wiki/Ali_Hassan_Salameh
+  - [[Black September Organization]]
+    - url :: https://en.wikipedia.org/wiki/Black_September_Organization
+- [[Parti démocrate (Turquie)]]
+  - url :: https://fr.wikipedia.org/wiki/Parti_d%C3%A9mocrate_(Turquie)
+  - [[Coup d'État de 1960 en Turquie]]
+    - note :: - cause : politique pro-islamiste des pro-démocrate
+    - url :: https://fr.wikipedia.org/wiki/Coup_d%27%C3%89tat_de_1960_en_Turquie
+- [[Loups Gris]]
+  - url :: https://fr.wikipedia.org/wiki/Loups_gris
+- [[Khaled Al Michri]]
+  - url :: https://fr.wikipedia.org/wiki/Khaled_al-Michri
+  - [[Lybie]]
+  - [[Muslim Brotherhood]]
+- [[DMI Trust]]
+  - url :: https://en.wikipedia.org/wiki/DMI_Trust
+  - [[Faysal Bank]] finance
+    - url :: https://en.wikipedia.org/wiki/Faysal_Bank
+    - [[Muslim World League]] finance
+- [[International Islamic Relief 
+Organization]]
+  - note :: orga entièrement financé par le gouvernemente saudient (p103) branche humanitaire de la Ligue islamique mondiale Conesa, Pierre, and Hubert Védrine. Dr. Saoud et Mr. Djihad: la diplomatie religieuse de l’Arabie saoudite. Le monde comme il va. Paris: Robert Laffont, 2016.
+  - url :: https://fr.wikipedia.org/wiki/International_Islamic_Relief_Organization
+  - [[saudi relief committee]]
+  - [[Muslim World League]] enfant
+- [[croissant rouge saoudien]]
+  - [[saudi relief committee]]
+- [[World Assembly Of Muslim 
+Youth]]
+  - url :: https://en.wikipedia.org/wiki/World_Assembly_of_Muslim_Youth
+  - [[Muslim World League]] label
+- [[International Islamic News Agency]]
+  - note :: - fondé en opposition à %sp; Islamic News Agency ( iranien)
+  - url :: https://en.wikipedia.org/wiki/Union_of_OIC_News_Agencies
+- [[Organisation de la coopération islamique]]
+  - url :: https://fr.wikipedia.org/wiki/Organisation_de_la_coop%C3%A9ration_islamique
+- [[Abdelaziz Ben Abdallah Al 
+Ach Cheikh]]
+  - url :: https://fr.wikipedia.org/wiki/Abdelaziz_ben_Abdallah_Al_ach-Cheikh
+  - [[conseil des oulémas]] label
+  - [[Abd Al Aziz Ibn Baz]] succede
+    - url :: https://en.wikipedia.org/wiki/Abd_al-Aziz_ibn_Baz
+    - [[conseil des oulémas]]
+      - url :: https://en.wikipedia.org/wiki/Council_of_Senior_Scholars_(Saudi_Arabia)
+- [[Salafist Call]]
+  - url :: https://en.wikipedia.org/wiki/Salafist_Call
+  - [[parti al-nour]] donne naissance
+    - note :: - soutient l'armee de sisi https://www.youtube.com/watch?v=25HB1WN1v6M Frères musulmans et salafistes - Stéphane Lacroix 1:00:00
+    - url :: https://fr.wikipedia.org/wiki/Parti_de_la_lumi%C3%A8re
+    - [[Salafi Movement]] m
+- [[mohammad ismail al-Muqaddim]]
+  - [[Arabie Saoudite]] proche de
+- [[Singapour]]
+  - url :: https://fr.wikipedia.org/wiki/Singapour
+- [[école de Dammaj]]
+  - url :: https://www.lefigaro.fr/international/2010/01/27/01003-20100127ARTFIG00026-au-yemen-l-afflux-d-etudiants-etrangers-salafistes-.php
+  - [[Wahhabism]]
+  - [[Zaidiyyah]] action anti chiite
+- [[Shafi‘i]]
+  - url :: https://en.wikipedia.org/wiki/Shafi%E2%80%98i
+- [[Mouvement Sahwa]]
+  - note :: reveil islamique - rencontre entre les freres musulmans et le salafisme - empreinte sur les questions politiques et culturels les idées des frere musulman et %sp;sur l'aspect %sp;theologique au salafisme Frères musulmans et salafistes - Stéphane Lacroix https://www.youtube.com/watch?v=25HB1WN1v6M 38:00
+  - url :: https://fr.wikipedia.org/wiki/Mouvement_Sahwa
+  - [[Salafi Movement]]
+  - [[Muslim Brotherhood]]
+- [[Rashid Rida]]
+  - url :: https://en.wikipedia.org/wiki/Rashid_Rida
+  - [[Muslim Brotherhood]]
+- [[Parti De La Liberté Et 
+De La Justice]]
+  - note :: https://www.youtube.com/watch?v=25HB1WN1v6M Frères musulmans et salafistes - Stéphane Lacroix 1:00:00
+  - url :: https://fr.wikipedia.org/wiki/Parti_de_la_libert%C3%A9_et_de_la_justice
+  - [[Muslim Brotherhood]]
+- [[Jamal al-Din al-Afghani]]
+  - url :: https://www.lesclesdumoyenorient.com/Jamal-al-Din-al-Afghani-fondateur.html
+  - [[reformisme musulman]]
+- [[Muhammad ‘Abduh]]
+  - url :: https://www.lesclesdumoyenorient.com/Muhammad-Abduh.html
+  - [[reformisme musulman]]
+    - [[Rashid Rida]]
+      - note :: https://www.lesclesdumoyenorient.com/Rashid-Rida.html
+      - url :: https://www.lesclesdumoyenorient.com/Rashid-Rida.html
+- [[Millî Görüş]]
+  - url :: https://fr.wikipedia.org/wiki/Mill%C3%AE_G%C3%B6r%C3%BC%C5%9F
+  - [[islamisme turque]]
+- [[DITIB]]
+  - url :: https://www.lefigaro.fr/international/2018/09/28/01003-20180928ARTFIG00359-le-ditib-l-organe-religieux-turc-preoccupe-l-allemagne.php
+  - [[islamisme turque]]
+- [[Diyanet ...]]
+  - url :: https://fr.wikipedia.org/wiki/Diyanet_%C4%B0%C5%9Fleri_Ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1
+  - [[islamisme turque]]
+- [[tanzanie]]
+- [[centrafrique]]
+  - note :: 2013 : les violences qui ont opposé les milices antibalak, plutot chrétiennes) te la rébellion seleka (pluto musulman) ont essentiellement nenu à des rivalités de pouvoir et non à des questions de croyance l'afrique nouvelle frontière du djihad
+- [[Izala Society]]
+  - url :: https://en.wikipedia.org/wiki/Izala_Society
+- [[Oromos]]
+  - url :: https://fr.wikipedia.org/wiki/Oromos
+  - [[Amharas]] forte rivalite
+    - url :: https://fr.wikipedia.org/wiki/Amharas
+  - [[Abiy Ahmed]] populaire
+    - url :: https://fr.wikipedia.org/wiki/Abiy_Ahmed
+- [[Cameroun]]
+  - url :: https://fr.wikipedia.org/wiki/Cameroun
+  - url :: https://grip.org/cameroun-crise-region-anglophone/
+- [[https://grip.org/cameroun-
+crise-region-anglophone/]]
+  - url :: https://grip.org/cameroun-crise-region-anglophone/
+- [[Nigeria]]
+  - url :: https://en.wikipedia.org/wiki/Nigeria
