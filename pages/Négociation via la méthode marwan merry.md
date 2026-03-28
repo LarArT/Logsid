@@ -69,6 +69,7 @@
 				- Cartographie des parties prenantes
 				- Organigramme de pouvoir
 				- Sociogramme (relations affectives)
+					- https://www.modernisation.gouv.fr/campus-de-la-transformation-publique/catalogue-de-ressources/outil/identifier-les-acteurs-de-la
 				- Motivations de la partie adverse
 				- Analyse des positions vs intérêts vs objectifs :
 					- Position : ce que dit l'autre (revendication affichée)
