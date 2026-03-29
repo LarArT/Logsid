@@ -57,3 +57,64 @@
 - OC Strategic Advisory
 -
 - Team, OCSA. « The Power of Elicitation: How to Gather Crucial Information Without Asking Direct Questions ». OCSA, 20 août 2024, https://www.ocstrategic.com/post/the-power-of-elicitation-how-to-gather-crucial-information-without-asking-direct-questions.
+- –-------------------------------------------------------------
+- C'est un excellent choix. Ces deux approches cherchent à contourner la "façade" du discours conscient pour toucher la structure profonde de la pensée. George Kelly, avec sa Théorie des Construits Personnels, considérait que chaque individu est un "savant" qui tente de prédire et de contrôler son univers via un système de filtres.
+  Voici un approfondissement de ces deux méthodes :
+  1. La Technique des Grilles de Répertoire (Repertory Grid)
+  Cette méthode est une forme d'entretien structuré qui permet de cartographier la géographie mentale d'une personne sans lui suggérer de réponses.
+  Le processus de "triade"
+  L'idée est de demander au sujet de comparer des éléments (personnes, objets, situations) pour faire émerger ses construits bipolaires.
+   * Sélection des éléments : On choisit par exemple 6 collègues de travail.
+   * Comparaison par trois : On en choisit trois au hasard et on demande : "En quoi deux d'entre eux se ressemblent-ils et diffèrent-ils du troisième ?"
+   * Émergence du construit : Si le sujet répond "Ces deux-là sont sincères alors que l'autre est hypocrite", on tient un construit : Sincérité vs Hypocrisie.
+  La Grille (Matrice)
+  On demande ensuite au sujet de noter tous les autres éléments sur une échelle (de 1 à 5) par rapport à ce nouveau construit.
+   * L'intérêt : On découvre que pour cette personne, "Sincérité" est peut-être mathématiquement corrélé à "Incompétence" dans sa grille, ce qui explique ses comportements méfiants envers les collègues sympathiques. C'est une radiographie de ses préjugés et de ses valeurs.
+  2. L'Analyse des Métaphores
+  L'analyse des métaphores part du principe que notre langage n'est pas seulement décoratif, mais qu'il reflète la structure de notre pensée. Comme l'ont montré Lakoff et Johnson, nous vivons par des métaphores.
+  Comment l'utiliser pour l'élicitation ?
+  On écoute attentivement les expressions imagées utilisées par une personne pour décrire une situation complexe (son travail, son couple, un projet).
+  | Métaphore utilisée | Croyance sous-jacente (Exemple) | Comportement induit |
+  |---|---|---|
+  | "Le marché est une jungle." | La survie dépend de la force ; l'autre est un prédateur. | Agressivité, méfiance systématique. |
+  | "Notre équipe est une machine." | Les individus sont des pièces interchangeables ; l'émotion n'a pas sa place. | Recherche d'optimisation, manque d'empathie. |
+  | "Le projet est un long fleuve tranquille." | Tout est sous contrôle ; le changement n'est pas attendu. | Passivité face aux imprévus. |
+  La technique du "Clean Language" (David Grove)
+  Pour approfondir sans polluer la pensée de l'autre, on utilise des questions spécifiques qui respectent la métaphore du sujet :
+   * "Et quel genre de 'jungle' est-ce ?"
+   * "Et quand c'est une 'jungle', qu'arrive-t-il ensuite ?"
+  En explorant la métaphore, le sujet finit par verbaliser des croyances qu'il n'aurait jamais pu exprimer de manière littérale.
+  En résumé
+   * La Grille de Kelly est une approche mathématique et structurale (on cherche les corrélations entre les concepts).
+   * L'Analyse des métaphores est une approche symbolique et narrative (on cherche le sens profond derrière les images).
+  Souhaitez-vous que nous fassions un exercice pratique ? Je peux vous donner 3 éléments et vous aider à trouver votre propre "construit" selon la méthode de Kelly.
+- L'élicitation dans les sciences humaines et sociales (SHS) et en criminologie s'écarte souvent de la simple collecte de données pour devenir une véritable maïeutique : l'art d'accoucher les esprits.
+  Voici les références et méthodes les plus robustes dans ces domaines spécifiques :
+  1. En Criminologie : L'Entretien Cognitif (Fisher & Geiselman)
+  C’est la référence absolue pour l’élicitation de témoignages oculaires. Contrairement à un interrogatoire classique qui peut être suggestif, cette méthode utilise des indices de récupération de la mémoire.
+   * La technique : On demande au témoin de rétablir le contexte (odeurs, sons), de rapporter tout ce qu'il a vu même si cela semble insignifiant, et de changer d'ordre narratif (raconter de la fin vers le début).
+   * Pourquoi ça marche : Cela permet d'éliciter des souvenirs enfouis sans créer de "faux souvenirs".
+  2. En Sociologie : L'Explicitation (Pierre Vermersch)
+  Inspirée de la phénoménologie, cette technique vise à éliciter le "savoir-faire" et les actions précises d'un individu.
+   * Le concept : On aide la personne à passer d'un discours généralisant ("D'habitude, je fais ça...") à une mise en évocation d'un moment spécifique ("À ce moment-là, quand j'ai posé ma main sur le levier...").
+   * Usage : Très utilisé pour comprendre les gestes professionnels ou les prises de décision en situation de crise.
+  3. En Psychologie Sociale : La Méthode du "Noyau Central" (Jean-Claude Abric)
+  Cette méthode sert à éliciter les représentations sociales (ce qu'un groupe pense d'un concept comme "la justice", "la drogue" ou "l'argent").
+   * Technique des associations libres : On donne un mot-inducteur et le sujet doit citer les premiers mots qui lui viennent à l'esprit, puis les hiérarchiser.
+   * Analyse : On distingue le "noyau central" (la croyance non négociable du groupe) du "système périphérique" (les croyances qui s'adaptent au contexte).
+  4. En Anthropologie et SHS : L'Élicitation par la Photo (Photo-Elicitation)
+  Développée initialement par John Collier, cette méthode utilise des supports visuels pour déclencher un discours plus profond que la simple parole.
+   * Le principe : On présente des photographies (du quartier, de scènes de crime, de rituels) au sujet.
+   * L'effet : L'image brise la barrière entre le chercheur et le sujet, réduit la gêne et permet d'éliciter des émotions ou des normes sociales que le sujet n'aurait pas su verbaliser seul.
+  Tableau récapitulatif des usages par domaine
+  | Domaine | Méthode privilégiée | Objectif de l'élicitation |
+  |---|---|---|
+  | Criminologie | Entretien Cognitif | Fiabilité des faits et détails de mémoire. |
+  | Psychologie | Grille de Répertoire (Kelly) | Structure de la personnalité et des biais. |
+  | Sociologie | Entretien d'Explicitation | Compréhension du vécu et de l'action. |
+  | Intelligence | Humint (Human Intelligence) | Détection de l'intention et du réseau de croyances. |
+  Quelle est la méthode la plus utilisée ?
+  Dans les sciences sociales, c'est l'entretien semi-directif qui domine, mais s'il est mal mené, il reste en surface. C'est pourquoi l'Explicitation de Vermersch gagne énormément de terrain, car elle est la seule à garantir que l'on parle de l'expérience réelle et non de théories sur l'expérience.
+  En criminologie, l'Entretien Cognitif reste le "Gold Standard" international pour les polices scientifiques et les psychologues judiciaires.
+  Souhaitez-vous que je vous détaille le protocole de l'entretien cognitif ou que je vous explique comment structurer une séance d'explicitation ?
+-

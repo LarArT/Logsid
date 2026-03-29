@@ -1,4 +1,6 @@
 - [[note de lecture]]
+- [[méthode d'évaluation]]
+-
 - Carte conceptuelle
 	- [[bourse]]
 	- [[Industrie_Defense_et_Aerospatiale]]
@@ -104,7 +106,6 @@
 			- Environnement de travail
 			- Compétence du travailleur
 - # sécurité / sûreté / analyste
-  collapsed:: true
 	- [[formation]]
 	- [[cartographie des risques]]
 	- ## Urbanisme
@@ -295,7 +296,7 @@
   collapsed:: true
 	- [[validation VAE]]
 - ## neuropsychologie
-- [[état de l'art]]
+	- [[état de l'art]]
 - # santé
   collapsed:: true
 	- Monitoring de santé en temps réel
@@ -335,6 +336,7 @@
 		- [[mathématiques]]
 		- [[cryptogaphie]]
 		- [[Classification msc 2020]]
+		- [[ouvrage mathématiques de référence]]
 	- ## électricité
 	  collapsed:: true
 		- [[électricité]]
@@ -394,11 +396,13 @@
 			- [[la procédure d'acte de juriste]]
 	- ## sciences humaines et social
 		- [[méthodologie de l'enquête]]
+		- [fiche méthodologique de sciences Po liepp](https://www.sciencespo.fr/liepp/fr/publications/liepp/fiches-methodologiques/)
 		- [valeur de référence pour valoriser les effets non marchands référencer dans le complément b de cette page](https://www.strategie-plan.gouv.fr/conseil-scientifique-des-methodes-devaluation-socioeconomique)
+		-
 - # urbanisme
   collapsed:: true
 	- [[Scot (schéma de cohérence territoriale)]]
-- # entrepreneuriat 
+- # entrepreneuriat 0
   [[Plan d'investissement]]
 -
 - ## habilitation électrique
