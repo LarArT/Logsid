@@ -10,7 +10,7 @@
  ;; Available options:
  ;; - :now for NOW/LATER style (default)
  ;; - :todo for TODO/DOING style
- :preferred-workflow :now
+ :preferred-workflow :todo
 
  ;; Exclude directories/files.
  ;; Example usage:
@@ -427,4 +427,5 @@
  :builtin-pages? false
  :orphan-pages? true
  :journal? false}
- :publishing/all-pages-public? true}
+ :publishing/all-pages-public? true
+ :editor/preferred-pasting-file? false}
