@@ -1,0 +1,36 @@
+- MOOC fun science et entrepreneuriat
+- Etape 1: réaliser votre pitch deck
+- Réaliser un support de présentation avec les informations suivantes:
+- Contexte/ constat
+- Problématique à laquelle vous allez répondre
+- Votre proposition de valeur
+- Votre solution (Proof of Concept, prototype)
+- Le marché que vous ciblez
+- Vos concurrents
+- Projections financières: besoins financiers au démarrage, CA prévisionnel. Roadmap
+- L'équipe (mise en avant des compétences de l'équipe pour réaliser le projet)
+- Attention: une diapo doit transmettre une information importante.
+- Construire son modèle de valeur : business model canvas .
+- Valoriser sa start-up
+- 00:06
+- Existe la méthode la plus courante est celle des flux de trésorerie, actualisés ou discountain cash flow. Il s'agit de valoriser l'entreprise sur la base des cash-flows qu'elle générera et que les actionnaires percevront au cours du temps. Documenter les cash flow prévisionnels à cette étape pour qu'il soit le plus réaliste possible, c'est tout l'objet du business plan qui prévoit des scénarios de rentabilité.
+- 00:34
+- Une autre façon d'estimer la valeur d'une start-up et la valorisation par la venture capitale méthode, on parle ici de l'objectif de rentabilité souhaitée par l'investisseur avec un multiplicateur attendu à terme pour le mettre. Ensuite en rétro perspective avec l'existence, cette méthode n'est pas toujours à l'avantage de l'entrepreneur. Garder en tête vos intérêts ici.
+- 00:57
+- Troisième méthode et la méthode scorecard ou méthode du tableau de bord qui essaye de combiner ces deux approches en s'appuyant sur un tableau de bord qui définit une valeur initiale qui sera pondérée en fonction de critères objectivables comme l'originalité de votre produit ou la valeur de l'équipe. Elle offre une bonne base de négociation.
+- 01:19
+- De plus, en plus la méthode préférée est celle par les comparables. Il s'agit de raisonner par analogie avec les levées de fonds similaires dans votre secteur. Par une règle de trois, une valeur est attribuée à votre start-up. Je ne peux que pour conseiller d'effectuer régulièrement une veille sur les exits dans votre secteur sur des sites comme take crunch, madiness ou en suivant les actualités de vos concurrents sur LinkedIn.
+- 01:52
+- En pratique en matière de valorisation au stade de l'amorçage, il n'y a pas de méthode unique. Tout est affaire de négociation entre l'investisseur et vous. Chaque investisseur assez pratique notamment sur les parts qu'il souhaite prendre ce qu'on appelle le niveau de dilution renseignez-vous sur le profil des investisseurs avant de les approcher.
+- 02:12
+- Sur ce segment, les investisseurs sont prêts à prendre des risques. Si vous le savez, les embarquer avec vous dans votre projet. Parce qu'une start-up n'a pas encore bénéficié de financement extérieur, il est très difficile de lui donner une valeur précise. Alors préparez votre levée de fonds en amont définissez avec des professionnels, une valeur prémonie, c'est-à-dire avant l'augmentation de capital et observer les opérations sur votre secteur.
+- 02:39
+- Établissez une stratégie d'investissement et approcher des investisseurs. Quand vous serez prêts, ayez vos intérêts en tête dès le départ. La transaction doit être juste pour vous aussi.
+- 02:54
+- Pour terminer, je vous dirais que peu importe le montant levé par les actionnaires, la valorisation de votre entreprise sera surtout à faire de négociation fonder certes sur une analyse de données mais aussi sur la manière dont vous arriverez à convaincre sur votre capacité à exécuter mieux que les autres.
+- 03:11
+- Les différentes méthodes existent mais en réalité les discussions vont se faire au cas par cas en fonction de ce que l'investisseur est prêt à lâcher. Une levée réussie est avant tout un deal juste qui permet de se projeter paisiblement ensemble pour faire décoller la start-up. Enfin, n'oubliez pas de vous concentrer sur la documentation juridique.
+- 03:31
+- Le pacte d'actionnaires notamment pour commencer l'alliance avec votre nouvelle actionnaire investisseur dans les meilleures conditions. Une nouvelle étape de la vie de votre entreprise peut débuter. Bonne chance à vous.
+- 03:49
+- Réseaux sociaux l'investisseur connaît votre marché. Il saura ainsi. Au delà de ces données qui peuvent sembler subjectives. Quatre méthodes.

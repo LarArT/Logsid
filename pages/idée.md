@@ -56,6 +56,7 @@
 	- [[réaliser une étude de marché]]
 	- [mooc bpi](https://academiedelexport.fr/catalogue/recherche?f[]=10&pr[]=0)
 	- [[lectures/mooc découvrez les processus au cœur de la logistique]]
+	- [[lectures/mooc piloter votre supply chain]]
 	- [[Manuel et plateforme de référence]]
 - # SST
   collapsed:: true
@@ -474,11 +475,13 @@
 - Prompt
   collapsed:: true
 	- [Guide de rédaction Prompt]([[Prompt]])
-- ## Économie internationale
-	- [[mooc économie international]]
-	- [carte des sanctions de l'Union européenne](https://www.sanctionsmap.eu/#/main?search=%7B%22value%22:%22%22,%22searchType%22:%7B%7D%7D)
-	- [[livre de référence kruckman]]
-	- [Décryptage matière première](https://www.ifpenergiesnouvelles.fr/enjeux-et-prospective/decryptages?hl=fr-FR)
+- # economie
+	- https://www.edx.org/learn/economics/the-international-monetary-fund-programmation-et-politiques-financieres-deuxieme-partie-conception-dun-programme
+	- ## Économie internationale
+		- [[mooc économie international]]
+		- [carte des sanctions de l'Union européenne](https://www.sanctionsmap.eu/#/main?search=%7B%22value%22:%22%22,%22searchType%22:%7B%7D%7D)
+		- [[livre de référence kruckman]]
+		- [Décryptage matière première](https://www.ifpenergiesnouvelles.fr/enjeux-et-prospective/decryptages?hl=fr-FR)
 - [[psychologie]]
 - # Matière première
 	- [[Analyse cycle de vie]]
@@ -489,4 +492,6 @@
 	- https://hub.logseq.com/features/av5LyiLi5xS7EFQXy4h4K8/getting-started-with-advanced-queries/8xwSRJNVKFJhGSvJUxs5B2
 	- **05:21** [[quick capture]]:  https://docs.logseq.com/?hl=fr-FR#/page/contents
 	- https://github.com/logseq/awesome-logseq
+- # entrepreneuriat
+	- [[Lectures/mooc fun science et entrepreneuriat]]
 -
