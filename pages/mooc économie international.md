@@ -4,6 +4,11 @@
 	- Douane
 - Crédit documentaire
 - Importateur
+- # théorie économie internationale
+- [[théorie économie internationale]]
+-
+- # balance des paiements
+- [[balance des paiements]]
 - # OMC
 - Les règles ne sont pas dictées par l'OMC, mais négociées directement entre États membres (en continu à Genève et, en principe, tous les deux ans lors de grandes conférences ministérielles), dans le cadre d'accords commerciaux multilatéraux.
   

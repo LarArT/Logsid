@@ -477,6 +477,7 @@
 	- [Guide de rédaction Prompt]([[Prompt]])
 - # economie
 	- https://www.edx.org/learn/economics/the-international-monetary-fund-programmation-et-politiques-financieres-deuxieme-partie-conception-dun-programme
+	- [théorie du donut](https://donut.brussels/fr-publications/)
 	- ## Économie internationale
 		- [[mooc économie international]]
 		- [carte des sanctions de l'Union européenne](https://www.sanctionsmap.eu/#/main?search=%7B%22value%22:%22%22,%22searchType%22:%7B%7D%7D)

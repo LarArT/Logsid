@@ -1,5 +1,6 @@
 - https://www.strategie-plan.gouv.fr/files/files/Publications/Rapport/fs-2022-rapport-evaluations-quantitatives-qualitatives-decembre_0.pdf
 - [[mooc évaluer les politiques publiques par la Cour des comptes]]
--
+- [[méthodologie liepp évaluation des politiques publiques : méthode evaluative]]
 - https://scienceetbiencommun.pressbooks.pub/evaluationpolpub/
+-
 -
