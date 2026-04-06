@@ -1,2 +1,4 @@
 - [fiche pratique entretien biographique](https://web.archive.org/web/20240520202119/https://annerevillard.wordpress.com/wp-content/uploads/2021/02/syllabus-entretien-biog-2018-2019-def.pdf)
+- Voir ouvrage de Roger Mucchielli et Carl Rogers référence
+-
 -

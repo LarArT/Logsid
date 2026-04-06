@@ -1,0 +1,2 @@
+- [[lectures/mooc analyse de donner multidimensionnelle]]
+-

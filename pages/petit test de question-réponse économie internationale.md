@@ -1,0 +1,13 @@
+- Le pays se spécialise dans la production et l'exportation des biens pour lesquels il détient les coûts absolus les moins élevés.
+- Avantages absolus
+- Le pays se spécialise dans la production et l'exportation de biens intensifs dans le facteur de production dont la dotation s'accroît chez lui.
+- Théorème de Rybczynski
+- Le pays se spécialise dans la production et l'exportation des biens pour lesquels il détient les coûts d'opportunité les moins élevés.
+- Avantages comparatifs
+- Le pays se spécialise dans la production et l'exportation des biens intensifs dans le facteur qu'il détient en abondance chez lui.
+- Théorème HO
+- Le libre-échange mondial tend à égaliser les prix des facteurs de production dans le monde.
+- Théorème HOS
+- L'ouverture au commerce international fait varier les rémunérations réelles des facteurs et modifie en conséquence les avantages comparatifs des pays.
+- Théorème Stolper-Samuelson
+-

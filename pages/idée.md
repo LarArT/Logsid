@@ -338,6 +338,7 @@
 		- [[cryptogaphie]]
 		- [[Classification msc 2020]]
 		- [[ouvrage mathématiques de référence]]
+		- [[statistiques]]
 	- ## électricité
 	  collapsed:: true
 		- [[électricité]]
@@ -478,11 +479,14 @@
 - # economie
 	- https://www.edx.org/learn/economics/the-international-monetary-fund-programmation-et-politiques-financieres-deuxieme-partie-conception-dun-programme
 	- [théorie du donut](https://donut.brussels/fr-publications/)
+	- [livre pédagogique poussé par sciences Po entre autres](https://books.core-econ.org/the-economy-v1/book/fr/text/0-3-contents.html)
 	- ## Économie internationale
 		- [[mooc économie international]]
 		- [carte des sanctions de l'Union européenne](https://www.sanctionsmap.eu/#/main?search=%7B%22value%22:%22%22,%22searchType%22:%7B%7D%7D)
 		- [[livre de référence kruckman]]
 		- [Décryptage matière première](https://www.ifpenergiesnouvelles.fr/enjeux-et-prospective/decryptages?hl=fr-FR)
+		- [cours rennes et ensai licence](perso.univ-rennes1.fr/denis.delgay-troise)
+		-
 - [[psychologie]]
 - # Matière première
 	- [[Analyse cycle de vie]]

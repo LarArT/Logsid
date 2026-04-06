@@ -1,21 +1,25 @@
 - Rencontrez les acteurs chargés de la planification
-  Il est temps pour le client de passer sa première commande au fournisseur. C’est ici qu’on retrouve notre premier acteur : l’approvisionneur. Il fait partie du service de planification du client. Son rôle est de passer commande au fournisseur. Chaque commande doit contenir :
-- une date de livraison souhaitée ;
-- un lieu de livraison ;
-- la liste des produits ;
-- la quantité voulue.
+  Il est temps pour le client de passer sa première commande au fournisseur. C’est ici qu’on retrouve notre premier acteur : l’approvisionneur. Il fait partie du service de planification du client. Son rôle est de passer commande au fournisseur.
+- Chaque commande doit contenir :
+	- une date de livraison souhaitée ;
+	- un lieu de livraison ;
+	- la liste des produits ;
+	- la quantité voulue.
 - Le service logistique du fournisseur va recevoir cette commande et devra organiser deux principales missions :
-- la préparation et la mise à disposition de la commande ;
-- Si vous voulez en savoir plus sur cette étape, vous pouvez suivre le cours Découvrez les processus au coeur de la logistique.
-- la prestation de transport, puisque cela fait aussi partie du contrat.
+	- la préparation et la mise à disposition de la commande ;
+	- la prestation de transport, puisque cela fait aussi partie du contrat.
 - Le fournisseur opère ici en tant que chargeur, c’est-à-dire l’entreprise propriétaire de la marchandise. Le chargeur doit faire appel à un transporteur dont la mission sera de livrer cette marchandise chez le client, autrement dit, il doit réaliser la prestation de transport.
 - Pour organiser la prestation, le chargeur peut contacter son commissionnaire de transport. Cet acteur a pour but de rechercher la meilleure prestation en fonction des besoins de son client. Il doit veiller à la coordination de tous les acteurs qui interviennent dans la prestation. Il est contractuellement responsable du bon déroulement de celle-ci, y compris sur l’aspect réglementaire et documentaire.
-- Le commissionnaire de transport peut faire valoir son expertise sur tous les modes de transport. Dans le domaine purement routier, on utilisera plus communément le terme d’exploitant transport pour désigner l’acteur missionné de l’organisation du fret.
-- Le commissionnaire de transport peut aussi être accrédité RDE (représentant en douane enregistré). Cela lui confère le droit d’effectuer, pour le compte d’un client, la déclaration et la présentation en douane des marchandises.
+- Le commissionnaire de transport peut
+	- faire valoir son expertise sur tous les modes de transport. Dans le domaine purement routier, on utilisera plus communément le terme d’**exploitant transport** pour désigner l’acteur missionné de l’organisation du fret.
+	- peut aussi être accrédité **RDE** (représentant en douane enregistré). Cela lui confère le droit d’effectuer, pour le compte d’un client, la déclaration et la présentation en douane des marchandises.
 - Si le chargeur possède déjà une expertise transport et sait avec précision quel est le mode de transport le plus adapté, il ne fera pas appel au service du commissionnaire de transport mais directement à un transitaire. Celui-ci organisera et coordonnera la prestation de transport prédéfinie par le chargeur ; sa responsabilité est plus limitée.
 - Dans le domaine maritime international, le commissionnaire (ou le transitaire) sera amené à communiquer avec :
-- l’armateur, qui possède (ou est locataire) du matériel nécessaire au transport maritime. Il définit les conditions d’exploitation de son navire et recrute son propre équipage. Il conclut les contrats de transport de marchandises avec le commissionnaire de transport par exemple ;
-- l’agent maritime (ou consignataire) représente l’armateur sur toute la partie organisationnelle du fret : optimisation de la charge, organisation des escales, etc. On dit aussi que l’agent maritime est un mandataire salarié de l’armateur ;
+- **armateur**, qui possède (ou est locataire) du matériel nécessaire au transport maritime.
+	- Il définit les conditions d’exploitation de son navire et
+	- recrute son propre équipage.
+	- Il conclut les contrats de transport de marchandises avec le commissionnaire de transport par exemple ;
+- **agent maritime** (ou consignataire) représente l’armateur sur toute la partie organisationnelle du fret : optimisation de la charge, organisation des escales, etc. On dit aussi que l’agent maritime est un mandataire salarié de l’armateur ;
 - le manutentionnaire qui pilote l’activité des dockers, c’est-à-dire la main-d’œuvre chargée des missions de chargement et de déchargement des navires au port ;
 - les services de douane à l’embarquement et au débarquement, qui contrôlent les marchandises qui transitent, leur correspondance avec la déclaration en douane et le bon encaissement des différents droits et taxes associées
 - Appréhendez les informations nécessaires à la planification

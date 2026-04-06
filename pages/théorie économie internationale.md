@@ -2,4 +2,5 @@
 	- L'accroissement du prix d'un bien exporté augmente la rémunération réelle du facteur de production spécifique à ce bien et diminue celle du facteur de production spécifique aux autres biens.
 - Reformulation du théorème de Rybczynski dans le modèle à facteurs spécifiques
 	- Lorsque la dotation d'un facteur spécifique s'accroît dans un pays, à prix constant des biens, cela engendre une augmentation de la production des biens intensifs dans ce facteur spécifique et une réduction de la production des biens intensifs dans les autres facteurs.
+- [[théorie classique du commerce international]]
 -

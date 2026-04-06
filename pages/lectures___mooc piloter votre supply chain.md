@@ -1,25 +1,25 @@
 - taux de service il s’agit du taux de produits livrés à temps, dans les références et quantités requises, par rapport à la commande passée par le client.
-- Les
-- Voici un exemple des différents types de **navires de fret**, dits **cargos** :
-- **Porte-conteneurs** : spécialisé dans le transport de conteneurs.
-- **Breakbulk** : spécialisé dans le transport de marchandises de détail, qui ne sont pas stockées dans des conteneurs mais dans des sacs, des boîtes, des barils, etc.
-- **Tanker** (*liquid bulk*) : spécialisé dans le transport de matières dangereuses. Sont considérés comme tels les pétroliers, les méthaniers, les butaniers, etc.
-- **Vraquier** (*dry bulk*) : spécialisé dans le transport de marchandises en vrac, c’est-à-dire non conditionnées (les céréales, les minerais, etc.).
-- **Roulier** (« Ro-Ro ») : transporte directement des véhicules de transport routier chargés.
-- transport maritime est extrêmement dépendant des infrastructures territoriales et notamment des ports qui ont besoin :
-- d’avoir les dimensions suffisantes pour accueillir les différents cargos, ce qui inclut d’avoir la profondeur nécessaire à leur **tirant d’eau **(c’est-à-dire la hauteur de la partie immergée du cargo) ;
-- d’être équipés pour le déchargement des différents types de marchandises (grue, pompe pour les liquides, etc.).
+- # Transport maritime
+	- Voici un exemple des différents types de **navires de fret**, dits **cargos** :
+		- **Porte-conteneurs** : spécialisé dans le transport de conteneurs.
+		- **Breakbulk** : spécialisé dans le transport de marchandises de détail, qui ne sont pas stockées dans des conteneurs mais dans des sacs, des boîtes, des barils, etc.
+		- **Tanker** (*liquid bulk*) : spécialisé dans le transport de matières dangereuses. Sont considérés comme tels les pétroliers, les méthaniers, les butaniers, etc.
+		- **Vraquier** (*dry bulk*) : spécialisé dans le transport de marchandises en vrac, c’est-à-dire non conditionnées (les céréales, les minerais, etc.).
+		- **Roulier** (« Ro-Ro ») : transporte directement des véhicules de transport routier chargés.
+	- transport maritime est extrêmement dépendant des infrastructures territoriales et notamment des ports qui ont besoin :
+		- d’avoir les dimensions suffisantes pour accueillir les différents cargos, ce qui inclut d’avoir la profondeur nécessaire à leur **tirant d’eau **(c’est-à-dire la hauteur de la partie immergée du cargo) ;
+		- d’être équipés pour le déchargement des différents types de marchandises (grue, pompe pour les liquides, etc.).
 - [[plateforme de suivi des prix du fret maritime]]
-- Les principaux avantages du transport maritime sont les suivants :
-- nombreuses zones géographiques desservies (non réalisable par le routier) ;
-- très peu coûteux en considérant la volumétrie transportée ;
-- capable de transporter une volumétrie et une charge très importante ;
-- peu de risques de détérioration, qu’on appelle **avaries**, de casse et de vols de marchandises.
-  
-  Et ses inconvénients :
-- très lent (entre 30 et 50 km/h), il ne convient que partiellement au transport de marchandises périssables ;
-- demande un effort supplémentaire au chargeur dans la préparation de l’emballage (risque d’humidité et de mouvement dans la cale) ;
-- au kilomètre parcouru, il s’agit du mode de transport le plus polluant. Cependant, sa grande capacité de charge le rend moins polluant que les autres modes lorsqu’on ramène à l’unité transportée.
+	- Les principaux avantages du transport maritime sont les suivants :
+		- nombreuses zones géographiques desservies (non réalisable par le routier) ;
+		- très peu coûteux en considérant la volumétrie transportée ;
+		- capable de transporter une volumétrie et une charge très importante ;
+		- peu de risques de détérioration, qu’on appelle **avaries**, de casse et de vols de marchandises.
+	- Et ses inconvénients :
+		- très lent (entre 30 et 50 km/h), il ne convient que partiellement au transport de marchandises périssables ;
+		- demande un effort supplémentaire au chargeur dans la préparation de l’emballage (risque d’humidité et de mouvement dans la cale) ;
+		- au kilomètre parcouru, il s’agit du mode de transport le plus polluant. Cependant, sa grande capacité de charge le rend moins polluant que les autres modes lorsqu’on ramène à l’unité transportée.
+- # transport sur route
 - Les principaux avantages du TRM sont les suivants :
 - Une grande adaptabilité : toutes les natures de produit trouvent un véhicule capable de les transporter (surgelés, fragiles…), et ce quel que soit leur façon de voyager :
 	- consolidées dans des unités de chargement (palette, conteneur, baril, etc.) ;
@@ -33,7 +33,7 @@
 	- nombre de destinations à l’international limité ;
 	- rapport prix/vitesse moins avantageux sur longue distance.
 - Il possède une capacité de charge limitée.
-- Fret ferroviaire
+- # Fret ferroviaire
 - Ses principaux avantages sont les suivants :
 - une grande adaptabilité à chaque nature de produit, comme pour le routier ;
 - la ponctualité et la fiabilité : il n’y pas de bouchons sur les rails !
@@ -43,7 +43,7 @@
   Et ses inconvénients :
 - considéré comme plus lent et inadapté aux courtes distances ;
 - lieux et dates de dépose limités du fait du nombre restreint d’infrastructures.
-- Fret aérien
+- # Fret aérien
 - Long Range Freighters
 	- Boeing 767 F, Airbus A300, Airbus A310
 - Regional Freighters
@@ -61,7 +61,7 @@
   Et ses inconvénients :
 - environ 15 fois plus onéreux que le maritime pour une même distance ;
 - il est très polluant au kilomètre parcouru. Sa capacité de charge étant moindre par rapport à celle du maritime, le fret aérien est considéré comme mode le plus polluant lorsque ramené à l’unité transportée.
-- On distingue deux façons de combiner les moyens de transport :
+- # deux façons de combiner les moyens de transport :
 - Le transport intermodal : Ici chacune des prestations est confiée à un transporteur différent, il y a donc plusieurs contrats de transport.
   Pour cette organisation de transport, la marchandise reste dans la même UTI (unité de transport intermodal) tout au long de la prestation. Si l’UTI est un conteneur, alors seul le conteneur sera transbordé, c’est-à-dire déplacé d’un moyen de transport à un autre.
 - L’UTI peut être un conteneur, une caisse mobile ou même un véhicule routier chargé.
