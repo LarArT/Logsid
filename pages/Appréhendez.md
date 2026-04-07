@@ -1,0 +1,1 @@
+- À savoir : Les services de douanes français ont aussi un rôle de surveillance de la balance commerciale, c’est-à-dire de suivi de la part des entrées de marchandises (import) versus celle des sorties (l’export). Il sera donc demandé aux entreprises de déclarer mensuellement en ligne l’ensemble des échanges intracommunautaires via la déclaration d’échanges de biens (DEB

@@ -58,6 +58,7 @@
 	- [[lectures/mooc découvrez les processus au cœur de la logistique]]
 	- [[lectures/mooc piloter votre supply chain]]
 	- [[Manuel et plateforme de référence]]
+	- [[ouvreur de marché]]
 - # SST
   collapsed:: true
 	- [cours SST par l'Organisation internationale du travail](https://www.iloencyclopaedia.org/fr/)

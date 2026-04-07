@@ -1,2 +1,3 @@
 - [[lectures/mooc analyse de donner multidimensionnelle]]
 -
+- [[lectures/mooc statistique avec r]]

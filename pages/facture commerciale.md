@@ -1,0 +1,24 @@
+Source:: https://openclassrooms.com/fr/courses/7921566-pilotez-votre-transport-supply-chain/8176047-maitrisez-la-reglementation-administrative
+
+- un document essentiel de la liasse documentaire.
+- Elle permet de prouver qu’il y a bien eu une vente de marchandises entre un fournisseur, exportateur, et son client, importateur.
+- Elle permet de classifier les produits en transit, selon leur nomenclature douanière, et d’indiquer leur valeur réelle.
+- Grâce à ces informations, la douane pourra établir le montant des droits et des taxes à payer sur l’ensemble de la commande. Pour rappel, l’acquittement de ces charges permet de dédouaner la marchandise et donc d’autoriser sa sortie du port.
+- en anglais de préférence, pour en faciliter la lecture.
+- Qui l’édite ? :C’est l’exportateur, en trois exemplaires : un pour le pays exportateur, un pour le pays importateur et un pour le destinataire final.
+- # Exemple de facture commerciale avec ses différentes catégories d'informations.
+- Concrètement la facture commerciale contient :la liste des marchandises, leur description et leur quantité ;
+- leur valeur unitaire et totale hors taxe, en précisant la devise utilisée ;
+- Les conditions de paiement : qui doit payer pour le dédouanement, ce qui est défini contractuellement en amont ;
+- Les moyens et conditions de transport de la livraison finale : qui en est responsable par exemple.
+- es coordonnées de l’exportateur, dont son numéro EORI ;
+- es coordonnées du destinataire, dont son numéro EORI ;
+	- L’**Economic Operator Registration and Identification (EORI)** est un numéro unique enregistré auprès des douanes qui permet d’identifier les entreprises important ou exportant des marchandises hors de l’Union européenne.
+- la date et le lieu d’établissement de la facture ;
+- a date et le lieu de paiement de la marchandise ;
+- numéro d’identification de la facture.
+- la liste des marchandises, leur description et leur quantité ;
+- leur valeur unitaire et totale hors taxe, en précisant la devise utilisée ;
+- les conditions de paiement : qui doit payer pour le dédouanement, ce qui est défini contractuellement en amont
+	- Ces différentes conditions sont définies par l’Incoterm, négocié lors de contractualisation de l’achat. Nous y reviendrons plus tard dans le cours.
+- es moyens et conditions de transport de la livraison finale : qui en est responsable par exemple
