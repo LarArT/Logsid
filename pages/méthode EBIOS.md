@@ -1,3 +1,5 @@
+- [certification ebios](https://pecb.com/fr/education-and-certification-for-individuals/risk-assessment-methods-training/ebios)
+-
 - __Préjudice__ := disponibilité, intégrité, compromission, traçabilité et plus globalement à la qualité de service et aux performances auxquelles la valeur métier doit répondre
 - __Événement redouté__ := préjudice lié à l’atteinte de la valeur métier
 - __Impact__ := ils peuvent être:

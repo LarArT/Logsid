@@ -1,17 +1,19 @@
-- Voici la conversion de votre document sur le Plan de Sécurité du Pays au format Markdown :
-  Plan de Sécurité du Pays (PSP)
+- Plan de Sécurité du Pays (PSP)
   Le Plan de Sécurité du Pays est aujourd'hui considéré davantage comme un concept que comme un simple document statique. Il peut prendre diverses formes : site internet, intranet, application mobile ou document papier.
   📋 Nature et Contenu
-  Le PSP regroupe l'analyse du contexte et des risques, ainsi que toutes les mesures organisationnelles qui en découlent. Il se veut extrêmement contextualisé et pratique pour être diffusé à l'ensemble du personnel.
-  Éléments constitutifs du plan :
-   * Responsabilités : Répartition des rôles entre le conseil d'administration, le siège et la direction nationale.
-   * Contexte : Histoire du conflit et problématiques clés de la zone.
-   * Stratégie : Mandat de l'organisation dans le pays.
-   * Analyse des risques : Évaluation détaillée par domaine d'intervention.
-   * Procédures (SOP) : Règles de sécurité, stratégies d'atténuation et bons comportements.
-   * Grille des phases : Niveaux de sécurité et procédures associées.
-   * Plans de contingence : Protocoles d'urgence.
-  ⚖️ La Grille des Phases
+  Le PSP regroupe
+	- l'analyse du contexte et des risques,
+	- ainsi que toutes les mesures organisationnelles qui en découlent
+- extrêmement contextualisé et pratique pour être diffusé à l'ensemble du personnel.
+- Éléments constitutifs du plan :
+	- Responsabilités : Répartition des rôles entre le conseil d'administration, le siège et la direction nationale.
+	- Contexte : Histoire du conflit et problématiques clés de la zone.
+	- Stratégie : Mandat de l'organisation dans le pays
+	- Analyse des risques : Évaluation détaillée par domaine d'intervention.
+	- [[Procédures (SOP)]] : Règles de sécurité, stratégies d'atténuation et bons comportements.ˆ
+	- Grille des phases : Niveaux de sécurité et procédures associées
+	- [[Plans de contingence]] : Protocoles d'urgence.
+- ⚖️ La Grille des Phases
   C'est un outil d'aide à la décision qui permet d'adapter l'intensité de la gestion de la sécurité selon des indicateurs contextuels.
    * Aide à la décision : Elle ne constitue pas un système infaillible et ne doit pas donner un faux sentiment de sécurité.
    * Responsabilité : La décision de monter en phase ou de désescalader est prise par les cadres supérieurs (terrain ou siège).

@@ -1,0 +1,11 @@
+- Les risques peuvent avoir un impact sur :
+	- **Les organisations** (par ex. : atteinte à la réputation, rejet de la part des communautés, destruction de biens, etc.)
+	- **Le personnel** (par ex. : blessures, décès, etc.)
+	- **La situation ** **financière** (par ex. : corruption, blanchiment d’argent, vol, etc.)
+	- **Les programmes** (par ex. : suspension de programmes, perte de projets, fermeture de bureaux, etc.)
+- Gestion du risque
+	- Procédures Opérationnelles Standard (POS)
+	- Plans de contingences
+	- Plaidoyer
+	- Partage des risques (en partenariat avec des ONG locales et/ou internationales)
+	- Détachement d’experts en la matière

@@ -6,8 +6,8 @@
 - [[filiale]]
 - [[profil stratégie]]
 - [[maitrise]]
-- [[membre passif du contexte
-( Profil A )]]
+- [[membre passif du contexte]]
+  ( Profil A )
 - [[profil IAS]]
 - [[profil pouvoir informel]]
 - [[profil conservateur (contre insurection)]]
@@ -22,9 +22,9 @@
 - [[SR Régional]]
 - [[SR National]]
 - [[identifier]]
-  - [[localiser]]
-    - [[networker]]
-      - [[IMSI]]
+	- [[localiser]]
+		- [[networker]]
+			- [[IMSI]]
 - [[instrumentalise]]
 - [[recrute]]
 - [[maillage petite echoppe]]
@@ -41,10 +41,10 @@
 - [[diffusion de la connaisance / partage]]
 - [[rétention de l'information / avantage compétitif]]
 - [[sageman]]
-  - [[déracinement]]
-  - [[dynamique de groupe]] label
-  - [[peu de place à l'incertitude]]
-  - [[amour pour le groupe]]
+	- [[déracinement]]
+	- [[dynamique de groupe]] label
+	- [[peu de place à l'incertitude]]
+	- [[amour pour le groupe]]
 - [[somalie : destruction du tissus économique en distribuant gratuitemenet des tonnes de riz pour pallier la famine des anné,es 9,0 manne accaparé par des systomes mafieux (notamment islamise ((chouet)))]]
 - [[terrorisme 2.0, guerilla 2.0
 - decentralise
@@ -65,19 +65,19 @@
 - [[renseignement]]
 - [[opération]]
 - [[information]]
-  - [[communication]]
-  - [[prospectus]]
-  - [[broadcast]]
+	- [[communication]]
+	- [[prospectus]]
+	- [[broadcast]]
 - [[New Node]]
 - [[cryto / processus]]
 - [[fkn\ncq]]
 - [[revolutionl]]
-  - [[diffusion de l'information]]
-    - note :: revolutions arabes
-  - [[modele]]
-    - note :: revolution ukraine georgie annee 2000
-  - [[encouragement]]
-    - note :: France algérie %sp;: forte communtauté éduqué, prestige
+	- [[diffusion de l'information]]
+		- note :: revolutions arabes
+	- [[modele]]
+		- note :: revolution ukraine georgie annee 2000
+	- [[encouragement]]
+		- note :: France algérie %sp;: forte communtauté éduqué, prestige
 - [[dissimulation]]
 - [[confiance]]
 - [[finance]]
@@ -85,29 +85,29 @@
 - [[crypto]]
 - [[profil proxy]]
 - [[information]]
-  - [[Sujet]]
-  - [[asservisement]]
+	- [[Sujet]]
+	- [[asservisement]]
 - [[financier]]
-  - [[Sujet]]
+	- [[Sujet]]
 - [[Environement]]
-  - [[coercition]]
+	- [[coercition]]
 - [[Incertitude]]
-  - [[Interface]] identifier
-    - [[Intégration]]
-    - [[Mouvement]]
-  - [[efficience]]
-    - [[Système]]
+	- [[Interface]] identifier
+		- [[Intégration]]
+		- [[Mouvement]]
+	- [[efficience]]
+		- [[Système]]
 - [[Entrant]]
-  - [[Intégration]]
-    - [[Sortant]]
+	- [[Intégration]]
+		- [[Sortant]]
 - [[Robustesse]]
-  - [[efficience]]
-  - [[Forces]]
-  - [[Faiblesses]]
+	- [[efficience]]
+	- [[Forces]]
+	- [[Faiblesses]]
 - [[Perspective]]
-  - [[efficience]]
-  - [[Opportunités]]
-  - [[Menaces]]
+	- [[efficience]]
+	- [[Opportunités]]
+	- [[Menaces]]
 - [[Connaissance]]
 - [[Valeur]]
 - [[Capacité]]
@@ -117,44 +117,44 @@
 - [[Introspection]]
 - [[Résistance]]
 - [[emprise sociale]]
-  - [[composants]]
-    - [[Système]]
+	- [[composants]]
+		- [[Système]]
 - [[PESTEL]]
 - [[ID 230]]
 - [[ID 231]]
 - [[Structure renseignement]]
-  - [[affaire politique]]
-  - [[logistique]]
-  - [[recherche]]
-  - [[investigation]]
-  - [[affaire extérieurs]]
-  - [[scientifique / technologique]]
-  - [[legende]]
+	- [[affaire politique]]
+	- [[logistique]]
+	- [[recherche]]
+	- [[investigation]]
+	- [[affaire extérieurs]]
+	- [[scientifique / technologique]]
+	- [[legende]]
 - [[filiere]]
-  - [[information]]
-  - [[actifs mobiliers]]
-  - [[financière]]
+	- [[information]]
+	- [[actifs mobiliers]]
+	- [[financière]]
 - [[message subliminal]]
 - [[image cache]]
 - [[emprise technologique]]
-  - [[composants]]
+	- [[composants]]
 - [[emprise économique]]
-  - [[composants]]
+	- [[composants]]
 - [[emprise psychologique]]
-  - [[composants]]
+	- [[composants]]
 - [[accecibilité]]
-  - [[composants]]
+	- [[composants]]
 - [[influence]]
 - [[topologie]]
 - [[éliminer]]
 - [[diviser]]
 - [[fondation]]
-  - [[intégrer]]
-    - note :: - rendre exorbitant le cout de la renonciation (destruction des structures) - engagement + important - plus enclun à partager
+	- [[intégrer]]
+		- note :: - rendre exorbitant le cout de la renonciation (destruction des structures) - engagement + important - plus enclun à partager
 - [[fausse aide]]
-  - [[culpabiliser]]
+	- [[culpabiliser]]
 - [[hedonisme]]
-  - [[dictature]]
+	- [[dictature]]
 - [[Pouvoir]]
 - [[dissuation]]
 - [[retribution]]
@@ -170,7 +170,7 @@
 - [[aide SR]]
 - [[corruption - offset (construction pays)]]
 - [[Responsabilité]]
-  - note :: Halevy, Efraim. “Assumer ses responsabilités et désigner des fautifs.” In Mémoires d’un homme de l’ombre: les coulisses de la politique internationale au Moyen-Orient par l’ex-directeur du Mossad. Paris: A. Michel, 2006.
+	- note :: Halevy, Efraim. “Assumer ses responsabilités et désigner des fautifs.” In Mémoires d’un homme de l’ombre: les coulisses de la politique internationale au Moyen-Orient par l’ex-directeur du Mossad. Paris: A. Michel, 2006.
 - [[politique]]
 - [[organisation]]
 - [[procédure]]
@@ -178,53 +178,53 @@
 - [[connaissance des ressources]]
 - [[New Node]]
 - [[agile organisation]]
-  - [[humain intelligence]]
-  - [[counter intelligenc]]
-  - [[culture specialist]]
-    - [[interrogation]]
-    - [[language specialist]]
+	- [[humain intelligence]]
+	- [[counter intelligenc]]
+	- [[culture specialist]]
+		- [[interrogation]]
+		- [[language specialist]]
 - [[Defense Personnel and Security Research Center]]
-  - url :: https://www.dhra.mil/perserec/
+	- url :: https://www.dhra.mil/perserec/
 - [[insider threat]]
-  - [[mécontent]]
-    - note :: Employee observed to be dissatisfied in current position; chronic indications of discontent, such as strong negative feelings about being passed over for a promotion or being underpaid, undervalued; may have a poor fit with current job. Noonan, CF. “Spy the Lie: Detecting Malicious Insiders,” March 2018, 62.
-  - [[not accepting feedback]]
-    - note :: The employee is observed to have a difficult time accepting criticism, tends to take criticism personally or becomes defensive when message is delivered. Employee has been observed being unwilling to acknowledge errors; or admitting to mistakes; may attempt to cover up errors through lying or deceit. Noonan, CF. “Spy the Lie: Detecting Malicious Insiders,” March 2018, 62.
-  - [[Anger Management
-Issues]]
-    - note :: The employee often allows anger to get pent up inside; employee has trouble managing lingering emotional feelings of anger or rage. Holds strong grudges. Noonan, CF. “Spy the Lie: Detecting Malicious Insiders,” March 2018, 62.
-  - [[disengagement]]
-    - note :: The employee keeps to self, is detached, withdrawn and tends not to interact with individuals or groups; avoids meetings. Noonan, CF. “Spy the Lie: Detecting Malicious Insiders,” March 2018, 62.
-  - [[disregard for authority]]
-    - note :: The employee disregards rules, authority or policies. Employee feels above the rules or that they only apply to others. Noonan, CF. “Spy the Lie: Detecting Malicious Insiders,” March 2018, 62.
-  - [[performance]]
-    - note :: The employee has received a corrective action (below expectation performance review, verbal warning, written reprimand, suspension, termination) based on poor performance. Noonan, CF. “Spy the Lie: Detecting Malicious Insiders,” March 2018, 62.
-  - [[stress]]
-    - note :: The employee appears to be under physical, mental, or emotional strain or tension that he/she has difficulty handling. Noonan, CF. “Spy the Lie: Detecting Malicious Insiders,” March 2018, 62.
-  - [[confrontational behavior]]
-    - note :: Employee exhibits argumentative or aggressive behavior or is involved in bullying or intimidation. Noonan, CF. “Spy the Lie: Detecting Malicious Insiders,” March 2018, 62.
-  - [[personal issues]]
-    - note :: Employee has difficulty keeping personal issues separate from work, and these issues interfere with work. Noonan, CF. “Spy the Lie: Detecting Malicious Insiders,” March 2018, 62.
-  - [[self-centeredness]]
-    - note :: The employee disregards needs or wishes of others, concerned primarily with own interests and welfare. Noonan, CF. “Spy the Lie: Detecting Malicious Insiders,” March 2018, 62.
-  - [[lack of dependability]]
-    - note :: Employee is unable to keep commitments /promises; unworthy of trust. Noonan, CF. “Spy the Lie: Detecting Malicious Insiders,” March 2018, 62.
-  - [[Absenteeism]]
+	- [[mécontent]]
+		- note :: Employee observed to be dissatisfied in current position; chronic indications of discontent, such as strong negative feelings about being passed over for a promotion or being underpaid, undervalued; may have a poor fit with current job. Noonan, CF. “Spy the Lie: Detecting Malicious Insiders,” March 2018, 62.
+	- [[not accepting feedback]]
+		- note :: The employee is observed to have a difficult time accepting criticism, tends to take criticism personally or becomes defensive when message is delivered. Employee has been observed being unwilling to acknowledge errors; or admitting to mistakes; may attempt to cover up errors through lying or deceit. Noonan, CF. “Spy the Lie: Detecting Malicious Insiders,” March 2018, 62.
+	- [[Anger Management
+	  Issues]]
+		- note :: The employee often allows anger to get pent up inside; employee has trouble managing lingering emotional feelings of anger or rage. Holds strong grudges. Noonan, CF. “Spy the Lie: Detecting Malicious Insiders,” March 2018, 62.
+	- [[disengagement]]
+		- note :: The employee keeps to self, is detached, withdrawn and tends not to interact with individuals or groups; avoids meetings. Noonan, CF. “Spy the Lie: Detecting Malicious Insiders,” March 2018, 62.
+	- [[disregard for authority]]
+		- note :: The employee disregards rules, authority or policies. Employee feels above the rules or that they only apply to others. Noonan, CF. “Spy the Lie: Detecting Malicious Insiders,” March 2018, 62.
+	- [[performance]]
+		- note :: The employee has received a corrective action (below expectation performance review, verbal warning, written reprimand, suspension, termination) based on poor performance. Noonan, CF. “Spy the Lie: Detecting Malicious Insiders,” March 2018, 62.
+	- [[stress]]
+		- note :: The employee appears to be under physical, mental, or emotional strain or tension that he/she has difficulty handling. Noonan, CF. “Spy the Lie: Detecting Malicious Insiders,” March 2018, 62.
+	- [[confrontational behavior]]
+		- note :: Employee exhibits argumentative or aggressive behavior or is involved in bullying or intimidation. Noonan, CF. “Spy the Lie: Detecting Malicious Insiders,” March 2018, 62.
+	- [[personal issues]]
+		- note :: Employee has difficulty keeping personal issues separate from work, and these issues interfere with work. Noonan, CF. “Spy the Lie: Detecting Malicious Insiders,” March 2018, 62.
+	- [[self-centeredness]]
+		- note :: The employee disregards needs or wishes of others, concerned primarily with own interests and welfare. Noonan, CF. “Spy the Lie: Detecting Malicious Insiders,” March 2018, 62.
+	- [[lack of dependability]]
+		- note :: Employee is unable to keep commitments /promises; unworthy of trust. Noonan, CF. “Spy the Lie: Detecting Malicious Insiders,” March 2018, 62.
+	- [[Absenteeism]]
 - [[George Mason University]]
-  - url :: https://en.wikipedia.org/wiki/George_Mason_University
+	- url :: https://en.wikipedia.org/wiki/George_Mason_University
 - [[narcissisme]]
-  - note :: la définition actuelle, le narcissique n'est pas uniquement un coquet vaniteux, mais aussi quelqu'un qui tend à se surestimer grandement et qui ressent un fort besoin d'attention et d'admiration. Il traite souvent les autres avec condescendance et se montre peu ouvert aux critiques, qui ne suscitent chez lui qu'incompréhension et irritation, voire agressivité.
-  - [[dark tetrad]]
-    - note :: zotero Paulhus, Delroy L. “Toward a Taxonomy of Dark Personalities.” Current Directions in Psychological Science 23, no. 6 (December 2014): 421–26. https://doi.org/10.1177/0963721414547737. “Paulhus and Williams - 2002 - The Dark Triad of Personality Narcissism, Machiav.Pdf.” Accessed September 12, 2019. https://motamem.org/wp-content/uploads/2016/10/The_Dark_Triad_of_Personality_Narcissism_Machiavel.pdf.
-    - url :: https://en.wikipedia.org/wiki/Dark_triad
+	- note :: la définition actuelle, le narcissique n'est pas uniquement un coquet vaniteux, mais aussi quelqu'un qui tend à se surestimer grandement et qui ressent un fort besoin d'attention et d'admiration. Il traite souvent les autres avec condescendance et se montre peu ouvert aux critiques, qui ne suscitent chez lui qu'incompréhension et irritation, voire agressivité.
+	- [[dark tetrad]]
+		- note :: zotero Paulhus, Delroy L. “Toward a Taxonomy of Dark Personalities.” Current Directions in Psychological Science 23, no. 6 (December 2014): 421–26. https://doi.org/10.1177/0963721414547737. “Paulhus and Williams - 2002 - The Dark Triad of Personality Narcissism, Machiav.Pdf.” Accessed September 12, 2019. https://motamem.org/wp-content/uploads/2016/10/The_Dark_Triad_of_Personality_Narcissism_Machiavel.pdf.
+		- url :: https://en.wikipedia.org/wiki/Dark_triad
 - [[sadisme]]
-  - [[dark tetrad]]
+	- [[dark tetrad]]
 - [[psychopathe]]
-  - note :: enfreignent aussi les règles, mais en général de manière beaucoup plus impulsive. Souvent agressives, elles avancent bien moins masquées et réfléchissent peu aux conséquences de leurs actes. Il n'est pas rare de les voir sombrer dans l'illégalité, le harcèlement moral ou la consommation de drogues. se distingue des deux autres concepts par l’impulsivité et l’exploitation ouverte de l’autre
-  - [[dark tetrad]]
+	- note :: enfreignent aussi les règles, mais en général de manière beaucoup plus impulsive. Souvent agressives, elles avancent bien moins masquées et réfléchissent peu aux conséquences de leurs actes. Il n'est pas rare de les voir sombrer dans l'illégalité, le harcèlement moral ou la consommation de drogues. se distingue des deux autres concepts par l’impulsivité et l’exploitation ouverte de l’autre
+	- [[dark tetrad]]
 - [[machiavelime]]
-  - note :: recherche toujours son propre intérêt, manipule les autres et les exploite à la moindre occasion. Elle ne s'encombre ni de la loi ni de la morale, tout en étant assez habile pour tromper son interlocuteur et passer pour inoffensive, voire bienveillante. Le psychologue Delroy Paulhus attribue aux machiavéliques un penchant pour la fraude savamment planifiée, sont la manipulation, l’insensibilité et l’orientation stratégique-calculatrice
-  - [[dark tetrad]]
+	- note :: recherche toujours son propre intérêt, manipule les autres et les exploite à la moindre occasion. Elle ne s'encombre ni de la loi ni de la morale, tout en étant assez habile pour tromper son interlocuteur et passer pour inoffensive, voire bienveillante. Le psychologue Delroy Paulhus attribue aux machiavéliques un penchant pour la fraude savamment planifiée, sont la manipulation, l’insensibilité et l’orientation stratégique-calculatrice
+	- [[dark tetrad]]
 - [[identifier]]
 - [[avalyser]]
 - [[réagir]]
@@ -232,77 +232,77 @@ Issues]]
 - [[élaboration]]
 - [[construction]]
 - [[épuisement de l'égo]]
-  - note :: p53 Kahneman, Daniel. Système 1, système 2: les deux vitesses de la pensée. Paris: Flammarion, 2018.
-  - [[etat surcharge]]
-    - [[etat hypnotique]]
-    - [[messages subliminaux]]
-      - note :: - assoir des postitions futures. consolidation de sa position lors de la relecture d'événement passé à la lumière du présent ( relecture naratif)
-    - [[négociation]]
-      - [[calm down]]
-      - [[RASCLS]] effet de livier
-      - [[rapport]]
-        - [[calm down]]
-      - [[trust]]
-      - [[empathy]]
-      - [[gather information]]
-      - [[influence behaviors]]
-      - [[great relationship]]
-      - [[perspective]]
-      - [[NLP - nonverbal]]
-        - [[grinder bandler]]
-        - [[erickson]]
-      - [[chris ross]]
-    - [[emancipation]]
-      - note :: si condition maslow, pestel acquise, émancipation du systeme d'adoption ( %sp;déterminé par: les attentes externes, le parcours de vie ( école, entreprise qui conditionne le cercle social etc ) , suivi en faisant des choix plus ou moins conscient %sp;et à la marge , vers un systeme structurel ce qui peut donner lieu à des ruptures plus ou moins importantes ( trader - religion, citadin - campagne, medecin - paysans ) suivant l'éloignement des deux systemes.( le mode de vie alors adopté %sp;peut etre une vue de l'esprit qui, dans les faits, peut etre loin de la réalité -> désilusion ) surchage peut etre due à une crise existencielle des facteurs envioronementaux sageman terro ingénieur : nuance (systeme adoption systeme structurel)
+	- note :: p53 Kahneman, Daniel. Système 1, système 2: les deux vitesses de la pensée. Paris: Flammarion, 2018.
+	- [[etat surcharge]]
+		- [[etat hypnotique]]
+		- [[messages subliminaux]]
+			- note :: - assoir des postitions futures. consolidation de sa position lors de la relecture d'événement passé à la lumière du présent ( relecture naratif)
+		- [[négociation]]
+			- [[calm down]]
+			- [[RASCLS]] effet de livier
+			- [[rapport]]
+				- [[calm down]]
+			- [[trust]]
+			- [[empathy]]
+			- [[gather information]]
+			- [[influence behaviors]]
+			- [[great relationship]]
+			- [[perspective]]
+			- [[NLP - nonverbal]]
+				- [[grinder bandler]]
+				- [[erickson]]
+			- [[chris ross]]
+		- [[emancipation]]
+			- note :: si condition maslow, pestel acquise, émancipation du systeme d'adoption ( %sp;déterminé par: les attentes externes, le parcours de vie ( école, entreprise qui conditionne le cercle social etc ) , suivi en faisant des choix plus ou moins conscient %sp;et à la marge , vers un systeme structurel ce qui peut donner lieu à des ruptures plus ou moins importantes ( trader - religion, citadin - campagne, medecin - paysans ) suivant l'éloignement des deux systemes.( le mode de vie alors adopté %sp;peut etre une vue de l'esprit qui, dans les faits, peut etre loin de la réalité -> désilusion ) surchage peut etre due à une crise existencielle des facteurs envioronementaux sageman terro ingénieur : nuance (systeme adoption systeme structurel)
 - [[remise en question perpétuelle]]
-  - note :: p57 Kahneman, Daniel. Système 1, système 2: les deux vitesses de la pensée. Paris: Flammarion, 2018.
-  - [[etat surcharge]]
+	- note :: p57 Kahneman, Daniel. Système 1, système 2: les deux vitesses de la pensée. Paris: Flammarion, 2018.
+	- [[etat surcharge]]
 - [[intelligence et controle de soi]]
-  - note :: p60 Kahneman, Daniel. Système 1, système 2: les deux vitesses de la pensée. Paris: Flammarion, 2018.
-  - [[etat surcharge]]
+	- note :: p60 Kahneman, Daniel. Système 1, système 2: les deux vitesses de la pensée. Paris: Flammarion, 2018.
+	- [[etat surcharge]]
 - [[transparence]]
 - [[rationaliser]]
 - [[complotisme]]
 - [[ingénieur]]
 - [[submersion cognitive]]
-  - note :: alimentation en information : constante; %sp;en abondance; sans possibilité de s'en détourner; qui entrave toute analyse, prise de hauteur etc 45 minutes : edward Bernays Guatemala united fruit compagny Propaganda - La fabrique du consentement de Leipold
-  - [[etat surcharge]]
-  - [[engagement]]
-  - [[concentration détail]]
-  - [[mise en perspective]]
+	- note :: alimentation en information : constante; %sp;en abondance; sans possibilité de s'en détourner; qui entrave toute analyse, prise de hauteur etc 45 minutes : edward Bernays Guatemala united fruit compagny Propaganda - La fabrique du consentement de Leipold
+	- [[etat surcharge]]
+	- [[engagement]]
+	- [[concentration détail]]
+	- [[mise en perspective]]
 - [[étincelle]]
-  - [[etat hypnotique]]
-    - [[état crédule]]
-      - [[etat orienté]]
-        - [[effet de halo]]
-          - [[théorie du lampadaire]]
-        - [[état reevaluation]]
-          - [[état pivot]] l
-  - [[simple d'acces]]
-  - [[naturel]]
+	- [[etat hypnotique]]
+		- [[état crédule]]
+			- [[etat orienté]]
+				- [[effet de halo]]
+					- [[théorie du lampadaire]]
+				- [[état reevaluation]]
+					- [[état pivot]] l
+	- [[simple d'acces]]
+	- [[naturel]]
 - [[evenement traumatique]]
-  - [[etat surcharge]]
+	- [[etat surcharge]]
 - [[conditionnement]]
-  - [[etat de routine]]
-  - [[NLP]]
-  - [[répétition]]
-  - [[pavlov]]
+	- [[etat de routine]]
+	- [[NLP]]
+	- [[répétition]]
+	- [[pavlov]]
 - [[modele premaché]]
-  - [[état crédule]] intégration
-  - [[accesible]]
-  - [[rationnelle]]
-  - [[répétitif]]
-  - [[cohérent avec ses croyances]]
+	- [[état crédule]] intégration
+	- [[accesible]]
+	- [[rationnelle]]
+	- [[répétitif]]
+	- [[cohérent avec ses croyances]]
 - [[une tranche]]
-  - [[théorie du lampadaire]]
+	- [[théorie du lampadaire]]
 - [[un point de vue]]
-  - [[théorie du lampadaire]]
+	- [[théorie du lampadaire]]
 - [[un stéréotype]]
-  - [[théorie du lampadaire]]
+	- [[théorie du lampadaire]]
 - [[choc binaire]]
-  - [[état pivot]]
-  - [[modele diabolise]]
-  - [[modele ensencer]]
+	- [[état pivot]]
+	- [[modele diabolise]]
+	- [[modele ensencer]]
 - [[homogene]]
 - [[surface]]
 - [[poids]]
@@ -313,38 +313,38 @@ Issues]]
 - [[façade]]
 - [[15 - poile dans la soupe]]
 - [[Robert Cialdini]]
-  - url :: https://en.wikipedia.org/wiki/Robert_Cialdini
-  - [[RASCLS]]
+	- url :: https://en.wikipedia.org/wiki/Robert_Cialdini
+	- [[RASCLS]]
 - [[taupe / securite profil]]
-  - note :: zotero NCSC. “Protect Your Organization from the inside out: Government Best Practices.” National Insider Threat Task Force, 2016. https://www.dni.gov/files/NCSC/documents/products/Govt_Best_Practices_Guide_Insider_Threat.pdf.
+	- note :: zotero NCSC. “Protect Your Organization from the inside out: Government Best Practices.” National Insider Threat Task Force, 2016. https://www.dni.gov/files/NCSC/documents/products/Govt_Best_Practices_Guide_Insider_Threat.pdf.
 - [[consolidation]]
-  - note :: renforcement relation
+	- note :: renforcement relation
 - [[interdépendance]]
-  - note :: element indispensable sinon perte
+	- note :: element indispensable sinon perte
 - [[envahissemnet rampant]]
-  - note :: - imposer choix, mode de vie,
+	- note :: - imposer choix, mode de vie,
 - [[conquete]]
 - [[réciprocité]]
-  - note :: - ce que nous donnons doit etre considéré comme ipmportant, inattendu et personnalisé
-  - [[RASCLS]]
-    - note :: Cialdini, Robert B. Influence & manipulation: [comprendre et maîtriser les mécanismes et les techniques de persuasion, 2016. Burkett, Randy. “An Alternative Framework for Agent Recruitment: From MICE to RASCLS” 57, no. 1 (2013): 12.
-    - url :: https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol.-57-no.-1-a/vol.-57-no.-1-a-pdfs/Burkett-MICE%20to%20RASCALS.pdf
-    - [[ID 913]]
+	- note :: - ce que nous donnons doit etre considéré comme ipmportant, inattendu et personnalisé
+	- [[RASCLS]]
+		- note :: Cialdini, Robert B. Influence & manipulation: [comprendre et maîtriser les mécanismes et les techniques de persuasion, 2016. Burkett, Randy. “An Alternative Framework for Agent Recruitment: From MICE to RASCLS” 57, no. 1 (2013): 12.
+		- url :: https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol.-57-no.-1-a/vol.-57-no.-1-a-pdfs/Burkett-MICE%20to%20RASCALS.pdf
+		- [[ID 913]]
 - [[engagement et cohérence]]
-  - [[RASCLS]]
+	- [[RASCLS]]
 - [[preuve sociale]]
-  - note :: - validité: plus une action est fréquente, plus nous la jugeons «correcte» ( après avoir appris que la majorité de leurs pairs était favorable au recours à la torture pour obtenir des informations, 80%pct; des mebres du groupe ont trouvé cette pratique plu acceptable et l'on nettement soutenue. - faisabilite :
-  - [[RASCLS]]
-  - [[incertitude]]
-    - note :: tendance à ne pas porter assistance à une personne en danger lorsque d'autres personnes assistant à la scène ne manifeste aucune attitude
-  - [[similarite]]
-  - [[imitation]]
+	- note :: - validité: plus une action est fréquente, plus nous la jugeons «correcte» ( après avoir appris que la majorité de leurs pairs était favorable au recours à la torture pour obtenir des informations, 80%pct; des mebres du groupe ont trouvé cette pratique plu acceptable et l'on nettement soutenue. - faisabilite :
+	- [[RASCLS]]
+	- [[incertitude]]
+		- note :: tendance à ne pas porter assistance à une personne en danger lorsque d'autres personnes assistant à la scène ne manifeste aucune attitude
+	- [[similarite]]
+	- [[imitation]]
 - [[rareté]]
-  - note :: - perte de liberté %sp; %tab;- peu s'appuyer de l'influence minoritaire, en faisant censuré un message. - raccourcis - plus apprécié quand la rareté à lieu dans un contexte de %tab;- %sp;retire un acqui (ex: certaines révolutions aurait eut lieu lorsqu'on a retire un droit à une population) %tab;- compétition %tab;- limité
-  - [[RASCLS]]
+	- note :: - perte de liberté %sp; %tab;- peu s'appuyer de l'influence minoritaire, en faisant censuré un message. - raccourcis - plus apprécié quand la rareté à lieu dans un contexte de %tab;- %sp;retire un acqui (ex: certaines révolutions aurait eut lieu lorsqu'on a retire un droit à une population) %tab;- compétition %tab;- limité
+	- [[RASCLS]]
 - [[liking ou sympathie]]
-  - note :: similarité compliment
-  - [[RASCLS]]
+	- note :: similarité compliment
+	- [[RASCLS]]
 - [[kahneman]]
 - [[thaler]]
 - [[dormani]]
@@ -363,34 +363,34 @@ Issues]]
 - [[traitant]]
 - [[cannaux de communication]]
 - [[diversifié]]
-  - [[topologie réseaux sociaux]]
-    - [[degrés d'ouverture]]
-    - [[capacité intellectuelle]]
+	- [[topologie réseaux sociaux]]
+		- [[degrés d'ouverture]]
+		- [[capacité intellectuelle]]
 - [[profondeur]]
-  - [[topologie réseaux sociaux]]
+	- [[topologie réseaux sociaux]]
 - [[masse]]
-  - [[type]]
-    - [[influenceur]]
-      - [[Sujet]]
-      - [[capacité intellectuelle]]
-      - [[degrés d'ouverture]]
+	- [[type]]
+		- [[influenceur]]
+			- [[Sujet]]
+			- [[capacité intellectuelle]]
+			- [[degrés d'ouverture]]
 - [[haute valeur ajouté]]
-  - [[type]]
+	- [[type]]
 - [[illuminé]]
-  - [[type]]
+	- [[type]]
 - [[cercle de proximité]]
-  - [[influenceur]]
+	- [[influenceur]]
 - [[negociation]]
-  - [[ideologique]]
-  - [[humaine]]
-  - [[vitale]]
+	- [[ideologique]]
+	- [[humaine]]
+	- [[vitale]]
 - [[inhibition]]
 - [[organisation]]
-  - [[communication]]
+	- [[communication]]
 - [[politique]]
-  - [[communication]]
+	- [[communication]]
 - [[public]]
-  - [[communication]]
+	- [[communication]]
 - [[ID 1751]]
 - [[suiveur / leader]]
 - [[passé / futur]]
@@ -411,12 +411,12 @@ Issues]]
 - [[penser]]
 - [[sentiment]]
 - [[narcissisme]]
-  - note :: la définition actuelle, le narcissique n'est pas uniquement un coquet vaniteux, mais aussi quelqu'un qui tend à se surestimer grandement et qui ressent un fort besoin d'attention et d'admiration. Il traite souvent les autres avec condescendance et se montre peu ouvert aux critiques, qui ne suscitent chez lui qu'incompréhension et irritation, voire agressivité.
+	- note :: la définition actuelle, le narcissique n'est pas uniquement un coquet vaniteux, mais aussi quelqu'un qui tend à se surestimer grandement et qui ressent un fort besoin d'attention et d'admiration. Il traite souvent les autres avec condescendance et se montre peu ouvert aux critiques, qui ne suscitent chez lui qu'incompréhension et irritation, voire agressivité.
 - [[sadisme]]
 - [[spychopathe]]
-  - note :: enfreignent aussi les règles, mais en général de manière beaucoup plus impulsive. Souvent agressives, elles avancent bien moins masquées et réfléchissent peu aux conséquences de leurs actes. Il n'est pas rare de les voir sombrer dans l'illégalité, le harcèlement moral ou la consommation de drogues. se distingue des deux autres concepts par l’impulsivité et l’exploitation ouverte de l’autre
+	- note :: enfreignent aussi les règles, mais en général de manière beaucoup plus impulsive. Souvent agressives, elles avancent bien moins masquées et réfléchissent peu aux conséquences de leurs actes. Il n'est pas rare de les voir sombrer dans l'illégalité, le harcèlement moral ou la consommation de drogues. se distingue des deux autres concepts par l’impulsivité et l’exploitation ouverte de l’autre
 - [[machiavelime]]
-  - note :: recherche toujours son propre intérêt, manipule les autres et les exploite à la moindre occasion. Elle ne s'encombre ni de la loi ni de la morale, tout en étant assez habile pour tromper son interlocuteur et passer pour inoffensive, voire bienveillante. Le psychologue Delroy Paulhus attribue aux machiavéliques un penchant pour la fraude savamment planifiée, sont la manipulation, l’insensibilité et l’orientation stratégique-calculatrice
+	- note :: recherche toujours son propre intérêt, manipule les autres et les exploite à la moindre occasion. Elle ne s'encombre ni de la loi ni de la morale, tout en étant assez habile pour tromper son interlocuteur et passer pour inoffensive, voire bienveillante. Le psychologue Delroy Paulhus attribue aux machiavéliques un penchant pour la fraude savamment planifiée, sont la manipulation, l’insensibilité et l’orientation stratégique-calculatrice
 - [[honesy humility]]
 - [[emotionality]]
 - [[extraversion]]
@@ -426,7 +426,7 @@ Issues]]
 - [[inclusif]]
 - [[exclusif]]
 - [[Defence Mechanisms]]
-  - url :: https://en.wikipedia.org/wiki/Defence_mechanisms
+	- url :: https://en.wikipedia.org/wiki/Defence_mechanisms
 - [[attaque mechanims]]
 - [[surface]]
 - [[intensité]]
@@ -450,396 +450,396 @@ Issues]]
 - [[humble / honnete]]
 - [[ruse]]
 - [[seuil rupture du contexte]]
-  - note :: lors d'une surcharge du système, il y a deux mécanisme : une réévalution, et prise en compte réfléchi des événements ( mise en perspective etc); un changement brutal du «contexte mental» (rupture, attitude reflexe, comportement appri, rapprochement avec des faits connus) influence : 10 - table de poker on a tendance à prendre plus de risque lorsqu'il s'agit d'évité des pertes -> break-event effect Au casino, quand vous avec accumulé des gains, vous ne pariez plus avec votre argent mais avec celui du casino . -> house money effect Thaler, Richard H, and Christophe Jaquet. Misbehaving: les découvertes de l’économie comportementale. Edition du Seuil. Economie humaine. Paris: Éditions du Seuil, 2018.
+	- note :: lors d'une surcharge du système, il y a deux mécanisme : une réévalution, et prise en compte réfléchi des événements ( mise en perspective etc); un changement brutal du «contexte mental» (rupture, attitude reflexe, comportement appri, rapprochement avec des faits connus) influence : 10 - table de poker on a tendance à prendre plus de risque lorsqu'il s'agit d'évité des pertes -> break-event effect Au casino, quand vous avec accumulé des gains, vous ne pariez plus avec votre argent mais avec celui du casino . -> house money effect Thaler, Richard H, and Christophe Jaquet. Misbehaving: les découvertes de l’économie comportementale. Edition du Seuil. Economie humaine. Paris: Éditions du Seuil, 2018.
 - [[effet silo]]
 - [[Misbehaving]]
-  - note :: Thaler, Richard H, and Christophe Jaquet. Misbehaving: les découvertes de l’économie comportementale. Edition du Seuil. Economie humaine. Paris: Éditions du Seuil, 2018.
+	- note :: Thaler, Richard H, and Christophe Jaquet. Misbehaving: les découvertes de l’économie comportementale. Edition du Seuil. Economie humaine. Paris: Éditions du Seuil, 2018.
 - [[effet case coché]]
-  - note :: sentiment de bénéfice d'une action, elle peut etre %tab;- public %tab;%tab;- visiter un lieu et le faire savoir %tab;%tab;- acheter une rolex %tab;%tab;- etc %tab;- privé %tab;%tab;- solde %tab;%tab;- %tab;
+	- note :: sentiment de bénéfice d'une action, elle peut etre %tab;- public %tab;%tab;- visiter un lieu et le faire savoir %tab;%tab;- acheter une rolex %tab;%tab;- etc %tab;- privé %tab;%tab;- solde %tab;%tab;- %tab;
 - [[DGSE]]
 - [[regards mot discours]]
-  - note :: rafiq hariri denix allex
+	- note :: rafiq hariri denix allex
 - [[adaptation]]
-  - [[engagement]] à la marge
-    - [[flexibilité]]
-  - [[réévalutation / remise en question]] globale
-    - [[fluidité]]
+	- [[engagement]] à la marge
+		- [[flexibilité]]
+	- [[réévalutation / remise en question]] globale
+		- [[fluidité]]
 - [[evitement]]
 - [[culpabilite]]
-  - [[engagement]]
+	- [[engagement]]
 - [[regle]]
-  - [[engagement]]
+	- [[engagement]]
 - [[sentiment de choix]]
 - [[don]]
-  - [[engagement]]
+	- [[engagement]]
 - [[point de référence]]
-  - [[habitude]]
+	- [[habitude]]
 - [[omniprésent]]
-  - [[état profond]]
+	- [[état profond]]
 - [[insaisissable]]
-  - [[état profond]]
+	- [[état profond]]
 - [[choix limité]]
 - [[ROSSAS]]
-  - note :: Davidson, Richard J. Les profils émotionnels: apprendre à les connaître et mieux vivre avec, 2018.
-  - [[resilience]]
-    - note :: The more axons (white matter) you have between your prefrontal cortex and your amygdala the more resilient you are %sp; Amygdala is specialized in negative emotions and distress (anxiety, fear or threat) The prefrontal cortex shows high activity when the circuit is well-developed, shortening the activity of the amygdala https://fr.slideshare.net/ValentijndeLeeuw/richard-davidsons-emotional-styles
-  - [[outlook]]
-    - note :: Outlook The outlook brain Davidsons first major discovery (in 1982) was that greater activity in the left prefrontal cortex is associated with positive emotions and the right side with negative emotions n The prefrontal cortex and nucleus accumbens (in the ventral stratum) form the “reward circuit” Signals from the prefrontal cortex maintain high levels of activity in the ventral stratum, a region critical for generating motivation and a sense of reward and thus a positive outlook n Low activity in the ventral striatum, due to less input from the prefrontal cortex is a mark of negative outlook On average, people with depression are deficient not in inducing but in sustaining activity in the reward circuitry and prefrontal cortex
-  - [[social intuition]]
-    - note :: Social intuition The socially intuitive brain Lack of social intuition goes with low activity in the fusiform gyrus and high activity in the amygdala %tab;§ Autists look away from faces, to calm down the panic generated by their amygdala Someone with high-levels of fusiform activation and moderate amygdala activity is highly attuned to social signals and capable of pickup up subtle cues. n The fusiform gyrus is specialized in recognizing faces (and visually recognizing anything we are experts in) Oxytocin help creating feeling of commitment and attachment by quieting the amygdala
-  - [[self-awareness]]
-    - note :: The self-aware brain High levels of insula activity support high levels of emotional self-awareness and lower activities mark lower levels of self-awareness. Specific regions of the insula receive signals from our visceral organs forming a “viscerotopic” map of the body. The somatosensory cortex is also involved in perceiving internal sensations. The insula monitors receives instructions from other area’s of the brain to monitor a sensation, it enlists more neurons that receive information from the organ, or from another region in the brain that monitors that organ. Higher insula activity also goes with higher awareness of physical sensations.
-  - [[sensitivity to context]]
-    - note :: Sensitivity to context The Context-Sensitive Brain n Low activity of the hippocampus underlies a “tuned-out” style At the “tuned-in” extreme, hyperactivity of the hippocampus is likely to cause an excessive focus on context, when can inhibit emotional spontaneity, or paralyze someone emotionally The hippocampus is more well-known for processing memory, and is also affected in cases of post-traumatic stress disorder (PTSD), that also causes confusion in appreciating context Strong connections between the hippocampus and the prefrontal cortex and other long- term memory storage regions in the cortex increase sensitivity to context
-  - [[attention]]
-    - note :: The attentive brain n We can focus attention by enhancing the strength of an attended signal and/or by inhibiting the signals of ignored channels Two forms of attention are relevant to the attention style: selective attention and open, nonjudgmental awareness Selective attention is a key building block for other emotional dimensions, since the failure to selectively attend make it impossible to be self-aware or tuned-in. Open, nonjudgmental awareness makes it possible to take in signals from the external environment as well as thoughts popping up, to broaden attention and pick up sensitively subtle cues without getting stuck on any one stimulus to the detriment of the others
+	- note :: Davidson, Richard J. Les profils émotionnels: apprendre à les connaître et mieux vivre avec, 2018.
+	- [[resilience]]
+		- note :: The more axons (white matter) you have between your prefrontal cortex and your amygdala the more resilient you are %sp; Amygdala is specialized in negative emotions and distress (anxiety, fear or threat) The prefrontal cortex shows high activity when the circuit is well-developed, shortening the activity of the amygdala https://fr.slideshare.net/ValentijndeLeeuw/richard-davidsons-emotional-styles
+	- [[outlook]]
+		- note :: Outlook The outlook brain Davidsons first major discovery (in 1982) was that greater activity in the left prefrontal cortex is associated with positive emotions and the right side with negative emotions n The prefrontal cortex and nucleus accumbens (in the ventral stratum) form the “reward circuit” Signals from the prefrontal cortex maintain high levels of activity in the ventral stratum, a region critical for generating motivation and a sense of reward and thus a positive outlook n Low activity in the ventral striatum, due to less input from the prefrontal cortex is a mark of negative outlook On average, people with depression are deficient not in inducing but in sustaining activity in the reward circuitry and prefrontal cortex
+	- [[social intuition]]
+		- note :: Social intuition The socially intuitive brain Lack of social intuition goes with low activity in the fusiform gyrus and high activity in the amygdala %tab;§ Autists look away from faces, to calm down the panic generated by their amygdala Someone with high-levels of fusiform activation and moderate amygdala activity is highly attuned to social signals and capable of pickup up subtle cues. n The fusiform gyrus is specialized in recognizing faces (and visually recognizing anything we are experts in) Oxytocin help creating feeling of commitment and attachment by quieting the amygdala
+	- [[self-awareness]]
+		- note :: The self-aware brain High levels of insula activity support high levels of emotional self-awareness and lower activities mark lower levels of self-awareness. Specific regions of the insula receive signals from our visceral organs forming a “viscerotopic” map of the body. The somatosensory cortex is also involved in perceiving internal sensations. The insula monitors receives instructions from other area’s of the brain to monitor a sensation, it enlists more neurons that receive information from the organ, or from another region in the brain that monitors that organ. Higher insula activity also goes with higher awareness of physical sensations.
+	- [[sensitivity to context]]
+		- note :: Sensitivity to context The Context-Sensitive Brain n Low activity of the hippocampus underlies a “tuned-out” style At the “tuned-in” extreme, hyperactivity of the hippocampus is likely to cause an excessive focus on context, when can inhibit emotional spontaneity, or paralyze someone emotionally The hippocampus is more well-known for processing memory, and is also affected in cases of post-traumatic stress disorder (PTSD), that also causes confusion in appreciating context Strong connections between the hippocampus and the prefrontal cortex and other long- term memory storage regions in the cortex increase sensitivity to context
+	- [[attention]]
+		- note :: The attentive brain n We can focus attention by enhancing the strength of an attended signal and/or by inhibiting the signals of ignored channels Two forms of attention are relevant to the attention style: selective attention and open, nonjudgmental awareness Selective attention is a key building block for other emotional dimensions, since the failure to selectively attend make it impossible to be self-aware or tuned-in. Open, nonjudgmental awareness makes it possible to take in signals from the external environment as well as thoughts popping up, to broaden attention and pick up sensitively subtle cues without getting stuck on any one stimulus to the detriment of the others
 - [[MI6 - Secret Intelligence Service]]
-  - url :: https://en.wikipedia.org/wiki/Secret_Intelligence_Service
-  - [[Joint Support Group]]
-    - url :: https://en.wikipedia.org/wiki/Joint_Support_Group
-    - [[RAF Chicksands]]
-      - url :: https://en.wikipedia.org/wiki/RAF_Chicksands
-    - [[contre-insurrection Britannique]]
-      - note :: %sp; %sp;De l’IRA à l’Irak : transferts d’expérience contre-insurrectionnelle au sein de l’armée britannique %sp; %sp;Élie Tenenbaum %sp; %sp;Dans Les Champs de Mars 2009/1 (N° 20), pages 131 à 153
-      - url :: https://www-cairn-info.passerelle.univ-rennes1.fr/revue-les-champs-de-mars-ldm-2009-1-page-131.htm
-      - [[modestie politique]]
-        - [[représentativité]]
-        - [[efficacité]]
-        - [[patience stratégique]]
-      - [[gagner le soutien de la population]]
-        - [[Campagnes de communication et opérations psychologiques]]
-        - [[Sensibilité culturelle]]
-        - [[Implication des populations locales]]
-      - [[Primauté du politique et coordination civilo-militaire]]
-        - [[Le système de comités]]
-        - [[Usage minimal de la force]]
-      - [[Renseignement et opérations spéciales]]
-        - [[Prééminence opérationnelle du renseignement]]
-        - [[Opérations spéciales et pratiques subversives]]
+	- url :: https://en.wikipedia.org/wiki/Secret_Intelligence_Service
+	- [[Joint Support Group]]
+		- url :: https://en.wikipedia.org/wiki/Joint_Support_Group
+		- [[RAF Chicksands]]
+			- url :: https://en.wikipedia.org/wiki/RAF_Chicksands
+		- [[contre-insurrection Britannique]]
+			- note :: %sp; %sp;De l’IRA à l’Irak : transferts d’expérience contre-insurrectionnelle au sein de l’armée britannique %sp; %sp;Élie Tenenbaum %sp; %sp;Dans Les Champs de Mars 2009/1 (N° 20), pages 131 à 153
+			- url :: https://www-cairn-info.passerelle.univ-rennes1.fr/revue-les-champs-de-mars-ldm-2009-1-page-131.htm
+			- [[modestie politique]]
+				- [[représentativité]]
+				- [[efficacité]]
+				- [[patience stratégique]]
+			- [[gagner le soutien de la population]]
+				- [[Campagnes de communication et opérations psychologiques]]
+				- [[Sensibilité culturelle]]
+				- [[Implication des populations locales]]
+			- [[Primauté du politique et coordination civilo-militaire]]
+				- [[Le système de comités]]
+				- [[Usage minimal de la force]]
+			- [[Renseignement et opérations spéciales]]
+				- [[Prééminence opérationnelle du renseignement]]
+				- [[Opérations spéciales et pratiques subversives]]
 - [[Federal Bureau Of 
-Investigation]]
-  - url :: https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation
-  - [[Behavioral Science Unit]]
-    - url :: https://en.wikipedia.org/wiki/Behavioral_Science_Unit
-    - [[Neuro Linguistic Programming]]
-      - url :: https://en.wikipedia.org/wiki/Neuro-linguistic_programming
+  Investigation]]
+	- url :: https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation
+	- [[Behavioral Science Unit]]
+		- url :: https://en.wikipedia.org/wiki/Behavioral_Science_Unit
+		- [[Neuro Linguistic Programming]]
+			- url :: https://en.wikipedia.org/wiki/Neuro-linguistic_programming
 - [[John Grinder]]
-  - url :: https://en.wikipedia.org/wiki/John_Grinder
-  - [[Neuro Linguistic Programming]]
-  - [[CIA]]
+	- url :: https://en.wikipedia.org/wiki/John_Grinder
+	- [[Neuro Linguistic Programming]]
+	- [[CIA]]
 - [[victimisation]]
 - [[repli communautaires]]
 - [[cultural study]]
 - [[maillage internationale]]
-  - [[prison]]
-    - [[fondamentaliste]]
-  - [[services de renseignement]]
-  - [[association]]
-    - [[UOIF]]
-  - [[cambridge analytica]]
-  - [[Obama campagne]] label
-  - [[mouvement démocratique]]
-    - [[Gillets jaunes]]
-    - [[Manif Hong kong]]
-    - [[activiste]]
-  - [[Réseau sociaux]]
-    - [[hors de la spère d'influence]]
+	- [[prison]]
+		- [[fondamentaliste]]
+	- [[services de renseignement]]
+	- [[association]]
+		- [[UOIF]]
+	- [[cambridge analytica]]
+	- [[Obama campagne]] label
+	- [[mouvement démocratique]]
+		- [[Gillets jaunes]]
+		- [[Manif Hong kong]]
+		- [[activiste]]
+	- [[Réseau sociaux]]
+		- [[hors de la spère d'influence]]
 - [[maraicheur de signaux faibles]]
-  - [[controleur]]
+	- [[controleur]]
 - [[ID 2048]]
 - [[cartouche]]
 - [[new node]]
-  - [[ID 2060]]
+	- [[ID 2060]]
 - [[influenceur]]
-  - [[sacrifier]] influence
-  - [[controleur]] influence
-    - [[ID 2060]]
-    - [[élément d'attention]]
-  - [[New Node]] influence
-    - [[sacrifier]]
-  - [[ID 2060]]
+	- [[sacrifier]] influence
+	- [[controleur]] influence
+		- [[ID 2060]]
+		- [[élément d'attention]]
+	- [[New Node]] influence
+		- [[sacrifier]]
+	- [[ID 2060]]
 - [[rapporteur d'ambiance]]
 - [[cia]]
-  - [[Center for the Analysis of Personality and Political Behavior]]
+	- [[Center for the Analysis of Personality and Political Behavior]]
 - [[motivation]]
 - [[capability]]
 - [[opportunité]]
 - [[Analyse Transactionnelle]]
-  - url :: https://fr.wikipedia.org/wiki/Analyse_transactionnelle
+	- url :: https://fr.wikipedia.org/wiki/Analyse_transactionnelle
 - [[test de culture G]]
-  - note :: selection d'esprit créatif trouver une solution originale
-  - [[test de pertinance et modele]]
-    - note :: interraciton moteur de recherche (découvrir), modeliser (comprendre) , recrutement de google -> envoie de test de selection dissimulé en vue d'un recrutement.
+	- note :: selection d'esprit créatif trouver une solution originale
+	- [[test de pertinance et modele]]
+		- note :: interraciton moteur de recherche (découvrir), modeliser (comprendre) , recrutement de google -> envoie de test de selection dissimulé en vue d'un recrutement.
 - [[remote profiling]]
 - [[application]]
-  - [[- un grand nombre de noeud agrégé peut faire changer d état le système ( ln) signaux faible) concret rinsrctruction )]]
+	- [[- un grand nombre de noeud agrégé peut faire changer d état le système ( ln) signaux faible) concret rinsrctruction )]]
 - [[perspective]]
-  - [[- un potentiel fort peut faire changer d'état le système ( e )(di ctature)(abstraction]]
+	- [[- un potentiel fort peut faire changer d'état le système ( e )(di ctature)(abstraction]]
 - [[positionnement]]
-  - [[strategie dominante]]
-    - [[perspective]]
-      - [[relation d'ordre]]
-        - [[ID 2139]]
+	- [[strategie dominante]]
+		- [[perspective]]
+			- [[relation d'ordre]]
+				- [[ID 2139]]
 - [[Dégénérescence lobaire frontotemporale]]
-  - url :: https://fr.wikipedia.org/wiki/D%C3%A9g%C3%A9n%C3%A9rescence_lobaire_frontotemporale
+	- url :: https://fr.wikipedia.org/wiki/D%C3%A9g%C3%A9n%C3%A9rescence_lobaire_frontotemporale
 - [[Allan Snyder]]
-  - url :: https://en.wikipedia.org/wiki/Allan_Snyder
+	- url :: https://en.wikipedia.org/wiki/Allan_Snyder
 - [[influence social]]
 - [[michal kosinski]]
-  - url :: https://www.google.com/url?q=https://twitter.com/michalkosinski%3Flang%3Dfr&sa=U&ved=2ahUKEwjsiJq2z-XlAhULmhQKHc_oAIQQFjABegQIBxAB&usg=AOvVaw2qXPXfFKkN4Tp4tTrCn4Zc
+	- url :: https://www.google.com/url?q=https://twitter.com/michalkosinski%3Flang%3Dfr&sa=U&ved=2ahUKEwjsiJq2z-XlAhULmhQKHc_oAIQQFjABegQIBxAB&usg=AOvVaw2qXPXfFKkN4Tp4tTrCn4Zc
 - [[vecteur de norme]]
-  - [[authority]]
-    - note :: - serieux : %tab;- avouer un défaut d'un produit %tab;- politique : une personne qui commence par dire du bien de son adversaire %tab;- avocat : avouer une faiblesse %tab;- un cv je suis %sp;(...) mais (...) - expertise
-    - [[RASCLS]]
-  - [[ID 2164]]
-    - [[confiance]]
-    - [[information non vérifiable]]
-    - [[capacité]]
-      - [[intellectuelle]]
-        - note :: modele cohérent
-        - [[modele cohérent]]
-      - [[physique]]
-    - [[engagement]]
-    - [[ambiguité]]
-  - [[influence informative]]
-    - note :: Deutsch et Gerard
-    - url :: https://fr.wikipedia.org/wiki/Influence_informationnelle
+	- [[authority]]
+		- note :: - serieux : %tab;- avouer un défaut d'un produit %tab;- politique : une personne qui commence par dire du bien de son adversaire %tab;- avocat : avouer une faiblesse %tab;- un cv je suis %sp;(...) mais (...) - expertise
+		- [[RASCLS]]
+	- [[ID 2164]]
+		- [[confiance]]
+		- [[information non vérifiable]]
+		- [[capacité]]
+			- [[intellectuelle]]
+				- note :: modele cohérent
+				- [[modele cohérent]]
+			- [[physique]]
+		- [[engagement]]
+		- [[ambiguité]]
+	- [[influence informative]]
+		- note :: Deutsch et Gerard
+		- url :: https://fr.wikipedia.org/wiki/Influence_informationnelle
 - [[communauté / groupe]]
-  - [[capacité intellectuelle]]
-    - note :: homogénéité : capacité à se comprendre, s'écouté, robustesse, engagement, enracinement : «un etre humain a une racine par sa participation réelle, active et naturelle à l'existence d'une collectivité qui conserve vivants certains trésors du passé et certains pressentiments d'avenir» (simone weil) ouverture diversité des membres structure
-  - [[fluidité]]
-    - note :: normes, opinions, jugeemnts, attitudes ou comportements spécificiques
+	- [[capacité intellectuelle]]
+		- note :: homogénéité : capacité à se comprendre, s'écouté, robustesse, engagement, enracinement : «un etre humain a une racine par sa participation réelle, active et naturelle à l'existence d'une collectivité qui conserve vivants certains trésors du passé et certains pressentiments d'avenir» (simone weil) ouverture diversité des membres structure
+	- [[fluidité]]
+		- note :: normes, opinions, jugeemnts, attitudes ou comportements spécificiques
 - [[agit prop]]
-  - [[plus petit dénominateur commun]]
-    - [[information non vérifiable]]
-  - [[structure du réseau]]
-    - [[état profond]]
-      - [[dynamique des réseaux]]
-  - [[dynamique des réseaux]]
-    - [[masse]]
-    - [[influence normative]]
-      - note :: Deutsch et Gerard
+	- [[plus petit dénominateur commun]]
+		- [[information non vérifiable]]
+	- [[structure du réseau]]
+		- [[état profond]]
+			- [[dynamique des réseaux]]
+	- [[dynamique des réseaux]]
+		- [[masse]]
+		- [[influence normative]]
+			- note :: Deutsch et Gerard
 - [[communauté conservatrice]]
-  - [[aucune voix discordante]]
-    - note :: aucune %sp;discordante doit emergé
-    - [[Expérience De Asch]]
-      - url :: https://fr.wikipedia.org/wiki/Exp%C3%A9rience_de_Asch
+	- [[aucune voix discordante]]
+		- note :: aucune %sp;discordante doit emergé
+		- [[Expérience De Asch]]
+			- url :: https://fr.wikipedia.org/wiki/Exp%C3%A9rience_de_Asch
 - [[pouvoir]]
-  - [[influenceur]] éloquence / charisme
-  - [[coercition]]
-    - [[Sujet]]
-  - [[charisme]]
-    - [[Croyance]]
-  - [[puissance]]
-    - [[asservisement]]
-  - [[asservisement]]
-  - [[social]]
-    - [[norme]]
+	- [[influenceur]] éloquence / charisme
+	- [[coercition]]
+		- [[Sujet]]
+	- [[charisme]]
+		- [[Croyance]]
+	- [[puissance]]
+		- [[asservisement]]
+	- [[asservisement]]
+	- [[social]]
+		- [[norme]]
 - [[controleur]]
-  - note :: structure simple
-  - [[état profond]] identifie / selectionne / 
-conditionne
-  - [[tete]] profil psy
-  - [[masse]] conditionne réponse
-à un stimuli
-    - [[tete]] réaction négative
-  - [[tete]] inception 
-stimuli
-    - [[structure du réseau]]
+	- note :: structure simple
+	- [[état profond]] identifie / selectionne / 
+	  conditionne
+	- [[tete]] profil psy
+	- [[masse]] conditionne réponse
+	  à un stimuli
+		- [[tete]] réaction négative
+	- [[tete]] inception 
+	  stimuli
+		- [[structure du réseau]]
 - [[persuation]]
-  - [[Captologie]]
-    - url :: https://fr.wikipedia.org/wiki/Captologie
-    - [[Stanford Persuasive Technology Lab]]
-      - url :: https://captology.stanford.edu/go/welcome?lp-variation-id=0&from=
+	- [[Captologie]]
+		- url :: https://fr.wikipedia.org/wiki/Captologie
+		- [[Stanford Persuasive Technology Lab]]
+			- url :: https://captology.stanford.edu/go/welcome?lp-variation-id=0&from=
 - [["cold approach"]]
 - [[manipulation]]
-  - [[négociation]]
-  - [[RASCLS]]
-  - [[modele cohérent]]
-  - [[etat surcharge]]
-  - [[Croyance]]
-  - [[composants]]
-  - [[remote profiling]]
-    - [[dark tetrad]]
-    - [[HEXACO]]
-      - url :: https://en.wikipedia.org/wiki/HEXACO_model_of_personality_structure
-      - [[honesy humility]]
-      - [[emotionality]]
-      - [[extraversion]]
-      - [[agreeableness]]
-      - [[conscientiousness]]
-      - [[opennes to experience]]
-    - [[etat normal]]
-      - [[etat de routine]]
-    - [[source de dépandence]]
-      - [[Groupes sociaux]]
-        - [[travails]]
-        - [[amis]]
-        - [[familles]]
-        - [[religieux]]
-        - [[associations]]
-  - [[pyramide de Maslow]] m
-    - [[besoin d'accomplissement de soi]]
-    - [[besoin d'estime]]
-    - [[besoin d'appartenance et d'amour]]
-    - [[besoin de sécurité]]
-    - [[besoin physiologique]]
-  - [[marque]]
-    - [[slogan]]
-    - [[symbole]]
+	- [[négociation]]
+	- [[RASCLS]]
+	- [[modele cohérent]]
+	- [[etat surcharge]]
+	- [[Croyance]]
+	- [[composants]]
+	- [[remote profiling]]
+		- [[dark tetrad]]
+		- [[HEXACO]]
+			- url :: https://en.wikipedia.org/wiki/HEXACO_model_of_personality_structure
+			- [[honesy humility]]
+			- [[emotionality]]
+			- [[extraversion]]
+			- [[agreeableness]]
+			- [[conscientiousness]]
+			- [[opennes to experience]]
+		- [[etat normal]]
+			- [[etat de routine]]
+		- [[source de dépandence]]
+			- [[Groupes sociaux]]
+				- [[travails]]
+				- [[amis]]
+				- [[familles]]
+				- [[religieux]]
+				- [[associations]]
+	- [[pyramide de Maslow]] m
+		- [[besoin d'accomplissement de soi]]
+		- [[besoin d'estime]]
+		- [[besoin d'appartenance et d'amour]]
+		- [[besoin de sécurité]]
+		- [[besoin physiologique]]
+	- [[marque]]
+		- [[slogan]]
+		- [[symbole]]
 - [[peur]]
 - [[stress]]
 - [[superstitions]]
 - [[conception autorité et responsabilité]]
-  - note :: kelman et hamilton
-  - [[gens orienté par]]
-    - [[les règles]]
-      - note :: la responsabilité consiste à se soumettre au x exigences de l'autorité
-    - [[roles]]
-      - note :: responsabilité consite à remplir les obligations liéees au role
-    - [[valeur]]
-      - note :: responsabilité implique le recours à des critères intériorisés afin d'évaluer les conséquences des actes
+	- note :: kelman et hamilton
+	- [[gens orienté par]]
+		- [[les règles]]
+			- note :: la responsabilité consiste à se soumettre au x exigences de l'autorité
+		- [[roles]]
+			- note :: responsabilité consite à remplir les obligations liéees au role
+		- [[valeur]]
+			- note :: responsabilité implique le recours à des critères intériorisés afin d'évaluer les conséquences des actes
 - [[style de comportement]]
-  - [[rigidité]]
-  - [[équité]]
-  - [[investissement]]
-  - [[autonomie]]
-  - [[consistanc]]
+	- [[rigidité]]
+	- [[équité]]
+	- [[investissement]]
+	- [[autonomie]]
+	- [[consistanc]]
 - [[source d'influence]]
-  - [[source de dépandence]]
+	- [[source de dépandence]]
 - [[source de pression]]
-  - [[source de dépandence]]
+	- [[source de dépandence]]
 - [[traitre]]
-  - note :: les traitres « profond » : %tab;- %sp;beaucoup de choses en commun avec des (psychopathes) [...] ils s'abritent invariablemenet derrière les rationaliastions les plus étonnantent de leur comportement. les espions de melnick p 66 peu d'entre eux connaissent le remords qui aurait pu, peut-etre, sauver leurs ames Charles lathrop, the literary spy p 384 citaiton de citation .du livre précédemement cité %tab;- mené par de profond idéaux %tab;- le sentiment, qu'à eux seul, ils ont le moyen de changer le cour des choses.
+	- note :: les traitres « profond » : %tab;- %sp;beaucoup de choses en commun avec des (psychopathes) [...] ils s'abritent invariablemenet derrière les rationaliastions les plus étonnantent de leur comportement. les espions de melnick p 66 peu d'entre eux connaissent le remords qui aurait pu, peut-etre, sauver leurs ames Charles lathrop, the literary spy p 384 citaiton de citation .du livre précédemement cité %tab;- mené par de profond idéaux %tab;- le sentiment, qu'à eux seul, ils ont le moyen de changer le cour des choses.
 - [[solitude]]
-  - [[sansoucis]]
+	- [[sansoucis]]
 - [[argent]]
-  - [[sansoucis]]
+	- [[sansoucis]]
 - [[nouveauté]]
-  - [[sansoucis]]
+	- [[sansoucis]]
 - [[sexe]]
-  - [[sansoucis]]
+	- [[sansoucis]]
 - [[orgueil]]
-  - [[sansoucis]]
+	- [[sansoucis]]
 - [[utilité]]
-  - [[sansoucis]]
+	- [[sansoucis]]
 - [[contrainte]]
-  - [[sansoucis]]
+	- [[sansoucis]]
 - [[ideologie]]
-  - [[sansoucis]]
+	- [[sansoucis]]
 - [[suffisance]]
-  - [[sansoucis]]
+	- [[sansoucis]]
 - [[Salah Abdeslam]]
-  - note :: le danger d'avoir, dans l'entourage direct, un psychopathe ayant une forte aura (abaaoud)
-  - url :: https://fr.wikipedia.org/wiki/Salah_Abdeslam
+	- note :: le danger d'avoir, dans l'entourage direct, un psychopathe ayant une forte aura (abaaoud)
+	- url :: https://fr.wikipedia.org/wiki/Salah_Abdeslam
 - [[message]]
-  - note :: trop d'emphsae ou d'intensité, des arguments unilatéraux, une conclusion explicite jugée redondante, le message qui %sp;commence par asséner l'opinion de la source , une opition très divergente, un appel trop intese à la peur peuvent heurter et braquer les sujets contre la source , perçue comme manichèeenne, manipulatttrice, menaçante pour leur liberté et/ou leur confort, ce qui dévalorsie l'opition et les arguments qu'elle a exprimés. p 113 Moscovici, Serge. Psychologie sociale. Paris: PUF, 2017. m
-  - [[taux de divergence]]
-    - note :: adoption d'une analyse binaire ou intégration du message dans un processus de reflexion plus profond p 113 Moscovici, Serge. Psychologie sociale. Paris: PUF, 2017.
-  - [[argument]]
-    - note :: - bilatéraux - ordre, - complexité
-    - [[unilatéraux vs bilatéraux]]
-      - note :: Faison (1961) - nature du problème : sur un problème controverse ou inhabituel, il vauxt mieux argumenter de façon unilatérale - source : une source peu crédible a intéret à donner des arguments unilatéraux - des arguments unilatéraux aurait moins d'impact sur les personnes les plus intelligentes. une explication : la source inhibe la « réactance » du récepteur (Brehm, 1966), parce qu'elle donne une impression d'honneteté et d'objectivité et que , en montrant qu'elles saint qu'uil existe des opinion différentes que la sienne et fondées, elle ne prend pas les gens pour des cons.. Elle devient de ce fait sympathique et le récepteur est alors enclin à relativiser la portée des argumenst qui s'opposent au point de vue de la source, surtout si celle ci s'est montrèe capable del es réfuter p104 Moscovici, Serge. Psychologie sociale. Paris: PUF, 2017.
-    - [[ordre]]
-  - [[conclusion explicite ou implicite]]
-    - note :: les sujets intelligents se laissent plus persuader par un message dans lequel la conclusion est implicite, alors qu'avec des récepteurs dont le niveau d'insntruction est fable, il est plus efficase de donnér explicitement la conclusion. Mais on a moontré que si on laisse un certain temps s'écouler entnre la fin du message et le questionnaire d'attitude final, meme les sujets peu intelligents sont plus persuadés par un message dont ils tirent eux meme la conclusion. la prcoédure de contlusion implicite semble égalemente mieux réussir avec les récepteurs très motiwés, trés impliqués dans le problème. Moscovici, Serge. Psychologie sociale. Paris: PUF, 2017. après avoir visionner un film avec un placement de produit, %sp;les gens sont peu enclin le choisir si il était montrer de façon trop prégnante. Cialdini, Robert B, and Christophe Billon. Pré-suasion: une méthode révolutionnaire pour influencer et persuader, 2017.
-  - [[personnalisé]]
-    - note :: un message auxquel on s'identifie a un impact plus grand - remplacer un «on» par un «vous» - parler à un habitaint du midwest de la conséquence du réchauffement climatique sur l'agriculture au lieu du lui parler des ours polaires (Popović, Srđa, and Matthew Miller. Comment faire tomber un dictateur: quand on est seul, tout petit, et sans armes, 2017. p111) -
+	- note :: trop d'emphsae ou d'intensité, des arguments unilatéraux, une conclusion explicite jugée redondante, le message qui %sp;commence par asséner l'opinion de la source , une opition très divergente, un appel trop intese à la peur peuvent heurter et braquer les sujets contre la source , perçue comme manichèeenne, manipulatttrice, menaçante pour leur liberté et/ou leur confort, ce qui dévalorsie l'opition et les arguments qu'elle a exprimés. p 113 Moscovici, Serge. Psychologie sociale. Paris: PUF, 2017. m
+	- [[taux de divergence]]
+		- note :: adoption d'une analyse binaire ou intégration du message dans un processus de reflexion plus profond p 113 Moscovici, Serge. Psychologie sociale. Paris: PUF, 2017.
+	- [[argument]]
+		- note :: - bilatéraux - ordre, - complexité
+		- [[unilatéraux vs bilatéraux]]
+			- note :: Faison (1961) - nature du problème : sur un problème controverse ou inhabituel, il vauxt mieux argumenter de façon unilatérale - source : une source peu crédible a intéret à donner des arguments unilatéraux - des arguments unilatéraux aurait moins d'impact sur les personnes les plus intelligentes. une explication : la source inhibe la « réactance » du récepteur (Brehm, 1966), parce qu'elle donne une impression d'honneteté et d'objectivité et que , en montrant qu'elles saint qu'uil existe des opinion différentes que la sienne et fondées, elle ne prend pas les gens pour des cons.. Elle devient de ce fait sympathique et le récepteur est alors enclin à relativiser la portée des argumenst qui s'opposent au point de vue de la source, surtout si celle ci s'est montrèe capable del es réfuter p104 Moscovici, Serge. Psychologie sociale. Paris: PUF, 2017.
+		- [[ordre]]
+	- [[conclusion explicite ou implicite]]
+		- note :: les sujets intelligents se laissent plus persuader par un message dans lequel la conclusion est implicite, alors qu'avec des récepteurs dont le niveau d'insntruction est fable, il est plus efficase de donnér explicitement la conclusion. Mais on a moontré que si on laisse un certain temps s'écouler entnre la fin du message et le questionnaire d'attitude final, meme les sujets peu intelligents sont plus persuadés par un message dont ils tirent eux meme la conclusion. la prcoédure de contlusion implicite semble égalemente mieux réussir avec les récepteurs très motiwés, trés impliqués dans le problème. Moscovici, Serge. Psychologie sociale. Paris: PUF, 2017. après avoir visionner un film avec un placement de produit, %sp;les gens sont peu enclin le choisir si il était montrer de façon trop prégnante. Cialdini, Robert B, and Christophe Billon. Pré-suasion: une méthode révolutionnaire pour influencer et persuader, 2017.
+	- [[personnalisé]]
+		- note :: un message auxquel on s'identifie a un impact plus grand - remplacer un «on» par un «vous» - parler à un habitaint du midwest de la conséquence du réchauffement climatique sur l'agriculture au lieu du lui parler des ours polaires (Popović, Srđa, and Matthew Miller. Comment faire tomber un dictateur: quand on est seul, tout petit, et sans armes, 2017. p111) -
 - [[confiance en soi]]
-  - note :: capacité à se laisser influencer
+	- note :: capacité à se laisser influencer
 - [[la peur]]
-  - note :: - une forte peur a plus d'effet qu'une faible peur sur l'opinion, mais qu'elle a moins d'effet qu'une faible peur sur les intentions d'agir dans le sens de la recommandatino, et encore moins sur le passage à l'acte, cad sur la conduite du réel. - type de problème : arreter ou eviter - l'importance du problem pour le récepteur : pour un problème peu important, le fort appel à la peura plus d'effet - la manière dant la recommandation est présentée : solution -> fort appel à la peur, aucun remède, accentuation du problème si fort appel à la peur - recommandation au début - solution proposée soit très clairement présentée et spécifique du danger à évitér - crédibilité de la source - trait de personalité des récepteurs: un messgage très effrayant est plus efficace pour les sujets qui ont une haute idée d'eux meme et pour ceux qui sont, par nature , peu anxieux. Mais c'est le message modéré qui réussit le mieux à persuader les sujets à faibles estime d'eux meme et ceux qui sont chroniquemente anxieux.
+	- note :: - une forte peur a plus d'effet qu'une faible peur sur l'opinion, mais qu'elle a moins d'effet qu'une faible peur sur les intentions d'agir dans le sens de la recommandatino, et encore moins sur le passage à l'acte, cad sur la conduite du réel. - type de problème : arreter ou eviter - l'importance du problem pour le récepteur : pour un problème peu important, le fort appel à la peura plus d'effet - la manière dant la recommandation est présentée : solution -> fort appel à la peur, aucun remède, accentuation du problème si fort appel à la peur - recommandation au début - solution proposée soit très clairement présentée et spécifique du danger à évitér - crédibilité de la source - trait de personalité des récepteurs: un messgage très effrayant est plus efficace pour les sujets qui ont une haute idée d'eux meme et pour ceux qui sont, par nature , peu anxieux. Mais c'est le message modéré qui réussit le mieux à persuader les sujets à faibles estime d'eux meme et ceux qui sont chroniquemente anxieux.
 - [[recepteur]]
 - [[immuniser le récepteur contre la persuasion]]
-  - note :: seul efficase le truisme de defense : ils lisent ou doivent trouver par eux memes des arguments contre les truismes et leur réfutations.
+	- note :: seul efficase le truisme de defense : ils lisent ou doivent trouver par eux memes des arguments contre les truismes et leur réfutations.
 - [[environnement]]
 - [[distraction]]
 - [[contexte social]]
 - [[atmosphere]]
 - [[ancre]]
-  - [[facilitation social]]
-    - note :: ancre social
-  - [[attention]]
-    - [[conditionnement]]
-      - note :: exposer la cible à une réponse auquel on souhaite le conduire, (ex: la somme que les gens se disaient etre prets à depenser au restaurant grimpait quand ce dernier s'appelait Studio 97, par rapport à Studio 17; le prix qu'ils étaient diposés à payer pour s'offrir des chocolats belge était plus important si on leur avait demané auparavaint d'écrire deux chiffres élevés de leur numéro de Securité sociale; les participants à une étude sur la performance autravail prèvoyaient un investissement et des résultats meilleurs de leur part si l'étude s'appelait éxpérience 44 plutot qu'expérience 9; un observateur jugeait meilleure la performance d'un sportif s'il portaient un maillot sur lequel était floqué un numéro élevé. Cialdini, Robert B, and Christophe Billon. Pré-suasion: une méthode révolutionnaire pour influencer et persuader, 2017.
-      - [[(de)focalisation]]
-        - note :: - clignement attentionnel : porte ouverte à l'injection - surcharger le récepteur afin de le rendre réceptif ou - faire prendre à un facteur une dimension disproportionné: elle devient alors la cause de l'«effet» sur lequel est porté une attention %tab;- inclure un élément nouveaeu dans l'environement
-        - [[ne pas terminer / laisser sur sa faim]]
-        - [[mystère]]
-      - [[intensification]]
-      - [[association]]
-        - note :: - programmer une réponse par rapport à un stimuli (pavlov) %tab;- à chaque fois que je mange, je me brosse les dents
-      - [[magnifier]]
-        - note :: rendre quelque chose important dans un contexte donnée - faire appel à systeme limbique
-      - [[ouvrir à la suggestion]]
-        - note :: une musique allemande dans un magasin de vente de vin allemand - si nous voulons les convaincre de choisir un produit très apprécié , nous pouvons commencer par leur montrer un film qui donne le frisson - si nous voulons qu'ils soient chaleureux avec nous, nous pouvons leur tendre une boisson chaude
-      - [[reduction des champs des possibles]]
-        - note :: - préprogrammer une association avec un stimuli.
-    - [[engagement]]
-      - note :: face à des patiens qui refusaient de prendre en compte une remarque qu'il estimait essentielle pour laur progression. dr erickson attendait qu'un poids lourd grimpe la cote situee devaint son cabinet. puis il attendait que le bruit du camion soit à son maxi pour remttre la remarque essentielle sur le tapis en parlaint moins fort. - si nous voulons qu'ils acceptent d'essyer un produit non encore testé, nous pouvons d'abord leur demander s'ils considèrent avoir un esprit aventurier p54 Cialdini, Robert B, and Christophe Billon. Pré-suasion: une méthode révolutionnaire pour influencer et persuader, 2017.
-      - [[active]]
-        - note :: - choisir un produit apres seulement un temps court de comparaison par rapport à d'autre, alors celui qui sera choisie doit "cocher" le plus grand nombre de case -
-      - [[volontaire]]
-      - [[laborieu]]
-  - [[confiance]]
+	- [[facilitation social]]
+		- note :: ancre social
+	- [[attention]]
+		- [[conditionnement]]
+			- note :: exposer la cible à une réponse auquel on souhaite le conduire, (ex: la somme que les gens se disaient etre prets à depenser au restaurant grimpait quand ce dernier s'appelait Studio 97, par rapport à Studio 17; le prix qu'ils étaient diposés à payer pour s'offrir des chocolats belge était plus important si on leur avait demané auparavaint d'écrire deux chiffres élevés de leur numéro de Securité sociale; les participants à une étude sur la performance autravail prèvoyaient un investissement et des résultats meilleurs de leur part si l'étude s'appelait éxpérience 44 plutot qu'expérience 9; un observateur jugeait meilleure la performance d'un sportif s'il portaient un maillot sur lequel était floqué un numéro élevé. Cialdini, Robert B, and Christophe Billon. Pré-suasion: une méthode révolutionnaire pour influencer et persuader, 2017.
+			- [[(de)focalisation]]
+				- note :: - clignement attentionnel : porte ouverte à l'injection - surcharger le récepteur afin de le rendre réceptif ou - faire prendre à un facteur une dimension disproportionné: elle devient alors la cause de l'«effet» sur lequel est porté une attention %tab;- inclure un élément nouveaeu dans l'environement
+				- [[ne pas terminer / laisser sur sa faim]]
+				- [[mystère]]
+			- [[intensification]]
+			- [[association]]
+				- note :: - programmer une réponse par rapport à un stimuli (pavlov) %tab;- à chaque fois que je mange, je me brosse les dents
+			- [[magnifier]]
+				- note :: rendre quelque chose important dans un contexte donnée - faire appel à systeme limbique
+			- [[ouvrir à la suggestion]]
+				- note :: une musique allemande dans un magasin de vente de vin allemand - si nous voulons les convaincre de choisir un produit très apprécié , nous pouvons commencer par leur montrer un film qui donne le frisson - si nous voulons qu'ils soient chaleureux avec nous, nous pouvons leur tendre une boisson chaude
+			- [[reduction des champs des possibles]]
+				- note :: - préprogrammer une association avec un stimuli.
+		- [[engagement]]
+			- note :: face à des patiens qui refusaient de prendre en compte une remarque qu'il estimait essentielle pour laur progression. dr erickson attendait qu'un poids lourd grimpe la cote situee devaint son cabinet. puis il attendait que le bruit du camion soit à son maxi pour remttre la remarque essentielle sur le tapis en parlaint moins fort. - si nous voulons qu'ils acceptent d'essyer un produit non encore testé, nous pouvons d'abord leur demander s'ils considèrent avoir un esprit aventurier p54 Cialdini, Robert B, and Christophe Billon. Pré-suasion: une méthode révolutionnaire pour influencer et persuader, 2017.
+			- [[active]]
+				- note :: - choisir un produit apres seulement un temps court de comparaison par rapport à d'autre, alors celui qui sera choisie doit "cocher" le plus grand nombre de case -
+			- [[volontaire]]
+			- [[laborieu]]
+	- [[confiance]]
 - [[intégrer]]
-  - note :: intégrer les racines du recepteur, son histoire, ses racines: l'identité - meme endroit - meme ligné
+	- note :: intégrer les racines du recepteur, son histoire, ses racines: l'identité - meme endroit - meme ligné
 - [[synchroniser]]
-  - note :: - se synchroniser en musique, en marchant, telle des neurones miroirs
+	- note :: - se synchroniser en musique, en marchant, telle des neurones miroirs
 - [[fusionner]]
-  - note :: partager son intimiter chacun son tour creer ensemble
+	- note :: partager son intimiter chacun son tour creer ensemble
 - [[ID 2409]]
 - [[influencer]]
-  - [[conformité]]
-    - [[intériorisation]]
-    - [[identification]]
-    - [[suivisme]]
-      - [[présence d'une contrainte]]
-      - [[menace d'une sanction]]
+	- [[conformité]]
+		- [[intériorisation]]
+		- [[identification]]
+		- [[suivisme]]
+			- [[présence d'une contrainte]]
+			- [[menace d'une sanction]]
 - [[influence minoritaire]]
-  - note :: - est intériorisé, et dotant plus importante qu'elle est éloigné d'une opinion antérieur à l'expérience, consistante, non contraignante et insidueuse. p163 Moscovici, Serge. Psychologie sociale. Paris: PUF, 2017.
+	- note :: - est intériorisé, et dotant plus importante qu'elle est éloigné d'une opinion antérieur à l'expérience, consistante, non contraignante et insidueuse. p163 Moscovici, Serge. Psychologie sociale. Paris: PUF, 2017.
 - [[emeteur]]
-  - note :: - les indices de crédibilité semblent jouer un role d'autant plus important que le sujet récepteur est moins impliqué par le thème de la discussion et qu'il est donc enclin à accepter ou à rejeter les conclusions du message sur la seule base de la compétence percçue, sans tenir compte de la teneur argumenative du message p480 Moscovici, Serge. Psychologie sociale. Paris: PUF, 2017.
+	- note :: - les indices de crédibilité semblent jouer un role d'autant plus important que le sujet récepteur est moins impliqué par le thème de la discussion et qu'il est donc enclin à accepter ou à rejeter les conclusions du message sur la seule base de la compétence percçue, sans tenir compte de la teneur argumenative du message p480 Moscovici, Serge. Psychologie sociale. Paris: PUF, 2017.
 - [[communication de masse]]
-  - note :: l'influence des messages de la communication de masse passe beaucoup plus par des groupes sociaux auxquel on appartient que par l'exposition directe à des messages persuasifs p504 Moscovici, Serge. Psychologie sociale. Paris: PUF, 2017.
+	- note :: l'influence des messages de la communication de masse passe beaucoup plus par des groupes sociaux auxquel on appartient que par l'exposition directe à des messages persuasifs p504 Moscovici, Serge. Psychologie sociale. Paris: PUF, 2017.
 - [[structure]]
-  - note :: bine discipilnées et efficacement organisées de participants: ceremonie de JO, parades militaires - les foules paniqueées ou enthousiasestes qui remplissent les rues
+	- note :: bine discipilnées et efficacement organisées de participants: ceremonie de JO, parades militaires - les foules paniqueées ou enthousiasestes qui remplissent les rues
 - [[foules et masses]]
-  - note :: Moscovici, Serge. Psychologie sociale. Paris: PUF, 2017.
-  - [[aspects non sociaux]]
-    - [[foule]]
-      - note :: nombre
-    - [[masse]]
-      - note :: spatial
-    - [[collectivité]]
-      - [[3 dimensions temporelles]]
-        - [[fréquence]]
-          - note :: - phénomènes de masse rares , tel le suicide collectif ou l'assasinat den masse tel que la shoa - les foules aux heures de pointes
-        - [[durée]]
-          - note :: les masses de gens vivant dans un quartier à grande densité de population - les foules en émeute
-        - [[vitesse]]
-    - [[conditions écologiques]]
-      - note :: architectures ou techniques ( habitat à forte densité, terrains de sport)
-  - [[aspects sociaux]]
-    - [[sociétale]]
-      - note :: mouvements sociaux: marches pour la paix, droit civique
-    - [[institutionnelle]]
-      - note :: l'eglise, l'industrie, syndicats, parties politiques
-    - [[historique]]
-      - note :: fetes nationales, traditionnelles foules habituelle dans les transports en commun à 7h en banlieu
-    - [[normativité]]
-      - note :: les gens bien élevés du train de 7h les émeutiers
-    - [[collectivité s'oppose à l'individualité]]
-      - note :: - la masse qui accclame ou siflfe sur les gradins , suicide de masse vs les masse aux heures de pointe aux croisements de rue très fréquentées, un agrégat de personnes dans un quartier d'affaire
-    - [[leader vs sans leader]]
-  - [[dimensions psycologiques]]
-  - [[densite spatiale et de population]]
-    - note :: l-es étudiants vivant dans ldes dortairs à population dense présentaient plus de comportements de retrait social que ceux vivant dans un entourage moins dense. ils tendaient à évitér les autres à leur étage, parlaient moins, s'asseyaient plus loin d'inconnus au laboratoire, et éprouvaient un malaise plus grand en présence d'inconnus (Baum et Valins, 1977) p 537 - la densité fait décroitre l'accomplisesmeent de taches complexes, mais n'affecte pas les taches simples - les femmes semblent réagir de facon plus positive à la densité sociospactiale que les hommes. lors de 5 procès, on leur a demandé de les écouter et de donner leur verdict pour chaque cas ensuite. on a trouvé que les femmes étaient bien plus clémentes dans la condition de haute densité que l'inverse , alors que les hommes tendaient à formuer des verdicts plus néfatifs dans la pièce de hauten densité que dans celle de basse densitét Moscovici, Serge. Psychologie sociale. Paris: PUF, 2017.
+	- note :: Moscovici, Serge. Psychologie sociale. Paris: PUF, 2017.
+	- [[aspects non sociaux]]
+		- [[foule]]
+			- note :: nombre
+		- [[masse]]
+			- note :: spatial
+		- [[collectivité]]
+			- [[3 dimensions temporelles]]
+				- [[fréquence]]
+					- note :: - phénomènes de masse rares , tel le suicide collectif ou l'assasinat den masse tel que la shoa - les foules aux heures de pointes
+				- [[durée]]
+					- note :: les masses de gens vivant dans un quartier à grande densité de population - les foules en émeute
+				- [[vitesse]]
+		- [[conditions écologiques]]
+			- note :: architectures ou techniques ( habitat à forte densité, terrains de sport)
+	- [[aspects sociaux]]
+		- [[sociétale]]
+			- note :: mouvements sociaux: marches pour la paix, droit civique
+		- [[institutionnelle]]
+			- note :: l'eglise, l'industrie, syndicats, parties politiques
+		- [[historique]]
+			- note :: fetes nationales, traditionnelles foules habituelle dans les transports en commun à 7h en banlieu
+		- [[normativité]]
+			- note :: les gens bien élevés du train de 7h les émeutiers
+		- [[collectivité s'oppose à l'individualité]]
+			- note :: - la masse qui accclame ou siflfe sur les gradins , suicide de masse vs les masse aux heures de pointe aux croisements de rue très fréquentées, un agrégat de personnes dans un quartier d'affaire
+		- [[leader vs sans leader]]
+	- [[dimensions psycologiques]]
+	- [[densite spatiale et de population]]
+		- note :: l-es étudiants vivant dans ldes dortairs à population dense présentaient plus de comportements de retrait social que ceux vivant dans un entourage moins dense. ils tendaient à évitér les autres à leur étage, parlaient moins, s'asseyaient plus loin d'inconnus au laboratoire, et éprouvaient un malaise plus grand en présence d'inconnus (Baum et Valins, 1977) p 537 - la densité fait décroitre l'accomplisesmeent de taches complexes, mais n'affecte pas les taches simples - les femmes semblent réagir de facon plus positive à la densité sociospactiale que les hommes. lors de 5 procès, on leur a demandé de les écouter et de donner leur verdict pour chaque cas ensuite. on a trouvé que les femmes étaient bien plus clémentes dans la condition de haute densité que l'inverse , alors que les hommes tendaient à formuer des verdicts plus néfatifs dans la pièce de hauten densité que dans celle de basse densitét Moscovici, Serge. Psychologie sociale. Paris: PUF, 2017.
 - [[contrainte de comportement]]
 - [[surcharge de stimuli]]
 - [[modèle ecologique]]
 - [[Cortex Insulaire]]
-  - url :: https://fr.wikipedia.org/wiki/Cortex_insulaire
+	- url :: https://fr.wikipedia.org/wiki/Cortex_insulaire
 - [[The Cognitive Bias Codex 
-(French) John Manoogian I...]]
-  - url :: https://upload.wikimedia.org/wikipedia/commons/1/16/The_Cognitive_Bias_Codex_%28French%29_-_John_Manoogian_III_%28jm3%29.svg
+  (French) John Manoogian I...]]
+	- url :: https://upload.wikimedia.org/wikipedia/commons/1/16/The_Cognitive_Bias_Codex_%28French%29_-_John_Manoogian_III_%28jm3%29.svg

@@ -80,5 +80,6 @@
 - [[appréhender au mieux les la composition des coûts de transport]]
 - [[définissez la tarification de vos frais de transport]]
 - [[définissez l'itinéraire de votre prestation de transport]]
+- [[appréhender le modèle scor]]
 -
 -

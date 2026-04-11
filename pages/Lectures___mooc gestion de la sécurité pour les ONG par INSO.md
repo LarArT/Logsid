@@ -1,4 +1,4 @@
-source:: https://ready.csod.com/lms/scorm/clientLMS/Scorm12IframeContainer.aspx?aicc_sid=AICCjim_l_-pUXndrL9atWX30Q&aicc_url=https://ready.csod.com/LMS/scorm/aicc.aspx
+source:: https://ngosafety.org/latest/lancement-de-la-formation-en-ligne-en-francais-inso/
 
 -
 - Repose beaucoup sur ce document:

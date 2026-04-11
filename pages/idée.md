@@ -232,6 +232,7 @@
 	- # gestion des risques
 		- [[registre des actifs]]
 		- https://ready.csod.com/ui/lms-learning-details/app/test/3308f459-d6c3-46a4-9223-f4c50a3ab6ee
+		- [[Planification et affectation des ressources aux activités de gestion des risques de sécurités]]
 		- ## EBIOS
 			- [[méthode EBIOS]]
 		- ## SSI
