@@ -402,9 +402,9 @@
 		- [[méthodologie de l'enquête]]
 		- [fiche méthodologique de sciences Po liepp](https://www.sciencespo.fr/liepp/fr/publications/liepp/fiches-methodologiques/)
 		- [valeur de référence pour valoriser les effets non marchands référencer dans le complément b de cette page](https://www.strategie-plan.gouv.fr/conseil-scientifique-des-methodes-devaluation-socioeconomique)
-		-
+	- ## géographie
+	- [[lectures/mooc **Systèmes d'Information Géographique**]]
 - # urbanisme
-  collapsed:: true
 	- [[Scot (schéma de cohérence territoriale)]]
 - # entrepreneuriat 0
   [[Plan d'investissement]]
