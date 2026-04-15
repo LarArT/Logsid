@@ -4,5 +4,6 @@
 - [explorer les distributions statistiques Caltech](https://distribution-explorer.github.io/index.html?hl=fr-FR-u-fw-mon-mu-celsius)
 - [[détermination loi statistique]]
 - [[standard error]]
+- [[test statistique]]
 -
 -
