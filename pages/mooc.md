@@ -8,6 +8,7 @@
 -
 - https://www.peaceopstraining.org/fr/users/account-registration/
 - https://www.supagro.fr/wordpress/modeleco/
+- MOOC bibliothèque https://callisto-formation.fr/course/view.php?id=952
 -
 - ## mouk avoir
 	- Formation : MOOC Parcours PME bpi

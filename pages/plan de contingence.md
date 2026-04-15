@@ -1,3 +1,5 @@
+-
+- [guide de référence plan de contingence CICR](https://www.ifrc.org/sites/default/files/2025-09/Contingency%20Planning%20Guide%20for%20National%20Societies_2025.pdf)
 - Voici la conversion de votre document sur les Plans de Contingence au format Markdown, structurée pour une consultation rapide en cas d'urgence :
   Plans de Contingence
   Un plan de contingence (ou plan d'urgence) est une réponse globale définissant les actions à entreprendre lorsqu'une crise survient dans un contexte humanitaire. Le terme vient du latin contingentia, signifiant « hasard ».
