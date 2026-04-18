@@ -1,5 +1,6 @@
 - Voici une retranscription de la carte mentale "Tests Statistiques Usuels" structurée pour **Logseq** (format Markdown avec hiérarchie par puces).
   [[Bien choisir ses tests statistiques]]
+  [[Bien choisir ses tests bis]]
 - ## Tests Statistiques Usuels
   * **Évaluation des Conditions d'Application**
    * **Normalité**

@@ -59,6 +59,7 @@
 	- [[lectures/mooc piloter votre supply chain]]
 	- [[Manuel et plateforme de référence]]
 	- [[ouvreur de marché]]
+	  [[Rôle les responsabilités de la chaîne logistique]]
 - # SST
   collapsed:: true
 	- [cours SST par l'Organisation internationale du travail](https://www.iloencyclopaedia.org/fr/)
@@ -263,6 +264,9 @@
 	- [classification des incidents](https://giis-fr.insecurityinsight.org/tools-and-resources/classification-of-incidents)
 	- ### DPO
 	  collapsed:: true
+	  ### gestion de crise 
+	  
+	  [Manuel de gestion de crise] : Crisis Management of Critical Incidents EISF Briefing Paper
 		- [[DPO]]
 		- [[rgpd en bref]]
 		- [table et cahier de la CNIL](https://www.cnil.fr/fr/tables-informatique-et-libertes-cahiers-decisions-2024) : doctrine et décision rendue
@@ -404,7 +408,6 @@
 	  collapsed:: true
 		- [[chimie]]
 	- ## Intelligence artificielle
-	  collapsed:: true
 		- Deep learning with certified robustness
 		  collapsed:: true
 			- • [[Probabilistic programming]] with dependent types: Cette approche permet de représenter des programmes probabilistes de manière rigoureuse et de raisonner sur leur comportement.
@@ -427,7 +430,8 @@
 					   SequeL (Lille) et 
 					  TAU (Saclay, issu du LIMSI et du LRI qui sont devenus le lisn (pôle mondial) et lmf; compréhension des causes
 		- [[axe de recherche française sur l'intelligence artificielle]]
-		-
+		- [LMM visualisation](https://bbycroft.net/llm)
+		  [[Les différents outils d ia]]
 	- ## droit
 	  collapsed:: true
 		- [[introduction droit]]

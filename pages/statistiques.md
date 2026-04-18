@@ -5,5 +5,7 @@
 - [[détermination loi statistique]]
 - [[standard error]]
 - [[test statistique]]
+  [[Regression]]
+-
 -
 -
