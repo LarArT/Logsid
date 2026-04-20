@@ -65,3 +65,5 @@
   * Les cellules vides (en gris dans votre image) ont été marquées par un tiret (**—**) pour plus de clarté.
   * Les termes ont été fidèlement retranscrits pour respecter les processus de validation et de vérification préalable mentionnés.
 -
+- [[planification]]
+-

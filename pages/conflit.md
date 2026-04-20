@@ -1,6 +1,23 @@
 - [[diagramme d’Ishikawa]]
-	- Le conflit est larvé :
-		- Lors de l'étape 3 chaque élément du conflit est réparti dans un groupe
+- Le triangle de la violence de Galtung
+	- Violence directe 
+	  Violence structurelle 
+	  Violence culturelle
+- La complexité du conflit suivant galtung
+	- Attitude
+		- L'attitude est une **disposition mentale**. C'est la préparation à l'action, mais elle n'est pas directement observable par les autres.
+		- ​**Composantes :** Elle se forme généralement par un mélange de vos croyances (cognitif), de vos émotions (affectif) et de vos intentions.
+		- ​**Caractéristique :** Elle est relativement stable dans le temps.
+	- Behaviour
+		- omportement est la **manifestation concrète** et observable. C'est ce que vous faites réellement à un moment donné.
+		- ​**Composantes :** C'est une réaction à un stimulus ou à un environnement.
+		- ​**Caractéristique :** Il peut être ponctuel et changer selon le contexte (pression sociale, fatigue, opportunité).
+	- Comportement
+		- ​Elle peut être un conflit de **besoins** (besoin de reconnaissance vs besoin d'autonomie).
+		- ​Elle peut être un conflit de **valeurs** (religion vs laïcité).
+		- ​Elle peut être un conflit de **ressources** (argent, temps, espace).
+- Le conflit est larvé :
+	- Lors de l'étape 3 chaque élément du conflit est réparti dans un groupe
 - Pour qu'un conflit ait lieu il faut impérativement :
 	- Divergence d'opinion
 	- Émotion
@@ -21,33 +38,28 @@
 		- Contamination groupe
 		- Crédibilité du manager
 - Source de conflit :
-  collapsed:: true
-	- Traitapble
-	  collapsed:: true
-		- Traiter et fait
-		- Divergence d'opinion
-		- Structure organisationnelle
+	- Traitable
+		- Conflit relationnel
+			- Besoin humain
+			- Relation communautaire
+			- Inégalité structurelle
+			- Pouvoir politique
+		-
 	- Non traitable
-	  collapsed:: true
 		- Valeur
-		  collapsed:: true
 			- Formation
 			- Générationnel
 		- Personnalité
 		- Environnement
-		  collapsed:: true
 			- Économique
 			- Normatif /législatif
 	- Environnement
-	  collapsed:: true
 		- Contexte économique (faillite)
 		- Main d'oeuvre diversifiée (culturel)
 	- Organisationnel
-	  collapsed:: true
 		- Charge de travail
 		- Leadership
 	- Structurel
-	  collapsed:: true
 		- Procédure floue
 - Efficacité d'une solution :
 	- Stabilité
@@ -73,10 +85,6 @@
 - Identifier -> catégoriser -> formuler
 -
 - ## 1. Sources (Vert)
-	- ### ​A. Sources traitables
-		- ​**Données et faits** : Désaccords basés sur des informations divergentes ou incomplètes.
-		- ​**Intérêts divergeants** : Besoins ou objectifs différents entre les parties.
-		- ​**Structures organisationnelles** : Problèmes liés à la hiérarchie, aux rôles ou aux processus.
 	- ### ​B. Sources non traitables
 		- ​**Valeurs** : Croyances profondes et principes moraux.
 		- ​**Personnalités peu compatibles** : Tempéraments ou styles de communication qui s'entrechoquent.
@@ -94,6 +102,10 @@
 		- Intérêt tangible/concret
 		- Intérêt psychologique
 		- Intérêt procédural
+- ### ​A. Sources traitables
+	- ​**Données et faits** : Désaccords basés sur des informations divergentes ou incomplètes.
+	- ​**Intérêts divergeants** : Besoins ou objectifs différents entre les parties.
+	- ​**Structures organisationnelles** : Problèmes liés à la hiérarchie, aux rôles ou aux processus.
 - stratégie Intervention :
 	- Identifier la source
 		- Arbre des causes
@@ -113,16 +125,19 @@
 	- Moduler le facteur
 - Voici le détail des 9 stades regroupés en 3 grands niveaux de gravité, présentés de manière synthétique :
 	- Niveau 1 : Gagnant-Gagnant (Le conflit est encore gérable)
+	  collapsed:: true
 	  À ce stade, une résolution est possible par la discussion et la médiation simple.
 		- Durcissement : Les opinions s'affrontent, mais on croit encore qu'on peut résoudre le problème par la discussion.
 		- Débat et Polémique : On essaie de convaincre l'autre. L'usage de la logique laisse place à l'émotion et à la tactique.
 		- Les actes, pas les mots : On ne croit plus à la discussion. On agit (faits accomplis) pour bloquer l'autre, mais on évite encore de le blesser directement.
 	- Niveau 2 : Gagnant-Perdant (L'un doit gagner, l'autre doit perdre)
+	  collapsed:: true
 	  La relation humaine disparaît au profit de la victoire personnelle. On cherche à humilier l'adversaire.
 		- Images et Coalitions : On cherche des alliés. On "diabolise" l'autre : il est le méchant, je suis le gentil.
 		- Perte de face : Attaque directe et publique de l'intégrité de l'autre. La confiance est totalement brisée.
 		- AStratégies de menaces : On utilise le chantage et les ultimatums pour forcer l'autre à céder.
 	- Niveau 3 : Perdant-Perdant (La destruction totale)
+	  collapsed:: true
 	  On ne cherche plus à gagner, mais à anéantir l'autre, même si cela nous coûte tout.
 		- Destruction limitée : On cherche à nuire physiquement ou matériellement à l'autre de manière ciblée.
 		- Éclatement (Fragmentation) : On vise la destruction du système de survie de l'adversaire (sa réputation, son emploi, sa famille).
@@ -148,7 +163,7 @@
 	- ## Résolution
 		- Solution
 		- Consolidation
-		- Suivi
+	- Suivi
 	- ## faire face aux impasses
 		- [[stratégie de résolution]]
 -

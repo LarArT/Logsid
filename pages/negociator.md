@@ -27,16 +27,24 @@
 		- Section 4 : Les fausses positions (p. 128)
 		- Section 5 : La crédibilité des menaces et ultimatums (p. 136)
 		- Parole d'expert : Malick Baulet (p. 137)
-	- [[Chapitre 4 : Cartographie des acteurs]] (p. 153)
-		- Section 1 : Se renseigner avant de négocier (p. 154)
-		- Section 2 : L'organisation de la partie adverse (p. 173)
-		- Section 3 : Les profils complexes (p. 185)
-		- Section 4 : Interculture et négociation (p. 209)
-			- Modèle culturel
-				- [[ modèle Meyer]]
-				- Modèle h o F t e D E
-				- [[Modèle ADN]]
-		- Parole d'expert : Rabih el Haddad (p. 211)
+		- [[Chapitre 4 : Cartographie des acteurs]] (p. 153)
+			- Section 1 : Se renseigner avant de négocier (p. 154)
+				- Section 2 : L'organisation de la partie adverse (p. 173)
+					- Rôle des acteurs 
+					  Primaire 
+					  Secondaire
+					  Pyramide des acteurs : dˆ évaluer le pouvoir qu'ils exercent (ressources, pouvoir, influence)
+					  Acteurs de base 
+					  Acteur intermédiaire
+					  Leader de haut niveau
+					  Catégorie des acteurs
+				- Section 3 : Les profils complexes (p. 185)
+				- Section 4 : Interculture et négociation (p. 209)
+					- Modèle culturel
+						- [[ modèle Meyer]]
+						- Modèle h o F t e D E
+						- [[Modèle ADN]]
+			- Parole d'expert : Rabih el Haddad (p. 211)
 	- [[Chapitre 5 : Identification de la stratégie]] (p. 231)
 		- [utilisation de la TCC](https://www.modernisation.gouv.fr/files/2021-06/ditp_sc_cartesenligne_v3_compresse_0.pdf)
 		- Section 1 : Qu'est-ce que la stratégie ? (p. 232)
@@ -53,6 +61,7 @@
 		- Parole d'expert : Silvia Bravard (p. 299)
 		- Section 7 : Stratégies de négociation avancées (p. 304)
 		- Section 8 : Planifier la stratégie de négociation : le ROOL (p. 309)
+		  En ce qui concerne la constitution d'une équipe de négociateurs et les profils de négociateur et leurs atouts et faiblesses par rapport au style de négociation ou de conflit on peut consulter le MOOC de unitar sur la résolution de conflit partie 1, elle indique les atouts et faiblesses des style de négociateur : https://learnatunitar.org/mod/scorm/player.php?a=9486&currentorg=Qu%E2%80%99est-ce_que_le_conflit%C2%A0?_ORG&scoid=21095&sesskey=mSMntjKgf3&display=popup&mode=normal
 	- [[Chapitre 6 : Formation de l'équipe de négociation]] (p. 315)
 		- Section 1 : Pourquoi une équipe de négociation ? (p. 316)
 		- Section 2 : Les profils de négociateur (p. 324)

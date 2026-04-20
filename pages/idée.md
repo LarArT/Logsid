@@ -169,11 +169,12 @@
 		- [[Préalable à la négociation]]
 		- [[négociation]]
 		- [[negociator]]
+			-
 	- ## conflit
-	  collapsed:: true
 		- mode alternatifs de règlement des litiges marl)
 		- Analyse du contexte : [voir la section template de ce document](https://gppac.net/files/2018-11/GPPAC%20CAFGuide_Interactive%20version_febr2018_.pdf)
 		  id:: 69b6a858-91ec-4d0b-9a4e-2ec5036c9d62
+		  [[conflit]]
 	- ## sécurité publique
 	  collapsed:: true
 		- [[Dictionnaire des vocabulaires et expressions-types utilisés dans la rédaction des procédures de police administrative et judiciaire]]
@@ -236,7 +237,6 @@
 	  collapsed:: true
 		- [formation](https://www.83-629.fr/formation-des-referents-surete-a-lecole-nationale-superieure-de-la-police-ouverte-aux-acteurs-prives/)
 	- ## sûreté
-	  collapsed:: true
 		- [[étude de cas système de vidéo surveillance]]
 		  [[étude de cas détection intrusion]]
 		- [[sûreté en entreprise]]
@@ -250,11 +250,10 @@
 						- Le Centre de crise et de soutien du quai d'Orsay de la sécurité des expatriés risque réput ationnel protection  de son patrimoine matériel e imma tériel.
 		- [[APS]]
 		- ## criminalité organisée
-		  collapsed:: true
 			- [[convention de Palerme]]
 			- [[criminalité financière]]
 			- [[mooc perturbation financière - ONU]]
-	- [[ONU DC nim: 9 techniques d'analyse du renseignement]]
+			- [[ONU DC nim: 9 techniques d'analyse du renseignement]]
 	- [[Processus renseignement]]
 	- [[sûreté]]
 	- Assurer la stabilité d'une organisation :
@@ -265,8 +264,7 @@
 	- ### DPO
 	  collapsed:: true
 	  ### gestion de crise 
-	  
-	  [Manuel de gestion de crise] : Crisis Management of Critical Incidents EISF Briefing Paper
+	  Manuel de gestion de crise: Crisis Management of Critical Incidents EISF Briefing Paper
 		- [[DPO]]
 		- [[rgpd en bref]]
 		- [table et cahier de la CNIL](https://www.cnil.fr/fr/tables-informatique-et-libertes-cahiers-decisions-2024) : doctrine et décision rendue
