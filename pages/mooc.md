@@ -11,5 +11,8 @@
 - https://www.supagro.fr/wordpress/modeleco/
 - MOOC bibliothèque https://callisto-formation.fr/course/view.php?id=952
   [[Lectures/mooc approvisionneur]]
+  MOOC supervision réseau https://ultv.univ-lorraine.fr/mooc-supervision-de-reseaux-et-services/video/6661-monitoring-with-nagios-local-and-remote-checks/
+  
+  Mouk gestion de projet organisation mondiale du travail : https://www.itcilo.org/fr/courses/introduction-la-gestion-du-cycle-de-projet
 - ## mouk avoir
 	- Formation : MOOC Parcours PME bpi

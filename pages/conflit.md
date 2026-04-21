@@ -149,6 +149,16 @@
 		  | III. Guerre | Détruire l'autre | Intervention de force|
 - [1] Gordon Crossings, "Escalade du conflit : le modèle Glasl," Gordon Crossings - Management & Résolution de conflits, 2024. [En ligne]. Disponible sur : https://www.gordon-crossings.com/escalade-du-conflit-le-modele-glasl/. [Consulté le : 21-févr.-2026].
 - # médiation
+	- Source:: learnunitar.org
+	- la médiation de facilitation
+		- Le médiateur est responsable du bon développement du processus de médiation en offrant l'espace et la structure nécessaires à la communication. Le médiateur procure uniquement les bonnes conditions de communication entre les parties en conflit et n'influence pas l'ordre du jour ou le contenu des négociations.
+	- La médiation transformative
+		- L'accent est placé sur la transformation de la structure sous-jacente du conflit. Le médiateur ne travaille pas seulement en vue de faciliter la communication et le flux d'information entre les parties en conflit, mais également à la responsabilisation et à l'émancipation de celles-ci. L'objectif est de restaurer des relations constructives et solides entre les parties.
+	- La médiation évaluative
+		- Le médiateur guide et conseille les parties pour développer leurs positions et évaluer les bienfondés de la demande et les solutions avancées par les parties. Le jugement du médiateur se base sur sa connaissance de la situation conflictuelle et son objectif est de trouver une solution intermédiaire.
+	- La médiation directive
+		- L'accent est placé sur la transformation de la structure sous-jacente du conflit. Le médiateur ne travaille pas seulement en vue de faciliter la communication et le flux d'information entre les parties en conflit, mais également à la responsabilisation et à l'émancipation de celles-ci. L'objectif est de restaurer des relations constructives et solides entre les parties.
+	- [[les étapes de la médiation]]
 	-
 	- ## amorçage
 		- [[Explication]]

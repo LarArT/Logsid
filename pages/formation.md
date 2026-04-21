@@ -54,6 +54,11 @@
 	- **PSP – Physical Security Professional** (sécurité physique).
 	- **APP – Associate Protection Professional** (niveau débutant/intermédiaire).[1][2][3][4]
 	  
+	  -> détail des formations https://www.asisonline.org/globalassets/certification/documents/certification-handbook_final.pdf
+	  
+	  [[Comparaison des certifications ASIS]]
+	  
+	  
 	  ***
 - ## 2. International Association of Crime Analysts (IACA)
 - Délivre au moins deux certifications structurées :
