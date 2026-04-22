@@ -111,6 +111,7 @@
 - # sécurité / sûreté / analyste
 	- [[formation]]
 	- [[cartographie des risques]]
+	- [[prévention situationnelle]] : analyse et mise en place de dispositif en prévention
 	- ## Urbanisme
 	  collapsed:: true
 		- [[CPTED]]
@@ -184,7 +185,6 @@
 		- [donner issue de la classification internationale des infractions](http://data.unodc.org/node/1)
 		- [[sécurité civile]]
 	- ## opérateur vidéoprotection
-	  collapsed:: true
 		- https://www.seine-et-marne.fr/sites/default/files/media/downloads/dadt-22-brochure-guide-videoprotection_mar22-vf_04042022.pdf
 		- [[présentation vidéo surveillance]]
 		- [[fiche de suivi vidéo protection]] : un acte légal
@@ -195,6 +195,7 @@
 		- [[plan de formation agent de vidéoprotection]]
 		- ### caméra de vidéoprotection
 		  [[Technologie de transmission]]
+		- Méthodologie de mise en place d'un dispositif : https://mobile.interieur.gouv.fr/Videoprotection/Le-guide-methodologique/Les-3-parties-du-guide-methodologique
 	- ## asvp
 	  collapsed:: true
 		- [[asvp]]

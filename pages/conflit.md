@@ -149,6 +149,31 @@
 		  | III. Guerre | Détruire l'autre | Intervention de force|
 - [1] Gordon Crossings, "Escalade du conflit : le modèle Glasl," Gordon Crossings - Management & Résolution de conflits, 2024. [En ligne]. Disponible sur : https://www.gordon-crossings.com/escalade-du-conflit-le-modele-glasl/. [Consulté le : 21-févr.-2026].
 - # médiation
+	- ## rôle du médiateur
+	- Les composantes de la Dynamique du conflit
+	- La source du conflit
+	- Les manifestations / réactions à la source du conflit
+	- Les facteurs aggravants
+	- Les facteurs modérateurs / apaisants
+	  
+	  Le rôle du médiateur
+		-
+	- Dans le cadre de la dynamique du conflit, le rôle du médiateur est de désescalader les facteurs aggravants en adoptant les facteurs modérateurs, soit d'écouter les personnes attentivement, leur exprimer de l'empathie, désamorcer leurs émotions, faciliter les discussions entre les parties, recadrer leurs suppositions erronées concernant les intentions de l'autre partie, prévenir toute réaction hostile, détourner leur attention de l'autre partie et la diriger vers la source du conflit, identifier leurs besoins et intérêts et les accompagner dans la recherche de solutions pour régler le différend qui les oppose.
+	- Voici davantage de détails concernant le rôle et les responsabilités du médiateur dans le cadre de la dynamique du conflit.
+	- 1
+	  Guider les parties à travers les étapes du processus de médiation/conciliation.
+	- 2
+	  Créer un espace de dialogue respectueux et sécurisant dans lequel les deux parties peuvent s’exprimer.
+	- 3
+	  Faciliter les discussions entre les parties et veiller aient entendu et compris leurs préoccupations et enjeux respectifs.
+	- 4
+	  Recadrer les jugements moraux, les propos aliénants et les suppositions non-fondées concernant l'autre partie. Inciter les parties à identifier les faits et à y demeurer centrées.
+	- 5
+	  Désamorcer les émotions de façon à ce que les parties retrouvent leur capacité à raisonner afin de poursuivre la discussion.
+	- 6
+	  Lorsqu'une personne critique et dénigre l'autre partie, détourner son attention de l'autre partie et la rediriger vers la source du conflit (l'évènement déclencheur).
+	- 7
+	  Les accompagner dans la recherche de solutions en leur posant des questions. S'abstenir de proposer des solutions et de donner son avis sur toute solution proposée. La responsabilité de trouver des solutions appartient aux parties.
 	- Source:: learnunitar.org
 	- la médiation de facilitation
 		- Le médiateur est responsable du bon développement du processus de médiation en offrant l'espace et la structure nécessaires à la communication. Le médiateur procure uniquement les bonnes conditions de communication entre les parties en conflit et n'influence pas l'ordre du jour ou le contenu des négociations.
@@ -158,8 +183,19 @@
 		- Le médiateur guide et conseille les parties pour développer leurs positions et évaluer les bienfondés de la demande et les solutions avancées par les parties. Le jugement du médiateur se base sur sa connaissance de la situation conflictuelle et son objectif est de trouver une solution intermédiaire.
 	- La médiation directive
 		- L'accent est placé sur la transformation de la structure sous-jacente du conflit. Le médiateur ne travaille pas seulement en vue de faciliter la communication et le flux d'information entre les parties en conflit, mais également à la responsabilisation et à l'émancipation de celles-ci. L'objectif est de restaurer des relations constructives et solides entre les parties.
-	- [[les étapes de la médiation]]
+	- Le médiateur doit s'abstenir de proposer des solutions, d'exprimer son opinion sur une solution donnée et de fournir des conseils relatifs à la solution. Puisque son rôle est celui d'un tier impartial, ce faire peut miner la confiance des parties à son égard. Il appartient aux parties de trouver leurs propres solutions
 	-
+	- # mooc itc négociation gestion de conflit au travail
+	-
+		- ## résolution de conflit
+			- [[le mediateur]]
+			- [[le cercle des conflits]]
+			- [[distinguer entre besoin et demande]]
+			- [[les étapes de la médiation]]
+			- [[séparer la personne du comportement]]
+			- [[modèle enjeu personne processus]]
+		- ## approche de la négociation
+			-
 	- ## amorçage
 		- [[Explication]]
 		- [[Impartialité]]

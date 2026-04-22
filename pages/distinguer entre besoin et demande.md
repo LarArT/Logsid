@@ -1,0 +1,17 @@
+- **Besoin**:
+- **Une nécessité au maintien de la vie et du bien-être.**
+- Un besoin est une entité autonome. Il est satisfait à partir d'éléments extérieurs
+- Soutien
+- Outils
+- Décisions
+- Présence
+- Besoin
+- Des paroles
+- De l'argent
+- Ressources
+- Gestes
+- L'écoute
+- Nourriture
+- חר
+- **Le médiateur doit donc faire la différence entre les besoins (intérêts) des parties et les moyens pour les satisfaire.**
+- **Cette notion est fondamentale pour la résolution de conflits.**

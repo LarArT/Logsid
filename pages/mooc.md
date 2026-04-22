@@ -14,5 +14,7 @@
   MOOC supervision réseau https://ultv.univ-lorraine.fr/mooc-supervision-de-reseaux-et-services/video/6661-monitoring-with-nagios-local-and-remote-checks/
   
   Mouk gestion de projet organisation mondiale du travail : https://www.itcilo.org/fr/courses/introduction-la-gestion-du-cycle-de-projet
+  Négociation https://ecampus.itcilo.org/my/ Introduction à la conciliation/médiation des conflits du travail
+  Convention BRS produits chimiques mooc https://www.brsmeas.org/Default.aspx?tabid=3534
 - ## mouk avoir
 	- Formation : MOOC Parcours PME bpi

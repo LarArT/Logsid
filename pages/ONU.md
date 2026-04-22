@@ -1,5 +1,5 @@
-- Voici une conversion de votre document structurée pour **Logseq** (format Markdown avec hiérarchie par puces). J'ai organisé les entités par catégories logiques tout en conservant les références et les notes de bas de page du document original.
-- ## Système des Nations Unies
+- [[liste convention internationale]] 
+  ## Système des Nations Unies
   * **Organes Principaux**
    * COUR INTERNATIONALE DE JUSTICE
    * CONSEIL DE TUTELLE (activités suspendues depuis le 1er novembre 1994)
