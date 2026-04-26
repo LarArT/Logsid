@@ -35,7 +35,7 @@ title:: Prompt
 	- Regrouper les réponses
 	- Demander pourquoi lequel est le meilleur et pourquoi
 	-
-	-
+	- [[template prompt négociation]]
 - [[discuter avoir un avis critique]]
 - [[Exemple]]
 -

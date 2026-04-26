@@ -18,3 +18,4 @@
   Convention BRS produits chimiques mooc https://www.brsmeas.org/Default.aspx?tabid=3534
 - ## mouk avoir
 	- Formation : MOOC Parcours PME bpi
+- Ia for national security par scsp sur coursera

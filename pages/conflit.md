@@ -52,7 +52,7 @@
 		- Personnalité
 		- Environnement
 			- Économique
-			- Normatif /législatif
+			- Normatif /législatifu
 	- Environnement
 		- Contexte économique (faillite)
 		- Main d'oeuvre diversifiée (culturel)
@@ -195,7 +195,12 @@
 			- [[séparer la personne du comportement]]
 			- [[modèle enjeu personne processus]]
 		- ## approche de la négociation
-			-
+		- [[Les étapes de la négociation]]
+			- [[préparer la négociation]]
+		- ## éthique et négociation
+			- [[valeurs éthiques du négociateur]]
+		- ## gérer les émotions
+			- [[Émotion et besoin non satisfait]]
 	- ## amorçage
 		- [[Explication]]
 		- [[Impartialité]]
