@@ -112,6 +112,13 @@
 	- [[formation]]
 	- [[cartographie des risques]]
 	- [[prévention situationnelle]] : analyse et mise en place de dispositif en prévention
+	- [protection infrastructure](https://shieldproject.eu/wp-content/uploads/2023/04/public_spaces_rvw_final_1.pdf) : la page 8 référence un grand nombre de documentation
+		- https://prosperes.eu/wp-content/uploads/DELIVERABLE-Prosperes-security-by-design-Guidebook.pdf
+		-
+	- [Plateforme de simulation pour la sécurité urbaine](https://safe-cities.eu/?hl=fr-FR)
+	-
+	- ## infrastructure
+	- [[check liste menace infrastructure]]
 	-
 	- ## dirigeant
 		- [[élaboration d'une prestation de sûreté]]
@@ -426,7 +433,8 @@
 	- [[Scot (schéma de cohérence territoriale)]]
 - # entrepreneuriat 
   [[Plan d'investissement]]
--
+- # entreprise
+	- [[mooc gestion financière et pratique du tableur]]
 - ## habilitation électrique
   collapsed:: true
 	- Inrs
