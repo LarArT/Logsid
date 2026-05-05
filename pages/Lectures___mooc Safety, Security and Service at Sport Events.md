@@ -1,0 +1,14 @@
+-
+- Module 3 :
+	- Les mesures de sécurité peuvent poser problème lors de situation d'urgence
+	- Les fouilles intrusives et un encadrement inefficace peuvent créer un climat d'hostilité et diminuer la coopération.
+	- Ne pas se sentir le bienvenu mon ressentir un climat d'hostilité peux créer des antagonistes
+-
+- ## ​Inside & Outside of Stadia Overlap
+- ​**Queues** : Les systèmes et processus de file d'attente doivent être clairement expliqués aux supporters.
+- ​**Presence** : Une approche cohérente et accueillante de la part de la police et des stadiers.
+- ​**Issues** : Les retards ou les changements de plans doivent être communiqués aux supporters le plus tôt possible.
+- ​**Services** : Les rafraîchissements et autres prestations de services à l'intérieur du stade, avant et après le match.
+- ​**Clear Boundaries** : Clarifier ce qui constitue un comportement inacceptable.
+- ​**POC (Points of Contact)** : Les points de contact doivent être visibles et accessibles aux supporters avant, pendant et après le match.
+-

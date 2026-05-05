@@ -71,3 +71,4 @@ source:: guide-continuite-activite.sgdsn.gouv.fr
 	- Sa structure se compose:
 	- du récit de l'intervention (contexte, moyens engagés, description de la zone d'intervention, situation à l'arrivée des premiers moyens...); des explications relatives à un ou plusieurs thèmes (ex. < focus sur la reconnaissance avec un moyen en eau» en lien avec la problématique rencontrée; focus sur la sécurité.....);
 	- des enseignements issus de l'intervention (éléments favorables ou défavorables; leçons apprises, rappels sur la doctrine...).
+-

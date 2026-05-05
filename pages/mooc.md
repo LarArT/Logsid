@@ -19,3 +19,4 @@
 - ## mouk avoir
 	- Formation : MOOC Parcours PME bpi
 - Ia for national security par scsp sur coursera
+- MOOC security and safety Union européenne https://academy.europa.eu/mod/scorm/player.php

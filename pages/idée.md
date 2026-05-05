@@ -1,4 +1,4 @@
-- [[note de lecture]]
+- [[lectures]]
 - [[méthode d'évaluation]]
 - [[ONU]]
 - Carte conceptuelle
@@ -224,12 +224,16 @@
 	- ## sûreté
 		- [[étude de cas système de vidéo surveillance]]
 		  [[étude de cas détection intrusion]]
+		- [[plan de sécurité du pays]] pour les ONG
+		- [[plan de sécurité]] entreprise essentielle
+		- [[Registre collectivité territoriale]]
 		- [[sûreté en entreprise]]
 			- Directeur de la sûreté
 				- développement économique de l'entre- prise,
 					- Veille géopolitique -> ARNAUD KALIKA recommandation dans le livre banc blanc CDSE
 						- Le Centre de crise et de soutien du quai d'Orsay de la sécurité des expatriés risque réput ationnel protection  de son patrimoine matériel e imma tériel.
 		- [[APS]]
+		- [[ensemble des documents relatifs à la sûreté]]
 		- ## criminalité organisée
 			- [[convention de Palerme]]
 			- [[criminalité financière]]
@@ -402,6 +406,11 @@
 		- [[axe de recherche française sur l'intelligence artificielle]]
 		- [LMM visualisation](https://bbycroft.net/llm)
 		  [[Les différents outils d ia]]
+		- [[avenir de L ia]]
+		- [[évaluation des forces et faiblesses de ia]]
+		- [[choisir un bon LLm]]
+		- [[gouvernance de L ia]]
+		-
 	- ## droit
 	  collapsed:: true
 		- [[introduction droit]]
@@ -435,6 +444,7 @@
   [[Plan d'investissement]]
 - # entreprise
 	- [[mooc gestion financière et pratique du tableur]]
+	- [calcul des salaires](https://mon-entreprise.urssaf.fr/simulateurs/salaire-brut-net)
 - ## habilitation électrique
   collapsed:: true
 	- Inrs
