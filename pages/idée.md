@@ -61,48 +61,37 @@
 	- [[ouvreur de marché]]
 	  [[Rôle les responsabilités de la chaîne logistique]]
 - # SST
-  collapsed:: true
+	- [logiciel d'analyse des risques au travail](https://www.inrs.fr/metiers/oira-outil-tpe.html)
 	- [cours SST par l'Organisation internationale du travail](https://www.iloencyclopaedia.org/fr/)
 	  id:: 69623f55-c8a0-4ab3-8f4d-e9751c19a763
 	- [[les principaux acteurs externes de la prévention en entreprise]]
 	- [[Les 9 PGP (principes généraux de prévention)]]
 	- Accident de travail
-	  collapsed:: true
 		- Signaler dès que possible à son dirigeant
 		- Le dirigeant
-		  collapsed:: true
 			- dispose de __48 heures__ pour informer la CPAM
 			- Informe le délégué du personnel
 	- Une maladie professionnelle
-	  collapsed:: true
 		- figure dans Un des [__tableaux général__ de la sécurité sociale](https://www.inrs.fr/publications/bdd/mp.html)
 		- Cycle:
-		  collapsed:: true
 			- Victime
-			  collapsed:: true
 				- Certificat médical auprès d'un médecin
 				- Déclaration à la CPAM
 			- CPAM informe en entreprise
 		-
 	- Accident de trajet
-	  collapsed:: true
 		- Plus court chemin entre domicile et travail
 		- Incluant des trajets habituels tel que les trajets journaliers vers les crèches et écoles
 		-
 	- Les acteurs internes de la prévention en entreprise :
-	  collapsed:: true
 		- Le salarié désigné compétent
-		  collapsed:: true
 			- Mission
-			  collapsed:: true
 				- Évaluation et élaboration DUer
 				- Planification et organisation des actions de prévention qui en découlent
 				- Suivi de leur mise en œuvre
 				- Promotion de la santé et sécurité au travail
 	- Analyse du risque
-	  collapsed:: true
 		- Composant du risque
-		  collapsed:: true
 			- Gravité probable
 			- Temps d'exposition
 			- Niveau de protection
@@ -110,6 +99,7 @@
 			- Compétence du travailleur
 - # sécurité / sûreté / analyste
 	- [[formation]]
+	  norme ISO 22342 publiée par AFNOR, le plan de sûreté est également décrit dans le référentiel CNPP 1302 avec pour objectif d’
 	- [[cartographie des risques]]
 	- [[prévention situationnelle]] : analyse et mise en place de dispositif en prévention
 	- [protection infrastructure](https://shieldproject.eu/wp-content/uploads/2023/04/public_spaces_rvw_final_1.pdf) : la page 8 référence un grand nombre de documentation
