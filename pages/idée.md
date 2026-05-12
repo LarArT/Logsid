@@ -47,14 +47,20 @@
 - - [[rapport d'étonnement]]
 - [[Génération de logo]]
 - Lettre
-  collapsed:: true
 	- [règle de rédaction](https://www.calliope.be/french/html/topic_28EE19B2-7532-46FD-BE1E-45C57D981DD9_2AE56876-C3BC-4C9E-9C27-A00507CA6CB0_1.htm)
 	- [charte orthographique en vigueur dans l'administration française](https://www.legifrance.gouv.fr/contenu/Media/Files/autour-de-la-loi/legislatif-et-reglementaire/charte_typographique_jo_janvier_2021.pdf?hl=fr-FR)
 	  -[législation](https://www.legifrance.gouv.fr/) + blockchain + assistant de preuve = [[Contrat intelligent]]
+-
+- # Analyse géopolitique
+- https://lca.logcluster.org/logistics-capacity-assessments-lcas
+- Factbook cia
+- http://www.diplomatie.gouv.fr/fr/information-par-pays
 - ## transport / import / export  / logistique
 	- Formation : isteli
 	- [[réaliser une étude de marché]]
 	- [mooc bpi](https://academiedelexport.fr/catalogue/recherche?f[]=10&pr[]=0)
+	- [[pipeline de sourcing et plan d'Achat]]
+	-
 	- [[lectures/mooc découvrez les processus au cœur de la logistique]]
 	- [[lectures/mooc piloter votre supply chain]]
 	- [[Manuel et plateforme de référence]]
@@ -156,7 +162,7 @@
 		- [[Préalable à la négociation]]
 		- [[négociation]]
 		- [[negociator]]
-			-
+		- [[amorçage ou blocage]]
 	- ## conflit
 		- mode alternatifs de règlement des litiges marl)
 		- Analyse du contexte : [voir la section template de ce document](https://gppac.net/files/2018-11/GPPAC%20CAFGuide_Interactive%20version_febr2018_.pdf)
@@ -237,37 +243,37 @@
 		- [[psychologie de la loyauté]]
 	- [classification des incidents](https://giis-fr.insecurityinsight.org/tools-and-resources/classification-of-incidents)
 	- ### DPO
-	  ### gestion de crise 
-	  Manuel de gestion de crise: Crisis Management of Critical Incidents EISF Briefing Paper
-		- [[DPO]]
-		- [[rgpd en bref]]
-		- [table et cahier de la CNIL](https://www.cnil.fr/fr/tables-informatique-et-libertes-cahiers-decisions-2024) : doctrine et décision rendue
-		- [[DPO]]
-		- [[mooc cnil]]
-		- [[sanction]]
+- ### gestion de crise 
+   Manuel de gestion de crise: Crisis Management of Critical Incidents EISF Briefing Paper
+	- [[DPO]]
+	- [[rgpd en bref]]
+	- [table et cahier de la CNIL](https://www.cnil.fr/fr/tables-informatique-et-libertes-cahiers-decisions-2024) : doctrine et décision rendue
+	- [[DPO]]
+	- [[mooc cnil]]
+	- [[sanction]]
 	- # gestion des risques
-		- [[registre des actifs]]
-		- https://ready.csod.com/ui/lms-learning-details/app/test/3308f459-d6c3-46a4-9223-f4c50a3ab6ee
-		- [[Planification et affectation des ressources aux activités de gestion des risques de sécurités]]
-		- ## EBIOS
-			- [[méthode EBIOS]]
-		- ## SSI
-			- Vision de la direction -> pssi
-		- ## rssi
-		  [[Plan rssi]]
-		- ## physique
-			- [méthode EBIOS pour le physique](https://club-ebios.org/site/wp-content/uploads/presentations/ClubEBIOS-2010-01-19-MANGIN-MARCHAL-ZAMORA-CONCHON.pdf)
-		- ## iso 18788
-			- https://cdn.standards.iteh.ai/samples/63380/e48f665b9c9a4c7f8668702597859f39/ISO-18788-2015.pdf
+	- [[registre des actifs]]
+	- https://ready.csod.com/ui/lms-learning-details/app/test/3308f459-d6c3-46a4-9223-f4c50a3ab6ee
+	- [[Planification et affectation des ressources aux activités de gestion des risques de sécurités]]
+	- ## EBIOS
+		- [[méthode EBIOS]]
+	- ## SSI
+		- Vision de la direction -> pssi
+	- ## rssi
+	  [[Plan rssi]]
+	- ## physique
+		- [méthode EBIOS pour le physique](https://club-ebios.org/site/wp-content/uploads/presentations/ClubEBIOS-2010-01-19-MANGIN-MARCHAL-ZAMORA-CONCHON.pdf)
+	- ## iso 18788
+		- https://cdn.standards.iteh.ai/samples/63380/e48f665b9c9a4c7f8668702597859f39/ISO-18788-2015.pdf
 	- # onu
-		- [[sécurité sûreté ONU]]
+	- [[sécurité sûreté ONU]]
 	- # France
-		- [[opérateur public]]
-		- [document de planification oiv](https://armement.defense.gouv.fr/securite-et-habilitation/securite-des-activites-dimportance-vitale-saiv/documents-de-planification)
-			- [[partenaire de la Défense nationale]]
-		- [Protection du Potentiel Scientifique et Technique (PPST)](https://armement.defense.gouv.fr/securite-et-habilitation/ppst)
-		- [Habilitation des personnes morales et physiques](https://armement.defense.gouv.fr/securite-et-habilitation/habilitation-des-personnes-morales-et-physiques)
-		- [plan de continuité des activités](https://www.economie.gouv.fr/files/hfds-guide-pca-plan-continuite-activite-_sgdsn.pdf)
+	- [[opérateur public]]
+	- [document de planification oiv](https://armement.defense.gouv.fr/securite-et-habilitation/securite-des-activites-dimportance-vitale-saiv/documents-de-planification)
+		- [[partenaire de la Défense nationale]]
+	- [Protection du Potentiel Scientifique et Technique (PPST)](https://armement.defense.gouv.fr/securite-et-habilitation/ppst)
+	- [Habilitation des personnes morales et physiques](https://armement.defense.gouv.fr/securite-et-habilitation/habilitation-des-personnes-morales-et-physiques)
+	- [plan de continuité des activités](https://www.economie.gouv.fr/files/hfds-guide-pca-plan-continuite-activite-_sgdsn.pdf)
 - # gestion de projet
   [[Méthodologie proposition de financement]]
 	- [[Pratique de management de projet: 50 outils]]

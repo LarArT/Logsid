@@ -1,0 +1,6 @@
+-
+- Position : posture afficher
+- Demande : requête expressément formulée
+- Objectif : espoir de Lyon
+- Attente : révision des objectifs pendant la négociation
+- Enjeu : besoin profond et satisfaire

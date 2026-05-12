@@ -21,7 +21,7 @@
 	- [[Chapitre 3 : Analyse du contexte]] (p. 81) voir aussi doc [gppac](((69b6a858-91ec-4d0b-9a4e-2ec5036c9d62)))
 		- Section 1 : Les prérequis à l'analyse (p. 90)
 		- Parole d'expert : Olivier Hérisson (p. 91)
-		- Section 2 : Les motivations de la partie adverse (p. 97)
+		- [[Section 2 : Les motivations de la partie adverse]] (p. 97)
 		- Parole d'expert : Éric Falcand (p. 111)
 		- Section 3 : L'objectif commun partagé (p. 112)
 		- Section 4 : Les fausses positions (p. 128)
