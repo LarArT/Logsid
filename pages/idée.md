@@ -66,6 +66,8 @@
 	- [[Manuel et plateforme de référence]]
 	- [[ouvreur de marché]]
 	  [[Rôle les responsabilités de la chaîne logistique]]
+	- [[logistique humanitaire]]
+	-
 - # SST
 	- [logiciel d'analyse des risques au travail](https://www.inrs.fr/metiers/oira-outil-tpe.html)
 	- [cours SST par l'Organisation internationale du travail](https://www.iloencyclopaedia.org/fr/)
@@ -108,14 +110,15 @@
 	  norme ISO 22342 publiée par AFNOR, le plan de sûreté est également décrit dans le référentiel CNPP 1302 avec pour objectif d’
 	- [[cartographie des risques]]
 	- [[prévention situationnelle]] : analyse et mise en place de dispositif en prévention
-	- [protection infrastructure](https://shieldproject.eu/wp-content/uploads/2023/04/public_spaces_rvw_final_1.pdf) : la page 8 référence un grand nombre de documentation
-		- https://prosperes.eu/wp-content/uploads/DELIVERABLE-Prosperes-security-by-design-Guidebook.pdf
-		-
+	- protection infrastructure
+	  https://shieldproject.eu/wp-content/uploads/2023/04/public_spaces_rvw_final_1.pdf
 	- [Plateforme de simulation pour la sécurité urbaine](https://safe-cities.eu/?hl=fr-FR)
-	-
 	- ## infrastructure
 	- [[check liste menace infrastructure]]
-	-
+	- https://www.wbdg.org/FFC/GSA/site_security_dg.pdf
+	- [protection infrastructure](https://shieldproject.eu/wp-content/uploads/2023/04/public_spaces_rvw_final_1.pdf) : la page 8 référence un grand nombre de documentation
+	  collapsed:: true
+		- https://prosperes.eu/wp-content/uploads/DELIVERABLE-Prosperes-security-by-design-Guidebook.pdf
 	- ## dirigeant
 		- [[élaboration d'une prestation de sûreté]]
 	- ## Urbanisme
