@@ -55,6 +55,7 @@
 - https://lca.logcluster.org/logistics-capacity-assessments-lcas
 - Factbook cia
 - http://www.diplomatie.gouv.fr/fr/information-par-pays
+- https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Severity/Severity-Crisis-Profile naviguer sur le site
 - ## transport / import / export  / logistique
 	- Formation : isteli
 	- [[réaliser une étude de marché]]
@@ -67,7 +68,11 @@
 	- [[ouvreur de marché]]
 	  [[Rôle les responsabilités de la chaîne logistique]]
 	- [[logistique humanitaire]]
-	-
+	- [[aide humanitaire]]
+	- [[financement de l'aide humanitaire]]
+	- [[humanitarian programme cycle ]]
+	- [[structure des plans humanitaires]]
+	- [[niveau des urgences humanitaires standardisées]]
 - # SST
 	- [logiciel d'analyse des risques au travail](https://www.inrs.fr/metiers/oira-outil-tpe.html)
 	- [cours SST par l'Organisation internationale du travail](https://www.iloencyclopaedia.org/fr/)
@@ -119,6 +124,8 @@
 	- [protection infrastructure](https://shieldproject.eu/wp-content/uploads/2023/04/public_spaces_rvw_final_1.pdf) : la page 8 référence un grand nombre de documentation
 	  collapsed:: true
 		- https://prosperes.eu/wp-content/uploads/DELIVERABLE-Prosperes-security-by-design-Guidebook.pdf
+	- https://www.npsa.gov.uk/building-protection?hl=fr-FR
+	- Un plan de prévention pour être établi sur la trame [[ERP]] disponible au format doc x dans le drive
 	- ## dirigeant
 		- [[élaboration d'une prestation de sûreté]]
 	- ## Urbanisme

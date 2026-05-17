@@ -1,7 +1,6 @@
--
 source:: guide-continuite-activite.sgdsn.gouv.fr
 
-- Pca = ISO 22301
+- Pca = ISO 22301 -> intègre le [[PSO]]
 - Le plan de continuité d’activité (PCA) représente l’ensemble des procédures documentées servant de guides aux organisations pour répondre, rétablir, reprendre et retrouver un niveau de fonctionnement prédéfini à la suite d’une perturbation due à un sinistre ou un événement, quelle qu’en soit la cause.
 - Habituellement, ce plan inclut les ressources, les services et les activités pour assurer la continuité des fonctions considérées comme essentielles.
 - ### 

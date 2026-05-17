@@ -1,0 +1,13 @@
+- https://emergency.unhcr.org/fr
+- [aide à la rédaction d'un plan](https://ee.humanitarianresponse.info/x/0G6SQrqw)
+- Étape par étape
+	- Identifier les parties prenantes
+		-
+	- PESTEL
+- [[la question à se poser dans le cadre de la planification de l'analyse des risques]]
+-
+- [[analyse des risques humanitaire]]
+- Action de prévention minimale ou action de prévention avancée à définir suivant les risques
+- [[plan de contingence humanitaire]]
+-
+-

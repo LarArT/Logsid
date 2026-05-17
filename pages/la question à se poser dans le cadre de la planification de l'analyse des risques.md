@@ -1,0 +1,11 @@
+- Quels pourraient être les impacts humanitaires et où pourraient-ils sévir ?
+- Quels sont les chiffres et le pourcentage de la population affectée, quel est le profil de cette population et quelles sont ses caractéristiques démographiques ? Ces impacts vont-ils entraîner des déplacements de populations ?
+- Quelle pourrait-être la réponse du gouvernement du pays ?
+- Est-ce que le gouvernement est susceptible de faire une demande d’assistance ?
+- Est-ce que le gouvernement / les autorités locales ont déjà une expérience de gestion d’une situation de ce type ?
+- Quels sont les aspects de genre à prendre en compte, les groupes tout particulièrement vulnérables et les bénéficiaires cibles ?
+- Quels seront les impacts spécifiques sur le groupe sectoriel ?
+- Quel sera l’impact sur les systèmes et les services ?
+- Combien de temps les conditions d’urgence vont-elles durer ?
+- Quelles sont les éventuelles contraintes majeures risquant d’empêcher l’intervention d’urgence ?
+- Quelles pourraient être les lacunes graves ?
