@@ -72,7 +72,7 @@
 - ### 2. La Réponse d'Urgence (0-6 semaines)
   * **Flash Appeal (Plan Éclair) :** Plan stratégique et financier publié en urgence absolue (souvent sous 3 à 5 jours après le choc). Il structure la réponse immédiate pour une durée de 3 à 6 mois.
   * **CERF (*Central Emergency Response Fund*) :** Fonds de l'ONU directement activable pour amorcer le financement du Flash Appeal sans attendre les donateurs.
-  * **MIRA (*Multi-Cluster/Sector Initial Rapid Assessment*) :** Processus d'évaluation conjointe mené sur le terrain dans les 72 premières heures pour identifier les priorités vitales.
+  * **[MIRA (*Multi-Cluster/Sector Initial Rapid Assessment*)](https://emergency.unhcr.org/sites/default/files/MIRA%20July%202015.pdf) :** Processus d'évaluation conjointe mené sur le terrain dans les 72 premières heures pour identifier les priorités vitales.
 - ### 3. Le Cycle Structuré (HPC)
   * **HNO (*Humanitarian Needs Overview*) :** Document officiel de référence qui pose le diagnostic scientifique de la crise (qui souffre, où, et à quel point).
   * **HRP (*Humanitarian Response Plan*) :** C'est le **Plan d'intervention humanitaire** global pour le pays. Il succède au *Flash Appeal*. Il fixe la stratégie à long terme (1 à 2 ans), définit les indicateurs de succès et chiffre le coût total des opérations pour toutes les organisations participantes.

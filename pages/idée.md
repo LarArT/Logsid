@@ -71,7 +71,7 @@
 	- [[aide humanitaire]]
 	- [[financement de l'aide humanitaire]]
 	- [[humanitarian programme cycle ]]
-	- [[structure des plans humanitaires]]
+	- [[structure / cycle des plans humanitaires]]
 	- [[niveau des urgences humanitaires standardisées]]
 - # SST
 	- [logiciel d'analyse des risques au travail](https://www.inrs.fr/metiers/oira-outil-tpe.html)
