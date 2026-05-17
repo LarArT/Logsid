@@ -7,6 +7,8 @@
 - https://swayam-sso.swayam2.ac.in/signin?response_type=code&client_id=swayam-central-production&redirect_uri=%2F&state=7iccuNLhqemkFWIdI643NZlSM9GBep
 - https://www.xuetangx.com/search?query=&channel=i.area.navigation_bar
 - [sdis](https://www.plateforme-apis.fr/login/index.php)
+- Saylor.org
+- Économie mru.org
 - https://flirtmooc.wixsite.com/flirt-mooc-telecom
 	- [MOOC supervision des réseaux et services](https://ultv.univ-lorraine.fr/mooc-supervision-de-reseaux-et-services/)
 	-
