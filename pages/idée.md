@@ -50,12 +50,18 @@
 	- [règle de rédaction](https://www.calliope.be/french/html/topic_28EE19B2-7532-46FD-BE1E-45C57D981DD9_2AE56876-C3BC-4C9E-9C27-A00507CA6CB0_1.htm)
 	- [charte orthographique en vigueur dans l'administration française](https://www.legifrance.gouv.fr/contenu/Media/Files/autour-de-la-loi/legislatif-et-reglementaire/charte_typographique_jo_janvier_2021.pdf?hl=fr-FR)
 	  -[législation](https://www.legifrance.gouv.fr/) + blockchain + assistant de preuve = [[Contrat intelligent]]
--
+- [[icône religion]]
 - # Analyse géopolitique
 - https://lca.logcluster.org/logistics-capacity-assessments-lcas
 - Factbook cia
 - http://www.diplomatie.gouv.fr/fr/information-par-pays
 - https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Severity/Severity-Crisis-Profile naviguer sur le site
+- ## criminologie
+	- [[djihadisme terroriste]]
+	- [[modèle de radicalisation]]
+	- [liste des organisations sous sanction du conseil européen](https://www.consilium.europa.eu/en/policies/sanctions-against-terrorism/)
+	- [IT systems to fight crime and secure EU borders](https://www.consilium.europa.eu/en/policies/it-systems-security-justice/)
+	-
 - ## transport / import / export  / logistique
 	- Formation : isteli
 	- [[réaliser une étude de marché]]
@@ -112,7 +118,9 @@
 			- Compétence du travailleur
 - # sécurité / sûreté / analyste
 	- [[formation]]
-	  norme ISO 22342 publiée par AFNOR, le plan de sûreté est également décrit dans le référentiel CNPP 1302 avec pour objectif d’
+	- [[magazine de référence]]
+	- [[victimologie]]
+	- norme ISO 22342 publiée par AFNOR, le plan de sûreté est également décrit dans le référentiel CNPP 1302 avec pour objectif d’
 	- [[cartographie des risques]]
 	- [[prévention situationnelle]] : analyse et mise en place de dispositif en prévention
 	- protection infrastructure
