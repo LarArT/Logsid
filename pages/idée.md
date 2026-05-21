@@ -51,11 +51,21 @@
 	- [charte orthographique en vigueur dans l'administration française](https://www.legifrance.gouv.fr/contenu/Media/Files/autour-de-la-loi/legislatif-et-reglementaire/charte_typographique_jo_janvier_2021.pdf?hl=fr-FR)
 	  -[législation](https://www.legifrance.gouv.fr/) + blockchain + assistant de preuve = [[Contrat intelligent]]
 - [[icône religion]]
+-
+- # NRBC
+- [[toxic industrial chimical]]
+- # drone
+	- [site de référence drone Union européenne](https://www.easa.europa.eu/en/home)
+	- [législation drone](https://drone-laws.com/drone-laws-in-france/)
+- # Union européenne
+	- [[naviguer parmi les projets ERC]]
+	- [[structure ERC]]
+-
 - # Analyse géopolitique
-- https://lca.logcluster.org/logistics-capacity-assessments-lcas
-- Factbook cia
-- http://www.diplomatie.gouv.fr/fr/information-par-pays
-- https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Severity/Severity-Crisis-Profile naviguer sur le site
+	- https://lca.logcluster.org/logistics-capacity-assessments-lcas
+	- Factbook cia
+	- http://www.diplomatie.gouv.fr/fr/information-par-pays
+	- https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Severity/Severity-Crisis-Profile naviguer sur le site
 - ## criminologie
 	- [[djihadisme terroriste]]
 	- [[modèle de radicalisation]]
@@ -127,16 +137,22 @@
 	  https://shieldproject.eu/wp-content/uploads/2023/04/public_spaces_rvw_final_1.pdf
 	- [Plateforme de simulation pour la sécurité urbaine](https://safe-cities.eu/?hl=fr-FR)
 	- ## infrastructure
-	- [[check liste menace infrastructure]]
-	- https://www.wbdg.org/FFC/GSA/site_security_dg.pdf
-	- [protection infrastructure](https://shieldproject.eu/wp-content/uploads/2023/04/public_spaces_rvw_final_1.pdf) : la page 8 référence un grand nombre de documentation
-	  collapsed:: true
-		- https://prosperes.eu/wp-content/uploads/DELIVERABLE-Prosperes-security-by-design-Guidebook.pdf
-	- https://www.npsa.gov.uk/building-protection?hl=fr-FR
-	- Un plan de prévention pour être établi sur la trame [[ERP]] disponible au format doc x dans le drive
+		- [[check liste menace infrastructure]]
+		- [état de l'art](https://www.thepurpleguide.co.uk/)
+		- https://www.wbdg.org/FFC/GSA/site_security_dg.pdf
+		- [protection infrastructure](https://shieldproject.eu/wp-content/uploads/2023/04/public_spaces_rvw_final_1.pdf) : la page 8 référence un grand nombre de documentation
+		  collapsed:: true
+			- https://prosperes.eu/wp-content/uploads/DELIVERABLE-Prosperes-security-by-design-Guidebook.pdf
+		- https://www.npsa.gov.uk/building-protection?hl=fr-FR
+		- Un plan de prévention pour être établi sur la trame [[ERP]] disponible au format doc x dans le drive
+		- Voir aussi [infrastructure][[((69fdea9a-2d2a-4405-a4d2-7da5e20df76e))]]
+		- [[security by design]]
+		- [[évaluation des risques infrastructures]]
+		- https://elearning.pphs.pl/course-offer/
 	- ## dirigeant
 		- [[élaboration d'une prestation de sûreté]]
 	- ## Urbanisme
+	  id:: 69fdea9a-2d2a-4405-a4d2-7da5e20df76e
 		- [[CPTED]]
 	- ## analyste
 		- [[publication de référence]]
@@ -172,6 +188,8 @@
 	- ### organisation territoriale
 		- [[organisation territoriale intelligence économique]]
 		- [[intelligence économique]]
+	- ## Hse
+		- https://metainfrastructure.org/massive-open-online-course/
 	- ## négociation
 		- [[conflit]]
 		- [[Traité pratique de négociation]]
@@ -270,6 +288,7 @@
 	- [[mooc cnil]]
 	- [[sanction]]
 	- # gestion des risques
+	- [plateforme CICR évaluation des risques](https://preparecenter.org/site/evca/toolbox/)
 	- [[registre des actifs]]
 	- https://ready.csod.com/ui/lms-learning-details/app/test/3308f459-d6c3-46a4-9223-f4c50a3ab6ee
 	- [[Planification et affectation des ressources aux activités de gestion des risques de sécurités]]

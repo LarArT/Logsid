@@ -6,6 +6,6 @@ Source:: mooc help'logistic
 - [[principe de l'aide humanitaire]]
 - [[évaluation des besoins]]
 - [[principaux œuvre humanitaire mondiaux]]
--
+- [[étude de marché humanitaire]]
 -
 -

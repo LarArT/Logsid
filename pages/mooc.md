@@ -1,6 +1,10 @@
 - [bpi](https://universite.bpifrance.fr/Catalog/trainings?sort=creationDate&order=desc&page=1)
   https://moodle.luniversitenumerique.fr/my/
 - wolframcloud.com/
+- Agrégateur de mooc européen https://emc.eadtu.eu/partners
+- Aiforgov issu de projet ERC https://www.open.edu/openlearncreate/course/index.php?categoryid=2051
+- Plateforme de MOOC issu d'un projet ERC https://moodle.citizenscience.eu/
+- MOOC ERC desinformations Digital Resilience Against Disinformation https://urjcx.urjc.es/courses/digital-resilience-against-disinformation-dominoes/
 - Analyse https://www.wolfram.com/wolfram-u/courses/mathematics/introduction-to-calculus/
 - Edp https://www.wolframcloud.com/obj/online-courses/introduction-to-partial-differential-equations/the-schrodinger-equation.html
 - https://www.complexityexplorer.org/courses#gsc.tab=0 math

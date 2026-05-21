@@ -1,0 +1,23 @@
+# Places of Worship - Risk Assessment Process Summary
+	- **Type**:: #Process
+	- **Objectif**:: Évaluer et gérer les risques pour la sécurité d'un lieu de culte.
+	- ## Étapes du processus (Cycle)
+		- 1. **Understand the facility**
+			- Description:: Comprendre l'établissement dans sa globalité.
+			- Éléments à analyser:: Activités, opérations, processus, actifs et parties prenantes (stakeholders).
+		- 2. **Carry out site survey**
+			- Description:: Effectuer une inspection sur le terrain.
+			- Objectifs::
+				- Comprendre la configuration et la disposition du site (layout).
+				- Examiner les mesures de sécurité existantes, les procédures et les politiques en vigueur.
+		- 3. **Identify potential threats**
+			- Description:: Identifier les menaces potentielles qui pèsent sur le site.
+		- 4. **Discuss threat scenarios**
+			- Description:: Discuter des scénarios de menace spécifiques qui pourraient se produire sur le site.
+		- 5. **Evaluate risk levels**
+			- Description:: Se baser sur les scénarios définis pour déterminer la probabilité et les conséquences de chaque menace.
+			- Résultat:: Établir le niveau de risque global pour chaque scénario.
+		- 6. **Prioritise and plan**
+			- Description:: Hiérarchiser les menaces et déterminer les actions à entreprendre pour protéger efficacement le site.
+- Tram de travail pour évaluer les vulnérabilités
+- https://prosperes.eu/wp-content/uploads/Prosperes_How-to-organize-Vulnerability-Assessment_FR_FINAL_compressed.pdf
