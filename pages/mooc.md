@@ -1,6 +1,7 @@
 - [bpi](https://universite.bpifrance.fr/Catalog/trainings?sort=creationDate&order=desc&page=1)
   https://moodle.luniversitenumerique.fr/my/
 - wolframcloud.com/
+- Ai for good :
 - Agrégateur de mooc européen https://emc.eadtu.eu/partners
 - Aiforgov issu de projet ERC https://www.open.edu/openlearncreate/course/index.php?categoryid=2051
 - Plateforme de MOOC issu d'un projet ERC https://moodle.citizenscience.eu/

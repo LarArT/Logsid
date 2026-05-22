@@ -1,6 +1,7 @@
 title:: Prompt
 [Promp dnum](https://promptotheque-dsfr-bebd50.gitlab-pages.din.developpement-durable.gouv.fr/)
 
+- [[SHARE: A Framework for Scholarly Co-Writing with Generative AI]]
 - [ ] Input
 	- [[prompt matinal]]
 - [ ] Formatage entrée/sortie

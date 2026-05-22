@@ -51,7 +51,8 @@
 	- [charte orthographique en vigueur dans l'administration française](https://www.legifrance.gouv.fr/contenu/Media/Files/autour-de-la-loi/legislatif-et-reglementaire/charte_typographique_jo_janvier_2021.pdf?hl=fr-FR)
 	  -[législation](https://www.legifrance.gouv.fr/) + blockchain + assistant de preuve = [[Contrat intelligent]]
 - [[icône religion]]
--
+- # aide humanitaire
+- [[aide humanitaire dans les pays riches]]
 - # NRBC
 - [[toxic industrial chimical]]
 - # drone
@@ -71,7 +72,8 @@
 	- [[modèle de radicalisation]]
 	- [liste des organisations sous sanction du conseil européen](https://www.consilium.europa.eu/en/policies/sanctions-against-terrorism/)
 	- [IT systems to fight crime and secure EU borders](https://www.consilium.europa.eu/en/policies/it-systems-security-justice/)
-	-
+	- [[criminalistic intelligence]]
+	- [[classification internationale des infractions]]
 - ## transport / import / export  / logistique
 	- Formation : isteli
 	- [[réaliser une étude de marché]]
