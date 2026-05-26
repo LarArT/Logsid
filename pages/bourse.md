@@ -1,596 +1,596 @@
 - [[gas turbine]]
-  - [[general electric]]
-  - [[Ansoldo engergia]]
-  - [[Kawasaki Heavy Industries]]
-  - [[Mitsubishi Heavy Industries]]
-  - [[Siemens Energy]]
-  - [[Solar Turbines – Caterpillar]]
+	- [[general electric]]
+	- [[Ansoldo engergia]]
+	- [[Kawasaki Heavy Industries]]
+	- [[Mitsubishi Heavy Industries]]
+	- [[Siemens Energy]]
+	- [[Solar Turbines – Caterpillar]]
 - [[airbus]]
-  - [[hyperledger]]
-    - url :: https://www.hyperledger.org/members
+	- [[hyperledger]]
+		- url :: https://www.hyperledger.org/members
 - [[ibm]]
-  - [[tradelens]] créer
-    - [[hyperledger]]
+	- [[tradelens]] créer
+		- [[hyperledger]]
 - [[cma cgm]]
-  - [[tradelens]]
-  - [[porte conteneur]]
+	- [[tradelens]]
+	- [[porte conteneur]]
 - [[Maersks]]
-  - [[tradelens]]
-  - [[porte conteneur]]
+	- [[tradelens]]
+	- [[porte conteneur]]
 - [[msc]]
-  - [[tradelens]]
-  - [[porte conteneur]]
+	- [[tradelens]]
+	- [[porte conteneur]]
 - [[cosco]]
-  - [[porte conteneur]]
+	- [[porte conteneur]]
 - [[everegreen]]
-  - [[porte conteneur]]
+	- [[porte conteneur]]
 - [[oocl]]
-  - [[porte conteneur]]
+	- [[porte conteneur]]
 - [[Hyundai Heavy Industries]]
-  - url :: https://en.wikipedia.org/wiki/Hyundai_Heavy_Industries
-  - [[coree du sud]]
+	- url :: https://en.wikipedia.org/wiki/Hyundai_Heavy_Industries
+	- [[coree du sud]]
 - [[Samsung Heavy Industries]]
-  - url :: https://en.wikipedia.org/wiki/Samsung_Heavy_Industries
-  - [[coree du sud]]
+	- url :: https://en.wikipedia.org/wiki/Samsung_Heavy_Industries
+	- [[coree du sud]]
 - [[Daewoo Shipbuilding & Marine 
-Engineering]]
-  - url :: https://en.wikipedia.org/wiki/Daewoo_Shipbuilding_%26_Marine_Engineering
-  - [[coree du sud]]
-    - [[constructeur navire]]
-      - url :: https://en.wikipedia.org/wiki/List_of_the_largest_shipbuilding_companies
+  Engineering]]
+	- url :: https://en.wikipedia.org/wiki/Daewoo_Shipbuilding_%26_Marine_Engineering
+	- [[coree du sud]]
+		- [[constructeur navire]]
+			- url :: https://en.wikipedia.org/wiki/List_of_the_largest_shipbuilding_companies
 - [[STX Shipbuilding]]
-  - url :: https://en.wikipedia.org/wiki/STX_Shipbuilding
-  - [[coree du sud]]
+	- url :: https://en.wikipedia.org/wiki/STX_Shipbuilding
+	- [[coree du sud]]
 - [[China Shipbuilding Industry 
-Corporation]]
-  - url :: https://en.wikipedia.org/wiki/China_Shipbuilding_Industry_Corporation
-  - [[constructeur navire]]
+  Corporation]]
+	- url :: https://en.wikipedia.org/wiki/China_Shipbuilding_Industry_Corporation
+	- [[constructeur navire]]
 - [[Mitsubishi Heavy Industries]]
-  - url :: https://en.wikipedia.org/wiki/Mitsubishi_Heavy_Industries
-  - [[constructeur navire]]
+	- url :: https://en.wikipedia.org/wiki/Mitsubishi_Heavy_Industries
+	- [[constructeur navire]]
 - [[Fincantieri]]
-  - url :: https://en.wikipedia.org/wiki/Fincantieri
-  - [[constructeur navire]]
+	- url :: https://en.wikipedia.org/wiki/Fincantieri
+	- [[constructeur navire]]
 - [[Samsung Electronics]]
-  - url :: https://en.wikipedia.org/wiki/Samsung_Electronics
-  - [[Semiconductor ndustry]]
-  - [[coree du sud]]
+	- url :: https://en.wikipedia.org/wiki/Samsung_Electronics
+	- [[Semiconductor ndustry]]
+	- [[coree du sud]]
 - [[Intel]]
-  - url :: https://en.wikipedia.org/wiki/Intel
-  - [[Semiconductor ndustry]]
+	- url :: https://en.wikipedia.org/wiki/Intel
+	- [[Semiconductor ndustry]]
 - [[SK Hynix]]
-  - url :: https://en.wikipedia.org/wiki/SK_Hynix
-  - [[Semiconductor ndustry]]
-  - [[coree du sud]]
+	- url :: https://en.wikipedia.org/wiki/SK_Hynix
+	- [[Semiconductor ndustry]]
+	- [[coree du sud]]
 - [[TSMC]]
-  - url :: https://en.wikipedia.org/wiki/TSMC
-  - [[Semiconductor ndustry]]
+	- url :: https://en.wikipedia.org/wiki/TSMC
+	- [[Semiconductor ndustry]]
 - [[Toshiba]]
-  - url :: https://en.wikipedia.org/wiki/Toshiba
-  - [[Semiconductor ndustry]]
+	- url :: https://en.wikipedia.org/wiki/Toshiba
+	- [[Semiconductor ndustry]]
 - [[NXP]]
-  - url :: https://en.wikipedia.org/wiki/NXP
-  - [[Semiconductor ndustry]]
-  - [[Kalray]]
+	- url :: https://en.wikipedia.org/wiki/NXP
+	- [[Semiconductor ndustry]]
+	- [[Kalray]]
 - [[STMicroelectronics]]
-  - url :: https://en.wikipedia.org/wiki/STMicroelectronics
-  - [[Semiconductor ndustry]]
+	- url :: https://en.wikipedia.org/wiki/STMicroelectronics
+	- [[Semiconductor ndustry]]
 - [[Infineon]]
-  - url :: https://en.wikipedia.org/wiki/Infineon
-  - [[Semiconductor ndustry]]
+	- url :: https://en.wikipedia.org/wiki/Infineon
+	- [[Semiconductor ndustry]]
 - [[Arm Holdings]]
-  - url :: https://en.wikipedia.org/wiki/Arm_Holdings
-  - [[Semiconductor ndustry]]
-    - url :: https://en.wikipedia.org/wiki/Semiconductor_industry
+	- url :: https://en.wikipedia.org/wiki/Arm_Holdings
+	- [[Semiconductor ndustry]]
+		- url :: https://en.wikipedia.org/wiki/Semiconductor_industry
 - [[definvestm]]
-  - [[Kalray]]
-    - [[processeurs]]
-  - [[Fichou]]
-    - [[optique de haute précision]]
-  - [[Unseenlabs]]
-    - [[nano-satellites]]
-  - [[SINTERmat]]
-    - [[matériaux innovants]]
-  - [[Glémot]]
-    - [[detection sismique]]
-    - [[Seismo Wave]]
-    - [[rafale]]
-  - [[Cailabs]]
-  - [[Fab’entech]]
+	- [[Kalray]]
+		- [[processeurs]]
+	- [[Fichou]]
+		- [[optique de haute précision]]
+	- [[Unseenlabs]]
+		- [[nano-satellites]]
+	- [[SINTERmat]]
+		- [[matériaux innovants]]
+	- [[Glémot]]
+		- [[detection sismique]]
+		- [[Seismo Wave]]
+		- [[rafale]]
+	- [[Cailabs]]
+	- [[Fab’entech]]
 - [[Axens]]
-  - url :: https://fr.wikipedia.org/wiki/Axens
-  - [[molybdène]]
-  - [[rhénium]]
-    - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticiterhenium170102_.pdf
-    - [[cuivre]]
-    - [[molybdène]]
-      - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitemolybdene221208b_.pdf
+	- url :: https://fr.wikipedia.org/wiki/Axens
+	- [[molybdène]]
+	- [[rhénium]]
+		- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticiterhenium170102_.pdf
+		- [[cuivre]]
+		- [[molybdène]]
+			- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitemolybdene221208b_.pdf
 - [[imerys]]
-  - [[Le graphite naturel]]
-    - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitegraphitenaturel170109.pdf
-  - [[étain]]
-    - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticiteetain170214_.pdf
-  - [[lithium]] m
-    - note :: https://www.lelementarium.fr/element-fiche/lithium/
-    - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitelithium180102.pdf
-    - [[lacs salés asséchés]]
-      - [[Altiplano de la Cordillère des Andes]]
-      - [[Zhabuye, au Tibet]]
-    - [[mine]]
-      - [[spodumène]]
-        - [[carbonate de lithium]]
-          - [[lithium]] 1 tonne = 187 kg
-        - [[s industries verrières et céramiques]]
-      - [[pétalite]]
-      - [[lépidolite]]
-  - [[tantale]]
-    - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitetantale-publique150831_0.pdf
+	- [[Le graphite naturel]]
+		- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitegraphitenaturel170109.pdf
+	- [[étain]]
+		- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticiteetain170214_.pdf
+	- [[lithium]] m
+		- note :: https://www.lelementarium.fr/element-fiche/lithium/
+		- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitelithium180102.pdf
+		- [[lacs salés asséchés]]
+			- [[Altiplano de la Cordillère des Andes]]
+			- [[Zhabuye, au Tibet]]
+		- [[mine]]
+			- [[spodumène]]
+				- [[carbonate de lithium]]
+					- [[lithium]] 1 tonne = 187 kg
+				- [[s industries verrières et céramiques]]
+			- [[pétalite]]
+			- [[lépidolite]]
+	- [[tantale]]
+		- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitetantale-publique150831_0.pdf
 - [[eramet]]
-  - [[lithium]]
-  - [[Dysprosium]]
-  - [[exeltium]]
-  - [[nobium]]
-    - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticiteniobium161116.pdf
-  - [[Tizir]] controle
-    - [[zirconium]]
-      - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitezr180702.pdf
-    - [[hafnium]]
-      - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitehf180702.pdf
-      - [[zirconium]] a partir de
-    - [[titane]]
-      - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitetitane171017.pdf
-  - [[Eurotungstène Poudres]] a controlé
-    - [[rhénium]]
-  - [[erasteel]] controle
-    - [[molybdène]]
-  - [[aubert&duval]] controle
-  - [[nickel]]
-    - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitenickel170129.pdf
-  - [[nickel]]
-    - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitenickel170102.pdf
-  - [[cobalt]]
-    - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitecobalt-180102.pdf
-    - [[cuivre]] sous produit
-    - [[nickel]] sous produit
-    - [[mine]]
-      - [[Kolwezi (RDC)]]
-    - [[batterie Lithium ion]]
-  - [[tungstène]]
-    - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitetungstene-publique150409.pdf
-  - [[Societe le Nickel SLN]]
-    - [[cobalt]]
-  - [[Aubert Et Duval]]
-    - url :: https://fr.wikipedia.org/wiki/Aubert_et_Duval
+	- [[lithium]]
+	- [[Dysprosium]]
+	- [[exeltium]]
+	- [[nobium]]
+		- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticiteniobium161116.pdf
+	- [[Tizir]] controle
+		- [[zirconium]]
+			- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitezr180702.pdf
+		- [[hafnium]]
+			- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitehf180702.pdf
+			- [[zirconium]] a partir de
+		- [[titane]]
+			- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitetitane171017.pdf
+	- [[Eurotungstène Poudres]] a controlé
+		- [[rhénium]]
+	- [[erasteel]] controle
+		- [[molybdène]]
+	- [[aubert&duval]] controle
+	- [[nickel]]
+		- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitenickel170129.pdf
+	- [[nickel]]
+		- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitenickel170102.pdf
+	- [[cobalt]]
+		- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitecobalt-180102.pdf
+		- [[cuivre]] sous produit
+		- [[nickel]] sous produit
+		- [[mine]]
+			- [[Kolwezi (RDC)]]
+		- [[batterie Lithium ion]]
+	- [[tungstène]]
+		- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitetungstene-publique150409.pdf
+	- [[Societe le Nickel SLN]]
+		- [[cobalt]]
+	- [[Aubert Et Duval]]
+		- url :: https://fr.wikipedia.org/wiki/Aubert_et_Duval
 - [[tellure]]
-  - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitete181026.pdf
+	- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitete181026.pdf
 - [[eurecat]]
-  - [[platine]]
-  - [[palladium]]
-    - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitepalladium180102.pdf
+	- [[platine]]
+	- [[palladium]]
+		- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitepalladium180102.pdf
 - [[cookson-clal]]
-  - [[palladium]]
-  - [[platine]]
+	- [[palladium]]
+	- [[platine]]
 - [[morphosis]]
-  - [[palladium]]
-  - [[platine]]
-    - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticiteplatine180103.pdf
+	- [[palladium]]
+	- [[platine]]
+		- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticiteplatine180103.pdf
 - [[metalor technologie]]
-  - [[palladium]]
-  - [[platine]]
+	- [[palladium]]
+	- [[platine]]
 - [[DCX Chrome]]
-  - [[chrome]]
-    - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitechrome171003.pdf
+	- [[chrome]]
+		- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitechrome171003.pdf
 - [[Nyrstar]]
-  - [[L’indium]]
-    - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticiteindium170921.pdf
-  - [[germanium]]
-    - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitegermanium-publique151207.pdf
+	- [[L’indium]]
+		- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticiteindium170921.pdf
+	- [[germanium]]
+		- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitegermanium-publique151207.pdf
 - [[argent]]
-  - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticiteargent171016.pdf
+	- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticiteargent171016.pdf
 - [[solvay]]
-  - [[néodyme]]
-    - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticiteneodyme151201.pdf
-  - [[Dysprosium]] m
-    - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitedysprosium-publique160913.pdf
+	- [[néodyme]]
+		- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticiteneodyme151201.pdf
+	- [[Dysprosium]] m
+		- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitedysprosium-publique160913.pdf
 - [[scandium]]
-  - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitescandium180102.pdf
+	- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitescandium180102.pdf
 - [[cuivre]]
-  - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitecu180205.pdf
+	- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitecu180205.pdf
 - [[vanadium]]
-  - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitecobalt-publique150828_0.pdf
+	- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitecobalt-publique150828_0.pdf
 - [[antimoine]]
-  - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticiteantimoine-publique150409.pdf
+	- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticiteantimoine-publique150409.pdf
 - [[gallium]]
-  - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitegallium-publique160912.pdf
+	- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticitegallium-publique160912.pdf
 - [[rhodium]]
-  - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticiterhodium-publique181113.pdf
+	- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticiterhodium-publique181113.pdf
 - [[sélénium]]
-  - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticiteselenium-publique190114.pdf
+	- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticiteselenium-publique190114.pdf
 - [[FedEx]]
-  - [[Air Cargo Market]]
-    - note :: transport de fret aérien
+	- [[Air Cargo Market]]
+		- note :: transport de fret aérien
 - [[China Airlines Cargo]]
-  - [[Air Cargo Market]]
+	- [[Air Cargo Market]]
 - [[UPS]]
-  - [[Air Cargo Market]]
+	- [[Air Cargo Market]]
 - [[Cathay pacific cargo]]
-  - [[Air Cargo Market]]
+	- [[Air Cargo Market]]
 - [[DHL]]
-  - [[Air Cargo Market]]
+	- [[Air Cargo Market]]
 - [[Korean Air caro]]
-  - [[Air Cargo Market]]
+	- [[Air Cargo Market]]
 - [[Cargolux]]
-  - [[Air Cargo Market]]
+	- [[Air Cargo Market]]
 - [[geodis]]
 - [[bollore logistic]]
 - [[Eanex]]
-  - [[nitrate d'amonium]] producteur (3 monde)
-    - [[explosif]]
-  - [[Davey Bickford]]
-    - url :: https://fr.wikipedia.org/wiki/Davey_Bickford
-    - [[pyrotechnique]] mine
+	- [[nitrate d'amonium]] producteur (3 monde)
+		- [[explosif]]
+	- [[Davey Bickford]]
+		- url :: https://fr.wikipedia.org/wiki/Davey_Bickford
+		- [[pyrotechnique]] mine
 - [[detonnateur]]
 - [[safran]]
-  - [[safran ceramics]]
-    - [[SNPE Materiaux Énergétiques]]
-      - [[Roxel]]
-  - [[Lynred]] 50 %
-    - url :: https://fr.wikipedia.org/wiki/Lynred
+	- [[safran ceramics]]
+		- [[SNPE Materiaux Énergétiques]]
+			- [[Roxel]]
+	- [[Lynred]] 50 %
+		- url :: https://fr.wikipedia.org/wiki/Lynred
 - [[mbda]]
-  - [[Roxel]]
-    - note :: leader
-    - url :: https://fr.wikipedia.org/wiki/Roxel
-    - [[missiles tactiques]]
-      - [[pyrotechnique]]
+	- [[Roxel]]
+		- note :: leader
+		- url :: https://fr.wikipedia.org/wiki/Roxel
+		- [[missiles tactiques]]
+			- [[pyrotechnique]]
 - [[Northrop Grumman Innovation 
-Systems]]
-  - url :: https://fr.wikipedia.org/wiki/Northrop_Grumman_Innovation_Systems
-  - [[missiles tactiques]]
+  Systems]]
+	- url :: https://fr.wikipedia.org/wiki/Northrop_Grumman_Innovation_Systems
+	- [[missiles tactiques]]
 - [[Aerojet]]
-  - url :: https://fr.wikipedia.org/wiki/Aerojet
-  - [[missiles tactiques]]
+	- url :: https://fr.wikipedia.org/wiki/Aerojet
+	- [[missiles tactiques]]
 - [[Alsetex]]
-  - url :: https://fr.wikipedia.org/wiki/Alsetex
-  - [[pyrotechnique]] maintien de l'orde
+	- url :: https://fr.wikipedia.org/wiki/Alsetex
+	- [[pyrotechnique]] maintien de l'orde
 - [[Titanobel]]
-  - note :: numero 1 francais explosifs civilsFabricant d’explosifs à partir de poudre noire, d’émulsions sous forme pâteuse, et de nitrate fioul en granulats
-  - [[pyrotechnique]] mine
+	- note :: numero 1 francais explosifs civilsFabricant d’explosifs à partir de poudre noire, d’émulsions sous forme pâteuse, et de nitrate fioul en granulats
+	- [[pyrotechnique]] mine
 - [[classification]]
-  - url :: https://ec.europa.eu/eurostat/data/database
+	- url :: https://ec.europa.eu/eurostat/data/database
 - [[Industry Classification Benchmark]]
-  - url :: https://en.wikipedia.org/wiki/Industry_Classification_Benchmark
+	- url :: https://en.wikipedia.org/wiki/Industry_Classification_Benchmark
 - [[contraception]]
-  - url :: https://oec.world/en/profile/hs92/300660/
+	- url :: https://oec.world/en/profile/hs92/300660/
 - [[Eli Lilly And Company]]
-  - url :: https://fr.wikipedia.org/wiki/Eli_Lilly_and_Company
-  - [[insuline]]
+	- url :: https://fr.wikipedia.org/wiki/Eli_Lilly_and_Company
+	- [[insuline]]
 - [[Sanofi]]
-  - url :: https://fr.wikipedia.org/wiki/Sanofi
-  - [[insuline]]
+	- url :: https://fr.wikipedia.org/wiki/Sanofi
+	- [[insuline]]
 - [[Novo Nordisk]]
-  - url :: https://fr.wikipedia.org/wiki/Novo_Nordisk
-  - [[insuline]] 50 %
-    - note :: Novo Nordisk, société basée au Danemark et leader du marché du diabète, représente une part estimée à plus de 50%pct; du marché mondial de l'insuline. Avec la société française Sanofi-Aventis et le fabricant américain Eli Lilly, Novo Nordisk contrôle environ 80%pct; du marché. Les autres acteurs du marché comprennent de nouveaux arrivants et des fournisseurs de niche dans les pays émergents, tels que le fabricant indien de produits pharmaceutiques Biocon, plus gros producteur d'insuline en Asie. Wanbang Biopharma, par exemple, est le plus gros producteur d'insuline de son marché intérieur, à savoir la Chine, sa part représentant presque la moitié du marché. En vue d'exporter principalement vers l'Europe et les États-Unis, ce fabricant chinois a désormais l'intention de construire une usine d'insuline qui, durant sa phase initiale, sera en mesure de produire environ 130 millions d'unités par an. https://www.gea.com/fr/stories/production-of-insulin.jsp technologie de l'ADN recombiné (ADNr) qui consiste à injecter le gène de l'insuline dans un vecteur approprié, en l'occurrence Escherichia coli. Sa constitution génétique est modifiée de telle sorte qu'il produit l'hormone humaine de l'insuline https://www.gea.com/fr/stories/production-of-insulin.jsp
-    - url :: https://oec.world/en/profile/hs92/300431/
+	- url :: https://fr.wikipedia.org/wiki/Novo_Nordisk
+	- [[insuline]] 50 %
+		- note :: Novo Nordisk, société basée au Danemark et leader du marché du diabète, représente une part estimée à plus de 50%pct; du marché mondial de l'insuline. Avec la société française Sanofi-Aventis et le fabricant américain Eli Lilly, Novo Nordisk contrôle environ 80%pct; du marché. Les autres acteurs du marché comprennent de nouveaux arrivants et des fournisseurs de niche dans les pays émergents, tels que le fabricant indien de produits pharmaceutiques Biocon, plus gros producteur d'insuline en Asie. Wanbang Biopharma, par exemple, est le plus gros producteur d'insuline de son marché intérieur, à savoir la Chine, sa part représentant presque la moitié du marché. En vue d'exporter principalement vers l'Europe et les États-Unis, ce fabricant chinois a désormais l'intention de construire une usine d'insuline qui, durant sa phase initiale, sera en mesure de produire environ 130 millions d'unités par an. https://www.gea.com/fr/stories/production-of-insulin.jsp technologie de l'ADN recombiné (ADNr) qui consiste à injecter le gène de l'insuline dans un vecteur approprié, en l'occurrence Escherichia coli. Sa constitution génétique est modifiée de telle sorte qu'il produit l'hormone humaine de l'insuline https://www.gea.com/fr/stories/production-of-insulin.jsp
+		- url :: https://oec.world/en/profile/hs92/300431/
 - [[Wanbang Biopharma]]
-  - [[insuline]]
+	- [[insuline]]
 - [[Biocon]]
-  - [[insuline]]
+	- [[insuline]]
 - [[Escherichia coli]]
-  - [[insuline]]
+	- [[insuline]]
 - [[Glencore]]
-  - [[mine]]
+	- [[mine]]
 - [[raffinage]]
 - [[Zhejiang Huayou Cobalt]]
-  - url :: https://en.wikipedia.org/wiki/Zhejiang_Huayou_Cobalt
-  - [[Congo DongFang International Mininl]]
-    - [[mine]]
+	- url :: https://en.wikipedia.org/wiki/Zhejiang_Huayou_Cobalt
+	- [[Congo DongFang International Mininl]]
+		- [[mine]]
 - [[China Molybdenum-TFM]]
-  - [[mine]]
+	- [[mine]]
 - [[GEM co china]]
-  - url :: https://www.bloomberg.com/profile/company/002340:CH
-  - [[mine]]
+	- url :: https://www.bloomberg.com/profile/company/002340:CH
+	- [[mine]]
 - [[wolkswagen]]
-  - [[Contemporary Amperex 
-Technology]] enorme contrat batterie
-    - url :: https://fr.wikipedia.org/wiki/Contemporary_Amperex_Technology
-    - [[batterie Lithium ion]]
+	- [[Contemporary Amperex 
+	  Technology]] enorme contrat batterie
+		- url :: https://fr.wikipedia.org/wiki/Contemporary_Amperex_Technology
+		- [[batterie Lithium ion]]
 - [[Nomenclature d’activités française]]
-  - url :: https://www.insee.fr/fr/information/2120875
+	- url :: https://www.insee.fr/fr/information/2120875
 - [[pepite]]
 - [[serma]]
-  - url :: https://www.serma.com/
+	- url :: https://www.serma.com/
 - [[memo_entreprise]]
 - [[agro business]]
 - [[Archer Daniels Midland]]
-  - url :: https://fr.wikipedia.org/wiki/Archer_Daniels_Midland
-  - [[Wilmar International]] 24 %
-    - url :: https://en.wikipedia.org/wiki/Wilmar_International
-    - [[sucre]]
-    - [[huile de palme]]
+	- url :: https://fr.wikipedia.org/wiki/Archer_Daniels_Midland
+	- [[Wilmar International]] 24 %
+		- url :: https://en.wikipedia.org/wiki/Wilmar_International
+		- [[sucre]]
+		- [[huile de palme]]
 - [[COFCO Group]]
-  - url :: https://en.wikipedia.org/wiki/COFCO_Group
+	- url :: https://en.wikipedia.org/wiki/COFCO_Group
 - [[Cargill]]
-  - note :: non cote
-  - url :: https://en.wikipedia.org/wiki/Cargill
+	- note :: non cote
+	- url :: https://en.wikipedia.org/wiki/Cargill
 - [[airbus]]
-  - [[Dassault Aviation]] 10 %
-  - [[Stelia Aerospace]]
-  - [[Ratier (entreprise)]] sous traitant
-    - url :: https://fr.wikipedia.org/wiki/Ratier_(entreprise)
+	- [[Dassault Aviation]] 10 %
+	- [[Stelia Aerospace]]
+	- [[Ratier (entreprise)]] sous traitant
+		- url :: https://fr.wikipedia.org/wiki/Ratier_(entreprise)
 - [[PSA]]
-  - [[Faurecia]]
-    - url :: https://fr.wikipedia.org/wiki/Faurecia
+	- [[Faurecia]]
+		- url :: https://fr.wikipedia.org/wiki/Faurecia
 - [[Collins Aerospace]]
-  - url :: https://fr.wikipedia.org/wiki/Collins_Aerospace
-  - [[Ratier (entreprise)]]
+	- url :: https://fr.wikipedia.org/wiki/Collins_Aerospace
+	- [[Ratier (entreprise)]]
 - [[stmicrolectronics]]
-  - [[exagan]]
-    - [[nitrure de gallium]]
+	- [[exagan]]
+		- [[nitrure de gallium]]
 - [[thales]]
-  - [[Lynred]] 50 %
+	- [[Lynred]] 50 %
 - [[alluminium]]
 - [[fer]]
 - [[uk form financial report]]
-  - url :: http://download.companieshouse.gov.uk/en_monthlyaccountsdata.html
-  - [[XBRL format]]
+	- url :: http://download.companieshouse.gov.uk/en_monthlyaccountsdata.html
+	- [[XBRL format]]
 - [[canada form financial report]]
-  - url :: https://www.sedar.com/search/search_form_pc_en.htm
+	- url :: https://www.sedar.com/search/search_form_pc_en.htm
 - [[financialmodelingprep]]
-  - note :: scrape euronext et les bases de donnée edgar de la sec https://fr.linkedin.com/in/antoine-vulcain-4a912652/fr
-  - url :: https://financialmodelingprep.com/developer/docs/
-  - [[sec form]] utilise
-    - note :: moteur de recherche rapport notamment financier des entreprises amércaine
-    - url :: https://www.sec.gov/edgar/searchedgar/companysearch.html
-    - [[10-k Financial statement]]
-      - note :: rapport annuel
-      - url :: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000789019&type=10-K&dateb=&owner=exclude&count=40
-    - [[XBRL format]]
-      - [[ESEF ESMA]]
+	- note :: scrape euronext et les bases de donnée edgar de la sec https://fr.linkedin.com/in/antoine-vulcain-4a912652/fr
+	- url :: https://financialmodelingprep.com/developer/docs/
+	- [[sec form]] utilise
+		- note :: moteur de recherche rapport notamment financier des entreprises amércaine
+		- url :: https://www.sec.gov/edgar/searchedgar/companysearch.html
+		- [[10-k Financial statement]]
+			- note :: rapport annuel
+			- url :: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000789019&type=10-K&dateb=&owner=exclude&count=40
+		- [[XBRL format]]
+			- [[ESEF ESMA]]
 - [[Yara International]]
-  - url :: https://fr.wikipedia.org/wiki/Yara_International
-  - [[ammoniac]]
+	- url :: https://fr.wikipedia.org/wiki/Yara_International
+	- [[ammoniac]]
 - [[CF Industries]]
-  - url :: https://en.wikipedia.org/wiki/CF_Industries
-  - [[ammoniac]]
+	- url :: https://en.wikipedia.org/wiki/CF_Industries
+	- [[ammoniac]]
 - [[Ostchem Holding]]
-  - url :: https://en.wikipedia.org/wiki/Ostchem_Holding
-  - [[ammoniac]]
+	- url :: https://en.wikipedia.org/wiki/Ostchem_Holding
+	- [[ammoniac]]
 - [[Pupuk Indonesia Holding 
-Company]]
-  - url :: https://id.wikipedia.org/wiki/Pupuk_Indonesia_Holding_Company
-  - [[ammoniac]]
+  Company]]
+	- url :: https://id.wikipedia.org/wiki/Pupuk_Indonesia_Holding_Company
+	- [[ammoniac]]
 - [[Nutrien]]
-  - url :: https://fr.wikipedia.org/wiki/Nutrien
-  - [[ammoniac]]
-    - url :: https://www.lelementarium.fr/product/ammoniac/
-    - [[engrais]]
-    - [[gaz naturel]]
-    - [[charbon]]
+	- url :: https://fr.wikipedia.org/wiki/Nutrien
+	- [[ammoniac]]
+		- url :: https://www.lelementarium.fr/product/ammoniac/
+		- [[engrais]]
+		- [[gaz naturel]]
+		- [[charbon]]
 - [[ID 394]]
 - [[Sociedad Química y Minera de Chile]]
-  - url :: https://en.wikipedia.org/wiki/Sociedad_Qu%C3%ADmica_y_Minera
-  - [[Altiplano de la Cordillère des Andes]]
-  - [[lithium]]
+	- url :: https://en.wikipedia.org/wiki/Sociedad_Qu%C3%ADmica_y_Minera
+	- [[Altiplano de la Cordillère des Andes]]
+	- [[lithium]]
 - [[Tianqi Lithium]]
-  - url :: https://en.wikipedia.org/wiki/Tianqi_Lithium
-  - [[lithium]]
-  - [[Talison Minerals]] 51 %
-    - url :: https://en.wikipedia.org/wiki/Talison_Minerals
+	- url :: https://en.wikipedia.org/wiki/Tianqi_Lithium
+	- [[lithium]]
+	- [[Talison Minerals]] 51 %
+		- url :: https://en.wikipedia.org/wiki/Talison_Minerals
 - [[Mine De Greenbushes]]
-  - url :: https://fr.wikipedia.org/wiki/Mine_de_Greenbushes
+	- url :: https://fr.wikipedia.org/wiki/Mine_de_Greenbushes
 - [[Albemarle (entreprise)]]
-  - url :: https://fr.wikipedia.org/wiki/Albemarle_(entreprise)
-  - [[Talison Minerals]] 49 %
-  - [[lithium]]
+	- url :: https://fr.wikipedia.org/wiki/Albemarle_(entreprise)
+	- [[Talison Minerals]] 49 %
+	- [[lithium]]
 - [[Livent]]
-  - url :: https://en.wikipedia.org/wiki/Livent
-  - [[lithium]]
+	- url :: https://en.wikipedia.org/wiki/Livent
+	- [[lithium]]
 - [[Jiangxi Ganfeng Lithium]]
-  - url :: https://mining-atlas.com/company/Jiangxi-Ganfeng-Lithium.php
-  - [[lithium]]
+	- url :: https://mining-atlas.com/company/Jiangxi-Ganfeng-Lithium.php
+	- [[lithium]]
 - [[materion]]
-  - url :: https://en.wikipedia.org/wiki/Materion
-  - [[béryllium]] 60%
-    - note :: https://www.lelementarium.fr/element-fiche/beryllium/
-    - url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticiteberyllium-publique161026.pdf
+	- url :: https://en.wikipedia.org/wiki/Materion
+	- [[béryllium]] 60%
+		- note :: https://www.lelementarium.fr/element-fiche/beryllium/
+		- url :: http://www.mineralinfo.fr/sites/default/files/upload/documents/Fiches_criticite/fichecriticiteberyllium-publique161026.pdf
 - [[Kazatomprom]]
-  - url :: https://en.wikipedia.org/wiki/Kazatomprom
-  - [[Ulba Metallurgical Plant]] s
-    - url :: https://en.wikipedia.org/wiki/Ulba_Metallurgical_Plant
-    - [[béryllium]] 20 %
+	- url :: https://en.wikipedia.org/wiki/Kazatomprom
+	- [[Ulba Metallurgical Plant]] s
+		- url :: https://en.wikipedia.org/wiki/Ulba_Metallurgical_Plant
+		- [[béryllium]] 20 %
 - [[Nippon Soda]]
-  - url :: https://en.wikipedia.org/wiki/Nippon_Soda
-  - [[Métaux spéciaux]]
-    - url :: https://fr.wikipedia.org/wiki/M%C3%A9taux_sp%C3%A9ciaux
-    - [[sodium]]
-      - url :: https://www.lelementarium.fr/element-fiche/sodium/
+	- url :: https://en.wikipedia.org/wiki/Nippon_Soda
+	- [[Métaux spéciaux]]
+		- url :: https://fr.wikipedia.org/wiki/M%C3%A9taux_sp%C3%A9ciaux
+		- [[sodium]]
+			- url :: https://www.lelementarium.fr/element-fiche/sodium/
 - [[2019 Leadership In 
-Automation First Team 
-Honorees]]
-  - url :: https://www.automationworld.com/home/article/13319442/2019-leadership-in-automation-first-team-honorees
-  - [[scada]]
+  Automation First Team 
+  Honorees]]
+	- url :: https://www.automationworld.com/home/article/13319442/2019-leadership-in-automation-first-team-honorees
+	- [[scada]]
 - [[airbus]]
-  - [[VSMPO AVISMA]] dépendance titane
-    - url :: https://fr.wikipedia.org/wiki/VSMPO-AVISMA
-    - [[titane]] 20%
+	- [[VSMPO AVISMA]] dépendance titane
+		- url :: https://fr.wikipedia.org/wiki/VSMPO-AVISMA
+		- [[titane]] 20%
 - [[Berkshire Hathaway]]
-  - url :: https://en.wikipedia.org/wiki/Berkshire_Hathaway
-  - [[Precision Castparts Corp]]
-    - url :: https://en.wikipedia.org/wiki/Precision_Castparts_Corp.
-    - [[Titanium Metals Corporation]]
-      - url :: https://en.wikipedia.org/wiki/Titanium_Metals_Corporation
-      - [[titane]]
+	- url :: https://en.wikipedia.org/wiki/Berkshire_Hathaway
+	- [[Precision Castparts Corp]]
+		- url :: https://en.wikipedia.org/wiki/Precision_Castparts_Corp.
+		- [[Titanium Metals Corporation]]
+			- url :: https://en.wikipedia.org/wiki/Titanium_Metals_Corporation
+			- [[titane]]
 - [[Osaka Titanium Technologies]]
-  - url :: https://en.wikipedia.org/wiki/Osaka_Titanium_Technologies
-  - [[titane]]
+	- url :: https://en.wikipedia.org/wiki/Osaka_Titanium_Technologies
+	- [[titane]]
 - [[Toho Titanium SC]]
-  - url :: https://en.wikipedia.org/wiki/Toho_Titanium_SC
-  - [[titane]]
+	- url :: https://en.wikipedia.org/wiki/Toho_Titanium_SC
+	- [[titane]]
 - [[Luoyang Wanji]]
-  - [[titane]]
+	- [[titane]]
 - [[air liquide]]
-  - note :: filiale à 100%pct; d’Air Liquide "Japan Air Gases" fournit au marché japonais de gaz industriels et médicaux, et des services associés. Dans le domaine de l’Electronique, le Japon représente 40%pct; du chiffre d’affaires mondial de l’activité Electronique et joue le rôle d’une importante plate-forme technologique vers les autres pays d’Asie, dans ce marché mondial. https://www.enerzine.com/air-liquide-triple-sa-capacite-de-production-de-silane/5786-2008-03
-  - url :: https://fr.wikipedia.org/wiki/Air_liquide
-  - [[Denal Silane Co 
-Ltd]]
-  - [[monosilane]] 35 % marche
-  - [[gaz industrielle]] 1 er
-  - [[risque]]
-    - url :: https://www.capital.fr/entreprises-marches/air-liquide-deux-contrats-dapprovisionnement-a-long-terme-avec-marathon-petroleum-company-1342358
-    - [[pétrole]]
-    - [[electricite]]
-      - [[exeltium]]
-        - note :: Pour les industriels dits électro-intensifs %sp;(acier, aluminium, chimie, gaz industriels, papier…), l’approvisionnement électrique est un enjeu de compétitivité majeur car il représente de 15 à 50%pct; du coût de production https://www.exeltium.com/le-projet/
-        - url :: https://www.exeltium.com/
-    - [[gaz]]
-    - [[gaz spéciaux]]
-      - note :: fournisseur limité -> importance stratégique
-      - [[kanto denka]]
-        - url :: https://www.kantodenka.co.jp/english/
-        - [[Denal Silane Co 
-Ltd]]
-          - url :: https://www.bloomberg.com/profiles/companies/0186559D:JP-denal-silane-co-ltd
-          - [[monosilane]]
-            - note :: Le silane (monosilane, SiH4), gaz de haute pureté, est devenu un élément essentiel dans la production des semi-conducteurs, écrans plats et cellules photovoltaïques.
-      - [[sodiff advanced materials co]]
-        - url :: http://www.chemnet.com/ChinaSuppliers/24161/
-        - [[nitrogene]]
-  - [[Industrial Gases]]
-    - url :: https://industry.airliquide.sg/industrial-gases
+	- note :: filiale à 100%pct; d’Air Liquide "Japan Air Gases" fournit au marché japonais de gaz industriels et médicaux, et des services associés. Dans le domaine de l’Electronique, le Japon représente 40%pct; du chiffre d’affaires mondial de l’activité Electronique et joue le rôle d’une importante plate-forme technologique vers les autres pays d’Asie, dans ce marché mondial. https://www.enerzine.com/air-liquide-triple-sa-capacite-de-production-de-silane/5786-2008-03
+	- url :: https://fr.wikipedia.org/wiki/Air_liquide
+	- [[Denal Silane Co 
+	  Ltd]]
+	- [[monosilane]] 35 % marche
+	- [[gaz industrielle]] 1 er
+	- [[risque]]
+		- url :: https://www.capital.fr/entreprises-marches/air-liquide-deux-contrats-dapprovisionnement-a-long-terme-avec-marathon-petroleum-company-1342358
+		- [[pétrole]]
+		- [[electricite]]
+			- [[exeltium]]
+				- note :: Pour les industriels dits électro-intensifs %sp;(acier, aluminium, chimie, gaz industriels, papier…), l’approvisionnement électrique est un enjeu de compétitivité majeur car il représente de 15 à 50%pct; du coût de production https://www.exeltium.com/le-projet/
+				- url :: https://www.exeltium.com/
+		- [[gaz]]
+		- [[gaz spéciaux]]
+			- note :: fournisseur limité -> importance stratégique
+			- [[kanto denka]]
+				- url :: https://www.kantodenka.co.jp/english/
+				- [[Denal Silane Co 
+				  Ltd]]
+					- url :: https://www.bloomberg.com/profiles/companies/0186559D:JP-denal-silane-co-ltd
+					- [[monosilane]]
+						- note :: Le silane (monosilane, SiH4), gaz de haute pureté, est devenu un élément essentiel dans la production des semi-conducteurs, écrans plats et cellules photovoltaïques.
+			- [[sodiff advanced materials co]]
+				- url :: http://www.chemnet.com/ChinaSuppliers/24161/
+				- [[nitrogene]]
+	- [[Industrial Gases]]
+		- url :: https://industry.airliquide.sg/industrial-gases
 - [[Linde AG]]
-  - url :: https://fr.wikipedia.org/wiki/Linde_AG
-  - [[gaz industrielle]] 2 eme
-  - [[exeltium]] label
+	- url :: https://fr.wikipedia.org/wiki/Linde_AG
+	- [[gaz industrielle]] 2 eme
+	- [[exeltium]] label
 - [[suez]]
-  - [[exeltium]]
+	- [[exeltium]]
 - [[befesa]]
-  - url :: https://www.zonebourse.com/BEFESA-S-A-38533864/societe/
-  - [[exeltium]]
+	- url :: https://www.zonebourse.com/BEFESA-S-A-38533864/societe/
+	- [[exeltium]]
 - [[eni]]
-  - [[exeltium]]
+	- [[exeltium]]
 - [[total]]
-  - [[exeltium]]
+	- [[exeltium]]
 - [[vencorex]]
-  - url :: https://www.brefeco.com/annuaire/vencorex-france
-  - [[exeltium]]
+	- url :: https://www.brefeco.com/annuaire/vencorex-france
+	- [[exeltium]]
 - [[arcelor mitall]]
-  - [[exeltium]]
+	- [[exeltium]]
 - [[Ahlstrom-Munksjö]]
-  - url :: https://fr.wikipedia.org/wiki/Ahlstrom-Munksj%C3%B6
-  - [[exeltium]]
+	- url :: https://fr.wikipedia.org/wiki/Ahlstrom-Munksj%C3%B6
+	- [[exeltium]]
 - [[Roquette frères]]
-  - url :: https://fr.wikipedia.org/wiki/Roquette_Fr%C3%A8res
-  - [[exeltium]]
+	- url :: https://fr.wikipedia.org/wiki/Roquette_Fr%C3%A8res
+	- [[exeltium]]
 - [[Rio Tinto (entreprise)]]
-  - url :: https://fr.wikipedia.org/wiki/Rio_Tinto_(entreprise)
-  - [[exeltium]]
-  - [[mine]]
+	- url :: https://fr.wikipedia.org/wiki/Rio_Tinto_(entreprise)
+	- [[exeltium]]
+	- [[mine]]
 - [[Arkema]]
-  - url :: https://fr.wikipedia.org/wiki/Arkema
-  - [[exeltium]]
+	- url :: https://fr.wikipedia.org/wiki/Arkema
+	- [[exeltium]]
 - [[Arjowiggins]]
-  - url :: https://fr.wikipedia.org/wiki/Arjowiggins
-  - [[exeltium]]
-  - [[industrie papier]]
+	- url :: https://fr.wikipedia.org/wiki/Arjowiggins
+	- [[exeltium]]
+	- [[industrie papier]]
 - [[Papeteries De Clairefontaine]]
-  - url :: https://fr.wikipedia.org/wiki/Papeteries_de_Clairefontaine
-  - [[exeltium]]
-  - [[industrie papier]]
+	- url :: https://fr.wikipedia.org/wiki/Papeteries_de_Clairefontaine
+	- [[exeltium]]
+	- [[industrie papier]]
 - [[Groupe Gascogne]]
-  - url :: https://fr.wikipedia.org/wiki/Groupe_Gascogne
-  - [[exeltium]]
-  - [[industrie papier]] m
+	- url :: https://fr.wikipedia.org/wiki/Groupe_Gascogne
+	- [[exeltium]]
+	- [[industrie papier]] m
 - [[Ineos]]
-  - url :: https://fr.wikipedia.org/wiki/Ineos
-  - [[exeltium]]
+	- url :: https://fr.wikipedia.org/wiki/Ineos
+	- [[exeltium]]
 - [[Saint Gobain]]
-  - url :: https://fr.wikipedia.org/wiki/Saint-Gobain
-  - [[Isover]]
-    - url :: https://fr.wikipedia.org/wiki/Isover
-    - [[exeltium]]
+	- url :: https://fr.wikipedia.org/wiki/Saint-Gobain
+	- [[Isover]]
+		- url :: https://fr.wikipedia.org/wiki/Isover
+		- [[exeltium]]
 - [[vynova]]
-  - url :: https://www.vynova-group.com/
-  - [[exeltium]]
+	- url :: https://www.vynova-group.com/
+	- [[exeltium]]
 - [[Solvay (entreprise)]]
-  - url :: https://fr.wikipedia.org/wiki/Solvay_(entreprise)
-  - [[exeltium]]
+	- url :: https://fr.wikipedia.org/wiki/Solvay_(entreprise)
+	- [[exeltium]]
 - [[Omya]]
-  - url :: https://fr.wikipedia.org/wiki/Omya
-  - [[exeltium]]
+	- url :: https://fr.wikipedia.org/wiki/Omya
+	- [[exeltium]]
 - [[Norske Skog Golbey]]
-  - url :: https://fr.wikipedia.org/wiki/Norske_Skog_Golbey
-  - [[exeltium]]
-  - [[industrie papier]]
+	- url :: https://fr.wikipedia.org/wiki/Norske_Skog_Golbey
+	- [[exeltium]]
+	- [[industrie papier]]
 - [[Nyrstar]]
-  - url :: https://fr.wikipedia.org/wiki/Nyrstar
-  - [[exeltium]]
-  - [[mine]]
+	- url :: https://fr.wikipedia.org/wiki/Nyrstar
+	- [[exeltium]]
+	- [[mine]]
 - [[Tessenderlo Group]]
-  - url :: https://en.wikipedia.org/wiki/Tessenderlo_Group
-  - [[exeltium]]
+	- url :: https://en.wikipedia.org/wiki/Tessenderlo_Group
+	- [[exeltium]]
 - [[Renewable Energy Corporation]]
-  - url :: https://en.wikipedia.org/wiki/Renewable_Energy_Corporation
-  - [[panneau solaire]]
-  - [[matériaux en silicium]] 1 er (2008
+	- url :: https://en.wikipedia.org/wiki/Renewable_Energy_Corporation
+	- [[panneau solaire]]
+	- [[matériaux en silicium]] 1 er (2008
 - [[Groupe Industriel Marcel 
-Dassault]]
-  - url :: https://fr.wikipedia.org/wiki/Groupe_industriel_Marcel_Dassault
-  - [[Dassault Aviation]] 62 %
-    - url :: https://fr.wikipedia.org/wiki/Dassault_Aviation
-  - [[Dassault Systèmes]] 41 %
-    - note :: concurrent Nous sommes concurrencés au niveau de l’offre, des capacités, de la connaissance de l’industrie, des services et des stratégies de prix. L’environnement concurrentiel comprend les concurrents de longue date sur le marché de la PLM, notamment Siemens, Autodesk et PTC, les fournisseurs de simulation, notamment ANSYS, %sp;Altair %sp;Engineering, %sp;MSC %sp;Software %sp;(appartenant %sp;à %sp;Hexagon), %sp;en %sp;ce %sp;qui %sp;concerne %sp;nos %sp;logiciels %sp;de %sp;simulation %sp;structurelle, des fluides, électromagnétique et multi-physique. En %sp;ce %sp;qui %sp;concerne %sp;notre %sp;offre %sp;de %sp;logiciels %sp;de %sp;processus %sp;d’entreprise %sp;collaboratifs %sp;et %sp;d’opérations %sp;industrielles, %sp;nous %sp;sommes également en concurrence avec Oracle et SAP.Suite à l’acquisition de Medidata, notre présence combinée, sur une base annualisée, fait que les sciences de la vie constituent à présent notre deuxième plus grand secteur d’activité. Il s’agit à %sp;l’heure %sp;actuelle %sp;d’un %sp;marché %sp;très %sp;fragmenté, %sp;où %sp;les %sp;quatre %sp;principaux %sp;acteurs, %sp;dont %sp;nous %sp;faisons %sp;partie, %sp;représentent %sp;moins %sp; de %sp; 30 %sp; %pct; %sp; de %sp; notre %sp; marché %sp; adressable %sp; défini. %sp; Les %sp; concurrents %sp; sont %sp; nombreux %sp; dans %sp; les %sp; principaux %sp; secteurs %sp; d’activité, %sp;notamment %sp;dans %sp;la %sp;recherche %sp;et %sp;la %sp;découverte %sp;(Schrödinger %sp; et %sp; Dotmatics), %sp; le %sp; développement %sp; préclinique %sp; (Labware %sp;et %sp;LabVantage), %sp;les %sp;essais %sp;cliniques %sp;(Oracle, %sp;IBM %sp;Clinical Development, Medrio et Veeva), l’industrie (SAP, SAS et Tibco) et la commercialisation (Veeva, ZS et Model N) Les autres sociétés, principalement des éditeurs de logiciels qui nous font parfois concurrence directement ou indirectement, comprennent, %sp; entre %sp; autres, %sp; Adobe, %sp; ARAS, %sp; Aveva %sp; Group %sp; (détenu par Schneider Electric), Bentley Systems, Epicor, Infor, Intergraph (appartenant à Hexagon), JDA Software, Microsoft, Nemetschek, %sp;Palantir %sp;Technologies, %sp;Plex, %sp;Salesforce.com, %sp;et %sp;d’autres sociétés de logiciels dans le secteur minier ou offrant des capacités de logiciels d’innovation d’entreprise sociale, de collaboration, de traitement de l’information et de marketing numérique risque : taux de change ; es %sp;résultats %sp;de %sp;Dassault %sp;Systèmes %sp;peuvent %sp;être %sp;affectés %sp;par %sp;les %sp;fluctuations %sp;et %sp;la %sp;forte %sp;volatilité %sp;des %sp;taux %sp;de %sp;change. %sp;En %sp;particulier, les variations du dollar américain ou du yen japonais par %sp;rapport %sp;à %sp;l’euro %sp;et, %sp;dans %sp;une %sp;moindre %sp;mesure, %sp;de %sp;la %sp;livre %sp;sterling, %sp;du %sp;won %sp;coréen %sp;et %sp;du %sp;yuan %sp;chinois contrat important : boeing, airbus forte fluctuations du résultat opérationnel trimestriel du à la cnoclusion de contrat en fin de trimestre (parfois du retard) principaux marchés : europe (france, allemagne), USA, Asie (japon) https://investor.3ds.com/static-files/69b19ff2-99df-451d-94b1-5e048e4286d3
-    - url :: https://fr.wikipedia.org/wiki/Dassault_Syst%C3%A8mes
-    - [[Medidata Solutions]]
-      - url :: https://en.wikipedia.org/wiki/Medidata_Solutions
+  Dassault]]
+	- url :: https://fr.wikipedia.org/wiki/Groupe_industriel_Marcel_Dassault
+	- [[Dassault Aviation]] 62 %
+		- url :: https://fr.wikipedia.org/wiki/Dassault_Aviation
+	- [[Dassault Systèmes]] 41 %
+		- note :: concurrent Nous sommes concurrencés au niveau de l’offre, des capacités, de la connaissance de l’industrie, des services et des stratégies de prix. L’environnement concurrentiel comprend les concurrents de longue date sur le marché de la PLM, notamment Siemens, Autodesk et PTC, les fournisseurs de simulation, notamment ANSYS, %sp;Altair %sp;Engineering, %sp;MSC %sp;Software %sp;(appartenant %sp;à %sp;Hexagon), %sp;en %sp;ce %sp;qui %sp;concerne %sp;nos %sp;logiciels %sp;de %sp;simulation %sp;structurelle, des fluides, électromagnétique et multi-physique. En %sp;ce %sp;qui %sp;concerne %sp;notre %sp;offre %sp;de %sp;logiciels %sp;de %sp;processus %sp;d’entreprise %sp;collaboratifs %sp;et %sp;d’opérations %sp;industrielles, %sp;nous %sp;sommes également en concurrence avec Oracle et SAP.Suite à l’acquisition de Medidata, notre présence combinée, sur une base annualisée, fait que les sciences de la vie constituent à présent notre deuxième plus grand secteur d’activité. Il s’agit à %sp;l’heure %sp;actuelle %sp;d’un %sp;marché %sp;très %sp;fragmenté, %sp;où %sp;les %sp;quatre %sp;principaux %sp;acteurs, %sp;dont %sp;nous %sp;faisons %sp;partie, %sp;représentent %sp;moins %sp; de %sp; 30 %sp; %pct; %sp; de %sp; notre %sp; marché %sp; adressable %sp; défini. %sp; Les %sp; concurrents %sp; sont %sp; nombreux %sp; dans %sp; les %sp; principaux %sp; secteurs %sp; d’activité, %sp;notamment %sp;dans %sp;la %sp;recherche %sp;et %sp;la %sp;découverte %sp;(Schrödinger %sp; et %sp; Dotmatics), %sp; le %sp; développement %sp; préclinique %sp; (Labware %sp;et %sp;LabVantage), %sp;les %sp;essais %sp;cliniques %sp;(Oracle, %sp;IBM %sp;Clinical Development, Medrio et Veeva), l’industrie (SAP, SAS et Tibco) et la commercialisation (Veeva, ZS et Model N) Les autres sociétés, principalement des éditeurs de logiciels qui nous font parfois concurrence directement ou indirectement, comprennent, %sp; entre %sp; autres, %sp; Adobe, %sp; ARAS, %sp; Aveva %sp; Group %sp; (détenu par Schneider Electric), Bentley Systems, Epicor, Infor, Intergraph (appartenant à Hexagon), JDA Software, Microsoft, Nemetschek, %sp;Palantir %sp;Technologies, %sp;Plex, %sp;Salesforce.com, %sp;et %sp;d’autres sociétés de logiciels dans le secteur minier ou offrant des capacités de logiciels d’innovation d’entreprise sociale, de collaboration, de traitement de l’information et de marketing numérique risque : taux de change ; es %sp;résultats %sp;de %sp;Dassault %sp;Systèmes %sp;peuvent %sp;être %sp;affectés %sp;par %sp;les %sp;fluctuations %sp;et %sp;la %sp;forte %sp;volatilité %sp;des %sp;taux %sp;de %sp;change. %sp;En %sp;particulier, les variations du dollar américain ou du yen japonais par %sp;rapport %sp;à %sp;l’euro %sp;et, %sp;dans %sp;une %sp;moindre %sp;mesure, %sp;de %sp;la %sp;livre %sp;sterling, %sp;du %sp;won %sp;coréen %sp;et %sp;du %sp;yuan %sp;chinois contrat important : boeing, airbus forte fluctuations du résultat opérationnel trimestriel du à la cnoclusion de contrat en fin de trimestre (parfois du retard) principaux marchés : europe (france, allemagne), USA, Asie (japon) https://investor.3ds.com/static-files/69b19ff2-99df-451d-94b1-5e048e4286d3
+		- url :: https://fr.wikipedia.org/wiki/Dassault_Syst%C3%A8mes
+		- [[Medidata Solutions]]
+			- url :: https://en.wikipedia.org/wiki/Medidata_Solutions
 - [[agence de notation note]]
-  - note :: https://data.world/muni-finance/credit-ratings-history-data
-  - url :: https://github.com/govwiki/rating_history
+	- note :: https://data.world/muni-finance/credit-ratings-history-data
+	- url :: https://github.com/govwiki/rating_history
 - [[scraping zonebourse activite/region]]
-  - note :: #!/usr/bin/env python3 # -*- coding: utf-8 -*- # vim:fenc=utf-8 # # Copyright © 2019 lara <lara@lara-pc> # # Distributed under terms of the MIT license. """ """ from bs4 import BeautifulSoup import re import requests # Set headers headers = requests.utils.default_headers() headers.update({ 'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0'}) url = "https://www.zonebourse.com/VALLOUREC-4723/societe/" #url = "https://www.npr.org/?t=1586181848016&refresh=true" req = requests.get(url, headers).text #with open("index.html", "r", encoding='utf8') as f : # %sp; %sp;contents = f.read() soup = BeautifulSoup(req , "html.parser") #print(soup.prettify()) #print (len(soup.find_all('table'))) #titi = soup.find #print (titi) #for i in %sp;soup.find_all('table', class_="tabElemNoBor").find('td', class_="tabTitleLeftWhite").nobr.b: tableauxCategories %sp;= soup.find_all('table', class_="tabElemNoBor") def rechercheCategorie(tab , regexCategorie): %sp; %sp;position = 0 %sp; %sp;for i in tab : %sp; %sp; %sp; %sp;categorie = i.find('td', class_="tabTitleLeftWhite").nobr.b.string %sp; %sp; %sp; %sp;if (re.search (regexCategorie, categorie.string)): %sp; %sp; %sp; %sp; %sp; %sp;print (categorie.string) %sp; %sp; %sp; %sp; %sp; %sp;print (position) %sp; %sp; %sp; %sp; %sp; %sp;return position %sp; %sp; %sp; %sp;position += 1 def venteParActivite(tab, place): %sp; %sp;i = tab[place] %sp; %sp;produits = i.find_all('td', class_="nfvtTitleLeft") %sp; %sp;position = 0 %sp; %sp;tableauDesProduits = [] %sp; %sp;for produit in produits: %sp; %sp; %sp; %sp;j = 0 %sp; %sp; %sp; %sp;unProduit = [] %sp; %sp; %sp; %sp;unProduit.append( produit.string) %sp; %sp; %sp; %sp;print({produit.string}) %sp; %sp; %sp; %sp;suivant = produit %sp; %sp; %sp; %sp;for k in range (4): %sp; %sp; %sp; %sp; %sp; %sp;suivant = suivant.next_sibling %sp; %sp; %sp; %sp; %sp; %sp;print (suivant.string) %sp; %sp; %sp; %sp; %sp; %sp;unProduit.append( suivant.string) %sp; %sp;tableauDesProduits.append(unProduit) %sp; %sp;print(tableauDesProduits) %sp; %sp;return tableauDesProduits def venteParRegion(tab,place): %sp; %sp;i = tab[place] %sp; %sp;regions = i.find_all('td', class_="nfvtTitleLeft") %sp; %sp;position = 0 %sp; %sp;tableauDesRegions= [] %sp; %sp;for region in regions : %sp; %sp; %sp; %sp;j = 0 %sp; %sp; %sp; %sp;uneRegion = [] %sp; %sp; %sp; %sp;uneRegion.append( region.string) %sp; %sp; %sp; %sp;print({region.string}) %sp; %sp; %sp; %sp;suivant = region %sp; %sp; %sp; %sp;for k in range (2): %sp; %sp; %sp; %sp; %sp; %sp;suivant = suivant.next_sibling %sp; %sp; %sp; %sp; %sp; %sp;print (suivant.string) %sp; %sp; %sp; %sp; %sp; %sp;uneRegion.append( suivant.string) %sp; %sp;tableauDesRegions.append(uneRegion) %sp; %sp;print(tableauDesRegions) %sp; %sp;return tableauDesRegions def monnaie(tab, place): %sp; %sp;i = tab[place] %sp; %sp;monnaieUtilise = i.find('td', class_="nfvtTitleSTop") %sp; %sp;print ( monnaieUtilise.get_text()) %sp; %sp;return monnaieUtilise.get_text() def annee(tab, place): %sp; %sp;i = tab[place] %sp; %sp;annees = [] %sp; %sp;annee = i.find('td', class_="nfvtTitleTop") %sp; %sp;print (annee.b.string) %sp; %sp;annees.append(annee.b.string) %sp; %sp;print(annee.next_sibling.b.string) %sp; %sp;annees.append(annee.next_sibling.b.string) %sp; %sp;return annees placeActivite = %sp;rechercheCategorie(tableauxCategories, 'activité') venteParActivite(tableauxCategories, placeActivite) monnaie(tableauxCategories, placeActivite) annee(tableauxCategories, placeActivite) placeRegion = %sp; rechercheCategorie(tableauxCategories, 'région') venteParRegion(tableauxCategories, placeRegion) #print(soup.find('table', class_="tabElemNoBor").td.nobr.b.string.next_sibling.string) #for i in %sp;first_table.find_next(): # %sp; %sp;element = i.find('td', class_="tabTitleLeftWhite") # %sp; %sp;print( element) # %sp; %sp;#nfvTab = table.find('td', class_="nfvTab") %sp; %sp;#nbcolumn = len(nfvTab.colgroup.col) %sp; %sp;#nbrow = len(nfvTab.tbody.tr) %sp; %sp;#for i in %sp;table.find('td', class_="nfvTitleTop").b: %sp; %sp;# %sp; %sp;annee.append(i) %sp; %sp;#print( table.find_all('td', class_="nfvTitleLeft").b ) #from selenium import webdriver # #driver = webdriver.Chrome() #driver.get("https://www.zonebourse.com/DASSAULT-SYSTEMES-SE-4635/societe/") ##toto = driver.find_elements_by_xpath("//tbody//td[@class='tabTitleLeftWhite']/nobr/b[contains(text(),'Ventes par activité')]/parent/parent/parent/parent/parent//td[@class='nfvtTitleLeft']") ##toto = driver.find_elements_by_xpath("//td[@class='nfvtTitleLeft']/ancestor//td[@class='tabTitleLeftWhite']/nobr/b[contains(text(),'Ventes par activité')]") ##toto = driver.find_elements_by_xpath("//td[@class='tabTitleLeftWhite']") #toto = driver.find_elements_by_xpath("//td/nobr/b[1]") # ##print (toto.text) #for i in toto : # %sp; %sp;print( i.text) #
+	- note :: #!/usr/bin/env python3 # -*- coding: utf-8 -*- # vim:fenc=utf-8 # # Copyright © 2019 lara <lara@lara-pc> # # Distributed under terms of the MIT license. """ """ from bs4 import BeautifulSoup import re import requests # Set headers headers = requests.utils.default_headers() headers.update({ 'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0'}) url = "https://www.zonebourse.com/VALLOUREC-4723/societe/" #Info = "https://www.npr.org/?t=1586181848016&refresh=true" req = requests.get(url, headers).text #with open("index.html", "r", encoding='utf8') as f : # %sp; %sp;contents = f.read() soup = BeautifulSoup(req , "html.parser") #print(soup.prettify()) #print (len(soup.find_all('table'))) #titi = soup.find #print (titi) #for i in %sp;soup.find_all('table', class_="tabElemNoBor").find('td', class_="tabTitleLeftWhite").nobr.b: tableauxCategories %sp;= soup.find_all('table', class_="tabElemNoBor") def rechercheCategorie(tab , regexCategorie): %sp; %sp;position = 0 %sp; %sp;for i in tab : %sp; %sp; %sp; %sp;categorie = i.find('td', class_="tabTitleLeftWhite").nobr.b.string %sp; %sp; %sp; %sp;if (re.search (regexCategorie, categorie.string)): %sp; %sp; %sp; %sp; %sp; %sp;print (categorie.string) %sp; %sp; %sp; %sp; %sp; %sp;print (position) %sp; %sp; %sp; %sp; %sp; %sp;return position %sp; %sp; %sp; %sp;position += 1 def venteParActivite(tab, place): %sp; %sp;i = tab[place] %sp; %sp;produits = i.find_all('td', class_="nfvtTitleLeft") %sp; %sp;position = 0 %sp; %sp;tableauDesProduits = [] %sp; %sp;for produit in produits: %sp; %sp; %sp; %sp;j = 0 %sp; %sp; %sp; %sp;unProduit = [] %sp; %sp; %sp; %sp;unProduit.append( produit.string) %sp; %sp; %sp; %sp;print({produit.string}) %sp; %sp; %sp; %sp;suivant = produit %sp; %sp; %sp; %sp;for k in range (4): %sp; %sp; %sp; %sp; %sp; %sp;suivant = suivant.next_sibling %sp; %sp; %sp; %sp; %sp; %sp;print (suivant.string) %sp; %sp; %sp; %sp; %sp; %sp;unProduit.append( suivant.string) %sp; %sp;tableauDesProduits.append(unProduit) %sp; %sp;print(tableauDesProduits) %sp; %sp;return tableauDesProduits def venteParRegion(tab,place): %sp; %sp;i = tab[place] %sp; %sp;regions = i.find_all('td', class_="nfvtTitleLeft") %sp; %sp;position = 0 %sp; %sp;tableauDesRegions= [] %sp; %sp;for region in regions : %sp; %sp; %sp; %sp;j = 0 %sp; %sp; %sp; %sp;uneRegion = [] %sp; %sp; %sp; %sp;uneRegion.append( region.string) %sp; %sp; %sp; %sp;print({region.string}) %sp; %sp; %sp; %sp;suivant = region %sp; %sp; %sp; %sp;for k in range (2): %sp; %sp; %sp; %sp; %sp; %sp;suivant = suivant.next_sibling %sp; %sp; %sp; %sp; %sp; %sp;print (suivant.string) %sp; %sp; %sp; %sp; %sp; %sp;uneRegion.append( suivant.string) %sp; %sp;tableauDesRegions.append(uneRegion) %sp; %sp;print(tableauDesRegions) %sp; %sp;return tableauDesRegions def monnaie(tab, place): %sp; %sp;i = tab[place] %sp; %sp;monnaieUtilise = i.find('td', class_="nfvtTitleSTop") %sp; %sp;print ( monnaieUtilise.get_text()) %sp; %sp;return monnaieUtilise.get_text() def annee(tab, place): %sp; %sp;i = tab[place] %sp; %sp;annees = [] %sp; %sp;annee = i.find('td', class_="nfvtTitleTop") %sp; %sp;print (annee.b.string) %sp; %sp;annees.append(annee.b.string) %sp; %sp;print(annee.next_sibling.b.string) %sp; %sp;annees.append(annee.next_sibling.b.string) %sp; %sp;return annees placeActivite = %sp;rechercheCategorie(tableauxCategories, 'activité') venteParActivite(tableauxCategories, placeActivite) monnaie(tableauxCategories, placeActivite) annee(tableauxCategories, placeActivite) placeRegion = %sp; rechercheCategorie(tableauxCategories, 'région') venteParRegion(tableauxCategories, placeRegion) #print(soup.find('table', class_="tabElemNoBor").td.nobr.b.string.next_sibling.string) #for i in %sp;first_table.find_next(): # %sp; %sp;element = i.find('td', class_="tabTitleLeftWhite") # %sp; %sp;print( element) # %sp; %sp;#nfvTab = table.find('td', class_="nfvTab") %sp; %sp;#nbcolumn = len(nfvTab.colgroup.col) %sp; %sp;#nbrow = len(nfvTab.tbody.tr) %sp; %sp;#for i in %sp;table.find('td', class_="nfvTitleTop").b: %sp; %sp;# %sp; %sp;annee.append(i) %sp; %sp;#print( table.find_all('td', class_="nfvTitleLeft").b ) #from selenium import webdriver # #driver = webdriver.Chrome() #driver.get("https://www.zonebourse.com/DASSAULT-SYSTEMES-SE-4635/societe/") ##toto = driver.find_elements_by_xpath("//tbody//td[@class='tabTitleLeftWhite']/nobr/b[contains(text(),'Ventes par activité')]/parent/parent/parent/parent/parent//td[@class='nfvtTitleLeft']") ##toto = driver.find_elements_by_xpath("//td[@class='nfvtTitleLeft']/ancestor//td[@class='tabTitleLeftWhite']/nobr/b[contains(text(),'Ventes par activité')]") ##toto = driver.find_elements_by_xpath("//td[@class='tabTitleLeftWhite']") #toto = driver.find_elements_by_xpath("//td/nobr/b[1]") # ##print (toto.text) #for i in toto : # %sp; %sp;print( i.text) #
 - [[substance chimique]]
 - [[OEC MIT]]
-  - url :: https://oec.world/fr/profile/hs92
-  - [[import / export francais]]
-    - url :: https://www.douane.gouv.fr/la-douane/opendata/categories/commerce-exterieur/statistiques-nationales-annuelles
+	- url :: https://oec.world/fr/profile/hs92
+	- [[import / export francais]]
+		- url :: https://www.douane.gouv.fr/la-douane/opendata/categories/commerce-exterieur/statistiques-nationales-annuelles
 - [[guide insee]]
-  - url :: https://www.insee.fr/fr/statistiques/fichier/2408180/guide.pdf
-  - [[central product classification (CPC)]]
-    - url :: https://unstats.un.org/unsd/classifications/econ/
-    - [[classification of products by activity (CPA)]]
-      - [[Classification des produits française (CPF)]] identique
-        - url :: https://www.insee.fr/fr/information/2399243
-  - [[International Standard 
-Industrial Classification ISIC]]
-    - url :: https://fr.wikipedia.org/wiki/International_Standard_Industrial_Classification
-    - [[Code NACE]]
-      - url :: https://fr.wikipedia.org/wiki/Code_NACE
-      - [[NAF]]
-        - note :: équivalent allemand : Wirtschaftszweige
-        - [[sirene]]
-          - url :: https://www.sirene.fr/sirene/client/telechargement-pret-fichier.action?nbLignes=614
-          - [[degreane-horizon]]
-          - [[iris instruments]]
-            - url :: http://www.iris-instruments.com/fr/index.html
-          - [[IXblue]]
-            - url :: https://fr.wikipedia.org/wiki/IXblue
-          - [[soterem]]
-            - note :: https://www.soterem.fr/fr/la-societe/
-            - url :: https://www.soterem.fr/fr/la-societe/
-    - [[SCIAN (amérique du nord) 
-NAICS (en)]]
-      - url :: https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_classification_des_industries_de_l%27Am%C3%A9rique_du_Nord
-  - [[Harmonized System]]
-    - url :: https://www.foreign-trade.com/reference/hscode.htm
-    - [[Combined Nomenclature (CN)]]
-      - url :: https://www.douane.gouv.fr/la-douane/opendata/categories/commerce-exterieur/nomenclatures
-      - [[Nomenclature générale des produits (NGP)]]
-  - [[equivalence internationnale]]
-    - note :: Country / Area %tab;Activity Classifications%tab;Product Classifications Albania%tab; <untitled> NVE %tab; NP NC NP Austria%tab; �NACE 1995 %tab; �CPA Belgium%tab; NACEBEL %tab; CPA Bulgaria%tab; NCEA %tab; ����� ���� ���� �� Croatia%tab; NKD %tab; KPD Czech Republic%tab; OKEC %tab; HS/CN SITC SKP-PRUM SKP Denmark%tab; DB 93 %tab; Estonia%tab; EMTAK %tab; EKN <untitled> <untitled> ETKK Finland%tab; <untitled> %tab; CPA France%tab; NAF %tab; CPF Germany%tab; WZ93 %tab; GP 95 Greece%tab; <untitled> %tab; Hungary%tab; SZJ TEAOR %tab; BTO KV Ireland%tab; <untitled> %tab; Italy%tab; <untitled> %tab; Latvia%tab; NACE %tab; <untitled> CPA CPA NST/R PRODCOM LKN Lithuania%tab; EVRK %tab; KPN Netherlands%tab; SBI %tab; SPC Norway%tab; SN 94 %tab; Poland%tab; PKD %tab; KWiU <untitled> PSNTHZ PCN Portugal%tab; CAE-Rev.2 %tab; CNBS Romania%tab; CAEN %tab; TVIR CPSA PRODROM Russian Federation%tab; OKDP %tab; TN VED CIS / VKU VED OKP Slovakia%tab; OKEC %tab; PRODSLOV KP AGROPROD Slovenia%tab; SKD %tab; NKP CPA <untitled> NIP NST/R <untitled> KN Spain%tab; CNAE-93 %tab; CNPA-96 Sweden%tab; SNI 92 %tab; Prod-SNI 97 The Former Yugoslav Republic of Macedonia%tab; <untitled> <untitled> %tab; <untitled> <untitled> NSDT <untitled> (SMTK) REV.3 <untitled> United Kingdom%tab; SIC (92) %tab;
-  - [[classification des fonctions de consommation des ménages COICOP]]
-    - url :: https://www.insee.fr/fr/information/2493507
+	- url :: https://www.insee.fr/fr/statistiques/fichier/2408180/guide.pdf
+	- [[central product classification (CPC)]]
+		- url :: https://unstats.un.org/unsd/classifications/econ/
+		- [[classification of products by activity (CPA)]]
+			- [[Classification des produits française (CPF)]] identique
+				- url :: https://www.insee.fr/fr/information/2399243
+	- [[International Standard 
+	  Industrial Classification ISIC]]
+		- url :: https://fr.wikipedia.org/wiki/International_Standard_Industrial_Classification
+		- [[Code NACE]]
+			- url :: https://fr.wikipedia.org/wiki/Code_NACE
+			- [[NAF]]
+				- note :: équivalent allemand : Wirtschaftszweige
+				- [[sirene]]
+					- url :: https://www.sirene.fr/sirene/client/telechargement-pret-fichier.action?nbLignes=614
+					- [[degreane-horizon]]
+					- [[iris instruments]]
+						- url :: http://www.iris-instruments.com/fr/index.html
+					- [[IXblue]]
+						- url :: https://fr.wikipedia.org/wiki/IXblue
+					- [[soterem]]
+						- note :: https://www.soterem.fr/fr/la-societe/
+						- url :: https://www.soterem.fr/fr/la-societe/
+		- [[SCIAN (amérique du nord) 
+		  NAICS (en)]]
+			- url :: https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_classification_des_industries_de_l%27Am%C3%A9rique_du_Nord
+	- [[Harmonized System]]
+		- url :: https://www.foreign-trade.com/reference/hscode.htm
+		- [[Combined Nomenclature (CN)]]
+			- url :: https://www.douane.gouv.fr/la-douane/opendata/categories/commerce-exterieur/nomenclatures
+			- [[Nomenclature générale des produits (NGP)]]
+	- [[equivalence internationnale]]
+		- note :: Country / Area %tab;Activity Classifications%tab;Product Classifications Albania%tab; <untitled> NVE %tab; NP NC NP Austria%tab; �NACE 1995 %tab; �CPA Belgium%tab; NACEBEL %tab; CPA Bulgaria%tab; NCEA %tab; ����� ���� ���� �� Croatia%tab; NKD %tab; KPD Czech Republic%tab; OKEC %tab; HS/CN SITC SKP-PRUM SKP Denmark%tab; DB 93 %tab; Estonia%tab; EMTAK %tab; EKN <untitled> <untitled> ETKK Finland%tab; <untitled> %tab; CPA France%tab; NAF %tab; CPF Germany%tab; WZ93 %tab; GP 95 Greece%tab; <untitled> %tab; Hungary%tab; SZJ TEAOR %tab; BTO KV Ireland%tab; <untitled> %tab; Italy%tab; <untitled> %tab; Latvia%tab; NACE %tab; <untitled> CPA CPA NST/R PRODCOM LKN Lithuania%tab; EVRK %tab; KPN Netherlands%tab; SBI %tab; SPC Norway%tab; SN 94 %tab; Poland%tab; PKD %tab; KWiU <untitled> PSNTHZ PCN Portugal%tab; CAE-Rev.2 %tab; CNBS Romania%tab; CAEN %tab; TVIR CPSA PRODROM Russian Federation%tab; OKDP %tab; TN VED CIS / VKU VED OKP Slovakia%tab; OKEC %tab; PRODSLOV KP AGROPROD Slovenia%tab; SKD %tab; NKP CPA <untitled> NIP NST/R <untitled> KN Spain%tab; CNAE-93 %tab; CNPA-96 Sweden%tab; SNI 92 %tab; Prod-SNI 97 The Former Yugoslav Republic of Macedonia%tab; <untitled> <untitled> %tab; <untitled> <untitled> NSDT <untitled> (SMTK) REV.3 <untitled> United Kingdom%tab; SIC (92) %tab;
+	- [[classification des fonctions de consommation des ménages COICOP]]
+		- url :: https://www.insee.fr/fr/information/2493507
 - [[nomenclature europeenne des déchets]]
-  - url :: https://aida.ineris.fr/consultation_document/10327
+	- url :: https://aida.ineris.fr/consultation_document/10327
 - [[classification des contructions]]
 - [[nomenclature des activités consommatrices d'énergie]]
 - [[nomenclature économique de synthèse]]
@@ -604,57 +604,57 @@ NAICS (en)]]
 - [[nomenclature tourisme (SICTA)]]
 - [[nomenclature artisanat NAFA]]
 - [[think tank]]
-  - url :: https://repository.upenn.edu/cgi/viewcontent.cgi?article=1018&context=think_tanks
+	- url :: https://repository.upenn.edu/cgi/viewcontent.cgi?article=1018&context=think_tanks
 - [[pétrole]]
-  - [[classification]]
+	- [[classification]]
 - [[densite (viscosité)]]
-  - note :: exprimée en gravité API, plus API est important, plus le pétrole sera léger et réciproquement. léger > 31.1 > moyen > 22.3 > loud > 10 > tres lourd > 10
-  - [[classification]]
+	- note :: exprimée en gravité API, plus API est important, plus le pétrole sera léger et réciproquement. léger > 31.1 > moyen > 22.3 > loud > 10 > tres lourd > 10
+	- [[classification]]
 - [[teneur en soufre]]
-  - note :: exprimé en pourcentage. plus ou moins corrosif. qualifier de doux si sa teneur en soufre n'excède pas 0,5 %pct; sinon dit soufré
-  - [[classification]]
+	- note :: exprimé en pourcentage. plus ou moins corrosif. qualifier de doux si sa teneur en soufre n'excède pas 0,5 %pct; sinon dit soufré
+	- [[classification]]
 - [[matière première]]
-  - [[Taux De Retour énergétique]]
+	- [[Taux De Retour énergétique]]
 - [[principe actif]]
 - [[activitité economique]]
-  - [[International Standard 
-Industrial Classification ISIC]]
-  - [[Global Industry 
-Classification Standard GCIS]]
-    - url :: https://fr.wikipedia.org/wiki/Global_Industry_Classification_Standard
+	- [[International Standard 
+	  Industrial Classification ISIC]]
+	- [[Global Industry 
+	  Classification Standard GCIS]]
+		- url :: https://fr.wikipedia.org/wiki/Global_Industry_Classification_Standard
 - [[Classification Type Des 
-Industries CITI]]
-  - url :: https://fr.wikipedia.org/wiki/Classification_type_des_industries
-  - [[International Standard 
-Industrial Classification ISIC]] dérive
+  Industries CITI]]
+	- url :: https://fr.wikipedia.org/wiki/Classification_type_des_industries
+	- [[International Standard 
+	  Industrial Classification ISIC]] dérive
 - [[IPC]]
-  - [[classification des fonctions de consommation des ménages COICOP]] utilise
+	- [[classification des fonctions de consommation des ménages COICOP]] utilise
 - [[fond souverain]]
 - [[nudge fond]]
-  - [[fond de pension]]
+	- [[fond de pension]]
 - [[CITP ou ISCO]]
-  - url :: https://fr.wikipedia.org/wiki/Classification_internationale_type_des_professions
-  - [[Professions et catégories 
- en France PCS]]
-    - url :: https://fr.wikipedia.org/wiki/Professions_et_cat%C3%A9gories_socioprofessionnelles_en_France
+	- url :: https://fr.wikipedia.org/wiki/Classification_internationale_type_des_professions
+	- [[Professions et catégories 
+	  en France PCS]]
+		- url :: https://fr.wikipedia.org/wiki/Professions_et_cat%C3%A9gories_socioprofessionnelles_en_France
 - [[liste classification]]
-  - url :: https://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_NOM&StrGroupCode=CLASSIFIC&StrLanguageCode=FR
+	- url :: https://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_NOM&StrGroupCode=CLASSIFIC&StrLanguageCode=FR
 - [[owl]]
-  - [[risque management]]
-    - note :: risk management https://www.openriskmanagement.com/the-periodic-table-of-risk-elements/
-    - url :: https://www.openriskmanual.org/wiki/Category:Credit_Risk
-    - [[banque risque]]
-      - [[operational risk]]
-        - [[EBA taxonomy]]
-        - [[BCBS Regulatory Topic Taxonomy]]
-  - [[accounting xbrl]]
-  - [[financial real estate rets]]
-  - [[financial ifx fisd fix]]
-  - [[financial derivatives]]
-  - [[financial insurance acord]]
-  - [[financial mortgages mismo]]
-  - [[financial banking BITS]]
+	- [[risque management]]
+		- note :: risk management https://www.openriskmanagement.com/the-periodic-table-of-risk-elements/
+		- url :: https://www.openriskmanual.org/wiki/Category:Credit_Risk
+		- [[banque risque]]
+			- [[operational risk]]
+				- [[EBA taxonomy]]
+				- [[BCBS Regulatory Topic Taxonomy]]
+	- [[accounting xbrl]]
+	- [[financial real estate rets]]
+	- [[financial ifx fisd fix]]
+	- [[financial derivatives]]
+	- [[financial insurance acord]]
+	- [[financial mortgages mismo]]
+	- [[financial banking BITS]]
 - [[NAICS]]
 - [[petrole]]
-  - [[Taux De Retour énergétique]] m
-    - url :: https://fr.wikipedia.org/wiki/Taux_de_retour_%C3%A9nerg%C3%A9tique
+	- [[Taux De Retour énergétique]] m
+		- url :: https://fr.wikipedia.org/wiki/Taux_de_retour_%C3%A9nerg%C3%A9tique

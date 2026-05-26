@@ -1,6 +1,7 @@
 title:: Prompt
 [Promp dnum](https://promptotheque-dsfr-bebd50.gitlab-pages.din.developpement-durable.gouv.fr/)
 
+- [[prompt CV challenger par apec]]
 - [[SHARE: A Framework for Scholarly Co-Writing with Generative AI]]
 - [ ] Input
 	- [[prompt matinal]]

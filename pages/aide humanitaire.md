@@ -1,4 +1,5 @@
 - Ce document présente les modalités et les secteurs d'intervention de l'aide humanitaire selon les standards définis par l'OCHA en 2017.
+- Documentation : https://www.medbox.org/6C174KS7/toolbox/conflict
 - ## 1. Les trois modalités d'assistance
   Les organisations humanitaires choisissent leur mode d'intervention parmi trois catégories principales, ou une combinaison de celles-ci:
   * **Aide en nature (In-kind) :** Livraison de biens physiques tels que la nourriture, les vêtements, les médicaments ou les produits d'hygiène (WASH).

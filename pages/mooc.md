@@ -1,3 +1,4 @@
+- https://bneuf.auf.org/resource/home tout est là
 - [bpi](https://universite.bpifrance.fr/Catalog/trainings?sort=creationDate&order=desc&page=1)
   https://moodle.luniversitenumerique.fr/my/
 - wolframcloud.com/
@@ -34,3 +35,4 @@
 	- Formation : MOOC Parcours PME bpi
 - Ia for national security par scsp sur coursera
 - MOOC security and safety Union européenne https://academy.europa.eu/mod/scorm/player.php
+- ![2026-05-25-12-23-55.aac](../assets/2026-05-25-12-23-55.aac)

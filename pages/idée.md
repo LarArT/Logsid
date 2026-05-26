@@ -1,6 +1,7 @@
 - [[lectures]]
 - [[méthode d'évaluation]]
 - [[ONU]]
+- [[Info]]
 - Carte conceptuelle
 	- [[bourse]]
 	- [[Industrie_Defense_et_Aerospatiale]]
@@ -52,7 +53,8 @@
 	  -[législation](https://www.legifrance.gouv.fr/) + blockchain + assistant de preuve = [[Contrat intelligent]]
 - [[icône religion]]
 - # aide humanitaire
-- [[aide humanitaire dans les pays riches]]
+	- [[aide humanitaire dans les pays riches]]
+	- [[manuel sphère]]
 - # NRBC
 - [[toxic industrial chimical]]
 - # drone
@@ -323,6 +325,8 @@
 	- [[gestion de projet disaster ready]]
 	- [[Brainstorming]]
 	- [[évaluation]]
+	- [[analyse du périmètre]]
+	- [[conception d'un projet]]
 	- [piloter gérer un projet par l'impact](https://www.modernisation.gouv.fr/campus-de-la-transformation-publique/catalogue-de-ressources/outil/la-mallette-du-pilotage-de)
 	- ## pmbok
 		- [[management adaptatif]]
