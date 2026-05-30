@@ -1,2 +1,6 @@
 - https://www.quadrant-conseil.fr/ressources/outils/cartes_Strateval_v8.pdf
 - [[évaluation de l'impact d'une politique publique]]
+- [[évaluation aléatoire pour l'aide au développement]]
+- [[évaluation aléatoire processus]]
+-
+-

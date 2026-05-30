@@ -1,0 +1,7 @@
+- [[projet oxygen de Google]]
+- [[Projet Aristotle de Google]]
+- ->https://rework.withgoogle.com/intl/en/
+- [[la pause café de gallup]]
+- [[connexion avec le impact]]
+-
+-

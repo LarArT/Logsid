@@ -1,3 +1,4 @@
+- Prompte négociation https://op.europa.eu/fr/publication-detail/-/publication/8834d9b0-e576-11ed-a05c-01aa75ed71a1/language-fr?WT.mc_id=Selectedpublications&WT.ria_c=41957&WT.ria_f=7138&WT.ria_ev=search&WT.URL=https%3A%2F%2Fop.europa.eu%2Ffr%2Fweb%2Fgeneral-publications%2Feducation
 - [[diagramme d’Ishikawa]]
 - Le triangle de la violence de Galtung
 	- Violence directe 

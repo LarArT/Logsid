@@ -327,15 +327,17 @@
 	- [[évaluation]]
 	- [[analyse du périmètre]]
 	- [[conception d'un projet]]
+	- [[manager une équipe]]
 	- [piloter gérer un projet par l'impact](https://www.modernisation.gouv.fr/campus-de-la-transformation-publique/catalogue-de-ressources/outil/la-mallette-du-pilotage-de)
-	- ## pmbok
 		- [[management adaptatif]]
 		- [[Maîtriser les 12 Principes du Management de Projet (PMBOK 7)]]
 		- Pour que la certification PMI reste à jour il faut engranger des [[PDU]]
 			- Pour cela la [plateforme du PMI](ProjectManagement.com) peut permettre de il est validé
 			- [[table des matières PMbok ]]
+	- ## pmbok
 	- [[mooc gdp Centrale Lille]]
-	-
+	- ## PM² gestion de projet Union européenne
+		- https://academy.europa.eu/course/view.php?id=194
 - [[5G]]
 - [[Action logement]]
 - [[conducteur de train]]
@@ -576,4 +578,6 @@
 	- https://github.com/logseq/awesome-logseq
 - # entrepreneuriat
 	- [[Lectures/mooc fun science et entrepreneuriat]]
+- # gestion financière
+	- [[MOOC disaster ready finance dpro]]
 -
