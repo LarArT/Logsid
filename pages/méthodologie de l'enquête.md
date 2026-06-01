@@ -3,7 +3,9 @@ Source:: https://www.povertyactionlab.org/resource/survey-design?lang=en
 - [[observation de terrain]]
 	- Logiciel de cartographie des activités ergonomie
 - [[guide de rédaction d'un questionnaire]]
+- [[ligne directrice de la rédaction d'enquête selon le census bureau]]
 - [[guide pratique de la conception d'une enquête]]
+- [[enquête auto administrée]]
 - [[enquête de terrain]]
 - [[évaluation de l'impact d'une politique publique]]
 - [[entretien biographique]]

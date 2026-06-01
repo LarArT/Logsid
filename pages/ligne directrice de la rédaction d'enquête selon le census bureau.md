@@ -1,0 +1,23 @@
+- Lignes directrices concernant l'énoncé
+- (1) Formuler les demandes sous forme de questions ou d'énoncés impératifs, et non sous forme de fragments de phrase ou de mots clés.
+- (2) Décomposer les questions complexes en une série de questions simples.
+- Lignes directrices concernant l'affichage des espaces de réponse et des options de réponse
+- (3) Utiliser des espaces blancs sur fond de couleur pour mettre en relief les espaces de réponse.
+- (4) Utiliser des espaces de réponse semblables pour les demandes d'un même type d'information. (5) Indiquer clairement l'unité de mesure pour chaque élément de données. (6) Décider s'il faut ou non fournir aux répondants les données qu'ils ont déclarées antérieurement après avoir pesé les avantages et les risques éventuels en matière de qualité des données et les risques éventuels de divulgation.
+- (7) Fournir des cases à cocher < Inscrire "X" si aucun(e) » s'il faut faire la distinction entre la non-réponse partielle et les valeurs nulles déclarées.
+- Lignes directrices concernant l'élimination du désordre visuel
+- (8) Utiliser les diverses polices de caractère uniformément et à une seule fin dans un questionnaire. (9) Regrouper les éléments de données et leurs espaces de réponse/options de réponse. (10) Évaluer la nécessité de tout graphique, image ou diagramme, afin de confirmer leur utilité pour les répondants.
+- Lignes directrices concernant la création d'un cheminement clair
+- (11) Formater l'instrument uniformément, en tirant parti des habitudes de lecture familières.
+- (12) Indiquer clairement le début de chaque question stion e et de chaque partie.
+- (13) Regrouper les éléments de données similaires. (14) Utiliser des espaces blancs pour séparer les questions et faciliter le cheminement dans les
+- questionnaires.
+- (15) Aligner les questions et les espaces de réponse/options de réponse. (16) Utiliser de bonnes caractéristiques visuelles pour mettre l'accent sur les instructions << Passez à >.
+- (17) Informer les répondants du cheminement lorsqu'une question continue sur une autre page.
+- Lignes directrices concernant les instructions
+- (18) Intégrer des instructions propres aux questions dans le questionnaire là où elles sont nécessaires. Éviter de placer les instructions sur une feuille, brochure ou page Web distincte.
+- (19) Envisager de reformuler les instructions importantes sous forme de questions.
+- (20) Convertir les paragraphes narratifs en listes à puces.
+- (21) Dans la mesure du possible, utiliser une date réelle plutôt qu'un délai vague pour faire référence aux dates d'échéance.
+- Lignes directrices concernant les matrices
+- (22) Limiter l'utilisation de matrices. Considérer le niveau de familiarité possible des répondants avec les tableaux et les matrices avant de décider ou non de les utiliser. (23) Si une matrice est nécessaire, aider les répondants à traiter l'information en réduisant le nombre d'éléments de données recueillis et en établissant un cheminement clair.

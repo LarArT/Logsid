@@ -328,6 +328,8 @@
 	- [[analyse du périmètre]]
 	- [[conception d'un projet]]
 	- [[manager une équipe]]
+	- [[les livrables PMBOK, PM²,  PM4NGO]]
+	- [[PM²]]
 	- [piloter gérer un projet par l'impact](https://www.modernisation.gouv.fr/campus-de-la-transformation-publique/catalogue-de-ressources/outil/la-mallette-du-pilotage-de)
 		- [[management adaptatif]]
 		- [[Maîtriser les 12 Principes du Management de Projet (PMBOK 7)]]
@@ -473,6 +475,7 @@
 			- [[la procédure d'acte de juriste]]
 	- ## sciences humaines et social(())
 		- [[méthodologie de l'enquête]]
+		- [[interface utilisateur gestalt]]
 		- [fiche méthodologique de sciences Po liepp](https://www.sciencespo.fr/liepp/fr/publications/liepp/fiches-methodologiques/)
 		- [valeur de référence pour valoriser les effets non marchands référencer dans le complément b de cette page](https://www.strategie-plan.gouv.fr/conseil-scientifique-des-methodes-devaluation-socioeconomique)
 	- ## géographie
