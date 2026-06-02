@@ -7,5 +7,10 @@ Source:: mooc help'logistic
 - [[évaluation des besoins]]
 - [[principaux œuvre humanitaire mondiaux]]
 - [[étude de marché humanitaire]]
+- [[Le Cycle du Programme Humanitaire (HPC)]]
+- [[achat humanitaire]]
+- [[disposition des entrepôts]]
+- [[prépositionnement l'entrepôt]]
+- [[dispositif du manutention dans un entrepôt]]
 -
 -
