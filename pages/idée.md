@@ -52,6 +52,7 @@
 	- [charte orthographique en vigueur dans l'administration française](https://www.legifrance.gouv.fr/contenu/Media/Files/autour-de-la-loi/legislatif-et-reglementaire/charte_typographique_jo_janvier_2021.pdf?hl=fr-FR)
 	  -[législation](https://www.legifrance.gouv.fr/) + blockchain + assistant de preuve = [[Contrat intelligent]]
 - [[icône religion]]
+- [[chinois]]
 - # aide humanitaire
 	- [[aide humanitaire dans les pays riches]]
 	- [[manuel sphère]]

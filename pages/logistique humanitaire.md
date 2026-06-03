@@ -12,5 +12,7 @@ Source:: mooc help'logistic
 - [[disposition des entrepôts]]
 - [[prépositionnement l'entrepôt]]
 - [[dispositif du manutention dans un entrepôt]]
+- [[prendre en compte son environnement lors de la distribution]]
+- [[KPI logistique humanitaire]]
 -
 -

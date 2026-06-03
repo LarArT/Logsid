@@ -2,6 +2,7 @@ Source:: https://www.povertyactionlab.org/resource/survey-design?lang=en
 
 - [[observation de terrain]]
 	- Logiciel de cartographie des activités ergonomie
+- TODO Best Practices for Applied Quantitative Research in Complex Contexts sur disaster rezdy
 - [[guide de rédaction d'un questionnaire]]
 - [[ligne directrice de la rédaction d'enquête selon le census bureau]]
 - [[guide pratique de la conception d'une enquête]]
