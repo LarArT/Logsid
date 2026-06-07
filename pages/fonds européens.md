@@ -1,0 +1,3 @@
+- https://commission.europa.eu/funding-and-tenders/how-apply_fr
+- [guide du porteur de projet fonds européen](https://www.europe-en-france.gouv.fr/fr/ressources/guides-porteur-projet-beneficiaire-fonds-europeens)
+-

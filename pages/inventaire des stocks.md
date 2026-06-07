@@ -1,0 +1,35 @@
+- Faites un inventaire:
+	- • Une fois par mois, de façon aléatoire.
+	- À la fin d'un projet.
+	- À la fin de l'exercice financier.
+	- Si des préoccupations ou des faiblesses sont relevées à propos de documents incorrects/incomplets, de vol ou de négligence.
+- Qui doit le faire ?
+	- Un inventaire doit être effectué par le personnel d'encadrement.
+	- Le responsable de la logistique et les autres membres du personnel participant doivent documenter, signer et approuver l'inventaire.
+	- Le personnel ne travaillant pas dans le département logistique ou le personnel d'une agence extérieure doit être impliqué périodiquement.
+- Qu'est-ce qui doit être vérifié ?
+	- Un contrôle d'inventaire doit vérifier que:
+	- • Les registres sont complets et à jour.
+	- Les quantités indiquées pour les biens reçus, expédiés et stockés sont en corrélation.
+	- • Les quantités réelles correspondent aux quantités documentées.
+	- Les fiches de stock sont en place, entièrement remplies et à jour.
+	- • Les biens sont en bon état et correctement stockés.
+- Un inventaire se déroule en deux étapes :
+	- 1. Vérification du stock physique par rapport aux registres documentés.
+	- Vérification que les enregistrements de mouvement de stock correspondent au solde enregistré.
+- Dommages, pertes, élimination des stocks
+	- Directives pour la gestion des dommages, de la perte et de l'élimination des stocks
+	- Enregistrez les articles endommagés, volés ou manquants dans la fiche de stock/le registre de l'entrepôt et la liste des actifs (équipement ou mobilier).
+	- Le membre du personnel en possession de l'article lorsqu'il a été endommagé, volé ou perdu remplit un rapport de perte/dommage. Veillez ensuite à :
+	- Soumettre le rapport à la direction.
+	- La direction signe et conserve le rapport dans ses dossiers.
+	- La priorité dans le choix de la méthode d'élimination des stocks est basée sur:
+	- Les directives/exigences du bailleur de fonds (si une telle exigence fait partie des conditions de financement)
+	- Le transfert de propriété à d'autres projets entrepris par l'organisation
+	- Le don à d'autres ONG
+	- Le don aux autorités civiles ou locales
+	- La vente
+	- La destruction lorsque les articles en question sont considérés comme un risque pour la santé, la sûreté ou la sécurité.
+	- NOTE: Toute modification des exigences des bailleur de fonds doit
+-
+-

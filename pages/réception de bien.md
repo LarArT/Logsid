@@ -1,0 +1,57 @@
+- Réception des biens
+	- Vérifier les biens par rapport au bon de commande/au contrat.
+	- Vérifier la quantité et le type de biens par rapport aux documents de livraison des fournisseurs.
+	- Ne pas signer les documents de livraison du fournisseur tant que tous les biens entrants n'ont pas été contrôlés.
+	- Vérifier que le contenu de toutes les boîtes/emballages est complet.
+	- Inspecter les marchandises pour vérifier leur état et leur conformité aux spécifications de la commande. Ceci est fait avec l'initiat a demande/le personnel du programme.
+	- Préparer un bon de réception des biens. Veiller à ce qu'il soit signé au moment de la réception par le fournisseur et l'initiateur de la demande (ou autre personnel du programme). Documenter les erreurs ou les biens endommagés, et ajouter les détails de référence pour la demande d'achat et le contrat/le bon de commande correspondant.
+	- Signer la documentation de livraison du fournisseur.
+	- Signaler tout bien incorrect ou endommagé à l'initiateur de la demande et au responsable logistique.
+	- Entrer les détails des biens dans le registre journalier et les fiches de stock nécessaires (ou documents similaires).
+- Processus de réception
+	- Demander à l'initiateur de la demande (ou àn autre membre du personnel du programme) de vérifier que la quantité et la qualité sont conformes aux spécifications du contrat, aux échantillons ou aux photographies.
+	- Inspecter les biens et rejeter ceux qui sont incorrects ou endommagés
+	- Vérifier les paquets/ cartons pour vous assurer qu'ils ne sont ni ouverts ni altérés. Une inspection supplémentaire peut être nécessaire si des problèmes sont découverts.
+	- Préparer un bon de réception des biens. Veiller à ce qu'il soit signé par le fournisseur et l'initiateur de la demande/le personnel du programme pour vérifier l'inspection et
+	- l'acceptation des biens.
+	- Remplir les détails desbiens dans les fiches de stock et le registre quotidien de l'entrepôt (ou document similaire) correspondant.
+- Un bon de réception des biens
+	- • Confirme la réception des marchandises achetées par votre organisation.
+	- Enregistre tout écart entre la quantité ou la qualité des articles reçus et ce qui a été commandé.
+	- • Indique que les biens ont été inspectés et vérifiés comme correspondant aux exigences du contrat ou du bon de commande du fournisseur.
+	- Est signé par:
+		- o Le fournisseur
+		- o Le personnel logistique réceptionnant les biens
+		- o L'initiateur de la demande ou un membre du personnel de votre programme
+	- Fait référence à la documentation du fournisseur et au formulaire de demande d'achat par rapport auquel les biens ont été reçus (il doit inclure les références correspondantes).
+	- Sert de pièce justificative pour le paiement du fournisseur.
+- Fiche de stock
+	- La fiche de stock enregistre le mouvement et le solde (actuel et historique) des articles individuels dans l'entrepôt et permet de vérifier l'inventaire.
+- La fiche de stock:
+	- Doit être tenue à jour avec chaque entrée signée.
+	- • Doit inclure les informations suivantes:
+	- Description de l'article
+	- o Emplacement de l'entrepôt
+	- o Nom du bailleur de fonds
+	- o Programme
+	- Unité de mesure
+	- o Emplacement du bac
+	- Quantité en stock
+	- o Détails et justification des reçus et des émissions
+	- Est nécessaire pour chaque article couvert par une subvention/un programme financé.
+- En cas de problème
+	- Documenter le problème
+	- • Ne déplacez pas les biens tant que le problème n'est pas entièrement documenté sur les documents de livraison/le bon de réception des biens, car cela peut entraîner un litige sur le lieu/le moment où le dommage s'est produit.
+	- Inspectez les articles/emballages avec le chauffeur, et faites-lui signer le bon de réception des biens.
+	- En cas de litige ou de réclamation, enregistrez les détails des dommages, des articles manquants ou incorrects sur le bon de réception des biens, le bon de livraison et dans le registre quotidien des entrepôts.
+	- o Nature des dommages
+	- o Cause probable des dommages
+	- o Quantité perdue
+	- Demandez au personnel de signer et dater les documents pour vérifier l'acceptation de la livraison
+	- Avertissez immédiatement le fournisseur pour obtenir des instructions pour le retour ou l'élimination des marchandises
+	  :LOGBOOK:
+	  CLOCK: [2026-06-05 Fri 13:07:24]
+	  :END:
+	- Inviter le responsable approprié pour organiser le retour le remplacement ou le crédit
+	- Conserver des pièces à conviction
+	-

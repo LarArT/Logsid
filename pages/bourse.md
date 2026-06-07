@@ -6,6 +6,7 @@
 	- [[Siemens Energy]]
 	- [[Solar Turbines – Caterpillar]]
 - [[airbus]]
+  collapsed:: true
 	- [[hyperledger]]
 		- url :: https://www.hyperledger.org/members
 - [[ibm]]

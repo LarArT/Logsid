@@ -2,7 +2,12 @@
 - [[méthode d'évaluation]]
 - [[ONU]]
 - [[Info]]
-- Carte conceptuelle
+- # financement de projet d'intérêt général
+	- [[fonds européens]]
+	- [ANR](https://direction-recherche.parisnanterre.fr/service-de-la-valorisation-et-appui-a-la-recherche/boite-a-outils-aapg-anr)
+- # recherche action
+	- [[recherche action]]
+- # Carte conceptuelle
 	- [[bourse]]
 	- [[Industrie_Defense_et_Aerospatiale]]
 	- [[sphere]]
@@ -20,7 +25,7 @@
 	-
 - [[open data]]
 - [[Outils de communication]]
-- [[mooc]]
+- # [[mooc]]
 - [[à approfondir]]
 - [[smartphone]]
 - [[stratégie de recherche]]
@@ -29,7 +34,6 @@
 - Rssi cert rocq
 - [[recherche d'information]]
 - [[think tank]]
-- [[méthode EBIOS]]
 - [[fonction publique]]
 - Ml xai owl blockchain
 - Ngac, abac
@@ -56,8 +60,10 @@
 - # aide humanitaire
 	- [[aide humanitaire dans les pays riches]]
 	- [[manuel sphère]]
+	- [[approvisionnement]]
+	-
 - # NRBC
-- [[toxic industrial chimical]]
+	- [[toxic industrial chimical]]
 - # drone
 	- [site de référence drone Union européenne](https://www.easa.europa.eu/en/home)
 	- [législation drone](https://drone-laws.com/drone-laws-in-france/)
@@ -283,7 +289,6 @@
 		- [[psychologie de l'engagement]]
 		- [[psychologie de la loyauté]]
 	- [classification des incidents](https://giis-fr.insecurityinsight.org/tools-and-resources/classification-of-incidents)
-	- ### DPO
 - ### gestion de crise 
    Manuel de gestion de crise: Crisis Management of Critical Incidents EISF Briefing Paper
 	- [[DPO]]

@@ -1,0 +1,36 @@
+- Risque: Expulsion
+	- Mesures d'atténuation des risques d'expulsion:
+		- • Obtenez un contrat de location valide.
+		- Veillez à ce que les conditions de notification d'un avis d'expulsion soient claires et acceptables.
+- Risque: dommage
+	- Mesures d'atténuation des risques de dommages: Sélectionnez les zones/emplacements les moins
+	- vulnérables à une attaque. Il peut s'agir de:
+		- • Sous-sols (bien que l'accès puisse être difficile)
+		- Bâtiments ne se trouvant pas dans des zones densément peuplées
+- Source:: mooc approvisionnement disaster ready
+  Élément à prendre en compte
+	- Taille, état et adéquation
+	- Emplacement
+		- • Sûr
+		- • Accessible
+		- • Proche/local pour
+	- Termes
+		- • Prix
+		- • Durée du bail
+	- Agencement
+		- Possibilité de modifier lastructure
+		- • Disponibilité d'étagères ou type de sol (béton)
+	- Sécuriser
+		- Contrôle d'accès
+		- Porte renforcée
+		- Deux serrures avec les clés données à des personnes différentes
+		- Procédure et registre tenue à jour
+			- Contrôle poids volumes avant et après tout acte effectué
+		- Avoir un personnel formé en veillant qu'il soit conscient de leur impact
+		- Rendez différents membres du personnel responsables de la réception, du stockage et de l'expédition des biens.
+		- • Une personne ne peut être seule en charge du contrôle du mouvement des biens. Désignez une personne distincte pour autoriser l'élimination/la radiation des
+		- articles en stock.
+		- • Donnez au personnel des descriptions de poste écrites. • Faites signer au personnel un code de conduite.
+		-
+- Élément à prendre en compte
+-
