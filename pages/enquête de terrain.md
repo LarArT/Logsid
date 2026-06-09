@@ -1,7 +1,14 @@
 Source:: https://web.archive.org/web/20210430181641/https://dimewiki.worldbank.org/index.php?title=Questionnaire_Design&action=edit
 
-- En vue de procéder à une enquête de terrain on peut s'appuyer sur de cadre logique de
-	- PM4NGOs, « Identification et Définition du projet », dans Guide de la Gestion de Projet pour les Professionnels du Développement ProjectDPro/PMDPro*P**ro**j**ec**t**D**P**ro*/*PM**D**P**ro*, 2e éd., Mars 2020, ch. 2.1, **pp. 48-81**
+- En vue de procéder à une enquête de terrain on peut s'appuyer sur
+	- de cadre logique de
+		- PM4NGOs, « Identification et Définition du projet », dans Guide de la Gestion de Projet pour les Professionnels du Développement ProjectDPro/PMDPro*P**ro**j**ec**t**D**P**ro*/*PM**D**P**ro*, 2e éd., Mars 2020, ch. 2.1, **pp. 48-81**
+		- Avec le modèle présent drive PM² cadre logique
+	- Rediger à l'aide de
+		- l'artefact du PM² demande de lancement du projet
+		- Puis du cas d'usage (business case version anglaise) livrable de l'étude d'opportunité
+		-
+	-
 - Voici la traduction en français de ce document technique sur la conception de questionnaires de recherche :
   Conception de Questionnaire
   La conception de questionnaire est la première étape de la [[Collecte de données primaires]]. Un questionnaire bien conçu nécessite de la planification, des [[Revue de littérature pour questionnaire|revues de littérature sur les questionnaires existants]], des modules structurés et une réflexion approfondie sur les résultats à mesurer. La conception de questionnaire implique plusieurs étapes : la rédaction, le [[Pilotage du contenu|pilote axé sur le contenu]], la [[Programmation du questionnaire|programmation]], le [[Étapes d'un pilote d'enquête|pilote axé sur les données]] et la [[Traduction du questionnaire|traduction]]. Ce processus peut durer de 4 à 5 mois du début à la fin, l'[[Équipe d'évaluation d'impact|équipe de recherche]] doit donc allouer suffisamment de temps à chaque étape.
