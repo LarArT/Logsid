@@ -210,6 +210,7 @@
 		- [[négociation]]
 		- [[negociator]]
 		- [[amorçage ou blocage]]
+		- [[négociation avec des complotistes]]
 	- ## conflit
 		- mode alternatifs de règlement des litiges marl)
 		- Analyse du contexte : [voir la section template de ce document](https://gppac.net/files/2018-11/GPPAC%20CAFGuide_Interactive%20version_febr2018_.pdf)

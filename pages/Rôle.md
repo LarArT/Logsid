@@ -1,5 +1,5 @@
 - [[courses]]
-- [[rédaction]]
+- [[Typst]]
 - [[santé]]
 - [[achat potentiel]]
 	-
