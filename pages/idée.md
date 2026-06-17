@@ -139,6 +139,7 @@
 			- Compétence du travailleur
 - # sécurité / sûreté / analyste
 	- [[formation]]
+	- [contrôle de personnes violente](https://controletp.ccdmd.qc.ca/videos/1-05-defense-contre-lattaque-sournoise-aux-jambes-de-front/)
 	- [[magazine de référence]]
 	- [[victimologie]]
 	- norme ISO 22342 publiée par AFNOR, le plan de sûreté est également décrit dans le référentiel CNPP 1302 avec pour objectif d’
@@ -433,22 +434,16 @@
 		- [[chimie]]
 	- ## Intelligence artificielle
 		- Deep learning with certified robustness
-		  collapsed:: true
 			- • [[Probabilistic programming]] with dependent types: Cette approche permet de représenter des programmes probabilistes de manière rigoureuse et de raisonner sur leur comportement.
 			- • Neuro-symbolic Al: Cette approche vise à combiner les réseaux de neurones avec des représentations symboliques pour créer des systèmes d'intelligence artificielle plus flexibles et plus interprétables. Avez-vous d'autres questions sur ce . C'est un domaine de recherche hybride qui vise à combiner les forces des approches symboliques (comme la programmation logique) et des approches connexionnistes (comme les réseaux de neurones
 			- Régulation contrôle
-			  collapsed:: true
 				- https://www.peren.gouv.fr/
 			- [[Logique]]
-			  collapsed:: true
 				- Conférence
-				  collapsed:: true
 					- https://en.m.wikipedia.org/wiki/Logic_for_Programming,_Artificial_Intelligence_and_Reasoning
 			- [[XAI]]
-			  collapsed:: true
 				- [[preuve de théorème]]
-				- # France
-				  collapsed:: true
+				- ### France
 					- modèles. C'est l'objectif d'HyAIAI, un projet qui associe six équipes Inria spécialisées dans le domaine : Lacodam (Rennes): inspection et débogage 
 					   Magnet (Lille), Multispeech (Nancy), Orpailleur (Nancy): injection de connaissance 
 					   SequeL (Lille) et 
@@ -460,7 +455,8 @@
 		- [[évaluation des forces et faiblesses de ia]]
 		- [[choisir un bon LLm]]
 		- [[gouvernance de L ia]]
-		-
+		- [[ia éthique]]
+	-
 	- ## droit
 	  collapsed:: true
 		- [[introduction droit]]

@@ -1,5 +1,4 @@
-- [[courses]]
-- [[Typst]]
+-
 - [[santé]]
 - [[achat potentiel]]
 	-
@@ -7,10 +6,6 @@
 	-
 - [[base de données]]
 	- https://www.chemspider.com
-		-
-		- Ai studio
-		- Notebookll
-		- Typst
 		- https://citeseerx.ist.psu.edu/
 		-
 - IA
