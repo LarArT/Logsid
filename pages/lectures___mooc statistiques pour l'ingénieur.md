@@ -3,4 +3,5 @@
 - [[Thème 0 : Statistique descriptive]]
 - [[Thème 2 : Échantillonnage, estimation et intervalles de confiance]]
 - [[Thème 3 : Tests d'hypothèses & Analyse de la variance]]
+- [[Thème 4 - la régression linéaire]]
 -

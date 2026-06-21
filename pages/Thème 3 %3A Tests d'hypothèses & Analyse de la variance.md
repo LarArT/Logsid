@@ -2,6 +2,7 @@
 **Institut Mines-Télécom** | Verdel, Kosior & Sauceau | Mai 2026
 
 ---
+- [[Fiche de lecture approfondie – Thème 3   Tests d’hypothèses et analyse de la variance]]
 - ## 🎯 Objectif général
   
   À partir d'échantillons, **tirer des conclusions sur des populations** via un raisonnement probabiliste structuré (introduit par Student/Gosset, théorisé par Neyman & Pearson).

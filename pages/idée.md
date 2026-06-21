@@ -35,6 +35,7 @@
 - [[recherche d'information]]
 - [[think tank]]
 - [[fonction publique]]
+- [[ministère de l'Enseignement supérieur et de la recherche]]
 - Ml xai owl blockchain
 - Ngac, abac
 - Electrostatisme
