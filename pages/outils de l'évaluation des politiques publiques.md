@@ -1,5 +1,7 @@
 - Voici une fiche de synthèse détaillée du document **"Livret du participant - Module 2 : Quels sont les outils de l’évaluation des politiques publiques ?"** (Mai 2025).
 - # 📑 Fiche de Synthèse : Outils de l'Évaluation des Politiques Publiques
+- [[tableau récapitulatif des outils d'évaluation]]
+- [méthodes d'évaluation socioéconomique](https://www.strategie-plan.gouv.fr/conseil-scientifique-des-methodes-devaluation-socioeconomique)
 - ## 1. Introduction et Enjeux
   L'évaluation des politiques publiques vise à produire des connaissances **rigoureuses, légitimes et adaptées** en mobilisant des outils quantitatifs et qualitatifs. Elle cherche à répondre à trois questions fondamentales :
   * Comment construire un indicateur de suivi ?

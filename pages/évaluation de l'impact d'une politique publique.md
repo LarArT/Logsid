@@ -3,4 +3,5 @@
 - [[méthodologie liepp évaluation des politiques publiques : méthode evaluative]]
 - https://scienceetbiencommun.pressbooks.pub/evaluationpolpub/
 -
+- [[récapitulatif évaluation des politiques publiques]]
 -

@@ -280,6 +280,7 @@
 						- Le Centre de crise et de soutien du quai d'Orsay de la sécurité des expatriés risque réput ationnel protection  de son patrimoine matériel e imma tériel.
 		- [[APS]]
 		- [[ensemble des documents relatifs à la sûreté]]
+		- [[cartographie des acteurs  matrice disarm guerre informationnelle]]
 		- ## criminalité organisée
 			- [[convention de Palerme]]
 			- [[criminalité financière]]
@@ -481,7 +482,7 @@
 		- [[méthodologie de l'enquête]]
 		- [[interface utilisateur gestalt]]
 		- [fiche méthodologique de sciences Po liepp](https://www.sciencespo.fr/liepp/fr/publications/liepp/fiches-methodologiques/)
-		- [valeur de référence pour valoriser les effets non marchands référencer dans le complément b de cette page](https://www.strategie-plan.gouv.fr/conseil-scientifique-des-methodes-devaluation-socioeconomique)
+		- [méthodes d'évaluation socioéconomique : valeur de référence pour valoriser les effets non marchands référencer dans le complément b de cette page](https://www.strategie-plan.gouv.fr/conseil-scientifique-des-methodes-devaluation-socioeconomique)
 	- ## géographie
 	- [[lectures/mooc **Systèmes d'Information Géographique**]]
 	- StoryMapJS (Knight Lab)
