@@ -421,6 +421,7 @@
 		- [[Classification msc 2020]]
 		- [[ouvrage mathématiques de référence]]
 		- [[statistiques]]
+		- [[preuve formelle]]
 	- ## électricité
 	  collapsed:: true
 		- [[électricité]]
