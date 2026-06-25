@@ -102,6 +102,7 @@
 	- [[structure / cycle des plans humanitaires]]
 	- [[niveau des urgences humanitaires standardisées]]
 - # SST
+  collapsed:: true
 	- [logiciel d'analyse des risques au travail](https://www.inrs.fr/metiers/oira-outil-tpe.html)
 	- [cours SST par l'Organisation internationale du travail](https://www.iloencyclopaedia.org/fr/)
 	  id:: 69623f55-c8a0-4ab3-8f4d-e9751c19a763
@@ -139,6 +140,7 @@
 			- Environnement de travail
 			- Compétence du travailleur
 - # sécurité / sûreté / analyste
+  collapsed:: true
 	- [[formation]]
 	- [contrôle de personnes violente](https://controletp.ccdmd.qc.ca/videos/1-05-defense-contre-lattaque-sournoise-aux-jambes-de-front/)
 	- [[magazine de référence]]
@@ -294,6 +296,7 @@
 		- [[psychologie de la loyauté]]
 	- [classification des incidents](https://giis-fr.insecurityinsight.org/tools-and-resources/classification-of-incidents)
 - ### gestion de crise 
+  collapsed:: true
    Manuel de gestion de crise: Crisis Management of Critical Incidents EISF Briefing Paper
 	- [[DPO]]
 	- [[rgpd en bref]]
@@ -326,6 +329,7 @@
 	- [Habilitation des personnes morales et physiques](https://armement.defense.gouv.fr/securite-et-habilitation/habilitation-des-personnes-morales-et-physiques)
 	- [plan de continuité des activités](https://www.economie.gouv.fr/files/hfds-guide-pca-plan-continuite-activite-_sgdsn.pdf)
 - # gestion de projet
+  collapsed:: true
   [[Méthodologie proposition de financement]]
 	- [[Pratique de management de projet: 50 outils]]
 	- Mooc : https://www.pm-coaching.org/view/courses/pmp/1630790-le-project-performance-domain/5416389-performance-domain-pmbok-7-0
@@ -479,7 +483,8 @@
 		- ### juriste
 		  collapsed:: true
 			- [[la procédure d'acte de juriste]]
-	- ## sciences humaines et social(())
+	- ## sciences humaines et social
+		- [[psychologie]]
 		- [[méthodologie de l'enquête]]
 		- [[interface utilisateur gestalt]]
 		- [fiche méthodologique de sciences Po liepp](https://www.sciencespo.fr/liepp/fr/publications/liepp/fiches-methodologiques/)
