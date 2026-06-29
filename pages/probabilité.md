@@ -1,0 +1,1 @@
+- [[théorème de changement de variable en probabilité]]
