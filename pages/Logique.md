@@ -5,4 +5,6 @@
 - [[aide-memoire-lean]]
 - [[théorème des points fixes]]
 - [[règles de logique]]
+- [[skolemisation]]
 - # [[laboratoire de recherche]]
+-

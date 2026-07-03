@@ -1,6 +1,6 @@
-- Très bonne question ! Je vais te détailler **toute la chaîne d’un marché public** en France (2025), depuis l’expression du besoin jusqu’à l’exécution et l’archivage, en insistant sur les plateformes et les réglementations applicables.
-  
-  ---
+-
+- [[classification suivant les techniques d'achat]]
+- [[classification suivant l'organisation au sein de l'achat du marché public]]
 - ## 1. Définition du besoin et planification
 - **Acteurs** : pouvoir adjudicateur (État, collectivités territoriales, hôpitaux, etc.) ou entité adjudicatrice (secteurs spéciaux : énergie, transport, poste, eau).
 - **Étapes** :

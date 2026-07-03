@@ -4,4 +4,6 @@
 - [[réception de bien]]
 - [[inventaire des stocks]]
 - [[bien gérer un entrepôt]]
--
+- [[Modèle SCOR]]
+- [[KPI ]]
+- [[gestion par les données]]

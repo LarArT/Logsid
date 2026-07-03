@@ -1,0 +1,67 @@
+Source::  Measuring Supply Chain Performance (Discovery Pathway - Level 1) help mooc
+
+- Le rôle des données dans la gestion de la performance
+- (~8 min)
+- Dans une section précédente, nous avons souligné l'importance des données pour les indicateurs, les métriques et les KPI, justifiant ainsi leur place à la base de la pyramide de la performance. Dans les chaînes d'approvisionnement humanitaires, ce fondement est encore plus crucial. Si les outils et cadres tels que les KPI, les tableaux de bord prospectifs et les modèles SCOR sont importants, aucun ne peut fonctionner correctement sans données fiables et actualisées.
+- Les données ne sont pas qu'un simple intrant ; elles sont un moteur de compréhension, de responsabilisation et d'amélioration. Dans le contexte critique de la logistique humanitaire, la prise de décision doit être rapide, fondée sur des données probantes et transparente. Sans données fiables, il est impossible de vérifier si l'aide parvient aux personnes dans le besoin, d'identifier les points de blocage ou les inefficacités, de justifier l'allocation des ressources aux donateurs ou aux parties prenantes, ou d'améliorer les processus au fil du temps grâce à un suivi factuel.
+- Qualité et gouvernance des données
+- Pour fonctionner efficacement, les systèmes de gestion de la performance s'appuient sur des données structurées, cohérentes et pertinentes. La qualité des données détermine directement la qualité des analyses de performance qu'une organisation peut générer et, en fin de compte, la qualité de ses décisions.
+- Pour que les données soient fiables, elles doivent être :
+- précis : exempt d'erreurs ou d'incohérences
+- complet : en prenant en compte tous les aspects pertinents de l'activité ou du résultat
+- opportun : disponible au moment où les décisions sont prises.
+- Cohérence : utilisation de définitions et de formats standardisés entre les différents sites ou partenaires.
+- Dans les contextes humanitaires, atteindre ce niveau de qualité des données est extrêmement difficile. Parmi les difficultés courantes, on peut citer :
+- Systèmes non connectés : les équipes de terrain peuvent rédiger leurs rapports à l’aide de formulaires papier, de tableurs ou de messages téléphoniques. En revanche, les équipes du siège peuvent utiliser des bases de données centralisées ou des plateformes de donateurs.
+- Infrastructure numérique faible : Dans de nombreux contextes d'intervention, la connectivité est peu fiable, voire inexistante, ce qui rend les mises à jour en temps réel difficiles.
+- Rotation du personnel : Une rotation fréquente du personnel, en particulier parmi le personnel de terrain ou les partenaires de mise en œuvre, peut entraîner des pratiques de saisie de données incohérentes.
+- Formation ou capacités limitées : Les personnes chargées de la collecte des données sur le terrain n'ont peut-être pas reçu d'instructions adéquates sur les données à collecter ni sur la manière de les formater.
+- Définitions ou formats contradictoires : Différentes équipes, voire différents donateurs, peuvent exiger que les indicateurs soient rapportés de manière incompatible.
+- Par conséquent, même lorsque des données sont disponibles, elles manquent souvent de précision, d'exhaustivité ou de comparabilité, ce qui est nécessaire pour améliorer les performances. Et dans de nombreux cas, aucune donnée n'est disponible, notamment lors de situations d'urgence soudaines, dans des zones difficiles d'accès ou dans des environnements très peu sécurisés.
+- Cependant, lorsque la qualité des données est élevée, cela permet :
+- une planification réaliste, éclairée par le suivi des tendances de mouvement des stocks, permettant d'ajuster les volumes d'approvisionnement futurs ou les calendriers de livraison.
+- Les équipes pourront ainsi rester sur la bonne voie grâce à un suivi efficace basé sur des données précises.
+- Correction de trajectoire éclairée fondée sur la capacité à identifier les causes lorsque les objectifs de performance ne sont pas atteints.
+- Mais lorsque la qualité des données est médiocre, les organisations sont confrontées à :
+- des hypothèses trompeuses entraînant un surstockage, un service insuffisant ou des retards de livraison.
+- des réponses retardées dues au fait que les problèmes ne sont identifiés que lorsqu'ils s'aggravent.
+- La confiance s'est érodée entre les équipes de mise en œuvre, les donateurs et les communautés, surtout lorsque les chiffres publiés ne correspondent pas à la réalité.
+- Par exemple, si un tableau de bord affiche une disponibilité des stocks de 100 % dans un établissement de santé, mais que le personnel de terrain sait qu'un article clé est en rupture de stock depuis deux semaines, la confiance dans l'ensemble du système de performance peut s'effondrer, ce qui conduit les équipes à ne plus en voir la valeur et à ne plus l'entretenir.
+- Pour améliorer la qualité des données, les organisations doivent mettre en place des cadres de gouvernance des données robustes. Cela implique de ne plus se contenter de collecter davantage de données, mais de se concentrer plutôt sur la manière dont elles sont gérées et utilisées.
+- Une gouvernance des données solide implique :
+- définir clairement les rôles et les responsabilités de chacun concernant la collecte, la gestion et la vérification des données provenant des équipes de terrain et transmises au personnel central de suivi et d'évaluation.
+- procédures opérationnelles standard pour la collecte, la saisie, la validation et l'analyse des données.
+- des contrôles de qualité des données de routine, tels que la vérification croisée des niveaux de stock déclarés avec les inventaires physiques.
+- Des définitions et des formats cohérents au sein de l'organisation et avec les partenaires externes.
+- Une culture axée sur les données
+- Au-delà des systèmes techniques et des outils numériques, la gestion de la performance repose sur une culture organisationnelle qui valorise les données comme un outil d'apprentissage et d'amélioration, et non seulement pour la production de rapports ou le respect des exigences des donateurs.
+- Dans de nombreuses organisations humanitaires, les données sont collectées et communiquées régulièrement, mais rarement utilisées pour éclairer la prise de décision sur le plan opérationnel. Changer cette dynamique exige une transformation culturelle profonde, intégrant les données aux modes de réflexion, de planification et d'action. Une culture axée sur les données englobe à la fois les mentalités et les pratiques, et nécessite souvent une évolution à tous les niveaux de l'organisation.
+- Une culture axée sur les données comprend :
+- Engagement de la direction à utiliser les données dans la prise de décision
+- Les dirigeants doivent systématiquement demander des données, les exploiter et communiquer l'importance de fonder leurs décisions sur des preuves. Lorsqu'ils ne donnent pas la priorité aux données, ils laissent entendre au reste de l'organisation qu'elles sont facultatives ou superflues.
+- Formation des équipes à l'interprétation et à l'exploitation des données
+- Les équipes à tous les niveaux ont besoin d'aide pour comprendre, interpréter et utiliser les données. Cela inclut non seulement une formation technique, mais aussi le développement de la capacité à poser les bonnes questions, à tirer des enseignements des tendances et à remettre en question les hypothèses.
+- Créer des boucles de rétroaction où les idées sont discutées et utilisées pour améliorer
+- La collecte de données doit aboutir à des résultats concrets. Les équipes doivent pouvoir constater comment leurs données ont été utilisées, quelles décisions elles ont permis de prendre et comment les opérations se sont améliorées grâce à elles.
+- Des espaces sûrs pour l'apprentissage et la réflexion
+- Une culture axée sur les données favorise l'amélioration continue. Cela signifie qu'il est acceptable, voire attendu, de soulever des préoccupations, d'identifier les lacunes en matière de performance et d'essayer de nouvelles solutions sans craindre d'être blâmé.
+- Données simplifiées et accessibles
+- Les données doivent être adaptées au public cible. Les équipes de terrain n'ont pas besoin de tableaux de bord complexes, mais de synthèses simples qui indiquent ce qui fonctionne, ce qui ne fonctionne pas et ce sur quoi elles peuvent agir.
+- Dans les contextes humanitaires, les données sont généralement collectées pour répondre aux exigences de reporting des bailleurs de fonds, et les équipes de terrain sont rarement informées de l'impact de leurs contributions sur les décisions stratégiques. Il en résulte un cercle vicieux de désengagement : les équipes de terrain soumettent des données qu'elles ne réutilisent jamais, les équipes du siège prennent des décisions déconnectées des réalités opérationnelles, et le reporting devient une routine sans réelle utilité. Pour rompre ce cercle, il est indispensable de faire évoluer la mentalité de l'organisation, en passant d'une logique de « données pour les bailleurs de fonds » à une logique de « données pour la prise de décision ».
+- Quand la culture des données s'impose :
+- Les équipes demandent des données de manière proactive (« Que nous indique le taux de livraison du mois dernier ? »)
+- Les partenaires remettent en question les hypothèses (« est-ce le bon indicateur dans ce contexte ? »)
+- Le personnel de terrain s'implique davantage (« nous avons constaté ce pic – pouvons-nous enquêter dessus ? »)
+- Les décisions sont plus transparentes et fondées sur des preuves.
+- Si la technologie permet de collecter et de visualiser les données, seule la culture d'entreprise garantit leur utilisation. Instaurer une culture axée sur les données prend du temps, mais elle porte ses fruits : meilleures décisions, responsabilisation accrue et organisation plus engagée et adaptable.
+- Des données de qualité ne se contentent pas de faciliter la mesure ; elles stimulent l’action, l’apprentissage et une meilleure planification. On peut concevoir cela comme un cycle.
+- Collecter → Nettoyer → Analyser → Partager → Agir → Apprendre
+- Collecte : Les données opérationnelles brutes sont collectées tout au long de la chaîne d'approvisionnement, telles que les niveaux de stock, l'état des expéditions, les délais de livraison, les coûts ou les commentaires des bénéficiaires de l'aide.
+- Nettoyage : Les données sont nettoyées afin de garantir leur exactitude, leur exhaustivité et leur formatage cohérent. C’est à cette étape que la gouvernance est essentielle ; sans elle, l’analyse devient non fiable.
+- Analyse : Les données sont transformées en informations exploitables, agrégées en indicateurs clés de performance (KPI) ou en courbes de tendance qui fournissent des détails sur le fonctionnement de l'opération.
+- Partage : Les données de performance sont diffusées aux niveaux hiérarchiques appropriés. Les équipes de terrain ont besoin de synthèses exploitables. La direction peut avoir besoin de tableaux de bord présentant les grandes tendances.
+- Action : Les données sont utilisées pour prendre des décisions, qu'il s'agisse de déclencher un changement d'itinéraire, de réaffecter des stocks ou de faire un suivi auprès d'un fournisseur.
+- Leçons tirées : Il est temps de réfléchir à ce qui a fonctionné, à ce qui n'a pas fonctionné et à la manière dont le processus pourrait être amélioré. Il se peut également que les données ou les indicateurs utilisés ne soient pas adaptés et qu'il soit nécessaire de collecter de nouvelles données ou d'ajuster les indicateurs pour obtenir des informations plus pertinentes. Cette étape est essentielle pour développer le savoir institutionnel et favoriser l'amélioration continue.
+- En pratique, ce cycle n'est pas toujours linéaire. Les décisions doivent souvent être prises en parallèle de la collecte de données, notamment en situation d'urgence. La qualité, la clarté et la communication sont donc d'autant plus cruciales. Lorsque ce cycle fonctionne correctement, les données deviennent un atout qui permet de prendre des décisions plus éclairées et de favoriser l'amélioration continue. En cas de dysfonctionnement, lorsque les données sont de mauvaise qualité, cloisonnées ou ignorées, les systèmes de performance sont bloqués et la confiance s'érode.  
+  Les données sont le moteur de la gestion de la performance. De la planification au suivi, en passant par l'apprentissage et la correction de trajectoire, chaque étape repose sur des données fiables, opportunes et exploitables. Mais les données seules ne suffisent pas. Les organisations doivent également renforcer la qualité et la gouvernance des données, instaurer une culture où les données sont perçues comme un outil d'aide à la décision et intégrer les données dans un processus complet de réflexion et d'action.
+  Obtenir des données est difficile. Obtenir des données de qualité l'est encore plus. Or, sans elles, la gestion de la performance se résume à des conjectures. Grâce à elles, les organisations peuvent être plus rapides, plus responsables et mieux armées pour servir ceux qui comptent sur leur soutien.
