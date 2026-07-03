@@ -1,59 +1,71 @@
--
-- Voici la retranscription des règles de déduction présentées dans le document, formatée en Markdown et optimisée pour votre système de gestion des connaissances **Logseq**.
-  Chaque règle est présentée avec son nom, sa formule au format LaTeX (parfaitement interprétée par Logseq), et une explication synthétique orientée vers la recherche de preuve (de bas en haut) ou l'application (de haut en bas).
-- ## 1. Règles Structurelles et Égalité
-  * **Axiome (ax)**
-   
-   * *Sens :* Si la conclusion du séquent fait partie des hypothèses, le séquent est immédiatement prouvé (c'est une feuille terminale de l'arbre).
-  * **Affaiblissement (af)**
-   
-   * *Sens :* Si on démontre A sous un ensemble d'hypothèses, ajouter une hypothèse supplémentaire B ne remet pas en cause la démonstration.
-  * **Introduction de l'égalité ($=_i$)**
-   
-   * *Sens :* On peut toujours affirmer qu'un terme est égal à lui-même (réflexivité de l'égalité).
-  * **Élimination de l'égalité ($=_e$)**
-   
-   * *Sens :* Si deux objets sont égaux (t=u), alors toute propriété vérifiée par t est également vérifiée par u.
-- ## 2. Connecteurs Logiques (Calcul Propositionnel)
-  * **Élimination de l'implication ($\rightarrow e$) / Modus Ponens**
-   
-   * *Sens :* Pour démontrer B, il suffit de trouver ou de démontrer un lemme A \rightarrow B, puis de démontrer A.
-  * **Introduction de l'implication ($\rightarrow i$)**
-   
-   * *Sens :* Pour montrer que A \rightarrow B, on ajoute A aux hypothèses et on cherche à démontrer B.
-  * **Introduction de la conjonction ($\wedge_i$)**
-   
-   * *Sens :* Pour prouver A \wedge B, il faut prouver séparément A d'une part, et B d'autre part.
-  * **Élimination de la conjonction ($\wedge_e$)**
-   
-   * *Sens :* D'une hypothèse A \wedge B, on peut extraire librement soit A (élimination gauche), soit B (élimination droite).
-  * **Introduction de la disjonction ($\vee_i$)**
-   
-   * *Sens :* Pour démontrer A \vee B, il suffit de démontrer l'un des deux membres (A ou B).
-  * **Élimination de la disjonction ($\vee_e$) / Raisonnement par cas**
-   
-   * *Sens :* Si on sait que A \vee B est vrai, pour démontrer un objectif C, on traite le problème en deux cas distincts : en supposant A vrai, puis en supposant B vrai.
-- ## 3. Négation et Absurde
-  * **Introduction de la négation ($\neg_i$)**
-   
-   * *Sens :* Pour démontrer \neg A, on suppose A et on cherche à aboutir à une contradiction (\perp).
-  * **Élimination de la négation ($\neg_e$)**
-   
-   * *Sens :* Si on a prouvé à la fois A et sa négation \neg A, on a mis en évidence une contradiction (\perp).
-  * **Absurdité classique ($\perp_c$) / Raisonnement par l'absurde**
-   
-   * *Sens :* Pour démontrer A, on suppose sa négation (\neg A) et on cherche à obtenir une contradiction (\perp). *Note : Cette règle est spécifique à la logique classique.*
-- ## 4. Quantificateurs (Logique du Premier Ordre)
-  * **Introduction du quantificateur universel ($\forall_i$)**
-   
-   * *Sens :* Pour démontrer qu'une propriété est vraie pour tout x, on la démontre pour un x quelconque, ce qui impose que x n'apparaisse pas dans les hypothèses courantes.
-  * **Élimination du quantificateur universel ($\forall_e$)**
-   
-   * *Sens :* Si une propriété est vraie pour tout x, on peut l'instancier en remplaçant x par n'importe quel terme spécifique t.
-  * **Introduction du quantificateur existentiel ($\exists_i$)**
-   
-   * *Sens :* Pour prouver qu'il existe un x vérifiant la propriété A, il suffit de fournir un exemple de terme t (un témoin) qui la vérifie.
-  * **Élimination du quantificateur existentiel ($\exists_e$)**
-   
-   * *Sens :* Si on sait qu'il existe un x vérifiant A, on peut utiliser cette hypothèse en introduisant un nouveau nom pour cet objet, à condition que ce nom n'intervienne pas déjà dans les hypothèses ou dans la conclusion finale C.
-- **14:33** [[quick capture]]:
+- Pour rendre le compte rendu compatible avec le format **LGSSEq**, la structure a été entièrement réorganisée
+  
+  Toutes les formules de logique mathématique, règles d'inférence et systèmes de séquents sont désormais encapsulés sous forme d'équations hors-texte rigoureuses au format LaTeX, isolées du texte brut. L'arborescence des concepts a également été aplatie pour garantir une lecture séquentielle et une compatibilité maximale avec les parseurs de documents structurés.
+- [[implémentation des règles de logique en rocq et Lean]]
+- ## 1. La Déduction Naturelle (Fondation)
+  La déduction naturelle formalise le raisonnement mathématique en manipulant des jugements de la forme \Gamma \vdash A, signifiant que sous les hypothèses du contexte \Gamma, on démontre la proposition A. Elle repose sur un équilibre entre des règles d'introduction et des règles d'élimination.
+- ### Implication
+  L'introduction de l'implication ajoute l'hypothèse à gauche du séquent, tandis que son élimination correspond au *Modus Ponens*.
+  $$ \frac{\Gamma, A \vdash B}{\Gamma \vdash A \to B} (\to I) $$
+  $$ \frac{\Gamma \vdash A \to B \quad \Gamma \vdash A}{\Gamma \vdash B} (\to E) $$
+- ### Conjonction
+  L'introduction de la conjonction exige la preuve des deux composants. L'élimination permet d'isoler l'un des membres.
+  $$ \frac{\Gamma \vdash A \quad \Gamma \vdash B}{\Gamma \vdash A \land B} (\land I) $$
+  $$ \frac{\Gamma \vdash A \land B}{\Gamma \vdash A} (\land E_1) \quad \frac{\Gamma \vdash A \land B}{\Gamma \vdash B} (\land E_2) $$
+- ### Disjonction
+  L'introduction valide la disjonction dès qu'un membre est prouvé. L'élimination correspond au raisonnement par cas.
+  $$ \frac{\Gamma \vdash A}{\Gamma \vdash A \lor B} (\lor I_1) \quad \frac{\Gamma \vdash B}{\Gamma \vdash A \lor B} (\lor I_2) $$
+  $$ \frac{\Gamma \vdash A \lor B \quad \Gamma, A \vdash C \quad \Gamma, B \vdash C}{\Gamma \vdash C} (\lor E) $$
+- ### Absurde et Négation
+  La négation est définie par la relation \neg A \equiv A \to \bot. La logique classique se distingue par l'inclusion de la règle du raisonnement par l'absurde (RAA), en plus de l'élimination du faux (*Ex Falso*).
+  $$ \frac{\Gamma \vdash \bot}{\Gamma \vdash A} (\bot E) $$
+  $$ \frac{\Gamma, \neg A \vdash \bot}{\Gamma \vdash A} (RAA) $$
+- ## 2. Le Calcul des Séquents et Règles Structurelles
+  Le calcul des séquents formalise les opérations directement sur des couples de contextes de la forme \Gamma \vdash \Delta. Il explicite la gestion de la mémoire logique via les règles structurelles.
+- ### Règles d'Identité
+  L'axiome initialise la preuve, tandis que la règle de coupure (*Cut*) permet l'utilisation de lemmes intermédiaires.
+  $$ \frac{}{A \vdash A} (Ax) $$
+  $$ \frac{\Gamma \vdash A, \Delta \quad \Gamma', A \vdash \Delta'}{\Gamma, \Gamma' \vdash \Delta, \Delta'} (Cut) $$
+- ### Règles Structurelles Gauchies
+  Ces règles contrôlent la persistance et la duplication des hypothèses dans le contexte gauche.
+  * **Affaiblissement (Weakening) :**
+   $$ \frac{\Gamma \vdash \Delta}{\Gamma, A \vdash \Delta} (W_L) $$
+  * **Contraction :**
+   $$ \frac{\Gamma, A, A \vdash \Delta}{\Gamma, A \vdash \Delta} (C_L) $$
+- ## 3. Raffinements Successifs et Déclinaisons
+- ### La Logique Intuitionniste
+  La logique intuitionniste restreint la logique classique en interdisant le raisonnement par l'absurde non constructif.
+  * **Raffinement LGSSEq :** La partie droite du séquent est contrainte à contenir au maximum une formule unique.
+   $$ \Gamma \vdash A \quad \text{ou} \quad \Gamma \vdash \emptyset $$
+  * **Conséquence :** Les principes du tiers-exclu A \lor \neg A et de la double négation \neg\neg A \to A ne sont plus des théorèmes du système.
+- ### La Logique Linéaire
+  La logique linéaire supprime les règles structurelles d'affaiblissement (W) et de contraction (C). Les formules deviennent des ressources qui s'épuisent lors de leur utilisation.
+  * **Dédoublement des connecteurs :** Les connecteurs se divisent en versions multiplicatives (partage strict des ressources) et additives (choix parmi les ressources).
+   $$ \otimes \text{ (multiplicatif)}, \quad \multimap \text{ (implication)}, \quad & \text{ (additif)}, \quad \oplus \text{ (choix)} $$
+  * **Contrôle exponentiel :** Les modalités de contrôle réintroduisent localement la logique classique pour les ressources infinies.
+   $$ !A \quad \text{(autorisation de W et C à gauche)} $$
+- ### Les Logiques Modales
+  Les logiques modales étendent le système avec les opérateurs de nécessité \Box et de possibilité \Diamond.
+  * **Système K (Base) :**
+   $$ \Box(A \to B) \to (\Box A \to \Box B) $$
+  * **Axiome de Réflexivité (Système T) :**
+   $$ \Box A \to A $$
+  * **Axiome de Transitivité (Système S4) :**
+   $$ \Box A \to \Box\Box A $$
+- ### Les Logiques Temporelles
+  Les logiques temporelles raffinent les opérateurs modaux pour formaliser l'évolution d'un système au cours du temps.
+  * **Logique Temporelle Linéaire (LTL) :** Modélise un temps discret et déterministe via l'opérateur d'instant suivant \circ et l'opérateur de permanence \Box.
+   $$ \circ(\neg A) \leftrightarrow \neg \circ A $$
+   $$ \Box A \leftrightarrow (A \land \circ \Box A) $$
+  * **Induction Temporelle :** Formule le principe de récurrence sur l'axe du temps.
+   $$ \text{Si } \vdash A \to \circ A, \quad \text{alors } \vdash A \to \Box A $$
+  * **Computation Tree Logic (CTL) :** Introduit des quantificateurs sur des arbres de calcul pour les structures de temps arborescentes, associant un quantificateur de chemin (A pour tout, E pour il existe) à un opérateur temporel (X pour suivant, G pour global).
+   $$ \neg AX , A \leftrightarrow EX , \neg A $$
+   $$ AG , A \leftrightarrow A \land AX , AG , A $$
+- ## 4. Synthèse des Systèmes Informatiques et Logiques
+  | Système Logique | Structure du Séquent | Règle Restreinte / Ajoutée | Champ d'Application |
+  |---|---|---|---|
+  | **Classique** | \Gamma \vdash \Delta | Aucune restriction | Mathématiques générales |
+  | **Intuitionniste** | \Gamma \vdash A | Cardinalité du membre droit \le 1 | Calculabilité, Typage (Curry-Howard) |
+  | **Linéaire** | \Gamma \vdash \Delta | Suppression de (W) et (C) | Gestion de ressources, Protocoles |
+  | **Modale / Temporelle** | \Gamma \vdash \Delta indexés | Insertion d'opérateurs relationnels | Spécification et Vérification de programmes |

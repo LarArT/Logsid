@@ -7,3 +7,5 @@
 - [[Modèle SCOR]]
 - [[KPI ]]
 - [[gestion par les données]]
+- [[réponse humanitaire épidémie]]
+-

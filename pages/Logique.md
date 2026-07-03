@@ -6,5 +6,6 @@
 - [[théorème des points fixes]]
 - [[règles de logique]]
 - [[skolemisation]]
+- [[sequent]]
 - # [[laboratoire de recherche]]
 -
