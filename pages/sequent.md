@@ -1,4 +1,4 @@
--
+- [[sequents]]
 - par Gerhard Gentzen début 20ième Siècle. Un séquent est un couple composé de deux listes de formules. On le note usuellement:
 	- $H1, H2,...  \vdash K_2, k_1$
 - Les séquents servent à exprimer des Théorèmes du type:

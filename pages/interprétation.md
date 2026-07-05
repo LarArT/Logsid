@@ -1,0 +1,29 @@
+- **Définition 2.2.1** (Interprétation d'un langage)
+	- Soit $\mathcal{L}$ un langage de la logique du premier ordre. On appelle **interprétation** du langage $\mathcal{L}$, l'ensemble $\mathcal{M}$ des données suivantes :
+		- Un ensemble non vide $|\mathcal{M}|$, appelé **domaine** ou **ensemble de base** de $\mathcal{M}$ ;
+		- Pour chaque symbole de constante $c$, un élément $c_{\mathcal{M}}$ de $|\mathcal{M}|$ ;
+		- Pour chaque symbole de fonction $n$-aire $f$, une fonction $f_{\mathcal{M}}$, partout définie, de $|\mathcal{M}|^n$ dans $|\mathcal{M}|$ ;
+		- Pour chaque symbole de relation $n$-aire $R$ (autre que $=$), un sous-ensemble $R_{\mathcal{M}}$ de $|\mathcal{M}|^n$.
+- Remarques.
+- On utilise quelquefois les mots structure ou modèle, avec le même sens, à la place du mot interprétation.
+-
+- **Définition 2.2.2** — Soit \mathcal{M} une interprétation du langage \mathcal{L}.
+	- **1.** Un *environnement* est une fonction de l'ensemble des variables dans l'ensemble de base de \mathcal{M}.
+	- **2.** Si e est un environnement et a \in |\mathcal{M}|, on note e[x := a] l'environnement e' tel que e'(x) = a et e'(y) = e(y) pour y différent de x.
+- **Définition 2.2.3** — Soit \mathcal{M} une interprétation du langage \mathcal{L}. La *valeur du terme* t dans l'environnement e (on la note \text{Val}_{\mathcal{M}}(t, e)) est définie, par récurrence sur la taille de t, de la manière suivante :
+	- `\text{Val}_{\mathcal{M}}(c, e) = c_{\mathcal{M}}`
+	- \text{Val}_{\mathcal{M}}(x, e) = e(x), si x est une variable.
+	- `\text{Val}_{\mathcal{M}}(f(t_1, \dots, t_n), e) = f_{\mathcal{M}}(\text{Val}_{\mathcal{M}}(t_1, e), \dots, \text{Val}_{\mathcal{M}}(t_n, e))`
+- **Définition 2.2.7** Soient $\mathcal{L}$ un langage et $\mathcal{M}$ une interprétation de $\mathcal{L}$. La valeur d'une formule $F$ de $\mathcal{L}$ dans l'environnement $e$ est un élément de l'ensemble $\{0,1\}$ noté $\text{Val}_{\mathcal{M}}(F,e)$ et défini, par récurrence sur la taille de $F$, de la manière suivante :
+	- 1. $\text{Val}_{\mathcal{M}}(\bot, e) = 0$.
+	- 2. $\text{Val}_{\mathcal{M}}(R(t_1, \dots, t_n), e) = 1$ ssi $(\text{Val}_{\mathcal{M}}(t_1, e), \dots, \text{Val}_{\mathcal{M}}(t_n, e)) \in R_{\mathcal{M}}$.
+	- 3. $\text{Val}_{\mathcal{M}}(\neg F_1, e) = 1$ ssi $\text{Val}_{\mathcal{M}}(F_1, e) = 0$.
+	- 4. $\text{Val}_{\mathcal{M}}(F_1 \wedge F_2, e) = 1$ ssi $\text{Val}_{\mathcal{M}}(F_1, e) = 1$ et $\text{Val}_{\mathcal{M}}(F_2, e) = 1$.
+	- 5. $\text{Val}_{\mathcal{M}}(F_1 \vee F_2, e) = 1$ ssi $\text{Val}_{\mathcal{M}}(F_1, e) = 1$ ou $\text{Val}_{\mathcal{M}}(F_2, e) = 1$.
+	- 6. $\text{Val}_{\mathcal{M}}(F_1 \rightarrow F_2, e) = 1$ ssi $\text{Val}_{\mathcal{M}}(F_1, e) = 0$ ou $\text{Val}_{\mathcal{M}}(F_2, e) = 1$.
+	- 7. $\text{Val}_{\mathcal{M}}(\forall x F_1, e) = 1$ ssi pour tout $a \in |\mathcal{M}|$, $\text{Val}_{\mathcal{M}}(F_1, e[x := a]) = 1$.
+	- 8. $\text{Val}_{\mathcal{M}}(\exists x F_1, e) = 1$ ssi il existe $a \in |\mathcal{M}|$ tel que $\text{Val}_{\mathcal{M}}(F_1, e[x := a]) = 1$.
+- **Définition 2.2.12** On dit qu'une formule $F$ est un *théorème (logique)* ssi pour toute interprétation $\mathcal{M}$ et tout environnement $e$, $\mathcal{M}$ satisfait $F$ dans l'environnement $e$.
+- **Définition 2.2.14** Soient $\mathcal{L}$ et $\mathcal{L}'$ deux langages.
+	- 1. On dit que $\mathcal{L}'$ *enrichit* $\mathcal{L}$ (ou que $\mathcal{L}$ est une *restriction* de $\mathcal{L}'$) si $\mathcal{L} \subset \mathcal{L}'$.
+	- 2. On suppose $\mathcal{L} \subset \mathcal{L}'$. Soient $\mathcal{M}$ une interprétation de $\mathcal{L}$ et $\mathcal{M}'$ une interprétation de $\mathcal{L}'$. On dit que $\mathcal{M}'$ est un *enrichissement* de $\mathcal{M}$ (ou que $\mathcal{M}$ est une *restriction* de $\mathcal{M}'$) ssi $|\mathcal{M}| = |\mathcal{M}'|$ et chaque symbole de constante, de fonction ou de relation de $\mathcal{L}$ a la même interprétation dans $\mathcal{M}$ et dans $\mathcal{M}'$.

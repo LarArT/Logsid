@@ -1,0 +1,2 @@
+- \textbf{Définition 2.6.7} Une formule $F$ est sous forme prénexe si elle est de la forme $Q_1x_1\dots Q_nx_n G$ où $Q_i = \forall$ ou $\exists$ et $G$ est sans quantificateur. On dira alors que $Q_1x_1\dots Q_nx_n$ est le préfixe de $F$. Le préfixe peut être vide, i.e. une formule sans quantificateur est sous forme prénex
+-

@@ -1,0 +1,12 @@
+- **Définition 2.5.1** Une théorie est un ensemble (fini ou infini) de formules closes. Les éléments d'une théorie sont souvent appelés les *axiomes* de cette théorie.
+- **Définition 2.5.2** Soit $T$ une théorie.
+	- Une interprétation $\mathcal{M}$ *satisfait* $T$ (on dit aussi que $\mathcal{M}$ est un *modèle* de $T$ et on note $\mathcal{M} \models T$) si $\mathcal{M}$ satisfait toutes les formules de $T$.
+	- $T$ est *contradictoire* ssi il n'existe pas de modèle de $T$.
+	- Une formule close $A$ est *valide* dans $T$ (on le note $T \models A$) ssi $\mathcal{M} \models A$ pour tout modèle $\mathcal{M}$ de $T$.
+- **Définition 2.5.3** Soit $T$ une théorie.
+	- Soit $A$ une formule. On note $T \vdash A$ s'il existe un sous-ensemble *fini* $T'$ de $T$ tel que $T' \vdash A$.
+	- On dit que $T$ est *consistante* ssi $T \nvdash \bot$.
+	- On dit que $T$ est *complète* ssi $T$ est consistante et pour toute formule close $F$, $T \vdash F$ ou $T \vdash \neg F$.
+- ​2.5.3 Théorème de compacité
+	- ​Le théorème de compacité a de nombreuses applications en théorie des modèles. On peut en donner une preuve directe (voir exercice 2.17 pour le cas du calcul propositionnel), mais il se déduit trivialement du théorème de complétude.
+	- ​**Théorème 2.5.21 (Théorème de compacité)** Soit T une théorie. T est *contradictoire* ssi il existe un sous-ensemble fini de T qui est contradictoire. Autrement dit : T est *satisfaisable* ssi tout sous-ensemble fini de T est satisfaisable.
