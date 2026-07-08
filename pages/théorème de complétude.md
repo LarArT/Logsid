@@ -10,3 +10,4 @@
 - ​2.5.3 Théorème de compacité
 	- ​Le théorème de compacité a de nombreuses applications en théorie des modèles. On peut en donner une preuve directe (voir exercice 2.17 pour le cas du calcul propositionnel), mais il se déduit trivialement du théorème de complétude.
 	- ​**Théorème 2.5.21 (Théorème de compacité)** Soit T une théorie. T est *contradictoire* ssi il existe un sous-ensemble fini de T qui est contradictoire. Autrement dit : T est *satisfaisable* ssi tout sous-ensemble fini de T est satisfaisable.
+- [[théorie / théorème de compacité, théorème de complétude]]

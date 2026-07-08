@@ -23,8 +23,14 @@
 - [[théorie des modèles]]
 - [[théorème de complétude]]ˆ
 - [[Formule prenexe]]
+- [[arithmétique de peano]]
+- [[théorie ZF]]
+- [[Théorème de tarski]]
+	-
 - [[arithmétique de HEYTING]]
+- [[arithmétique de pressburger]]
 - # [[laboratoire de recherche]]
+-
 -
 -
 -
