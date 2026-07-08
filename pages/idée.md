@@ -1,7 +1,9 @@
 - [[lectures]]
+- [[capteur EDA]]
 - [[méthode d'évaluation]]
 - [[ONU]]
 - [[Info]]
+- [[science ouverte]]
 - # financement de projet d'intérêt général
 	- [[fonds européens]]
 	- [ANR](https://direction-recherche.parisnanterre.fr/service-de-la-valorisation-et-appui-a-la-recherche/boite-a-outils-aapg-anr)

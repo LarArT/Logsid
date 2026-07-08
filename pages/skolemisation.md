@@ -1,1 +1,2 @@
 - : Elle prépare le terrain pour les algorithmes (comme la résolution ou les tableaux de preuve) en ramenant la formule à une forme standardisée. On passe d'un énoncé du type "Pour tout y, il existe un x tel que..." à un énoncé de type "Pour tout y, la propriété est vraie pour f(y)".
+- Théorème 2.7.6 Une formule close prénexe F est démontrable ssi la forme de Skolem de F est contradictoire.

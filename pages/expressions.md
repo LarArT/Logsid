@@ -1,0 +1,2 @@
+-
+- En logique du premier ordre, on a défini d'abord les [[termes]] puis les [[formules]]. En logique d'ordre supérieur, les expressions vont remplacer ces deux notions.

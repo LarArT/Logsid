@@ -4,8 +4,16 @@
   Géométrie de l'interaction
 - [[aide-memoire-lean]]
 - [[théorème des points fixes]]
-- [[les formules]]
-- [[calcul propositionnel]]
+- [[matrice des  logique]]
+- [[loi de Morgan en logique classique vs intuitionniste]]
+- [[Logique propositionnel]]
+- [[Logique de premier ordre]]
+	- [[formules]]
+- [[logique de second ordre]]
+	- [[expressions]]
+	- [[sortes]]
+- [[logique d'ordre supérieur]]
+- [[Théorie Homotopique des Types]]
 - [[calcul des séquents]]
 - [[règles de logique]]
 - [[skolemisation]]
@@ -15,6 +23,7 @@
 - [[théorie des modèles]]
 - [[théorème de complétude]]ˆ
 - [[Formule prenexe]]
+- [[arithmétique de HEYTING]]
 - # [[laboratoire de recherche]]
 -
 -

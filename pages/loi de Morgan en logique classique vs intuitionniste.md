@@ -1,0 +1,3 @@
+- [[dans le cas du calcul propositionnelle]]
+- [[Dans le cas du calcul des prédicats]]
+-

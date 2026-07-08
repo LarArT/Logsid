@@ -1,0 +1,5 @@
+- [[peer review]]
+- [[preregistration ]]
+- [[Intégrité scientifique]]
+- https://coop-ist.cirad.fr/gerer-des-donnees/choisir-le-meilleur-entrepot-de-donnees/1-qu-est-ce-qu-un-entrepot-de-donnees-de-recherche
+-
