@@ -29,6 +29,7 @@
 	-
 - [[arithmétique de HEYTING]]
 - [[arithmétique de pressburger]]
+- [[λ calcul]]
 - # [[laboratoire de recherche]]
 -
 -
