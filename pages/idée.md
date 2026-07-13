@@ -5,6 +5,7 @@
 - [[Info]]
 - [[science ouverte]]
 - [[magazine]]
+- [IA for Scientific Discovery](https://github.com/mlelarge/ens-ml4sd)
 - # financement de projet d'intérêt général
 	- [[fonds européens]]
 	- [ANR](https://direction-recherche.parisnanterre.fr/service-de-la-valorisation-et-appui-a-la-recherche/boite-a-outils-aapg-anr)
@@ -424,12 +425,14 @@
 	- Achat à pour expérience pédagogique : https://www.pierron.fr/
 	- ## mathématiques
 		- [[mathématiques]]
-		- [[Logique]]
+		- [[combinatoire topologique (Topological Combinatorics]] la révolution actuelle des mathématiques
+		- [[Logique formel - vérification de programme]]
 		- [[cryptogaphie]]
 		- [[Classification msc 2020]]
 		- [[ouvrage mathématiques de référence]]
 		- [[statistiques]]
 		- [[preuve formelle]]
+			-
 	- ## électricité
 	  collapsed:: true
 		- [[électricité]]
@@ -449,7 +452,7 @@
 			- • Neuro-symbolic Al: Cette approche vise à combiner les réseaux de neurones avec des représentations symboliques pour créer des systèmes d'intelligence artificielle plus flexibles et plus interprétables. Avez-vous d'autres questions sur ce . C'est un domaine de recherche hybride qui vise à combiner les forces des approches symboliques (comme la programmation logique) et des approches connexionnistes (comme les réseaux de neurones
 			- Régulation contrôle
 				- https://www.peren.gouv.fr/
-			- [[Logique]]
+			- [[Logique formel - vérification de programme]]
 				- Conférence
 					- https://en.m.wikipedia.org/wiki/Logic_for_Programming,_Artificial_Intelligence_and_Reasoning
 			- [[XAI]]

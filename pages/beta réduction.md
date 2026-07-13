@@ -1,3 +1,4 @@
+-
 - Définitions de la $\beta$ -réduction
 	- On appelle **redex** (pour *reducible expression*) toute expression de la forme (λ x.s) t.
 	- On dit que s[t/x] est le **réduit** de (λ x.s) t, et on note :

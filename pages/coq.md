@@ -1,0 +1,29 @@
+- Un langage de spécification: Gallina
+- Un langage pour écrire ses preuves : les tactiques
+- Un langage de commande pour donner des ordres à Coq: Vernacular
+-
+- # des problèmes -> des outils
+	- ​**Axe vertical (Ordonnée) :** Représente le niveau d'**Automatique** (le degré d'automatisation de l'outil, du plus automatique au moins automatique).
+	- ​**Axe horizontal (Abscisse) :** Représente le niveau d'**Expressif** (la capacité à exprimer des propriétés complexes ou des spécifications riches).
+	- ​**Relation générale :** Il existe une courbe inverse (décroissante) montrant un compromis entre l'automatisation et l'expressivité. Plus un outil est expressif, moins il est automatique, et inversement.
+	  
+	  ​Les quatre catégories d'outils de vérification positionnées le long de cette courbe sont :
+	- ​**Analyse statique :** Très automatique, mais peu expressive.
+	- ​**Model checking :** Moyennement automatique et moyennement expressif.
+	- ​**Preuve de programmes :** Plus expressive que le *model checking*, mais demandant plus d'interventions manuelles (moins automatique).
+	- ​**Assistants de preuve :** Extrêmement expressifs (permettent de formaliser des mathématiques et des propriétés de programmes très complexes), mais très peu automatiques (requièrent un guidage humain important).
+	-
+	- => Coq est inadapté à la vérification entièrement automatique. (Utilisez plutôt prouveurs SMT, model checking, SAT,...)
+	- => Coq est peu pratique pour la vérification déductive de programmes écrits dans des langages classiques (C, Java,...).
+		- (Utilisez plutôt des prouveurs de programmes comme Frama-C/WP.)
+-
+- # définition de fonction
+	- Contrairement au mot-clé **Definition** (utilisé pour les fonctions non récursives),
+	- **Fixpoint** indique à Coq qu'il doit s'attendre à un appel récursif dans le corps de la fonction.
+-
+- A trivial goal can be solved with the tactic by [].
+  Goal 2 + 2 = 4. by [].
+-
+- # example Ocaml coq
+	- [[exemple de conversion ocaml vers coq]]
+- [[équivalence Lean et rocq]]

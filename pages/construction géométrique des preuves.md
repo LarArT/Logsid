@@ -21,7 +21,7 @@
 - ### Synthèse Curry-Howard : De l'Écrit au Dessin
   | Vision Textuelle Classique | Vision Géométrique (Curien) | Signification Informatique |
   |---|---|---|
-  | **Type A \to B** | Un fil A entrant dans une boîte et un fil B sortant | Signature d'une fonction |
+  | Type A $\to$ B | Un fil A entrant dans une boîte et un fil B sortant | Signature d'une fonction |
   | **Composition de fonctions** | Connexion bout-à-bout de deux fils | Enchaînement de calculs (f o g) |
   | **Élimination de la coupure** | Raccourcissement et simplification des fils | Exécution / Compilation du programme |
 - #### Conclusion

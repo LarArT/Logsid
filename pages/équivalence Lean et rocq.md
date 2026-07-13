@@ -1,0 +1,3 @@
+- [[by rocq]] [[équivalence by rocq lean]]
+- [[équivalence rewrite rocq lean]]
+-

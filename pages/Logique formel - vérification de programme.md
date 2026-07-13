@@ -1,4 +1,8 @@
-# logique /catégorie
+- [L'ensemble des cours lmfi](https://younesse.net/Preuves-programmes/)
+- [[coq]]
+-
+- # logique /catégorie
+  title:: Logique formel - vérification de programme
 - théorie des topos
   Homotopie des types 
   Géométrie de l'interaction
@@ -6,6 +10,7 @@
 - [[théorème des points fixes]]
 - [[matrice des  logique]]
 - [[loi de Morgan en logique classique vs intuitionniste]]
+- [[logique constructive extension de la logique intuitionniste]]
 - [[Logique propositionnel]]
 - [[Logique de premier ordre]]
 	- [[formules]]
@@ -29,9 +34,19 @@
 	-
 - [[arithmétique de HEYTING]]
 - [[arithmétique de pressburger]]
+-
 - [[λ calcul]]
+	- Typé : théorie des types dépendants
+- [[Logique combinatoire : réécriture de curry]]
+- [[le calcul de la logique de hoare : réécriture de hoare]]
+- [[correspondance de curry howard]]
+- # preuve interactive de programme
+- [[Preuve interactive de programme]]
+- [[preuve interactive de ia generative]]
+-
+- [[preuve formelle]]
 - # [[laboratoire de recherche]]
 -
--
+- [[exemple de mise en œuvre pour le droit]]
 -
 -

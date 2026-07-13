@@ -1,0 +1,5 @@
+- Discipline de types - Logique
+- Type ~ Formule
+- Programme, terme - Preuve
+- Réduction, calcul - Élimination des coupures
+-

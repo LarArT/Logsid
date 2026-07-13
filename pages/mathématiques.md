@@ -4,7 +4,7 @@
 - [[calcul différentiel]]
 - [[probabilité]]
 - [[analyse]]
-- [[Logique]]
+- [[Logique formel - vérification de programme]]
 - # revue mathématique
   * https://www.rms-math.com/la-revue
   * https://smf.emath.fr/les-publications/la-gazette
