@@ -1,3 +1,5 @@
 - [[by rocq]] [[équivalence by rocq lean]]
-- [[équivalence rewrite rocq lean]]
--
+- [[rewrite rocq]] [[équivalence rewrite rocq lean]]
+- [[constructeur rocq]]
+- [[preuve dirigée par les buts]]
+- [[principes_nommage_mathcomp]]

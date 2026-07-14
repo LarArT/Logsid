@@ -1,6 +1,9 @@
 - https://www.inria.fr/fr/catala-logiciel-administration-dgfip-cnaf https://www.inria.fr/fr/avocat
 - https://ultv.univ-lorraine.fr/video/22354-logique-et-linguistique-de-linformatisation-du-droit/?hl=fr-FR
 - Voici un exposé détaillé présentant les projets **Catala** et **AVoCat**, deux initiatives complémentaires d'Inria situées à la frontière du droit et des sciences du numérique.
+-
+- # conference
+	- **conférence ProLALA 2022 (Programming Languages and the Law**
 - # Exposé : La formalisation et la vérification du droit par l'informatique
   
   La traduction des textes législatifs et réglementaires en programmes informatiques est un défi majeur de l'État moderne. Qu'il s'agisse de calculer l'impôt sur le revenu ou de distribuer des prestations sociales, l'administration s'appuie massivement sur des logiciels. Pour garantir que ces systèmes appliquent fidèlement la loi sans approximations ni biais d'interprétation, Inria soutient deux projets scientifiques de premier plan : **Catala** et **AVoCat**.

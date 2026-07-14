@@ -491,19 +491,20 @@
 		  collapsed:: true
 			- [[la procédure d'acte de juriste]]
 	- ## sciences humaines et social
+	  collapsed:: true
 		- [[psychologie]]
 		- [[méthodologie de l'enquête]]
 		- [[interface utilisateur gestalt]]
 		- [fiche méthodologique de sciences Po liepp](https://www.sciencespo.fr/liepp/fr/publications/liepp/fiches-methodologiques/)
 		- [méthodes d'évaluation socioéconomique : valeur de référence pour valoriser les effets non marchands référencer dans le complément b de cette page](https://www.strategie-plan.gouv.fr/conseil-scientifique-des-methodes-devaluation-socioeconomique)
 	- ## géographie
-	- [[lectures/mooc **Systèmes d'Information Géographique**]]
-	- StoryMapJS (Knight Lab)
+		- [[lectures/mooc **Systèmes d'Information Géographique**]]
+		- StoryMapJS (Knight Lab)
 	-
 - # urbanisme
 	- [[Scot (schéma de cohérence territoriale)]]
-- # entrepreneuriat 
-  [[Plan d'investissement]]
+- # entrepreneuriat
+	- [[Plan d'investissement]]
 - # entreprise
 	- [[mooc gestion financière et pratique du tableur]]
 	- [calcul des salaires](https://mon-entreprise.urssaf.fr/simulateurs/salaire-brut-net)
@@ -565,6 +566,7 @@
 		- [[la liberté d'expression pour les parlementaires]]
 -
 - # Problème
+  collapsed:: true
 	- ## Android
 		- instalation new app
 		  protection avancé:
