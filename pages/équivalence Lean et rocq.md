@@ -3,3 +3,4 @@
 - [[constructeur rocq]]
 - [[preuve dirigée par les buts]]
 - [[principes_nommage_mathcomp]]
+- [[fonction]]

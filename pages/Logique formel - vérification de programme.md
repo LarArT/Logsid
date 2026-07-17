@@ -1,6 +1,15 @@
 - [L'ensemble des cours lmfi](https://younesse.net/Preuves-programmes/)
+- [[Uu]]
 - [[coq]]
--
+- [[automate theorem proving]]
+- # code dans la loi
+	- [[presentation]]
+	- [[analyse technique]]
+	- [[Système logique utilisé]]
+	- [[ressources pour l'apprentissage de l'utilisation de catala]]
+	- [[enseignement universitaire ressource]]
+	- [[projet ERC]]
+	- [[projet de recherche ANR et ERC]]
 - # logique /catégorie
   title:: Logique formel - vérification de programme
 - théorie des topos
