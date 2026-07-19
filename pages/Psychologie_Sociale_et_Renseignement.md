@@ -124,7 +124,7 @@
 - [[ID 231]]
 - [[Structure renseignement]]
 	- [[affaire politique]]
-	- [[logistique]]
+	- [[logique]]
 	- [[recherche]]
 	- [[investigation]]
 	- [[affaire extérieurs]]

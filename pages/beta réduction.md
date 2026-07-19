@@ -7,7 +7,7 @@
 -
 - # exemple
 - Source:: https://lsv.ens-paris-saclay.fr/~goubault/Lambda/lambda-agreg-1-short-step-by-step_compressed.pdf
-- [[autre exemple de bêta réduction: ]]
+- [[exemple de bêta réduction]]
 - # Un exemple de réductions
   
   Au départ, le terme initial comporte **2 rédexes** :

@@ -33,7 +33,6 @@
 - [[skolemisation]]
 - [[sequent]]
 - [[interprétation]]
--
 - [[théorie des modèles]]
 - [[théorème de complétude]]ˆ
 - [[Formule prenexe]]

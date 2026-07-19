@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Mypkm"]
+ :favorites ["Logique formel - vérification de programme" "Mypkm"]
 
  ;; Set flashcards interval.
  ;; Expected value:

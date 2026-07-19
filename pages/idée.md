@@ -1,9 +1,11 @@
 - [[lectures]]
+- [[logique]]
 - [[capteur EDA]]
 - [[méthode d'évaluation]]
 - [[ONU]]
 - [[Info]]
 - [[science ouverte]]
+- [[financement recherche fondamentale]]
 - [[magazine]]
 - [IA for Scientific Discovery](https://github.com/mlelarge/ens-ml4sd)
 - # financement de projet d'intérêt général
