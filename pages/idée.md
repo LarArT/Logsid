@@ -8,6 +8,12 @@
 - [[financement recherche fondamentale]]
 - [[magazine]]
 - [IA for Scientific Discovery](https://github.com/mlelarge/ens-ml4sd)
+- [[Typst]]
+- [[Dispositif rTMS approuvé par la FDA]]
+- [[Programmation probabiliste]]
+- [[Diagramme de base]]
+- [[guide de rédaction rapport]]
+- [[preregistration]]
 - # financement de projet d'intérêt général
 	- [[fonds européens]]
 	- [ANR](https://direction-recherche.parisnanterre.fr/service-de-la-valorisation-et-appui-a-la-recherche/boite-a-outils-aapg-anr)
@@ -302,7 +308,6 @@
 		- [[psychologie de la loyauté]]
 	- [classification des incidents](https://giis-fr.insecurityinsight.org/tools-and-resources/classification-of-incidents)
 - ### gestion de crise 
-  collapsed:: true
    Manuel de gestion de crise: Crisis Management of Critical Incidents EISF Briefing Paper
 	- [[DPO]]
 	- [[rgpd en bref]]
@@ -335,7 +340,6 @@
 	- [Habilitation des personnes morales et physiques](https://armement.defense.gouv.fr/securite-et-habilitation/habilitation-des-personnes-morales-et-physiques)
 	- [plan de continuité des activités](https://www.economie.gouv.fr/files/hfds-guide-pca-plan-continuite-activite-_sgdsn.pdf)
 - # gestion de projet
-  collapsed:: true
   [[Méthodologie proposition de financement]]
 	- [[Pratique de management de projet: 50 outils]]
 	- Mooc : https://www.pm-coaching.org/view/courses/pmp/1630790-le-project-performance-domain/5416389-performance-domain-pmbok-7-0
@@ -343,6 +347,7 @@
 	- https://www.coursera.org/learn/project-planning-fr
 	- [[les 8 domaines de performance]]
 	- [[gestion de projet disaster ready]]
+	- [[Pratique de management de projet: 50 outils]]
 	- [[Brainstorming]]
 	- [[évaluation]]
 	- [[analyse du périmètre]]
@@ -429,12 +434,13 @@
 		- [[mathématiques]]
 		- [[combinatoire topologique (Topological Combinatorics]] la révolution actuelle des mathématiques
 		- [[Logique formel - vérification de programme]]
+		- [[méthodes formelles]]
 		- [[cryptogaphie]]
 		- [[Classification msc 2020]]
 		- [[ouvrage mathématiques de référence]]
 		- [[statistiques]]
 		- [[preuve formelle]]
-			-
+		- [[topologie]]
 	- ## électricité
 	  collapsed:: true
 		- [[électricité]]
@@ -526,9 +532,8 @@
 		- [[corrélation entre modèle [[HPI]] hogan et [[OCEAN]]]]
 		-
 - # bibliothèque
-  collapsed:: true
+	- [[Dublin core]]
 	- ## Dewey
-	  collapsed:: true
 		- [[table 6]]
 		- [[table 5]]
 		- [[table 4]]

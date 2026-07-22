@@ -1,4 +1,5 @@
 - [L'ensemble des cours lmfi](https://younesse.net/Preuves-programmes/)
+- [[Logique pas à pas livre]]
 - [[Uu]]
 - [[coq]]
 - [[automate theorem proving]]
@@ -29,7 +30,8 @@
 - [[logique d'ordre supérieur]]
 - [[Théorie Homotopique des Types]]
 - [[calcul des séquents]]
-- [[règles de logique]]
+- [[élimination de coupure]]
+- [[règles de logique en déduction naturelle]]
 - [[skolemisation]]
 - [[sequent]]
 - [[interprétation]]
@@ -42,7 +44,7 @@
 	-
 - [[arithmétique de HEYTING]]
 - [[arithmétique de pressburger]]
--
+- [[unification]]
 - [[λ calcul]]
 	- Typé : théorie des types dépendants
 - [[Logique combinatoire : réécriture de curry]]

@@ -3,7 +3,7 @@
   Toutes les formules de logique mathématique, règles d'inférence et systèmes de séquents sont désormais encapsulés sous forme d'équations hors-texte rigoureuses au format LaTeX, isolées du texte brut. L'arborescence des concepts a également été aplatie pour garantir une lecture séquentielle et une compatibilité maximale avec les parseurs de documents structurés.
 - [[implémentation des règles de logique en rocq et Lean]]
 - ## 1. La Déduction Naturelle (Fondation)
-  La déduction naturelle formalise le raisonnement mathématique en manipulant des jugements de la forme \Gamma \vdash A, signifiant que sous les hypothèses du contexte \Gamma, on démontre la proposition A. Elle repose sur un équilibre entre des règles d'introduction et des règles d'élimination.
+  La déduction naturelle formalise le raisonnement mathématique en manipulant des jugements de la forme $\Gamma \vdash A$, signifiant que sous les hypothèses du contexte \Gamma, on démontre la proposition A. Elle repose sur un équilibre entre des règles d'introduction et des règles d'élimination.
 - ### Implication
   L'introduction de l'implication ajoute l'hypothèse à gauche du séquent, tandis que son élimination correspond au *Modus Ponens*.
   $$ \frac{\Gamma, A \vdash B}{\Gamma \vdash A \to B} (\to I) $$

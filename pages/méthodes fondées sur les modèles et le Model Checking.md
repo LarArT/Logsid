@@ -1,0 +1,7 @@
+- Plutôt que d'écrire des preuves logiques textuelles, ces méthodes modélisent le système sous forme d'automate à états finis et spécifient les propriétés attendues à l'aide de **logiques temporelles**.
+- ​**Langages de spécification temporelle :**
+	- ​**LTL** (*Linear Temporal Logic*) et **CTL** (*Computation Tree Logic*) : Permettent de formuler des propriétés de **sûreté** (*safety* : « quelque chose de mauvais n'arrive jamais ») et de **vivacité** (*liveness* : « quelque chose de bon finit par arriver »).
+- ​**Outillage :**
+	- ​**TLA+ (Temporal Logic of Actions) :** Développé par Leslie Lamport, très utilisé dans l'industrie (notamment chez Amazon Web Services) pour spécifier et vérifier les algorithmes distribués et concurrents.
+	- ​**SPIN (Promela) / UPPAAL :** Pour la vérification formelle d'automates communicants ou temporellement contraints.
+	- ​Le *Model Checker* explore exhaustivement l'espace des états pour vérifier la propriété ou fournir un contre-exemple en cas de violation.

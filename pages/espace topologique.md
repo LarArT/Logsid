@@ -1,5 +1,5 @@
 -
-- [[espace topologique version mermaid ]]
+- [[espace topologique version mermaid]]
 - Voici la version française du diagramme en art ASCII. Les termes topologiques ont été traduits avec précision selon la terminologie mathématique standard.
   ```text Hausdorff
                    ▲

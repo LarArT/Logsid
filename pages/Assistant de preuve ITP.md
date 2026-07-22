@@ -1,0 +1,8 @@
+- Dans cette approche, la spécification et le système sont décrits dans le langage d'un assistant de preuve (*Interactive Theorem Prover*, ITP). On utilise la correspondance de Curry-Howard (une preuve est un programme, une proposition est un type).
+- ​**Langages & Assistants :**
+	- ​**Rocq (anciennement Coq) :** Repose sur le Calcul des Constructions Inductives (CIC). Permet de spécifier, prouver des théorèmes et d'extraire directement du code exécutable certifié (ex. le compilateur C vérifié *CompCert*).
+	- ​**Lean (Lean 4) :** Assistant de preuve fondé sur la théorie des types dépendants, très utilisé en mathématiques formelles et en vérification de programmes.
+	- ​**Isabelle/HOL :** Assistant de preuve basé sur la logique d'ordre supérieur (*Higher-Order Logic*).
+- ​**Avantage :** Expressivité quasi illimitée ; permet d'exprimer des propriétés fonctionnelles extrêmement complexes.
+- ​**Inconvénient :** La preuve est largement manuelle (assistée par des tactiques) et nécessite une grande expertise mathématique.
+-

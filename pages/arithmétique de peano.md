@@ -1,4 +1,5 @@
 Source:: [DNR14] R. DAVID, K. NOUR, C. RAFFALLI, Introduction à la logique - 3e édition : Théorie de la démonstration, Dunod, Paris, 2014.
+Tags:: arithmétique élémentaire,
 
 - # P0: l'arithmétique élémentaire
 	- **Définition 3.4.1**

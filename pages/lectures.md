@@ -1,3 +1,15 @@
 - [[Mooc. Resilience]]
+- [[lectures/mooc web sementique]]
+- [[lectures/mooc 5g cœur de réseau]]
+- [[lectures/mooc statistique avec r]]
+- [[lectures/mooc statistiques pour l'ingénieur]]
+- [[lectures/mooc piloter votre supply chain]]
+- [[Lectures/mooc fun science et entrepreneuriat]]
+- [[lectures/mooc analyse de donner multidimensionnelle]]
+- [[Lectures/mooc protection du secret et de la défense]]
+- [[lectures/mooc **Systèmes d'Information Géographique**]]
 -
--
+- [[lectures/mooc découvrez les processus au cœur de la logistique]]
+- [[Lectures/mooc gestion de la sécurité pour les ONG par INSO]]
+- [[Lectures/mooc gestion de projet développement Pm4R agile]]
+- [[Lectures/mooc Safety, Security and Service at Sport Events]]

@@ -1,1 +1,6 @@
 - [[théorème de changement de variable en probabilité]]
+- [[Thème 0 : Statistique descriptive]]
+- [[Thème 1 : Notions de probabilités]]
+- [[Thème 2 : Échantillonnage, estimation et intervalles de confiance]]
+- [[Thème 3 : Tests d'hypothèses & Analyse de la variance]]
+- [[Thème 4 - la régression linéaire]]
