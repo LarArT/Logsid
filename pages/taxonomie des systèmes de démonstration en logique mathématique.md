@@ -1,0 +1,390 @@
+# Taxonomie des systèmes de démonstration en logique mathématique
+	- Voici la conversion complète du document en format Markdown structuré, **strictement compatible avec un *outliner* comme Logseq** (blocs imbriqués sous forme de listes, mots-clés sous forme de propriétés `property:: value` et liens de concepts sous forme de `[[wikilinks]]`).
+	- Systèmes de Démonstration en Logique Mathématique
+		- 1. Systèmes Déductifs Fondamentaux et Classiques
+			- [[La Déduction Naturelle]]
+				- type:: [[Système Déductif]]
+				- pionniers:: Gerhard Gentzen, Jan Łukasiewicz
+				- periode:: 1930s
+				- description:: Vise à formaliser le raisonnement mathématique intuitif. Fonctionne par l'application de règles d'introduction et d'élimination pour chaque connecteur logique (ex: introduction de la conjonction A \land B, élimination de l'implication A \rightarrow B).
+			- [[Le Calcul des Séquents]]
+				- type:: [[Système Déductif]]
+				- pionniers:: Gerhard Gentzen
+				- periode:: 1934
+				- description:: Remplace les formules simples par des séquents de la forme \Gamma \vdash \Delta (sous les hypothèses \Gamma, au moins une des conclusions de \Delta est vraie). Outil central en théorie de la démonstration grâce au théorème d'élimination de la coupure (*Hauptsatz*).
+			- [[Les Systèmes à la Hilbert]]
+				- type:: [[Système Axiomatique]]
+				- pionniers:: David Hilbert
+				- description:: Reposent sur un grand nombre d'axiomes et très peu de règles d'inférence (principalement le *Modus Ponens*). Pratiques pour la métathéorie mais peu adaptés à la construction de preuves à la main.
+			- [[La Méthode des Tableaux]]
+				- alias:: Tableaux de Beth, Tableaux de Smullyan
+				- pionniers:: Evert Willem Beth, Raymond Smullyan
+				- description:: Méthode de preuve par réfutation sous forme d'arbre inversé. Pour prouver A, on suppose \neg A et on décompose la formule jusqu'à ce que toutes les branches se ferment (contradiction).
+			- [[La Résolution]]
+				- pionniers:: Alan Robinson
+				- periode:: 1965
+				- description:: Règle d'inférence unique basée sur la réfutation et opérant sur des formules sous forme normale conjonctive (FNC). Repose sur l'unification en logique du premier ordre et sert de moteur aux démonstrateurs automatiques et au langage [[Prolog]].
+			- [[Le Calcul de Résolution du Premier Ordre Ordre-Sélectif avec Sélection]]
+				- alias:: Ordered Resolution with Selection
+				- description:: Extension de la résolution classique utilisée dans des démonstrateurs comme E ou SPASS. Restreint la résolution aux littéraux maximaux selon un ordre ou une fonction de sélection pour réduire l'espace de recherche tout en conservant la complétude pour la réfutation.
+			- [[Le Calcul de Résolution Ordonnée Multi-Sorte]]
+				- description:: Extension de la résolution où termes et variables sont explicitement typés par des sortes. L'unification vérifie la compatibilité des sortes lors de la substitution, évitant les axiomes de tri sous forme de prédicats unaires.
+			- [[Les Systèmes de Frege et Calculs Propositionnels Denses]]
+				- description:: Systèmes axiomatiques standard pour la logique propositionnelle en complexité des preuves. Leurs extensions (*Extended Frege*) permettent d'analyser la taille minimale des démonstrations.
+			- [[Le Calcul d'Erbst-Buss]]
+				- alias:: Calcul des Séquents Positifs
+				- description:: Variante du calcul des séquents restreignant les règles pour étudier la complexité algorithmique de la preuve et la taille minimale des démonstrations (systèmes de Frege restreint).
+			- [[Le Calcul des Séquents Contextuel pour le Fragment Implicationnel Intuitionniste]]
+				- description:: Restreint aux formules ne contenant que l'implication (\rightarrow) et la conjonction (\land). Offre une correspondance directe avec le \lambda-calcul simplement typé via l'isomorphisme de Curry-Howard.
+		- 2. Théorie des Types, Constructivisme & Assistants de Preuve
+			- [[Le Calcul des Constructions]]
+				- alias:: CoC
+				- pionniers:: Thierry Coquand, Gérard Huet
+				- description:: Système de théorie des types dépendants fondé sur l'isomorphisme de Curry-Howard (propositions \equiv types, preuves \equiv programmes). Fondement théorique d'assistants de preuve comme [[Rocq]] (Coq).
+			- [[Les Systèmes de Types Dépendants]]
+				- pionniers:: Per Martin-Löf
+				- description:: Logique intuitionniste associant le constructivisme mathématique et la théorie des types. Fondement de démonstrateurs interactifs comme [[Lean]] ou [[Agda]], où vérifier une preuve revient à vérifier le type d'un terme.
+			- [[La Théorie Homotopique des Types]]
+				- alias:: HoTT / Univalent Foundations
+				- pionniers:: Vladimir Voevodsky, Steve Awodey
+				- description:: Prolonge la théorie des types dépendants en interprétant les types comme des espaces topologiques et les égalités comme des chemins. Introduit l'axiome d'univalence.
+			- [[La Théorie Homotopique des Types Orientée]]
+				- alias:: Directed Homotopy Type Theory
+				- description:: Extension de HoTT conçue pour modéliser des structures non réversibles (causalité, réécriture, processus dirigés). L'égalité de types y devient un morphisme orienté.
+			- [[Le Calcul des Séquents du Second Ordre pour le Système F]]
+				- pionniers:: Jean-Yves Girard
+				- description:: Formalise la logique intuitionniste du second ordre via le \lambda-calcul polymorphe. L'élimination de la coupure correspond à la normalisation forte démontrée via les candidats de réductibilité.
+			- [[Les Systèmes de Déduction Naturelle en Dépôt]]
+				- alias:: Explicit Substitution & Explicit Contexts / \lambda\sigma
+				- description:: Formalismes traitant les substitutions d'expressions comme des règles de déduction explicites intégrées au système logique plutôt que comme des opérations externes.
+			- [[Les Systèmes de Preuve pour la Logique Intuitionniste d'Arithmétique de Heyting]]
+				- alias:: HA
+				- description:: Formulation intuitionniste de l'arithmétique de Peano (PA). Vérifie la propriété d'existence explicite, permettant d'extraire des programmes exécutables à partir de preuves via la réalisation de Kleene.
+			- [[Les Systèmes de Séquents pour la Logique Linéaire Intuitionniste Dialectica]]
+				- pionniers:: Kurt Gödel
+				- periode:: 1958
+				- description:: Traduit des preuves d'arithmétique intuitionniste ou de logique classique en termes de fonctionnelles de type supérieur pour l'extraction de programmes.
+			- [[Le Calcul Kripke-Joyal]]
+				- alias:: Kripke-Joyal Semantics for Topos Logic
+				- description:: Interprète la logique intuitionniste d'ordre supérieur au sein d'un topos de Grothendieck, traduisant le raisonnement en constructions de catégories faisceautiques.
+			- [[Les Systèmes de Preuve en Logique Supérieure Intentionnelle]]
+				- pionniers:: Alonzo Church, Richard Montague
+				- description:: Étendent le \lambda-calcul simplement typé pour traiter l'intentionnalité et les croyances, différenciant l'extension d'un concept de son intension.
+		- 3. Logiques Sous-structurelles & Gestion des Ressources
+			- [[Les Graphes de Preuve]]
+				- alias:: Proof Nets
+				- pionniers:: Jean-Yves Girard
+				- description:: Représentation géométrique des démonstrations en logique linéaire. Élimine la syntaxe superflue (commutations de règles) du calcul des séquents.
+			- [[Les Systèmes de Preuve en Logique des Ressources]]
+				- alias:: Linear Logic Proof Nets with Boxes
+				- description:: Introduisent des boîtes (*boxes*) pour traiter les exponentielles (! et ?) de la logique linéaire, formalisant la réplication contrôlée de ressources.
+			- [[Le Calcul de la Déduction Naturelle pour la Logique Séparative]]
+				- alias:: Separation Logic
+				- pionniers:: John C. Reynolds, Peter O'Hearn
+				- description:: Étend la logique de Hoare avec des connecteurs spatiaux (implication A \mathbin{-*} B et conjonction A * B séparatives) pour prouver la correction de programmes manipulant des pointeurs.
+			- [[Le Calcul de Séquents pour Logiques Sous-Structurelles Abstraites]]
+				- alias:: Bunched Implication Logic / BI
+				- pionniers:: David Pym, Peter O'Hearn
+				- description:: Sous-tend la logique séparative en manipulant des structures d'hypothèses en faisceaux (*bunches*), combinant groupements additifs et multiplicatifs.
+			- [[Le Calcul des Séquents Symétriques pour Logiques Non-Commutatives]]
+				- alias:: Lambek-Grishin Calculus
+				- pionniers:: Bakhtiyar Grishin
+				- description:: Extension du calcul de Lambek ajoutant des connecteurs duals pour offrir une symétrie complète entre les deux côtés des séquents en linguistique formelle.
+			- [[Les Systèmes de Preuve pour la Logique Linéaire Non-Commutative]]
+				- alias:: Lambek-Melliès Calculus
+				- pionniers:: Paul-André Melliès
+				- description:: Combinaison du calcul de Lambek et de la logique linéaire pour modéliser le comportement temporel de processus concurrents et la syntaxe linguistique.
+			- [[La Déduction Naturelle pour Logiques Sous-Structurelles Affines et Strictes]]
+				- description:: Logiques modifiant les règles structurelles : la logique affine rejette la contraction (une hypothèse sert au plus une fois), la logique stricte rejette l'affaiblissement (toute hypothèse doit servir).
+			- [[Le Calcul de Séquents pour la Logique de Hoare Séparative Équationnelle]]
+				- alias:: Dynamic Separation Logic
+				- description:: Extension pour la vérification de programmes concurrents, intégrant invariants de ressources locales et régions mémoire partagées.
+			- [[La Déduction Naturelle Graphique]]
+				- description:: Proof-nets pour logiques non-commutatives (calcul de Lambek), représentant les preuves sous forme de graphes planaires vérifiables par critères topologiques.
+			- [[Le Calcul de Séquents pour Logique Intuitionniste sans Contraction]]
+				- alias:: LJ^-
+				- description:: Variante de LJ éliminant la règle de contraction, assurant la décidabilité pour certains fragments et de bonnes bornes sur la taille des preuves.
+		- 4. Démonstration Automatique, SAT/SMT & Calcul Algébrique
+			- [[Le Calcul de Résolution sans Coupure / Sémantique des Déductions]]
+				- alias:: Solveurs SAT / SMT
+				- description:: Basés sur des algorithmes comme DPLL et CDCL (Conflict-Driven Clause Learning) pour la recherche systématique de modèles ou la détection de contradictions.
+			- [[Les Algèbres de Boole et Diagrammes de Décision Binaire]]
+				- alias:: BDD / ROBDD
+				- description:: Permettent de représenter canoniquement les fonctions booléennes sous forme de graphes orientés acycliques pour vérifier la validité en logique propositionnelle.
+			- [[La Logique Équationnelle]]
+				- alias:: Réécriture de Termes
+				- description:: Repose sur la substitution de termes égaux et l'algorithme de complétion de Knuth-Bendix pour démontrer automatiquement des théorèmes algébriques.
+			- [[Le Calcul de Réécriture Abstraite et Superdéduction]]
+				- description:: Enrichit la déduction naturelle en remplaçant la décomposition d'équivalences logiques par une seule règle d'inférence synthétique.
+			- [[Le Calcul d'Inférence par Déduction Modulo Réécriture]]
+				- alias:: Deduction Modulo Theory
+				- pionniers:: Gilles Dowek, Thérèse Hardin, Claude Kirchner
+				- description:: Sépare le raisonnement pur du calcul symbolique en convertissant les axiomes en règles de réécriture pour raccourcir les preuves.
+			- [[Les Systèmes de Réfutation par Résolution SAT Modulo Théories]]
+				- alias:: SMT / Nelson-Oppen / Shostak
+				- description:: Associent un moteur SAT à des décideurs dédiés à des théories spécifiques (arithmétique, tableaux) combinés via l'algorithme de Nelson-Oppen.
+			- [[La Méthode Nullstellensatz et Calculs Algébriques de Preuve]]
+				- alias:: Polynomial Calculus / Bases de Gröbner
+				- description:: Traduit les formules propositionnelles en équations polynomiales ; prouver l'insatisfiabilité revient à dériver 1=0 dans un idéal polynomial.
+			- [[La Méthode des Connexions]]
+				- alias:: Matrices de Preuve
+				- pionniers:: Wolfgang Bibel
+				- description:: Alternative aux tableaux et à la résolution, recherchant des ensembles de connexions sur une matrice sans conversion en forme normale conjonctive.
+			- [[La Sémantique des Réseaux d'Inférence Algébriques]]
+				- alias:: Sum-of-Squares / Lasserre Hierarchy
+				- description:: Établit l'insatisfiabilité de contraintes polynomiales via des sommes de carrés (1 + \sum P_i^2 = 0) en géométrie algébrique réelle.
+			- [[Le Calcul des Séquents avec Contrainte]]
+				- alias:: Constraint Logic Programming / CLP
+				- description:: Étend la résolution SLD (Prolog) en remplaçant l'unification par un solveur de contraintes dédié (arithmétique réelle, domaines finis).
+		- 5. Logiques Modales, Épistémiques, Temporelles & Spatiales
+			- [[La Déduction Naturelle pour Logiques Modalité/Temps]]
+				- alias:: Systèmes d'Indice / Kripke Labeled Deduction
+				- description:: Enrichit les formules avec des étiquettes de mondes possibles (x \Vdash A) pour formaliser le raisonnement modale (K, S4, S5) ou temporel.
+			- [[Le Calcul des Séquents pour la Logique Épistémique et Dynamic Epistemic Logic]]
+				- alias:: DEL
+				- description:: Étend la logique modale avec des opérateurs d'annonce publique ([!P]) ou de révision de croyances pour modéliser l'évolution du savoir multi-agents.
+			- [[Le Calcul de Séquents Multi-Contextuels]]
+				- alias:: Display Logic / Display Calculi
+				- pionniers:: Nuel Belnap
+				- description:: Introduit des structures d'agrégation richissimes pour formuler un calcul des séquents analytique universel pour logiques modales et sous-structurelles.
+			- [[Le Calcul de Résolution Temporelle]]
+				- alias:: Clausal Temporal Resolution
+				- pionniers:: Michael Fisher
+				- description:: Applique des règles de résolution spécifiques aux clauses temporelles (LTL) avec une règle de résolution de boucle (*loop resolution*).
+			- [[Le Calcul de Séquents pour la Logique Modal-Mu]]
+				- alias:: Propositional \mu-Calculus
+				- description:: Étend la logique modale avec des points fixes (\mu et \nu), utilisant des règles d'induction/co-induction cycliques pour prouver des propriétés temporelles.
+			- [[Les Systèmes de Preuve pour la Logique Modale Normale Poly-Modale]]
+				- alias:: K_n, S4_n, S5_n
+				- description:: Manipulent plusieurs familles d'opérateurs modaux en parallèle (temps, connaissance, obligation) et leurs principes de transfert.
+			- [[Le Calcul des Séquents pour la Logique Temporelle d'Intervalle]]
+				- alias:: Halpern-Shoham / ITL
+				- description:: Évalue les propositions sur des intervalles de temps [t_1, t_2] via les relations d'Allen (commence, durant, chevauche).
+			- [[Le Calcul d'Analyse des Séquents pour Logiques Modal-Spatial]]
+				- alias:: S4_u / Spatial Logics
+				- description:: Associe logique modale et topologie pour modéliser des notions d'intérieur, de fermeture, de connexité et de proximité spatiale.
+			- [[Les Systèmes de Tableaux pour Logiques Modales Temporelles Arborescentes]]
+				- alias:: CTL / CTL*
+				- description:: Utilisés en *Model Checking* pour décomposer les opérateurs d'arbre de temps (EG, AF, AX) et détecter les cycles.
+			- [[Le Calcul de Séquents pour la Logique des Annonces Publiques]]
+				- alias:: PAL
+				- description:: Modélise le changement de connaissance induit par des annonces publiques [!\phi]\psi via des règles de réécriture éliminant les modalités dynamiques.
+		- 6. Logiques Non-Classiques, Multi-valuées & Paraconsistantes
+			- [[Le Calcul des Séquents Hyper-séquents]]
+				- pionniers:: Arnon Avron
+				- description:: Manipule des séquences de séquents (G_1 \mid G_2 \mid \dots \mid G_n) pour fournir des systèmes analytiques aux logiques floues et sous-structurelles.
+			- [[Les Systèmes de Déduction pour Logiques Paraconsistantes]]
+				- alias:: Systèmes C_n de da Costa
+				- pionniers:: Newton da Costa
+				- description:: Permettent de raisonner en présence de contradictions locales sans effondrement du système (affaiblissement de l'*ex falso quodlibet*).
+			- [[Les Systèmes de Tableaux Marqués pour Logiques Multi-Valeurs]]
+				- description:: Associent un ensemble de valeurs de vérité possibles aux formules (Łukasiewicz, Gödel, Belnap) jusqu'à fermer les branches inconsistantes.
+			- [[Les Systèmes de Preuve pour Logiques Floues et Continu-Valuées]]
+				- pionniers:: Petr Hájek
+				- description:: Manipulent des règles sur des degrés de vérité continus dans [0, 1] en s'appuyant sur des t-normes algébriques.
+			- [[Le Calcul des Séquents pour la Logique Paraconsistante Multivaluée de Belnap-Dunn]]
+				- alias:: FDE / First-Degree Entailment
+				- description:: Sémantique à 4 valeurs (Vrai, Faux, Aucun, Les deux) rejetant le tiers exclu et le principe d'explosion.
+			- [[Les Systèmes de Tableaux pour la Logique de Nelson]]
+				- alias:: N3 / N4
+				- pionniers:: David Nelson
+				- description:: Formalisent une négation forte (constructive) en gérant séparément la vérifiabilité et la réfutabilité des propositions.
+			- [[Le Calcul des Séquents pour la Logique Quantique de Birkhoff-von Neumann]]
+				- description:: Reflète l'algèbre des sous-espaces d'un espace de Hilbert en supprimant la distributivité \land / \lor pour modéliser les mesures quantiques.
+			- [[Les Systèmes de Preuve pour la Logique d'Indépendance]]
+				- alias:: Dependence & Independence Logic
+				- pionniers:: Jouko Väänänen
+				- description:: Introduit des atomes de dépendance fonctionnelle =(x_1, \dots, x_n, y) évalués sur des ensembles d'assignations (*team semantics*).
+			- [[La Logique de Guarded Quantifiers]]
+				- alias:: Guarded Fragment Logic
+				- pionniers:: Hajnal Andréka, Johan van Benthem, István Németi
+				- description:: Restreint la quantification aux variables « gardées » par un atome d'accessibilité pour préserver la décidabilité du premier ordre.
+			- [[Le Calcul d'Hyper-Séquents pour la Logique Floue de Łukasiewicz]]
+				- alias:: L_\infty
+				- description:: Formalisme analytique d'hyper-séquents assurant l'élimination de la coupure pour la logique floue continue sur [0, 1].
+		- 7. Raisonnement Plausible, Non-Monotone & Incertain
+			- [[Le Calcul d'Analyse des Séquents pour Logiques Non-Monotones]]
+				- alias:: Circumscription / Default Logic
+				- pionniers:: John McCarthy
+				- description:: Révisent leurs conclusions face à de nouvelles hypothèses via la minimisation de prédicats par défaut.
+			- [[Les Systèmes de Preuve pour Logiques Doxastiques et Dynamique des Croyances]]
+				- alias:: Modèle AGM
+				- pionniers:: Carlos Alchourrón, Peter Gärdenfors, David Makinson
+				- description:: Régissent la révision des croyances via des opérations d'expansion, de révision et de retrait satisfaisant des postulats de rationalité.
+			- [[Les Systèmes de Preuve pour la Logique Probabiliste de Nilsson]]
+				- pionniers:: Nils Nilsson
+				- description:: Assignent des intervalles de probabilité aux formules et vérifient leur cohérence en résolvant un système d'inéquations linéaires.
+			- [[Les Systèmes de Preuve pour Logiques de Contrafactuels]]
+				- alias:: Logique de Stalnaker-Lewis
+				- description:: Évaluent les conditionnels irréels (« Si A était vrai, alors B ») via une sémantique de sphères d'accessibilité concentriques.
+			- [[Les Systèmes de Preuve pour la Logique Doxastique Dynamic-Probabiliste]]
+				- description:: Associent le modèle AGM et les réseaux bayésiens via la conditionnalisation de Jeffrey pour ajuster la distribution de probabilité.
+			- [[Le Calcul des Séquents pour Logiques Non-Monotones à Defeasible Reasoning]]
+				- pionniers:: Donald Nute
+				- description:: Distinguent règles strictement valides, règles plausibles (*defeasible*) et réfutations (*defeaters*).
+			- [[Les Systèmes de Preuve pour la Logique d'Incohérence Graduée]]
+				- alias:: Logique Possibiliste
+				- pionniers:: Didier Dubois, Henri Prade
+				- description:: Associent un degré de possibilité/certitude dans [0, 1] à chaque formule pour calculer le niveau de certitude minimal de la conclusion.
+			- [[Les Systèmes de Preuve pour la Logique de l'Evidence]]
+				- pionniers:: Johan van Benthem, Eric Pacuit
+				- description:: Modélisent la façon dont un agent combine des pièces de preuve (*evidence*) potentiellement contradictoires.
+			- [[Les Systèmes de Preuve pour la Logique de Qualification et de Révision]]
+				- alias:: System Z / Pearl's Default Logic
+				- pionniers:: Judea Pearl
+				- description:: Hiérarchisent les règles par défaut selon un rang d'incohérence minimale pour gérer rationnellement les exceptions.
+			- [[Les Systèmes de Preuve par Synthèse Inductive et Récurrence Réflexive]]
+				- alias:: Nqthm / ACL2
+				- description:: Combinent simplification symbolique, évaluation abstraite et induction automatique guidée par la structure des données.
+		- 8. Structuralisme Avancé, Géométrie & Théorie des Catégories
+			- [[La Sémantique des Structures de Calcul de Structures]]
+				- alias:: Deep Inference
+				- pionniers:: Alessio Guglielmi
+				- description:: Permet d'appliquer des règles d'inférence en profondeur à l'intérieur des formules (et pas seulement à la racine), offrant une symétrie totale prémisses/conclusions.
+			- [[La Déduction Naturelle Graphique d'Égalité]]
+				- alias:: String Diagrams
+				- description:: Représentent les preuves dans les catégories monoïdales comme des graphes topologiques (objets \equiv fils, règles \equiv boîtes) vérifiables par isotopie.
+			- [[La Sémantique des Jeux de Lorenzen]]
+				- alias:: Dialogical Logic / Game Semantics
+				- pionniers:: Paul Lorenzen, Kuno Lorenz, Andreas Blass, André Joyal
+				- description:: Reformule la démonstration sous forme d'un jeu à deux joueurs (Proposant/Opposant) ; la validité équivaut à l'existence d'une stratégie gagnante.
+			- [[La Calculabilité Équationnelle et Systèmes de Post]]
+				- alias:: Systèmes de Thue / Post
+				- pionniers:: Emil Post
+				- description:: Manipulation et réécriture de chaînes de symboles selon des règles de production (ancêtres des grammations formelles).
+			- [[Les Systèmes de Preuve en Logique Nominale]]
+				- pionniers:: Murdoch Gabbay, Andrew Pitts
+				- description:: Fondés sur la théorie des ensembles de Fraenkel-Mostowski pour manipuler les noms, le liage de variables et la \alpha-conversion via des permutations.
+			- [[Le Calcul de Séquents pour la Logique Équationnelle de Kleene]]
+				- alias:: KAT / Kleene Algebra with Tests
+				- pionniers:: Dexter Kozen
+				- description:: Combine algèbres de Kleene et algèbres de Boole pour prouver formellement l'équivalence de programmes impératifs.
+			- [[Les Systèmes de Preuve d'Analyse Non-Standard]]
+				- alias:: IST / Internal Set Theory
+				- pionniers:: Edward Nelson
+				- description:: Enrichit ZFC d'un prédicat « est standard » et de trois schémas d'axiomes (Idéalisation, Standardisation, Ombre) pour manipuler les infiniment petits.
+			- [[Les Systèmes de Preuve par Unification d'Ordre Supérieur de Huet]]
+				- pionniers:: Gérard Huet
+				- description:: Résolution en logique d'ordre supérieur remplaçant l'unification classique par la résolution sous \alpha\beta\eta-conversion (Isabelle/HOL).
+			- [[Les Systèmes de Tableaux pour les Logiques de Description]]
+				- alias:: \mathcal{ALC}, \mathcal{SROIQ}
+				- description:: Utilisés dans le Web sémantique pour vérifier la satisfiabilité de concepts et l'ontologie via des règles d'expansion explicites.
+			- [[Le Calcul des Séquents pour la Logique de Jeux et Logique de la Stratégie]]
+				- alias:: Game Logic / Strategy Logic
+				- pionniers:: Rohit Parikh
+				- description:: Étend la logique dynamique propositionnelle (PDL) pour raisonner sur les capacités stratégiques de joueurs dans des jeux.
+		- Arbre de Dépendance et Filiative Généalogique
+			- LOGIQUE FONDAMENTALE (Systèmes Axiomatiques / À la Hilbert)
+				- DÉDUCTION NATURELLE (Gentzen, 1930)
+					- Isomorphisme de Curry-Howard & Théorie des Types
+						- Calcul des Constructions (Coquand / Huet)
+							- Assistants Modernes (Rocq / Coq, Lean)
+				- CALCUL DES SÉQUENTS (Gentzen, 1934)
+					- Logique Linéaire (Girard, 1987)
+						- Graphes de Preuve (Proof Nets)
+							- Logique Linéaire Non-Commutative
+						- Logique Séparative (Reynolds / O'Hearn)
+							- Vérification de Mémoire & Pointeurs
+					- Logiques Non-Classiques & Modales
+						- Hyper-Séquents / Display Logic
+						- Tableaux & Sémantique de Kripke
+- ## 1. Systèmes déductifs fondamentaux et classiques
+  
+  Ces formalismes constituent le noyau de la théorie de la démonstration standard (logique propositionnelle et du premier ordre).
+- Déduction naturelle (Gentzen)
+- Calcul des séquents (LK, LJ)
+- Systèmes à la Hilbert
+- Méthode des tableaux (Beth, Smullyan)
+- Résolution classique (Robinson)
+- Résolution ordonnée avec sélection
+- Résolution multi-sorte
+- Systèmes de Frege et Frege étendu
+- Calculs des séquents positifs / Erbst-Buss
+- Calcul des séquents pour le fragment implicationnel
+- ## 2. Théorie des types, constructivisme et assistants de preuve
+  
+  Basés sur l’isomorphisme de Curry-Howard (Propositions ≅ Types, Preuves ≅ Programmes), ils servent de fondement aux assistants interactifs modernes.
+- Calcul des constructions (CoC)
+- Théorie homotopique des types (HoTT)
+- Théorie homotopique des types orientée
+- Système F de Girard (second ordre)
+- Déduction naturelle en dépôt (λσ)
+- Arithmétique de Heyting (HA)
+- Interprétation Dialectica de Gödel
+- Calcul Kripke-Joyal (topos)
+- Logique supérieure intentionnelle (Church/Montague)
+- ## 3. Logiques sub-structurelles et gestion des ressources
+  
+  Ces systèmes contrôlent ou suppriment les règles structurelles (affaiblissement, contraction, échange) pour modéliser l’état, la mémoire ou la syntaxe.
+- Logique linéaire (Girard)
+- Graphes de preuve (Proof Nets)
+- Boîtes de logique linéaire
+- Logique séparative (Reynolds, O’Hearn)
+- Logique des involutions / Bunched Implication (BI)
+- Calcul de Lambek (grammaires de types)
+- Calcul de Lambek-Grishin (symétrique)
+- Calcul de Lambek-Melliès
+- Logiques affines et strictes
+- Logique séparative équationnelle dynamique
+- ## 4. Démonstration automatique, SAT/SMT et calcul algébrique
+  
+  Méthodes optimisées pour l’exécution algorithmique, le calcul symbolique et la vérification matérielle/logicielle.
+- Algorithmes SAT / CDCL / DPLL
+- Solveurs SMT (Nelson-Oppen, Shostak)
+- Diagrammes de décision binaire (ROBDD)
+- Superdéduction et déduction modulo réécriture
+- Méthode des connexions / matrices (Bibel)
+- Complétion de Knuth-Bendix et logique équationnelle
+- Systèmes algébriques Nullstellensatz / Polynomial Calculus
+- Méthode Sum-of-Squares (SOS / Lasserre)
+- Programmation logique avec contraintes (CLP)
+- ## 5. Logiques modales, épistémiques, temporelles et spatiales
+  
+  Formalismes intégrant des opérateurs de nécessité, de temps, de connaissance ou d’espace.
+- Tableaux pour logiques modales (K, S4, S5)
+- Déduction modale étiquetée (Kripke Labeled)
+- Séquents poly-modaux (Kₙ, S5ₙ)
+- Calculs pour logique temporelle linéaire (LTL, PLTL)
+- Tableaux pour temporel arborescent (CTL, CTL*)
+- Résolution temporelle clausale
+- Logique des annonces publiques (PAL)
+- Logique dynamique épistémique (DEL)
+- Logique de l’évidence (van Benthem)
+- Logique temporelle d’intervalle (Halpern-Shoham)
+- Logiques spatiales et topologiques (S4u)
+- Logique d’incapacité et de stratégie / Game Logic
+- ## 6. Logiques non-classiques, multi-valuées et paraconsistantes
+  
+  Systèmes qui modifient les valeurs de vérité ou rejettent le principe d’explosion (Ex falso quodlibet).
+- Tableaux multi-valeurs (Łukasiewicz, Gödel)
+- Hyper-séquents pour logiques floues
+- Logiques de Nelson (N3, N4 avec négation forte)
+- Logique quantique (Birkhoff-von Neumann)
+- Séquents pour probabilités quantiques
+- Logique de dépendance et d’indépendance (Väänänen)
+- Logique du fragment gardé
+- Logique déontique (obligations / permissions)
+- ## 7. Raisonnement plausible, non-monotone et incertain
+  
+  Formalismes conçus pour réviser des conclusions face à de nouvelles informations ou gérer l’incertitude.
+- Circumscription de McCarthy
+- Révision de croyances AGM
+- Defeasible Logic (Nute)
+- Logique possibiliste (Dubois et Prade)
+- Système Z de Pearl
+- Logique probabiliste de Nilsson
+- Révision probabiliste / doxastique
+- Sémantique des modèles bien fondés (Prolog)
+- Logique des contrafactuels (Stalnaker-Lewis)
+- Systèmes inductifs implicites / récurrence par réécriture
+- ## 8. Structuralisme avancé, géométrie et théorie des catégories
+  
+  Approches de haut niveau réorganisant la forme syntaxique ou la géométrie des preuves.
+- Calcul de structures / Deep Inference (Guglielmi)
+- Graphes de cordes / String Diagrams
+- Sémantique des jeux (Lorenzen, Blass, Joyal)
+- Systèmes de Thue et Post (réécriture de mots)
+- Algèbres cylindriques / polyadiques (Tarski)
+- Analyse non-standard (IST de Nelson)
+- Automates d’arbres pour logiques infinies (S1S, S2S)
+- Preuves interactives et zéro-connaissance (PCP, ZKP)

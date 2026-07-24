@@ -3,6 +3,7 @@
 - [[Uu]]
 - [[coq]]
 - [[automate theorem proving]]
+- [[]]
 - # code dans la loi
 	- [[presentation]]
 	- [[analyse technique]]
@@ -11,6 +12,7 @@
 	- [[enseignement universitaire ressource]]
 	- [[projet ERC]]
 	- [[projet de recherche ANR et ERC]]
+	- [[taxonomie des systèmes de démonstration en logique mathématique]]
 - # logique /catégorie
   title:: Logique formel - vérification de programme
 - théorie des topos
