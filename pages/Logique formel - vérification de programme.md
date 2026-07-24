@@ -29,7 +29,7 @@
 	- [[sortes]]
 - [[logique d'ordre supérieur]]
 - [[Théorie Homotopique des Types]]
-- [[calcul des séquents]]
+- [[Dans le cas du calcul des prédicats]]
 - [[élimination de coupure]]
 - [[règles de logique en déduction naturelle]]
 - [[skolemisation]]

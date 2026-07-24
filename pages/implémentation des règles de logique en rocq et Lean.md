@@ -1,12 +1,12 @@
-- En logique formelle, l'état des buts (*goals*) dans un assistant de preuve correspond exactement à un séquent \Gamma \vdash A (ou \Gamma \vdash \Delta en logique classique), où \Gamma est le contexte des hypothèses et A est la conclusion à prouver.
+- En logique formelle, l'état des buts (*goals*) dans un assistant de preuve correspond exactement à un séquent $\Gamma \vdash A$ (ou \Gamma \vdash \Delta en logique classique), où \Gamma est le contexte des hypothèses et A est la conclusion à prouver.
   Voici la correspondance exacte entre les règles de structure et de connecteurs du calcul des séquents (type Gentzen/intuitionniste) et les tactiques à utiliser en **Lean 4** et **Rocq** (Coq).
 - ### 1. Règles de Structure et Identité
   | Règle du calcul des séquents | Signification | Tactique Lean 4 | Tactique Rocq (Coq) | Commentaire |
   |---|---|---|---|---|
-  | **Axiome** : \frac{}{A \vdash A} | La conclusion est dans les hypothèses. | exact h | exact h. / assumption. | -- Initialise ou clôt une branche évidente. |
-  | **Coupure (Cut)** : \frac{\Gamma \vdash A \quad \Gamma, A \vdash B}{\Gamma \vdash B} | Utiliser un lemme intermédiaire A. | have h : A := ... | assert (h : A). | -- Crée un sous-but pour prouver A, puis l'ajoute au contexte pour prouver B. |
-  | **Affaiblissement gauche** : \frac{\Gamma \vdash B}{\Gamma, A \vdash B} | Ajouter une hypothèse inutile. | Automatique | Automatique | -- On peut simplement ignorer l'hypothèse superflue. |
-  | **Contraction gauche** : \frac{\Gamma, A, A \vdash B}{\Gamma, A \vdash B} | Dupliquer une hypothèse. | have h2 := h1 | pose proof h1 as h2. | -- Permet d'utiliser une hypothèse (comme une quantification universelle) plusieurs fois. |
+  | **Axiome** : $\frac{}{A \vdash A}$ | La conclusion est dans les hypothèses. | exact h | exact h. / assumption. | -- Initialise ou clôt une branche évidente. |
+  | **Coupure (Cut)** : $\frac{\Gamma \vdash A \quad \Gamma, A \vdash B}{\Gamma \vdash B}$ | Utiliser un lemme intermédiaire A. | have h : A := ... | assert (h : A). | -- Crée un sous-but pour prouver A, puis l'ajoute au contexte pour prouver B. |
+  | **Affaiblissement gauche** : $\frac{\Gamma \vdash B}{\Gamma, A \vdash B}$ | Ajouter une hypothèse inutile. | Automatique | Automatique | -- On peut simplement ignorer l'hypothèse superflue. |
+  | **Contraction gauche** : $\frac{\Gamma, A, A \vdash B}{\Gamma, A \vdash B}$ | Dupliquer une hypothèse. | have h2 := h1 | pose proof h1 as h2. | -- Permet d'utiliser une hypothèse (comme une quantification universelle) plusieurs fois. |
 - ### 2. Règles des Connecteurs Logiques
 - #### Implication (A \to B)
   * **À Droite (\vdash \to)** : Prouver A \to B revient à supposer A pour prouver B.
@@ -16,7 +16,7 @@
    * **Lean 4 :** apply h_imp ou have hB := h_imp hA -- *Par le modus ponens...*
    * **Rocq :** apply h_imp. ou specialize (h_imp hA). -- *Par application de l'implication.*
 - #### Conjonction / Et (A \land B)
-  * **À Droite (\vdash \land)** : Prouver A \land B (séparer le but en deux branches).
+  * **À Droite ($\vdash \land)$** : Prouver A \land B (séparer le but en deux branches).
    * **Lean 4 :** constructor -- *Prouvons d'une part A, et d'autre part B.*
    * **Rocq :** split. -- *Séparons la conjonction en deux sous-buts.*
   * **À Gauche (\land \vdash)** : Décomposer une hypothèse h : A \land B.
@@ -64,3 +64,5 @@
    
    ```
 -
+- [[implémentation en lean 4 avec un peu plus de détails]]
+- [[un pleinementation en rocq avec un peu plus de détails]]

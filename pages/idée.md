@@ -424,6 +424,7 @@
 		- [suivi de la cortisol]((https://eli.health/products/cortisol))
 	- [[Modèle validé par la neuroscience]]
 	-
+	- [[journaux scientifiques de référence]]
 - ## Nutrition
   collapsed:: true
 	- [Table de composition nutritionnelle AnSES](https://ciqual.anses.fr/?hl=fr-FR)
