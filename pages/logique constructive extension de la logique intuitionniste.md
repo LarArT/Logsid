@@ -1,3 +1,5 @@
+-
+- [[domaine des mathématiques qui ont un traitement similaire de la négation équivalent à ce que l'on trouve en logique intuitionniste]]
 - La logique constructive et la logique intuitionniste sont deux approches de la logique mathématique étroitement liées, souvent confondues, mais qui présentent des nuances historiques et philosophiques distinctes. Toutes deux se caractérisent par le rejet du principe du tiers exclu (A \lor \neg A) et des preuves par l'absurde classiques.
   
   Voici une analyse comparative de ces deux concepts.

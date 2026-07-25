@@ -3,3 +3,11 @@
 - Programme, terme - Preuve
 - Réduction, calcul - Élimination des coupures
 -
+- **Lambda calcul typé - calcul des séquences intuitionniste**
+- #
+-
+- # les séquents classiques
+- Source:: [Ler18] X. Leroy, Il faut qu'une porte soit ouverte ou fermée ! Logique classique, continuations, opérateurs de contrôle, Cours du Collège de France, chaire Sciences du logiciel, cycle « Programmer = démontrer ? La correspondance de Curry-Howard aujourd'hui », 5 décembre 2018. Disponible sur : \url{https://www.college-de-france.fr/fr/agenda/cours/programmer-demontrer-la-correspondance-de-curry-howard-aujourd-hui/il-faut-qu-une-porte-soit-ouverte-ou-fermee-logique-classique-continuations-operateurs-de-controle}.
+- Par Curry-Howard, le lambda-calcul typé correspond au calcul des séquents intuitionnistes.
+- Quel est le langage qui correspond au calcul des séquents classiques ?
+- Plusieurs propositions: \μ de Parigot (1992, 1994); \µŭ de Curien et Herbelin (2000); le calcul dual de Wadler (2003); le L-calcul de Munch-Maccagnoni et al (2009); etc.

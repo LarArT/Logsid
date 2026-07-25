@@ -3,7 +3,7 @@
 - [[Uu]]
 - [[coq]]
 - [[automate theorem proving]]
-- [[]]
+-
 - # code dans la loi
 	- [[presentation]]
 	- [[analyse technique]]
@@ -38,7 +38,8 @@
 - [[sequent]]
 - [[interprétation]]
 - [[théorie des modèles]]
-- [[théorème de complétude]]ˆ
+- [[théorème de complétude]]
+- [[formules]]
 - [[Formule prenexe]]
 - [[arithmétique de peano]]
 - [[théorie ZF]]
@@ -52,6 +53,7 @@
 - [[Logique combinatoire : réécriture de curry]]
 - [[le calcul de la logique de hoare : réécriture de hoare]]
 - [[correspondance de curry howard]]
+- [[double négation]]
 - # preuve interactive de programme
 - [[Preuve interactive de programme]]
 - [[preuve interactive de ia generative]]
@@ -60,5 +62,31 @@
 - # [[laboratoire de recherche]]
 -
 - [[exemple de mise en œuvre pour le droit]]
--
+- # Laboratoires d'accueil
+- **IMJ** (B. Velikovic, A. Durand, ...)
+	- **Thèmes :** Théorie des modèles, théorie des ensembles, complexité
+- **IRIF PPS** (A. Saurin, H. Herbelin, ...)
+	- **Thèmes :** Preuves et programmes, types
+- **IRIF Algo et Complexité** (F. Magniez, M. de Rougemont)
+	- **Thèmes :** Complexité
+- **IRIF** (A. Bouajjani, F. Laroussinie, ...)
+	- **Thèmes :** Vérification
+- **LSV ENS-Paris-Saclay** (P. Bouyer, ...)
+	- **Thèmes :** Vérification
+- **IML Luminy** (L. Régnier, ...)
+	- **Thèmes :** Preuves et programmes, types
+- **VERIMAG Grenoble** (J.F. Monin, ...)
+	- **Thèmes :** Vérification
+- **GREYC Caen** (E. Grandjean, ...)
+	- **Thèmes :** Complexité descriptive
+- **CEA-LIST Saclay** (N. Rapin, S. Bardin)
+	- **Thèmes :** Preuves et vérification
+- **INRIA Projet Deducteam** (G. Dowek)
+	- **Thèmes :** Systèmes de preuves
+- **LIX Palaiseau** (O. Bournez)
+	- **Thèmes :** Théorie des calculs
+- **LIP ENS-Lyon** (P. Koiran)
+	- **Thèmes :** Complexité
+- **ONERA Palaiseau** (R. Kervac)
+	- **Thèmes :** Méthodes formelles, traitement événements complexes
 -
