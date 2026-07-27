@@ -1,6 +1,7 @@
 - Un langage de spécification: Gallina
 - Un langage pour écrire ses preuves : les tactiques
 - Un langage de commande pour donner des ordres à Coq: Vernacular
+- [[coq-elpi]]
 -
 - # des problèmes -> des outils
 	- ​**Axe vertical (Ordonnée) :** Représente le niveau d'**Automatique** (le degré d'automatisation de l'outil, du plus automatique au moins automatique).

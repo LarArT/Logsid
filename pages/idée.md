@@ -436,6 +436,8 @@
 		- [[combinatoire topologique (Topological Combinatorics]] la révolution actuelle des mathématiques
 		- [[Logique formel - vérification de programme]]
 		- [[méthodes formelles]]
+		- [[homotopie vs ZFC]]
+		- [[théorie des ensembles]]
 		- [[cryptogaphie]]
 		- [[Classification msc 2020]]
 		- [[ouvrage mathématiques de référence]]

@@ -18,7 +18,7 @@
   | 4 | Réunion | $\forall x\,\exists z\,\forall t\,(t\in z \leftrightarrow \exists y\in x\, t\in y)$ | axiome unique |
   | 5 | Ensemble des parties | $\forall x\,\exists z\,\forall t\,(t\in z \leftrightarrow t\subseteq x)$ | axiome unique |
   | 6 | Infini | $\exists x\,[\emptyset\in x \land \forall y\in x\,(y\cup\{y\}\in x)]$ | axiome unique |
-  | 7 | **Séparation** (Compréhension restreinte) | $\forall \bar p\,\forall x\,\exists z\,\forall t\,(t\in z \leftrightarrow t\in x \land F(t,\bar p))$ | **schéma**, un axiome par formule $F$ |
+  | 7 | **Séparation** ([[schéma Compréhension restreinte]]) | $\forall \bar p\,\forall x\,\exists z\,\forall t\,(t\in z \leftrightarrow t\in x \land F(t,\bar p))$ | **schéma**, un axiome par formule $F$ |
   | 8 | **Remplacement** | $\forall \bar p\,[\forall x\in a\,\exists! y\, F(x,y,\bar p) \rightarrow \exists z\,\forall x\in a\,\exists y\in z\, F(x,y,\bar p)]$ | **schéma**, un axiome par formule $F$ |
   | (9) | Choix (si ZFC) | $\forall x\,[\emptyset\notin x \rightarrow \exists f: x \to \bigcup x, \ \forall y\in x\,(f(y)\in y)]$ | axiome unique, souvent formulé avec fonction de choix codée relationnellement |
   

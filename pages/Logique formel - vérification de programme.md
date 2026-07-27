@@ -1,4 +1,5 @@
 - [L'ensemble des cours lmfi](https://younesse.net/Preuves-programmes/)
+- [[notion de base]]
 - [[Logique pas à pas livre]]
 - [[Uu]]
 - [[coq]]

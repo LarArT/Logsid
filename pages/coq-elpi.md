@@ -1,0 +1,2 @@
+- https://lpcic.github.io/coq-elpi/tutorial_coq_elpi_command.html
+- https://lpcic.github.io/coq-elpi/tutorial_elpi_lang.html
