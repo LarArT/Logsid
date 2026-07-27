@@ -4,7 +4,8 @@
 - [[Uu]]
 - [[coq]]
 - [[automate theorem proving]]
--
+- [[correspondance entre théorie homotopique, logique, théorie des ensembles, théorie des types]]
+- De la théorie hott vers la [[théorie des types cubique]]
 - # code dans la loi
 	- [[presentation]]
 	- [[analyse technique]]
