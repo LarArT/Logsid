@@ -1,7 +1,7 @@
 -
 - Les **méthodes formelles** désignent un ensemble de techniques rigoureuses fondées sur les **mathématiques** (logique, théorie des ensembles, théories des types, théorie des automates) utilisées pour spécifier, concevoir, analyser et vérifier des systèmes matériels ou logiciels.
-  
-  Voici une cartographie détaillée de tout ce que recouvre ce domaine :
+- [[workflow sûreté de bâtiment ou d'infrastructure cyber]]
+- Voici une cartographie détaillée de tout ce que recouvre ce domaine :
 - ## 1. La Spécification Formelle (Exprimer le « Quoi »)
   
   Avant de pouvoir vérifier un système, il faut décrire son comportement attendu à l'aide d'un langage mathématique non ambigu.

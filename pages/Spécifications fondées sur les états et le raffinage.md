@@ -5,3 +5,5 @@
   Z (Specification Language) et VDM (Vienna Development Method) :
   Principe : Approches fondées sur la modélisation d'états et les pré/post-conditions sur les opérations.
   Usage : Analyse formelle de spécifications complexes et modélisation haut niveau.
+-
+-
