@@ -1,0 +1,1 @@
+- Un **morphisme** (une flèche) vit *à l'intérieur* d'une catégorie donnée : il relie deux objets de cette même catégorie. Ici, $\theta : \{\vec x\mid\varphi\} \to \{\vec y\mid\psi\}$ est une flèche de $\mathcal C_{\mathbb T}$, rien de plus — un point de $\mathrm{Hom}_{\mathcal C_{\mathbb T}}(\{\vec x\mid\varphi\}, \{\vec y\mid\psi\})$.

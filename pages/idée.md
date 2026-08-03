@@ -404,27 +404,28 @@
 			- Withing Marques
 			- Empatica EmbracePlus et E4
 - ## Neurosciences
-  collapsed:: true
 	- Neurostimulation
-	  collapsed:: true
 		- Neuromodulation
-		  collapsed:: true
 			- Diy
-			  collapsed:: true
 				- [openstim](https://github.com/Open-Stim)
 			- [[Brain waves entrainment]]
 			  [[Dispositif  approuvé par la FDA]]
 			-
 		- Sonore et auditive
-		  collapsed:: true
 			- Mit 2016 spin off : Cognito Therapeutics.
 		- Activité cardiaque
-		  collapsed:: true
 			- Photopléthysmographie
 		- [suivi de la cortisol]((https://eli.health/products/cortisol))
 	- [[Modèle validé par la neuroscience]]
-	-
+	- [la vidéo du gorille](https://www.youtube.com/watch?v=E-pLmE3uHGc)
+	- [codex des biais cognitifs par manooghian](https://upload.wikimedia.org/wikipedia/commons/1/16/The_Cognitive_Bias_Codex_%28French%29_-_John_Manoogian_III_%28jm3%29.svg)
 	- [[journaux scientifiques de référence]]
+	- [[suivi de la recherche en science comportementale]]
+	- [blueprint de l'administration Biden sur les sciences comportementales](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/Blueprint-for-the-Use-of-Social-and-Behavioral-Science-to-Advance-Evidence-Based-Policymaking.pdf)
+	- [mise en œuvre de politique comportemental au sein de l'administration française bitp laboratoire de sciences comportementales](https://www.modernisation.gouv.fr/accompagner-les-administrations/laboratoires-dinnovation-publique/sciences-comportementales)
+	- [framework de l'UNICEF pour la mise en place de science comportementale](https://cdn.prod.website-files.com/64c7c92e631165667f19807b/69fb59961c813843eb58f343_BIRDLab-field-guide-FR-book-v2-web.pdf)
+	- [base de données de projet de mise en œuvre de politique de science comportementale](https://www.bhub.org/)
+-
 - ## Nutrition
   collapsed:: true
 	- [Table de composition nutritionnelle AnSES](https://ciqual.anses.fr/?hl=fr-FR)
