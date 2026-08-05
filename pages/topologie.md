@@ -5,5 +5,5 @@
 - [[classification_topologie_pedagogique]]
 - [[theoremes_encadrant_topologie]]
 - [[relations_geometrie_topologie]]
--
+- [[unification géométrie algébrique et topologie algébrique]]
 -

@@ -1,11 +1,16 @@
 - [L'ensemble des cours lmfi](https://younesse.net/Preuves-programmes/)
+- [[HOTT – Homotopy type theory]]
 - [[notion de base]]
 - [[Logique pas à pas livre]]
 - [[Uu]]
 - [[coq]]
 - [[automate theorem proving]]
 - [[correspondance entre théorie homotopique, logique, théorie des ensembles, théorie des types, théorie des catégories]]
-- De la théorie hott vers la [[théorie des types cubique]]
+-
+- [[modeles-homotopiques]]
+- il faut distinguer la géométrie des espaces (où toutes les directions sont inversibles) et la géométrie des catégories (où les flèches ont un sens unique) :
+	- Théorie des Types Homotopiques (HoTT) de Vladimir Voevodsky vers la [[théorie des types cubique]] de Thierry Coquant qui étudie les  $\infty$-groupoïdes qui sont des espaces topologiques  où chaque flèche est un chemin qu'on peut parcourir dans les deux sens)
+	- [[Quasi-catégories simpliciales]] de [[Jacob lurie]] vers Théorie des Types Simpliciaux de Emily Riehl
 - [[logique de réécriture]]
 - [[workflow méthode formelle]]
 - # code dans la loi
@@ -22,6 +27,7 @@
 - théorie des topos
   Homotopie des types 
   Géométrie de l'interaction
+- [[logique géométrique]]
 - [[aide-memoire-lean]]
 - [[théorème des points fixes]]
 - [[matrice des  logique]]

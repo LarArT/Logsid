@@ -4,7 +4,7 @@
 - [[calcul différentiel]]
 - [[probabilité]]
 - [[analyse]]
-- [[Logique formel - vérification de programme]]
+- [[Méthode formel - vérification de programme]]
 - [[fonction à support fini]]
 - [[géométrie]]
 - [[topos]]

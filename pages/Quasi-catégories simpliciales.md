@@ -1,0 +1,4 @@
+- Jacob Lurie est l'auteur des ouvrages de référence (Higher Topos Theory, Higher Algebra) qui ont fondé la théorie moderne des \infty-catégories.
+  Son modèle de prédilection : Les quasi-catégories, qui reposent entièrement sur les ensembles simpliciaux (les simplexes \Delta^n).
+  Son objectif : Étudier des structures orientées où l'on a des flèches non inversibles A \to B.
+  Le lien avec Emily Riehl : Les travaux d'Emily Riehl (avec Michael Shulman) constituent précisément une version synthétique (en théorie des types) du programme de Jacob Lurie ! Emily Riehl a créé la Théorie des Types Simpliciaux pour pouvoir manipuler les \infty-catégories à la Lurie de manière beaucoup plus simple et élégante.

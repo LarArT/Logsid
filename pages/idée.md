@@ -152,7 +152,9 @@
 			- Environnement de travail
 			- Compétence du travailleur
 - # sécurité / sûreté / analyste
-  collapsed:: true
+	- ## certification norme
+		- [[iso 18788]] https://cdn.standards.iteh.ai/samples/63380/e48f665b9c9a4c7f8668702597859f39/ISO-18788-2015.pdf
+		- [[NF X50-777]]
 	- [[formation]]
 	- [contrôle de personnes violente](https://controletp.ccdmd.qc.ca/videos/1-05-defense-contre-lattaque-sournoise-aux-jambes-de-front/)
 	- [[magazine de référence]]
@@ -307,39 +309,38 @@
 		- [[psychologie de l'engagement]]
 		- [[psychologie de la loyauté]]
 	- [classification des incidents](https://giis-fr.insecurityinsight.org/tools-and-resources/classification-of-incidents)
-- ### gestion de crise 
-   Manuel de gestion de crise: Crisis Management of Critical Incidents EISF Briefing Paper
+	- gestion de crise   Manuel de gestion de crise: Crisis Management of Critical Incidents EISF Briefing Paper
+		- # gestion des risques
+			- [plateforme CICR évaluation des risques](https://preparecenter.org/site/evca/toolbox/)
+			- [[registre des actifs]]
+		- https://ready.csod.com/ui/lms-learning-details/app/test/3308f459-d6c3-46a4-9223-f4c50a3ab6ee
+		- [[Planification et affectation des ressources aux activités de gestion des risques de sécurités]]
+		- ## EBIOS
+			- [[méthode EBIOS]]
+		- ## SSI
+			- Vision de la direction -> pssi
+		- ## rssi
+		  [[Plan rssi]]
+		- ## physique
+			- [méthode EBIOS pour le physique](https://club-ebios.org/site/wp-content/uploads/presentations/ClubEBIOS-2010-01-19-MANGIN-MARCHAL-ZAMORA-CONCHON.pdf)
+		- # onu
+		- [[sécurité sûreté ONU]]
+		- # France
+		- [[opérateur public]]
+		- [document de planification oiv](https://armement.defense.gouv.fr/securite-et-habilitation/securite-des-activites-dimportance-vitale-saiv/documents-de-planification)
+			- [[partenaire de la Défense nationale]]
+		- [Protection du Potentiel Scientifique et Technique (PPST)](https://armement.defense.gouv.fr/securite-et-habilitation/ppst)
+		- [Habilitation des personnes morales et physiques](https://armement.defense.gouv.fr/securite-et-habilitation/habilitation-des-personnes-morales-et-physiques)
+		- [plan de continuité des activités](https://www.economie.gouv.fr/files/hfds-guide-pca-plan-continuite-activite-_sgdsn.pdf)
+	- Cnil
+		- [[rgpd en bref]]
+		- [table et cahier de la CNIL](https://www.cnil.fr/fr/tables-informatique-et-libertes-cahiers-decisions-2024) : doctrine et décision rendue
+		- [[DPO]]
+		- [[mooc cnil]]
 	- [[DPO]]
-	- [[rgpd en bref]]
-	- [table et cahier de la CNIL](https://www.cnil.fr/fr/tables-informatique-et-libertes-cahiers-decisions-2024) : doctrine et décision rendue
-	- [[DPO]]
-	- [[mooc cnil]]
 	- [[sanction]]
-	- # gestion des risques
-	- [plateforme CICR évaluation des risques](https://preparecenter.org/site/evca/toolbox/)
-	- [[registre des actifs]]
-	- https://ready.csod.com/ui/lms-learning-details/app/test/3308f459-d6c3-46a4-9223-f4c50a3ab6ee
-	- [[Planification et affectation des ressources aux activités de gestion des risques de sécurités]]
-	- ## EBIOS
-		- [[méthode EBIOS]]
-	- ## SSI
-		- Vision de la direction -> pssi
-	- ## rssi
-	  [[Plan rssi]]
-	- ## physique
-		- [méthode EBIOS pour le physique](https://club-ebios.org/site/wp-content/uploads/presentations/ClubEBIOS-2010-01-19-MANGIN-MARCHAL-ZAMORA-CONCHON.pdf)
-	- ## iso 18788
-		- https://cdn.standards.iteh.ai/samples/63380/e48f665b9c9a4c7f8668702597859f39/ISO-18788-2015.pdf
-	- # onu
-	- [[sécurité sûreté ONU]]
-	- # France
-	- [[opérateur public]]
-	- [document de planification oiv](https://armement.defense.gouv.fr/securite-et-habilitation/securite-des-activites-dimportance-vitale-saiv/documents-de-planification)
-		- [[partenaire de la Défense nationale]]
-	- [Protection du Potentiel Scientifique et Technique (PPST)](https://armement.defense.gouv.fr/securite-et-habilitation/ppst)
-	- [Habilitation des personnes morales et physiques](https://armement.defense.gouv.fr/securite-et-habilitation/habilitation-des-personnes-morales-et-physiques)
-	- [plan de continuité des activités](https://www.economie.gouv.fr/files/hfds-guide-pca-plan-continuite-activite-_sgdsn.pdf)
 - # gestion de projet
+  collapsed:: true
   [[Méthodologie proposition de financement]]
 	- [[Pratique de management de projet: 50 outils]]
 	- Mooc : https://www.pm-coaching.org/view/courses/pmp/1630790-le-project-performance-domain/5416389-performance-domain-pmbok-7-0
@@ -435,7 +436,7 @@
 	- ## mathématiques
 		- [[mathématiques]]
 		- [[combinatoire topologique (Topological Combinatorics]] la révolution actuelle des mathématiques
-		- [[Logique formel - vérification de programme]]
+		- [[Méthode formel - vérification de programme]]
 		- [[méthodes formelles]]
 		- [[homotopie vs ZFC]]
 		- [[théorie des ensembles]]
@@ -464,7 +465,7 @@
 			- • Neuro-symbolic Al: Cette approche vise à combiner les réseaux de neurones avec des représentations symboliques pour créer des systèmes d'intelligence artificielle plus flexibles et plus interprétables. Avez-vous d'autres questions sur ce . C'est un domaine de recherche hybride qui vise à combiner les forces des approches symboliques (comme la programmation logique) et des approches connexionnistes (comme les réseaux de neurones
 			- Régulation contrôle
 				- https://www.peren.gouv.fr/
-			- [[Logique formel - vérification de programme]]
+			- [[Méthode formel - vérification de programme]]
 				- Conférence
 					- https://en.m.wikipedia.org/wiki/Logic_for_Programming,_Artificial_Intelligence_and_Reasoning
 			- [[XAI]]

@@ -11,7 +11,7 @@
   
   Au lieu de voir l'égalité p : x =_A y comme un type d'identité inductif opaque, la théorie cubique introduit un **intervalle abstrait** noté I (avec deux extrémités 0 et 1).
 - Une égalité (un chemin) entre x et y est définie directement comme une **fonction** du type :
-  `p : I \to A \quad \text{telle que} \quad p(0) \equiv x \quad \text{et} \quad p(1) \equiv y`
+  $p : I \to A \quad \text{telle que} \quad p(0) \equiv x \quad \text{et} \quad p(1) \equiv y$
 - En ajoutant plusieurs variables dans l'intervalle (i, j : I), on manipule des métaphores géométriques à n dimensions :
 	- i : I \implies une ligne / un chemin (1D).
 	- i, j : I \implies un carré / une homotopie entre deux chemins (2D).
@@ -26,7 +26,7 @@
   **Résultat :** Tout terme fermé de type \mathbb{N} se réduit effectivement à un nombre entier, même s'il utilise l'univalence ou des types inductifs supérieurs.
 - ### B. Types Inductifs Supérieurs ( *Higher Inductive Types*  - HITs)
   
-  Dans HoTT classique, la définition de structures topologiques comme le cercle S^1 (défini par un point `base` et un chemin `loop : base = base`) nécessite de passer par des règles ad hoc. En type theory cubique :
+  Dans HoTT classique, la définition de structures topologiques comme le cercle S^1 (défini par un point `base` et un chemin $loop : base = base$) nécessite de passer par des règles ad hoc. En type theory cubique :
 - Les HITs deviennent des structures fondamentales faciles à manipuler.
 - On peut calculer explicitement les groupes d'homotopie des sphères ou travailler sur des topos synthétiques directement par le calcul.
 - ## 4. Implémentations modernes
@@ -46,3 +46,5 @@
   | **Canonicité** | Perdue (bloquée par univalence) | Prervée (tout terme se réduit) |
   
   | **Calculabilité** | Partielle | Totale |
+-
+-
