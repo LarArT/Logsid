@@ -155,7 +155,7 @@
 	- ## certification norme
 		- [[iso 18788]] https://cdn.standards.iteh.ai/samples/63380/e48f665b9c9a4c7f8668702597859f39/ISO-18788-2015.pdf
 		- [[NF X50-777]]
-	- [[formation]]
+	- # [[formation]]
 	- [contrôle de personnes violente](https://controletp.ccdmd.qc.ca/videos/1-05-defense-contre-lattaque-sournoise-aux-jambes-de-front/)
 	- [[magazine de référence]]
 	- [[victimologie]]
@@ -170,7 +170,6 @@
 		- [état de l'art](https://www.thepurpleguide.co.uk/)
 		- https://www.wbdg.org/FFC/GSA/site_security_dg.pdf
 		- [protection infrastructure](https://shieldproject.eu/wp-content/uploads/2023/04/public_spaces_rvw_final_1.pdf) : la page 8 référence un grand nombre de documentation
-		  collapsed:: true
 			- https://prosperes.eu/wp-content/uploads/DELIVERABLE-Prosperes-security-by-design-Guidebook.pdf
 		- https://www.npsa.gov.uk/building-protection?hl=fr-FR
 		- Un plan de prévention pour être établi sur la trame [[ERP]] disponible au format doc x dans le drive
@@ -178,6 +177,7 @@
 		- [[security by design]]
 		- [[évaluation des risques infrastructures]]
 		- https://elearning.pphs.pl/course-offer/
+		- [Installations Classées pour la Protection de l'Environnement (ICPE)](https://aida.ineris.fr/thematiques/nomenclature-icpe)
 	- ## dirigeant
 		- [[élaboration d'une prestation de sûreté]]
 	- ## Urbanisme
@@ -200,7 +200,6 @@
 			- [[Jeu des 8 familles d'atteintes à la sécurité économique]]
 	- ## SSIAP1
 		- [[texte réglementation ssiap1]]
-		- [Installations Classées pour la Protection de l'Environnement (ICPE)](https://aida.ineris.fr/thematiques/nomenclature-icpe)
 		- [ERP](https://www.wikiterritorial.cnfpt.fr/xwiki/bin/view/vitrine/Les%20Etablissements%20recevant%20du%20public%20%28ERP%29%20et%20l%27obligation%20g%C3%A9n%C3%A9rale%20de%20s%C3%A9curit%C3%A9)
 		- [Principes des Premiers Secours Psychologiques ](https://ready.csod.com/lms/scorm/clientLMS/Scorm12IframeContainer.aspx?aicc_sid=AICCj9JMjOpdURbbduG2a3os1Q&aicc_url=https://ready.csod.com/LMS/scorm/aicc.aspx) : International Medical Corps
 			- International Medical Corps
@@ -297,6 +296,7 @@
 		- [[APS]]
 		- [[ensemble des documents relatifs à la sûreté]]
 		- [[cartographie des acteurs  matrice disarm guerre informationnelle]]
+		- [[Lectures/mooc protection du secret et de la défense]]
 		- ## criminalité organisée
 			- [[convention de Palerme]]
 			- [[criminalité financière]]
@@ -305,9 +305,9 @@
 	- [[Processus renseignement]]
 	- [[sûreté]]
 	- Assurer la stabilité d'une organisation :
-		- [[ingénierie des organisations]]
 		- [[psychologie de l'engagement]]
 		- [[psychologie de la loyauté]]
+	- [[ingénierie des organisations]]
 	- [classification des incidents](https://giis-fr.insecurityinsight.org/tools-and-resources/classification-of-incidents)
 	- gestion de crise   Manuel de gestion de crise: Crisis Management of Critical Incidents EISF Briefing Paper
 		- # gestion des risques

@@ -6,7 +6,7 @@
 - [[coq]]
 - [[automate theorem proving]]
 - [[correspondance entre théorie homotopique, logique, théorie des ensembles, théorie des types, théorie des catégories]]
--
+- [[modeles-homotopiques-enrichi]]
 - [[modeles-homotopiques]]
 - il faut distinguer la géométrie des espaces (où toutes les directions sont inversibles) et la géométrie des catégories (où les flèches ont un sens unique) :
 	- Théorie des Types Homotopiques (HoTT) de Vladimir Voevodsky vers la [[théorie des types cubique]] de Thierry Coquant qui étudie les  $\infty$-groupoïdes qui sont des espaces topologiques  où chaque flèche est un chemin qu'on peut parcourir dans les deux sens)
