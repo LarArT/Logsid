@@ -2,3 +2,11 @@
 - [[exemple complet d'une prestation de sûreté]]
 - [[cahier des charges d'une prestation de sûreté]]
 - [[préparation d'une prestation]]
+- [[template en vue de répondre à une prestation]]
+- [[plan pour la présentation pour une réponsee une prestation]]
+- [[norme de sûreté]]
+- [[préparation des APS avant leur prise de poste]]
+- # Exemple de cahier des charges de l'Union européenne
+	- [exemple Cahier des Spécifications Techniques Particulières de l'Union européenne](https://www.europarl.europa.eu/tenders/2014/dgsafe/433095/20141219/2014_014_cdc_partie_III_cstp.pdf?utm_source=perplexity)
+	- [exemple de spécifications techniques](https://www.europarl.europa.eu/tenders/2015/dgsafe/424512/2015-015_cahier_des_charges_partie_III_fr.pdf?utm_source=perplexity)
+-

@@ -1,4 +1,5 @@
 - [[lectures]]
+- [[les mots]]
 - [[capteur EDA]]
 - [[méthode d'évaluation]]
 - [[Système des Nations Unies]]
@@ -160,7 +161,7 @@
 	- [[magazine de référence]]
 	- [[victimologie]]
 	- norme ISO 22342 publiée par AFNOR, le plan de sûreté est également décrit dans le référentiel CNPP 1302 avec pour objectif d’
-	- [[cartographie des risques]]
+	- [[Cartographier les risques : panorama des méthodes]]
 	- [[prévention situationnelle]] : analyse et mise en place de dispositif en prévention
 	- protection infrastructure
 	  https://shieldproject.eu/wp-content/uploads/2023/04/public_spaces_rvw_final_1.pdf
@@ -190,7 +191,7 @@
 			- #### APS
 				- [Sécurité renforcée](69876280-8ae5-44aa-954e-2e5ed6f047f5)
 				- [[communication radio]]
-				-
+				- [[préparation des APS avant leur prise de poste]]
 		- ### sécurité économique
 			- [la sécurité économique en 28 fiches](https://www.entreprises.gouv.fr/la-dge/publications/la-securite-economique-en-28-fiches-thematiques)
 				- [[entreprise stratégique]]
@@ -315,6 +316,8 @@
 			- [[registre des actifs]]
 		- https://ready.csod.com/ui/lms-learning-details/app/test/3308f459-d6c3-46a4-9223-f4c50a3ab6ee
 		- [[Planification et affectation des ressources aux activités de gestion des risques de sécurités]]
+		- [[Cartographier les risques : panorama des méthodes]]
+		- [[cartographie des risques]]
 		- ## EBIOS
 			- [[méthode EBIOS]]
 		- ## SSI

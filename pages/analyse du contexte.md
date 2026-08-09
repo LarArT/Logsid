@@ -1,71 +1,38 @@
-- 🔍 Analyse de Contexte (INSO)
-  
-   * Définition :: Décomposer ce qui est lié. L'analyse consiste à identifier et organiser les parties individuelles de l'environnement (personnes, lieux, événements, intérêts, idées).
-  
-   * Principes Clés
-  
-     * Simplifier la complexité.
-  
-     * Prise de conscience de la situation.
-  
-     * Ne pas nuire (Do No Harm) :: L'analyse est au cœur de ce principe pour éviter les préjudices aux populations et au personnel.
-  
-  Pourquoi faire une analyse contextuelle ?
-  
-   * Mieux comprendre
-  
-     * Percevoir comment les différentes parties s'intègrent et révéler des liens non évidents.
-  
-     * C'est une activité quotidienne (ex: analyser la route avant de traverser).
-  
-   * Prendre de meilleures décisions
-  
-     * Choix des projets et programmes.
-  
-     * Identification et gestion des risques de sûreté/sécurité.
-  
-     * Comprendre l'impact de notre propre présence sur le milieu.
-  
-  Méthodologie : Comment procéder ?
-  
-   * Approche
-  
-     * Il n'y a pas de méthode unique ; c'est un état d'esprit et un travail d'équipe.
-  
-     * L'analyse doit être ciblée sur une question ou un problème spécifique.
-  
-   * Le cycle des questions (Quoi / Et alors / Quoi encore)
-  
-     * Quoi ? :: Faits bruts (qui a fait quoi, où et quand).
-  
-     * Et alors ? :: Analyse (pourquoi c'est arrivé, importance pour l'organisation).
-  
-     * Quoi encore ? :: Prospective (changements futurs possibles, conséquences à venir).
-  
-   * Conditions de réussite
-  
-     * Informations fiables : Multiplier les sources et les contacts.
-  
-     * Conscience des biais : Combattre ses propres préjugés.
-  
-     * Répétition : Le contexte change vite, l'analyse doit être régulière.
-  
-  Outils d'Analyse
-  
-   * 🧊 L'Iceberg (Aller au-delà de la surface)
-  
-     * Positions / Demandes (Partie visible) :: Ce que l'interlocuteur déclare ou demande.
-  
-     * Intérêts / Motivations (Invisible mais conscient) :: Perceptions, valeurs, émotions (peur, colère), contraintes/ordres.
-  
-     * Besoins universels (Moteur profond) :: Sécurité, liberté, espoir, appartenance, justice.
-  
-   * 👥 Analyse des Acteurs
-  
-     * Description : Identifier qui ils sont (historique, mandat, pouvoir de nuisance).
-  
-     * Relations : Documenter les dynamiques de pouvoir et de domination entre eux.
-  
-     * Perception des ONG : Comment ils nous voient, l'histoire des incidents passés avec eux.
-  
-     * Prospective : Évaluer les avantages (info, sécurité) et inconvénients (manipulation, assimilation) d'une relation avec chaque acteur.
+- Voici la restructuration du document au format Markdown, parfaitement adaptée pour **Logseq** (indentation par puces hiérarchiques `-`).
+- Analyse de Contexte (INSO)
+	- 1. Définition et Principes Clés
+		- **Définition** : Décomposer ce qui est lié. L'analyse consiste à identifier et organiser les parties individuelles de l'environnement (personnes, lieux, événements, intérêts, idées).
+		- **Principes Clés** :
+			- Simplifier la complexité.
+			- Développer la prise de conscience de la situation (situational awareness).
+			- **Ne pas nuire (*Do No Harm*)** : L'analyse est au cœur de ce principe pour éviter de porter préjudice aux populations locales comme au personnel.
+	- 2. Pourquoi Réaliser une Analyse Contextuelle ?
+		- Mieux Comprendre
+			- Percevoir comment les différentes parties s'intègrent et révéler des liens non évidents.
+			- C'est une activité réflexe et quotidienne (ex. : analyser la circulation avant de traverser la route).
+		- Prendre de Meilleures Décisions
+			- Éclairer le choix des projets et des programmes humanitaires.
+			- Identifier et gérer proactivement les risques de sûreté et de sécurité.
+			- Mesurer l'impact de notre propre présence sur le milieu d'intervention.
+	- 3. Méthodologie et Approche
+		- Approche Générale
+			- Il n'y a pas de méthode unique : c'est un état d'esprit et un travail d'équipe.
+			- L'analyse doit être ciblée sur une question précise ou une problématique spécifique.
+		- Le Cycle des Questions
+			- **Quoi ?** (Faits bruts) : Identifier qui a fait quoi, où et quand.
+			- **Et alors ?** (Analyse) : Comprendre pourquoi c'est arrivé et quelle en est l'importance pour l'organisation.
+			- **Quoi encore ?** (Prospective) : Anticiper les changements futurs possibles et leurs conséquences à venir.
+		- Conditions de Réussite
+			- **Informations fiables** : Multiplier les sources et diversifier les contacts.
+			- **Conscience des biais** : Identifier et combattre ses propres préjugés.
+			- **Répétition** : Le contexte évoluant rapidement, l'analyse doit être mise à jour régulièrement.
+	- 4. Outils d'Analyse
+		- 🧊 Le Modèle de l'Iceberg (Aller au-delà de la surface)
+			- **Positions / Demandes** *(Partie visible)* : Ce que l'interlocuteur déclare explicitement ou exige.
+			- **Intérêts / Motivations** *(Partie sous-marine consciente)* : Perceptions, valeurs, émotions (peur, colère), contraintes ou ordres reçus.
+			- **Besoins universels** *(Moteur profond)* : Sécurité, liberté, espoir, appartenance, justice.
+		- 👥 L'Analyse des Acteurs
+			- **Description** : Identifier qui ils sont (historique, mandat, capacité et pouvoir de nuisance).
+			- **Relations** : Cartographier les dynamiques de pouvoir, d'alliance et de domination entre les acteurs.
+			- **Perception des ONG** : Analyser la façon dont ils perçoivent l'organisation et recenser l'historique des incidents passés avec eux.
+			- **Prospective** : Évaluer les avantages (accès à l'information, gain de sécurité) et les inconvénients (risques de manipulation, d'assimilation) d'une interaction avec chaque acteur.
