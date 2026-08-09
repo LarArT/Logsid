@@ -1,11 +1,9 @@
 - [[lectures]]
-- [[logique]]
 - [[capteur EDA]]
 - [[méthode d'évaluation]]
-- [[ONU]]
-- [[Info]]
-- [[science ouverte]]
-- [[financement recherche fondamentale]]
+- [[Système des Nations Unies]]
+- [[Veille informationnelle]]
+- # [[science ouverte / production scientifique]]
 - [[magazine]]
 - [IA for Scientific Discovery](https://github.com/mlelarge/ens-ml4sd)
 - [[Typst]]
@@ -13,13 +11,15 @@
 - [[Programmation probabiliste]]
 - [[Diagramme de base]]
 - [[guide de rédaction rapport]]
-- [[preregistration]]
 - # financement de projet d'intérêt général
+  collapsed:: true
 	- [[fonds européens]]
 	- [ANR](https://direction-recherche.parisnanterre.fr/service-de-la-valorisation-et-appui-a-la-recherche/boite-a-outils-aapg-anr)
+	- [[financement recherche fondamentale]]
 - # recherche action
 	- [[recherche action]]
 - # Carte conceptuelle
+  collapsed:: true
 	- [[bourse]]
 	- [[Industrie_Defense_et_Aerospatiale]]
 	- [[sphere]]
@@ -53,7 +53,7 @@
 - Electrostatisme
   collapsed:: true
 	- [[protection]]
-- [[méthodologie]]
+- # [[méthodologie]]
 - [Normes AFNOR d'application obligatoire](https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/entreprises/normes-afnor-d-application-obligatoire?hl=fr-FR)
 - [[architecture]]
 - [[langage de programmation à suivre]]
@@ -510,6 +510,16 @@
 		- [[interface utilisateur gestalt]]
 		- [fiche méthodologique de sciences Po liepp](https://www.sciencespo.fr/liepp/fr/publications/liepp/fiches-methodologiques/)
 		- [méthodes d'évaluation socioéconomique : valeur de référence pour valoriser les effets non marchands référencer dans le complément b de cette page](https://www.strategie-plan.gouv.fr/conseil-scientifique-des-methodes-devaluation-socioeconomique)
+	- # psychologie
+		- ## personnalité
+			- [[hexaco]]
+			- [[ocean]]
+			- [[science comportementale]]
+			- [[Hogan assesement]]
+			- [[corrélation entre modèle [[HPI]] hogan et [[OCEAN]]]]
+			-
+	- ## science comportementale
+		- [organisation internationale précurseuse des nudges](https://www.bi.team/)
 	- ## géographie
 		- [[lectures/mooc **Systèmes d'Information Géographique**]]
 		- StoryMapJS (Knight Lab)
@@ -528,14 +538,6 @@
 		- [programme](https://www.inrs.fr/media.html?refINRS=ED%206127) : voir bibliographie
 		- [normes habilitation électrique](https://afpsecourisme.fr/wp-content/uploads/2017/08/Norme-NF-C-18-510.pdf)
 		- [[H0 B0]]
-- # psychologie
-	- ## personnalité
-		- [[hexaco]]
-		- [[ocean]]
-		- [[science comportementale]]
-		- [[Hogan assesement]]
-		- [[corrélation entre modèle [[HPI]] hogan et [[OCEAN]]]]
-		-
 - # bibliothèque
 	- [[Dublin core]]
 	- ## Dewey
@@ -564,17 +566,12 @@
 	- [[CLSPD]]
 	- [entretien semis directif dans le contexte d'un diagnostic de sécurité](https://www.inspq.qc.ca/sites/default/files/publications/1315_guideorgaentretienssemidiriginformcles2eed.pdf)
 - # SNCF
-  collapsed:: true
 	- [[opérateur de production des trains]]
 	- [[sûreté ferroviaire]]
 - # numérique
-  collapsed:: true
 	- [Dictionnaire légal du numérique](https://dictionnaire.technique-et-droit-du-numerique.fr/)
-- ## droit
 - # parlementaire
-  collapsed:: true
 	- ## liberté d'expression
-	  collapsed:: true
 		- [[la liberté d'expression pour les parlementaires]]
 -
 - # Problème

@@ -1,4 +1,4 @@
 - [[canvas d'une prestation de sûreté]]
 - [[exemple complet d'une prestation de sûreté]]
--
--
+- [[cahier des charges d'une prestation de sûreté]]
+- [[préparation d'une prestation]]

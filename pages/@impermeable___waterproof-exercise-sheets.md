@@ -5,7 +5,7 @@ item-type:: [[computerProgram]]
 access-date:: 2025-03-27T20:44:46Z
 rights:: LGPL-2.1
 original-title:: impermeable/waterproof-exercise-sheets
-info:: https://github.com/impermeable/waterproof-exercise-sheets
+veille-informationnelle:: https://github.com/impermeable/waterproof-exercise-sheets
 company:: impermeable
 library-catalog:: GitHub
 links:: [Local library](zotero://select/library/items/654NHAVG), [Web library](https://www.zotero.org/users/16481611/items/654NHAVG)

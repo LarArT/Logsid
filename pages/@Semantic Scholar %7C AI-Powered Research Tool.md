@@ -3,7 +3,7 @@ item-type:: [[webpage]]
 access-date:: 2025-03-23T16:58:51Z
 original-title:: Semantic Scholar | AI-Powered Research Tool
 language:: en
-info:: https://www.semanticscholar.org/
+veille-informationnelle:: https://www.semanticscholar.org/
 links:: [Local library](zotero://select/library/items/WTV67JSW), [Web library](https://www.zotero.org/users/16481611/items/WTV67JSW)
 
 - [[Abstract]]

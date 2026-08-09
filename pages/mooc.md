@@ -2,7 +2,6 @@
 - [bpi](https://universite.bpifrance.fr/Catalog/trainings?sort=creationDate&order=desc&page=1)
   https://moodle.luniversitenumerique.fr/my/
 - wolframcloud.com/
-- Ai for good :
 - Agrégateur de mooc européen https://emc.eadtu.eu/partners
 - Aiforgov issu de projet ERC https://www.open.edu/openlearncreate/course/index.php?categoryid=2051
 - Plateforme de MOOC issu d'un projet ERC https://moodle.citizenscience.eu/
@@ -14,6 +13,8 @@
 - https://www.xuetangx.com/search?query=&channel=i.area.navigation_bar
 - [sdis](https://www.plateforme-apis.fr/login/index.php)
 - Saylor.org
+- MOOC conseil de l'Europe : https://www.coe.int/en/web/help/courses
+- Mooc Embry-Riddle University
 - Économie mru.org
 - https://flirtmooc.wixsite.com/flirt-mooc-telecom
 	- [MOOC supervision des réseaux et services](https://ultv.univ-lorraine.fr/mooc-supervision-de-reseaux-et-services/)

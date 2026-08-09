@@ -1,5 +1,7 @@
-- [[liste convention internationale]] 
-  ## Système des Nations Unies
+Tags:: onu
+
+- [[liste convention internationale]]
+- ## Système des Nations Unies
   * **Organes Principaux**
    * COUR INTERNATIONALE DE JUSTICE
    * CONSEIL DE TUTELLE (activités suspendues depuis le 1er novembre 1994)

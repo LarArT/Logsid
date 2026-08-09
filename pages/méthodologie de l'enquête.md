@@ -1,4 +1,5 @@
 Source:: https://www.povertyactionlab.org/resource/survey-design?lang=en
+Tags:: méthodologie
 
 - [[observation de terrain]]
 	- Logiciel de cartographie des activités ergonomie

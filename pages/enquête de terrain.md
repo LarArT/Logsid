@@ -1,4 +1,5 @@
 Source:: https://web.archive.org/web/20210430181641/https://dimewiki.worldbank.org/index.php?title=Questionnaire_Design&action=edit
+Tags:: méthodologie
 
 - En vue de procéder à une enquête de terrain on peut s'appuyer sur
 	- de cadre logique de

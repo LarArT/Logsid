@@ -1,0 +1,93 @@
+Tags:: méthodologie
+
+- # Méthodologie de la Note de Cadrage
+	- 1. Définition et Finalité
+		- La note de cadrage fixe le cadre de référence officiel du projet.
+		- Elle sert de base commune entre toutes les parties prenantes.
+		- Elle permet de décliner le projet en jalons et livrables mesurables.
+		- Elle répond à 5 questions fondamentales :
+			- Pourquoi ce projet ? (Contexte et opportunité)
+			- Quels sont les résultats attendus ? (Objectifs et valeur)
+			- Quels seront les livrables ? (Périmètre concret)
+			- Quelles ressources et quels délais sont nécessaires ? (Moyens et planning)
+			- Comment évaluer le succès ? (Indicateurs de performance)
+	- 2. Schéma Type d'une Note de Cadrage
+		- Titre et contexte
+			- Présentation succincte du projet.
+			- Description du contexte opérationnel, économique et organisationnel.
+		- Problématique et enjeux
+			- Formulation claire du problème à résoudre.
+			- Explicitation des enjeux stratégiques pour l'organisation.
+		- Objectifs (SMART)
+			- Définition des objectifs principaux et secondaires.
+			- Critères SMART :
+				- **S**pécifique
+				- **M**esurable
+				- **A**cceptable
+				- **R**éaliste
+				- **T**emporel
+		- Périmètre
+			- **Inclusions** : ce qui est explicitement couvert par le projet.
+			- **Exclusions** : ce qui est hors du champ d'intervention.
+		- Livrables et résultats attendus
+			- Liste exhaustive des livrables.
+			- Critères de réussite et spécifications sommaires associés.
+		- Gouvernance et organisation
+			- Rôles et responsabilités de chaque acteur.
+			- Organigramme du projet.
+			- Fonctionnement du comité de pilotage.
+			- Interfaces avec les parties prenantes externes.
+		- Plan de travail et jalons
+			- Découpage en phases et tâches clés.
+			- Identification des dépendances.
+			- Durées estimées et dates butoirs (jalons critiques).
+		- Ressources et budget prévisionnel
+			- Estimation des moyens humains.
+			- Besoins matériels et techniques.
+			- Budget financier global prévisionnel.
+		- Risques et mesures d'atténuation
+			- Identification des risques majeurs.
+			- Évaluation de la probabilité d'occurrence et de l'impact.
+			- Définition des actions préventives et correctives.
+		- Contraintes et dépendances
+			- Contraintes légales, réglementaires et techniques.
+			- Dépendances vis-à-vis d'autres projets ou prestataires.
+		- Méthodes de suivi et d'évaluation
+			- Définition des indicateurs clés de performance (KPI).
+			- Fréquence et format des points de suivi.
+			- Mécanismes de contrôle de qualité.
+		- Annexes
+			- Glossaire.
+			- Schémas d'architecture ou processus.
+			- Documents de référence et hyperliens.
+	- 3. Modèles et Bonnes Pratiques
+		- Format et longueur
+			- Maintenir un format concis : 8 à 15 pages en moyenne.
+			- Adapter la taille au public visé et à la complexité du projet.
+			- Utiliser une structure rubrique par rubrique pour faciliter l'approbation.
+		- Déclinaison selon l'audience
+			- **Version synthétique** : pour le comité de pilotage (décisionnelle).
+			- **Version détaillée** : pour l'équipe projet (opérationnelle).
+		- Éléments clés à intégrer
+			- Inclure systématiquement des indicateurs mesurables par phase et par livrable.
+			- Rédiger une section dédiée aux *hypothèses et limites* pour lever toute ambiguïté.
+	- 4. Conseils de Rédaction
+		- **Clarté et sobriété** : privilégier des phrases courtes, un vocabulaire précis et sans jargon inutilisé.
+		- **Cohérence interne** : veiller à ce que chaque section soutienne l'objectif général et les livrables.
+		- **Alignement institutionnel** : respecter les procédures internes et exigences réglementaires.
+		- **Validation rapide** : soumettre une version préliminaire au sponsor ou pilote pour validation étape par étape.
+	- 5. Exemple Pratique d'un Objectif SMART
+		- **Énoncé** : Livrer une plateforme de gestion de dossiers projet opérationnelle et conforme d'ici 6 mois, garantissant une disponibilité de 99,5 % et permettant une réduction des délais de traitement de 20 %.
+		- **Indicateurs associés** :
+			- Taux de disponibilité de la plateforme (%).
+			- Temps moyen de traitement d'un dossier (heures/jours).
+			- Score de satisfaction des utilisateurs (sur 10).
+	- 6. Checklist de Vérification Avant Publication
+		- [ ] Le périmètre est-il clairement délimité sans ambiguïté ?
+		- [ ] Les livrables et leurs critères de réussite sont-ils explicitement décrits ?
+		- [ ] Le planning intègre-t-il les jalons critiques et les dépendances ?
+		- [ ] Les risques principaux sont-ils identifiés avec leurs mesures d'atténuation ?
+		- [ ] Les responsabilités et les mécanismes de suivi sont-ils clairement attribués ?
+	- 7. Ressources et Liens utiles
+		- [[lettre de dénonciation déontologie]]
+		- [Template rapport AICS (Web Archive)](https://web.archive.org/web/20241115042556if_/https://dakar.aics.gov.it/wp-content/uploads/2022/04/ALLEGATO-A11bis-Modello-Rapporto-Intermedio_Finale-Common-83-Template-AID12289-FR.pdf)

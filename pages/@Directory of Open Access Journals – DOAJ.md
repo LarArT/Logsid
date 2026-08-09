@@ -4,7 +4,7 @@ item-type:: [[webpage]]
 access-date:: 2025-03-23T17:03:38Z
 original-title:: Directory of Open Access Journals – DOAJ
 language:: en
-info:: https://doaj.org/
+veille-informationnelle:: https://doaj.org/
 links:: [Local library](zotero://select/library/items/P94MZIQB), [Web library](https://www.zotero.org/users/16481611/items/P94MZIQB)
 
 - [[Abstract]]
