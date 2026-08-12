@@ -1,3 +1,5 @@
+-
+- [[infrastructure clé]]
 - [[anwar al-alwaki]]
 	- note :: livre morgen storm
 	- url :: https://en.wikipedia.org/wiki/Anwar_al-Awlaki
@@ -910,77 +912,105 @@
 	- [[Legion islamique]]
 		- url :: https://en.wikipedia.org/wiki/Islamic_Legion
 		- [[Libye]]
+		  collapsed:: true
 			- url :: https://en.wikipedia.org/wiki/Libya
 			- [[Muammar Kadhafi]]
+			  collapsed:: true
 				- note :: 75 à 80, les palestiniens et les libanais qu'il soutenait dans leur affranemnet avec iscrael se sont mis à profité de sa générosité finaincère sans jamais lui renvoyer l'ascenseur sul le plan politique. Excédé, en 178, il fait venir à Tripoli, pour s'en expliquer , le leader charismatique des chiites libanais , l'iman moussa sadr , le fondateu du mouvement des déshérités qui allait donner naissance au Hezbollah . Maoussa Sadr n'esnt %sp;jamais ressorti de Libye. %sp;Résultat il est mit en quarantaine dans le monde arba, il se tourne donc vers l'Afrique , Tchad et Niger en tete en soutenant des factions dissidentes au pouvoir et à l'encontre des interets francais et britanique.
 				- url :: https://en.wikipedia.org/wiki/Muammar_Gaddafi
 				- [[Pan Am Flight 103]]
+				  collapsed:: true
 					- url :: https://en.wikipedia.org/wiki/Pan_Am_Flight_103
 					- [[britanique]]
+					  collapsed:: true
 						- [[royaliste]] soutien
 						- [[ID 1627]]
 				- [[1986 Berlin Discotheque 
+				  collapsed:: true
 				  Bombing]]
 					- url :: https://en.wikipedia.org/wiki/1986_Berlin_discotheque_bombing
 					- [[USA]]
+					  collapsed:: true
 						- url :: https://fr.wikipedia.org/wiki/%C3%89tats-Unis
 						- [[Mobutu Sese Seko]] soutien
 						- [[Muhammad Zia Ul Haq]]
+						  collapsed:: true
 							- note :: une des pistes possibles qui expliquerais le crash de son avion: - le pilote de l'avion était chiite, il a vengé l'assasinat de hussein al -huseyni mort 11 jours plus tot. %sp;p 145 Kāveh. Le Hezbollah global: les réseaux secrets de l’Iran. Document. Paris: Choiseul, 2012.
 							- url :: https://en.wikipedia.org/wiki/Muhammad_Zia-ul-Haq
 							- [[Pakistan]]
 							- [[Operation Fairplay]]
 							- [[chiite]] politique anti-chiite
 							- [[Jamiat Ulema E Islam (S)]] leader
+							  collapsed:: true
 								- note :: supporting Jihadism and totalitarian
 								- url :: https://en.wikipedia.org/wiki/Jamiat_Ulema-e-Islam_(S)
 								- [[Jamiat Ulema E Islam]]
 							- [[Darul Uloom Haqqania]] dirige
+							  collapsed:: true
 								- url :: https://en.wikipedia.org/wiki/Darul_Uloom_Haqqania
 								- [[Taliban]] forme
 						- [[ID 1388]]
 						- [[Khalifa Haftar]]
+						  collapsed:: true
 							- url :: https://en.wikipedia.org/wiki/Khalifa_Haftar
 						- [[Operation Cyclone]]
+						  collapsed:: true
 							- url :: https://en.wikipedia.org/wiki/Operation_Cyclone
 							- [[Afghanistan Conflict (1978 - present)]]
 						- [[RENAMO]]
+						  collapsed:: true
 							- url :: https://en.wikipedia.org/wiki/RENAMO
 							- [[Mozambican Civil War]]
 						- [[Patrice Lumumba]]
+						  collapsed:: true
 							- url :: https://fr.wikipedia.org/wiki/Patrice_Lumumba
 				- [[UTA Flight 772]]
+				  collapsed:: true
 					- url :: https://en.wikipedia.org/wiki/UTA_Flight_772
 					- [[France]]
+					  collapsed:: true
 						- url :: https://fr.wikipedia.org/wiki/France
 						- [[ID 1627]]
 				- [[Niger]]
+				  collapsed:: true
 					- url :: https://en.wikipedia.org/wiki/Niger
 				- [[Tchad]]
+				  collapsed:: true
 					- url :: https://en.wikipedia.org/wiki/Chad
 				- [[Moussa Koussa]]
+				  collapsed:: true
 					- url :: https://en.wikipedia.org/wiki/Moussa_Koussa
 					- [[Al Qaeda]] emmet la premiere alerte interpol
 					- [[Mukhabarat El Jamahiriya]]
+					  collapsed:: true
 						- url :: https://en.wikipedia.org/wiki/Mukhabarat_el-Jamahiriya
 				- [[Irish Republican Army (1919 -1922)]]
+				  collapsed:: true
 					- note :: " Conscient que les fonds qui financent ces opérations viennent des Irlando-Américains, et non de Moscou ou de Triopli, le FBI s'efforrce quant à lui d'isoler les réseaux de soutien à l'IRA agissant uax USA." Faligot, Roger, and Rémi Kauffer. Histoire mondiale du renseignement. 2: Les maîtres espions: de la guerre froide à nos jours. Robert Laffont. Notre époque. Paris: Laffont, 1994.
 					- url :: https://en.wikipedia.org/wiki/Irish_Republican_Army_(1919%E2%80%9322)
 					- [[Irish War Of Independence]]
+					  collapsed:: true
 						- url :: https://en.wikipedia.org/wiki/Irish_War_of_Independence
 						- [[Anglo Irish Treaty]]
+						  collapsed:: true
 							- url :: https://en.wikipedia.org/wiki/Anglo-Irish_Treaty
 							- [[Irish Free State]]
+							  collapsed:: true
 								- url :: https://en.wikipedia.org/wiki/Irish_Free_State
 								- [[Dominion]]
+								  collapsed:: true
 									- url :: https://en.wikipedia.org/wiki/Dominion
 							- [[Irish Civil War]]
+							  collapsed:: true
 								- url :: https://en.wikipedia.org/wiki/Irish_Civil_War
 					- [[IRA anti traité]] scission
+					  collapsed:: true
 						- [[Irish Civil War]] perd
 						- [[Fianna fail]]
+						  collapsed:: true
 							- url :: https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
 				- [[Tunisie]]
+				  collapsed:: true
 					- url :: https://fr.wikipedia.org/wiki/Tunisie
 - [[rebellion touaregue 1990 1996]]
 	- url :: https://fr.wikipedia.org/wiki/R%C3%A9bellion_touar%C3%A8gue_de_1990-1996
@@ -1565,8 +1595,10 @@
 - [[Michel Aoun]]
 	- url :: https://en.wikipedia.org/wiki/Michel_Aoun
 	- [[Free Patriotic Movement]] fonde
+	  collapsed:: true
 		- url :: https://en.wikipedia.org/wiki/Free_Patriotic_Movement
 		- [[March 8 Alliance]]
+		  collapsed:: true
 			- url :: https://en.wikipedia.org/wiki/March_8_Alliance
 - [[Abu Nidal Organization]]
 	- url :: https://en.wikipedia.org/wiki/Abu_Nidal_Organization

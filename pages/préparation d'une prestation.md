@@ -1,13 +1,8 @@
-- en vue d'une prestation de sûreté au sein de mon entreprise: je souhaite dans un premier temps la planifier, et pour cela la contractualiser avec une entreprise de sûreté peux-tu m'aider à récolter les informations nécessaires à la planification; définir les opération dans un rétroplanning; définir l'ensemble des fournitures nécessaire (dispositif de système d'accès, vidéo surveillance) ; et mise en œuvre de règlementation de la législation adapter à l'événement
-  
-  Vous pouvez structurer votre prestation de sûreté autour de quatre blocs : collecte d’informations, cahier des charges/contrat avec l’entreprise de sûreté, rétroplanning opérationnel, et mise en conformité (moyens techniques + réglementation). [1][2]
-  
-  ***
-- ## 1. Informations à collecter avant d’appeler les prestataires
-  
-  Avant même de consulter une entreprise de sûreté, formalisez un « dossier événement » que vous pourrez leur transmettre ainsi qu’à votre assureur. [3][2]
-  
-  Points clés à documenter :
+## 1. Informations à collecter avant d’appeler les prestataires
+
+Avant même de consulter une entreprise de sûreté, formalisez un « dossier événement » que vous pourrez leur transmettre ainsi qu’à votre assureur. [3][2]
+
+Points clés à documenter :
 - Nature de l’événement : type (séminaire, concert, salon, inauguration…), objectif, caractère public ou strictement interne. [1][4]
 - Date, horaires, durée, présence éventuelle de personnalités, d’enfants, de publics vulnérables. [1][5]
 - Lieu : intérieur/extérieur, ERP ou non, salles utilisées, nombre et type d’entrées/sorties, parking, zones sensibles (caisse, back-office, locaux techniques…). [1][2]

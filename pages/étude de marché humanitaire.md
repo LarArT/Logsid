@@ -1,11 +1,17 @@
 Source:: mooc help logistic
 
-- Les études de marché sont un outil précieux pour analyser nos options de réponse, notamment nos stratégies programmatiques et d'approvisionnement. II existe de nombreux outils d'étude de marché et de suivi déjà développés pour l'aide humanitaire. Certaines études de marché sont conçues pour un secteur spécifique ou une phase particulière de l'intervention. Avant d'entreprendre une étude de marché formelle, il est conseillé de consulter la méthodologie et les formations disponibles pour cette méthode.
+- Les études de marché sont un outil précieux pour analyser nos options de réponse, notamment nos stratégies programmatiques et d'approvisionnement.
+- II existe de nombreux outils d'étude de marché et de suivi déjà développés pour l'aide humanitaire. Certaines études de marché sont conçues pour un secteur spécifique ou une phase particulière de l'intervention.
+- Avant d'entreprendre une étude de marché formelle, il est conseillé de consulter la méthodologie et les formations disponibles pour cette méthode.
 - Examinons certains des outils existants, quand ils doivent être utilisés et pour quel type de secteur ils sont conçus.
 - PCMA
-	- Avec l'analyse de marché pré-crise (PCMA), l'analyse de marché a lieu avant que les situations d'urgence ne surviennent, lorsque les marchés fonctionnent << normalement >. Cela peut aider à éclairer non seulement les réponses d'urgence potentielles, mais aussi à améliorer la préparation, la planification d'urgence, l'atténuation, la réduction des risques de catastrophe et le rétablissement rapide.
+	- Avec l'analyse de marché pré-crise (PCMA),
+	- a lieu avant que les situations d'urgence ne surviennent, lorsque les marchés fonctionnent << normalement >. Cela peut aider à éclairer non seulement les réponses d'urgence potentielles, mais aussi à améliorer la préparation, la planification d'urgence, l'atténuation, la réduction des risques de catastrophe et le rétablissement rapide.
 - MIRA
-	- Une analyse de marché figure dans l'Évaluation initiale rapide multi-clusters (MIRA). La MIRA est un processus inter-agences d'évaluation et d'analyse des besoins, à partir duquel l'équipe humanitaire de pays (EHP) élabore un plan stratégique conjoint d'intervention d'urgence. Le processus MIRA vise à produire une analyse de la situation partir d'une étude documentaire de données secondaires et de la collecte de données primaires durant les trois premiers jours suivant le début d'une catastrophe. Un rapport MIRA est ensuite publié dans les deux semaines suivant le début de la catastrophe.
+	- Une analyse de marché figure dans l'Évaluation initiale rapide multi-clusters (MIRA).
+	- est un processus inter-agences d'évaluation et d'analyse des besoins, à partir duquel l'équipe humanitaire de pays (EHP) élabore un plan stratégique conjoint d'intervention d'urgence.
+	- Vise à produire une analyse de la situation partir d'une étude documentaire de données secondaires et de la collecte de données primaires durant les trois premiers jours suivant le début d'une catastrophe.
+	- Un rapport MIRA est ensuite publié dans les deux semaines suivant le début de la catastrophe.
 - 48 outils Hs
 	- Cet outil peut être utilisé seul ou en complément d'autres outils d'évaluation, tels que l'Évaluation des risques liés à l'alimentation et aux moyens de subsistance (MIRA), afin de fournir des informations plus détaillées sur la sécurité alimentaire et les moyens de subsistance, essentielles à la conception d'une intervention rapide. Son objectif est d'obtenir rapidement une vision globale de la situation en matière de sécurité alimentaire et de moyens de subsistance dans les premiers jours suivant une catastrophe soudaine. Cet outil vise à aider les équipes d'intervention à dresser un tableau suffisamment précis de la situation pour concevoir des interventions rapides capables de répondre aux besoins immédiats et de protéger les moyens de subsistance, compte tenu des contraintes pratiques qui accompagnent généralement une crise soudaine.
 - BÉLIER

@@ -1,0 +1,45 @@
+Source:: MOOC Agora UNICEF
+
+- Voici la traduction structurée du **Modèle des Facteurs Comportementaux (Behavioural Drivers Model - BDM)** au format *outliner*, parfaitement adaptée pour Logseq.
+- # Modèle des Facteurs Comportementaux (BDM)
+	- Psychologie
+		- **Définition** : Caractéristiques démographiques et sociales. Cela inclut les croyances, les intentions, les perceptions et les biais qui influencent la prise de décision.
+		- **Composantes** :
+			- Biais cognitifs
+				- Les informations que mon cerveau est prêt à prendre en considération.
+			- Intérêt
+				- Ce que je veux ; à quel point le changement est attractif.
+			- Attitude
+				- Mon opinion sur un comportement ; ce que je ressens à son sujet.
+			- Sentiment d'auto-efficacité (*Self-Efficacy*)
+				- Ce que je pense être capable de faire.
+			- Intention
+				- Ce que je prévois de faire ; ce à quoi je suis prêt.
+			- Rationalité limitée
+				- Les raisons pour lesquelles je ne fais pas ce que je devrais faire.
+			- Caractéristiques personnelles
+				- Qui je suis.
+	- Sociologie
+		- **Définition** : Les individus sont fortement influencés et préoccupés par les opinions et les actions des autres. Les normes sociales, positives comme négatives, peuvent jouer un rôle majeur dans la prise de décision personnelle.
+		- **Composantes** :
+			- Influence sociale
+				- La manière dont les autres affectent ce que je pense, ressens et fais.
+			- Dynamique communautaire
+				- La capacité collective du groupe à changer.
+			- Méta-normes
+				- Ce qui définit et maintient la stratification, les rôles et le pouvoir au sein de la société.
+			- Contexte
+				- Le contexte dans lequel je vis.
+	- Environnement
+		- **Définition** : Un vaste ensemble d'influences existe, incluant les communications à tous les niveaux (interpersonnel, restreint, médias de masse, médias sociaux et numériques), les politiques et services publics, ainsi que les mutations économiques, politiques, sociales, technologiques et culturelles. Ce que les gens entendent dans le discours public et privé peut renforcer ou remettre en cause leur pensée. Tous ces éléments constituent le contexte dans lequel les individus vivent et façonnent leurs comportements.
+		- **Composantes** :
+			- Environnement communicationnel
+				- Les informations et opinions auxquelles je peux être exposé.
+			- Alternatives émergentes
+				- Ceux qui ne pensent pas ou ne se comportent pas comme la majorité, les nouvelles tendances.
+			- Entités gouvernementales / Institutions
+				- La manière dont les institutions influencent ce que je fais.
+			- Obstacles structurels
+				- Les éléments concrets qui m'empêchent d'agir.
+			- Contexte
+				- Le contexte dans lequel je vis.

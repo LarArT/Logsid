@@ -20,7 +20,6 @@
 - # recherche action
 	- [[recherche action]]
 - # Carte conceptuelle
-  collapsed:: true
 	- [[bourse]]
 	- [[Industrie_Defense_et_Aerospatiale]]
 	- [[sphere]]
@@ -441,7 +440,7 @@
 		- [[combinatoire topologique (Topological Combinatorics]] la révolution actuelle des mathématiques
 		- [[Méthode formel - vérification de programme]]
 		- [[méthodes formelles]]
-		- [[homotopie vs ZFC]]
+		- [[hott vs ZFC]]
 		- [[théorie des ensembles]]
 		- [[cryptogaphie]]
 		- [[Classification msc 2020]]
@@ -449,6 +448,7 @@
 		- [[statistiques]]
 		- [[preuve formelle]]
 		- [[topologie]]
+		- [[h-principe - integration convexe - gromov]]
 	- ## électricité
 	  collapsed:: true
 		- [[électricité]]
@@ -507,7 +507,6 @@
 		  collapsed:: true
 			- [[la procédure d'acte de juriste]]
 	- ## sciences humaines et social
-	  collapsed:: true
 		- [[psychologie]]
 		- [[méthodologie de l'enquête]]
 		- [[interface utilisateur gestalt]]
@@ -615,4 +614,9 @@
 	- [[Lectures/mooc fun science et entrepreneuriat]]
 - # gestion financière
 	- [[MOOC disaster ready finance dpro]]
--
+- # humanitaire
+	- [[cluster humanitaire]]
+	- [[logistique humanitaire]]
+	- [[aide humanitaire]]
+	- [[acteur majeur humanitaire]]
+	- [[planification stratégique d'urgence globale]]
