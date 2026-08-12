@@ -4,6 +4,7 @@
 - [[méthode d'évaluation]]
 - [[Système des Nations Unies]]
 - [[Veille informationnelle]]
+- [[construction hors site ou modulaire]]
 - # [[science ouverte / production scientifique]]
 - [[magazine]]
 - [IA for Scientific Discovery](https://github.com/mlelarge/ens-ml4sd)
@@ -294,8 +295,9 @@
 					- Veille géopolitique -> ARNAUD KALIKA recommandation dans le livre banc blanc CDSE
 						- Le Centre de crise et de soutien du quai d'Orsay de la sécurité des expatriés risque réput ationnel protection  de son patrimoine matériel e imma tériel.
 		- [[APS]]
-		- [[ensemble des documents relatifs à la sûreté]]
+		- [[ensemble des documents / plan relatifs à la sûreté]]
 		- [[cartographie des acteurs  matrice disarm guerre informationnelle]]
+		- [[Sûreté et Sécurité Civile: Cartographie Détaillée]]
 		- [[Lectures/mooc protection du secret et de la défense]]
 		- ## criminalité organisée
 			- [[convention de Palerme]]
