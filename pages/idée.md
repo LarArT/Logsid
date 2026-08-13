@@ -622,3 +622,5 @@
 	- [[aide humanitaire]]
 	- [[acteur majeur humanitaire]]
 	- [[planification stratégique d'urgence globale]]
+	- [[analyse du marché humanitaire]]
+	- [[template pour des rapports de mission humanitaire]]
