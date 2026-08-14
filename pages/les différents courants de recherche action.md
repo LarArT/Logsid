@@ -17,7 +17,7 @@
   * **Objectif :** Améliorer la qualité d'une pratique professionnelle de l'intérieur par le praticien lui-même.
   * **Méthode :** Auto-évaluation et développement professionnel. Le praticien utilise des outils scientifiques pour modéliser sa propre action, identifier ses réussites ou ses biais, et produire des savoirs actionnables.
   * **Terrain privilégié :** Les sciences de l'éducation, la santé (sciences infirmières), la formation d'adultes.
-- ### D. La Recherche-Action Intégrale ou Collaborative (Science Action)
+- ### D. La [[Recherche-Action Intégrale ou Collaborative (Science Action)]]
   * **Origine :** Chris Argyris et Donald Schön (années 1980/1990), l'école du MIT.
   * **Objectif :** Comprendre comment les organisations apprennent et pourquoi elles répètent leurs erreurs (apprentissage organisationnel).
   * **Méthode :** Analyse des écarts entre les « théories proclamées » (ce que les acteurs disent faire) et les « théories en action » (ce qu'ils font réellement). Elle vise à passer d'un apprentissage en simple boucle (corriger l'erreur sans changer les règles) à un apprentissage en double boucle (interroger les valeurs sous-jacentes du système).

@@ -1,5 +1,6 @@
-- [méthode "recherche évaluative"](https://scienceetbiencommun.pressbooks.pub/evaluationanthologie/front-matter/introduction/)
+- [[Evidence-Based Policy (Politique fondée sur les preuves)]] + [[recherche action]] =  [méthode "recherche évaluative"](https://scienceetbiencommun.pressbooks.pub/evaluationanthologie/front-matter/introduction/)
 - [[les différents lieux où s'effectue la recherche évaluative mixte]]
+- [[laboratoire à la pointe on recherche évaluative]]
 - Oui, cette approche qui intègre l'évaluation de manière circulaire et permanente tout au long du cycle de vie d'une politique porte un nom précis : l'**évaluation itérative** (ou **évaluation en boucle continue**).
   Au sein du LIEPP et dans les cercles académiques de Sciences Po, cette méthodologie s'inscrit plus largement dans ce qu'on appelle la **"Recherche Évaluative"** ou le **"Cycle de l'Évaluation"**.
   Voici les spécificités et les fondements théoriques de cette approche :
