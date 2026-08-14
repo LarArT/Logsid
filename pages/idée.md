@@ -9,6 +9,7 @@
 - [[magazine]]
 - [IA for Scientific Discovery](https://github.com/mlelarge/ens-ml4sd)
 - [[Typst]]
+- [[Stimulation cérébrale non invasive]]
 - [[Dispositif rTMS approuvé par la FDA]]
 - [[Programmation probabiliste]]
 - [[Diagramme de base]]

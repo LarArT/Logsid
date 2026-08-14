@@ -1,0 +1,47 @@
+# Index - Intégration complète stimulation médicale et cérébrale
+
+type:: index
+version:: intégrale
+sources-principales:: [[PDF source - stimulation médicale]], [[DOCX source - stimulation cérébrale]]
+
+## Démarrage
+
+- [[00 - Présentation du corpus]]
+- [[01 - Catégories]]
+- [[02 - Indications transversales]]
+- [[03 - Contre-indications transversales]]
+- [[04 - Mécanismes transversaux]]
+- [[05 - Comparaison des modalités]]
+- [[06 - Glossaire NIBS et stimulation médicale]]
+- [[07 - Bibliographie et sources]]
+- [[08 - Texte source injecté - PDF]]
+- [[09 - Texte source injecté - DOCX]]
+
+## Techniques détaillées
+
+- [[ECT]]
+- [[tDCS]]
+- [[tACS]]
+- [[tRNS]]
+- [[TUS]]
+- [[FUS]]
+- [[VNS]]
+- [[DBS]]
+- [[SCS]]
+- [[TENS]]
+- [[CES]]
+- [[TMS]]
+- [[rTMS]]
+- [[dTMS]]
+- [[iTBS]]
+- [[nTMS]]
+- [[aTMS]]
+- [[MST]]
+- [[PEMF]]
+- [[IPL]]
+- [[LLLT]]
+- [[PBM]]
+- [[Thérapie vibratoire]]
+- [[Neurostimulation restauratrice]]
+- [[AMPS]]
+- [[ESWT]]
