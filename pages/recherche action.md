@@ -1,4 +1,5 @@
 - [[les différents courants de recherche action]]
+- [[outil de recherche action]]
 - La démarche peut être suivi par l'intermédiaire de cadre logique de
 	- PM4NGOs, « Identification et Définition du projet », dans Guide de la Gestion de Projet pour les Professionnels du Développement \(Project DPro / PMD Pro\), 2e éd., Mars 2020, ch. 2.1, __pp. 48-81__
 - Pour qu'un praticien puisse analyser sa propre activité et **mesurer objectivement les effets** de ses changements sans biais émotionnel, la recherche-action s'appuie sur des cadres méthodologiques stricts, souvent formalisés en sciences de l'éducation, en santé ou en gestion.

@@ -1,4 +1,5 @@
 - [[framework emmie]]
+- [[framework 5Is]]
 - On touche ici au cœur de la méthodologie du **LIEPP** et de nombreux laboratoires d'évaluation modernes. Bien que les termes "Evidence-based" et "Recherche-action" puissent sembler proches, ils désignent des philosophies d'intervention différentes, souvent combinées pour créer ces fameuses "boucles continues".
   
   Voici comment ces deux concepts s'articulent :
