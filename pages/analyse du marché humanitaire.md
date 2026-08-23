@@ -1,5 +1,7 @@
-Source:: mouk analyse de marché calp
+Source:: mooc analyse de marché calp
 
+- [[note explicative du changement après un incident humanitaire]]
+- [[vocabulaire / champ lexical analyse de marché]]
 - Les ressources suivantes sont les documents d'orientation et les outils d'analyse de marché que nous passerons en revue:
   Une analyse de marché en amont d'une crise (Pre-Crisis Market Analysis - PCMA) une évaluation rapide des marchés (Rapid Assessment for Markets - RAM) recommandations pour l'analyse de marché (Market Analysis Guidance - MAG)
 - Le guide pratique EMMA: analyse et cartographie des marchés en état d'urgence

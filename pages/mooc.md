@@ -2,6 +2,7 @@
 - https://bneuf.auf.org/resource/home tout est là
 - [bpi](https://universite.bpifrance.fr/Catalog/trainings?sort=creationDate&order=desc&page=1)
   https://moodle.luniversitenumerique.fr/my/
+- Peaceopstraining.org
 - wolframcloud.com/
 - Agrégateur de mooc européen https://emc.eadtu.eu/partners
 - Aiforgov issu de projet ERC https://www.open.edu/openlearncreate/course/index.php?categoryid=2051

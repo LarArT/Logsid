@@ -1,3 +1,161 @@
+# Les grands principes de la commande publique sont précisés
+	- à l'article L3 du code de la commande publique (CCP)
+		- Principe d'égalité de traitement des candidats
+		- Principe de liberté d'accès
+			- Publicité
+			- Mise en concurrence
+		- Transparence de la procédure
+			- Lorsque les acheteurs font du sourcing doivent le faire avec précaution
+			- Lorsqu'il y a des questions les réponses doivent être transmis à l'ensemble des candidats
+			- Les délais doivent être respectés
+			- Aucun candidat ne doit être favorisé
+			- Les critères d'attribution doivent être mentionnés
+			- Tout le monde a ses principes peut faire l'objet de sanction pénale
+			- Quel que soit le montant et la procédure suivie
+	- Un marche
+		- Un contrat
+		- Avec un ou plusieurs opérateurs économiques
+		- Qui répond à des besoins
+			- Travaux
+			- Fourniture
+			- Service
+		- En contrepartie d'un prix ou de tout équivalent
+	- Les acheteurs peuvent procéder à l'achat
+		- seul
+		- ou à plusieurs
+			- La centrale d'achat
+				- passe des marchés publics **pour** des acheteurs dans lesquels les membres adhérents à cette centrale (organismes publics soumis au code) peuvent passer des commandes sans avoir à passer leur propre marché.
+			- Le groupement de command,e
+				- permet à plusieurs acheteurs de se **réunir** pour passer leurs marchés ensemble.
+				- Cela suppose que l'un d'entre eux soit désigné **coordonnateur** du groupement et
+				- qu'une **convention** régissant le fonctionnement du groupement soit établie et approuvée par chacun des membres.
+	- # Choix de la procédure
+		- Dépend de
+			- Montant
+			- Objet
+			- Circonstances de leur conclusion
+		- Trois catégories
+			- Procédure sans publicité ni en concurrence préalable
+			- Procédure adaptée (MAPA)
+				- Justifier par leur montant
+					- Ouvert
+					- Restreint
+						- Seuls les candidats sélectionnés pour remettre une offre
+				- En raison de leur objet
+					- Par exemple marché de formation, de séjour, de restauration collective, de gardiennage exetera
+				- Aucun délai de remise des offres et candidature n'est précisé
+				-
+			- Procédure formalisée
+				- Appel d'offre ouvert et restreint
+				- Procédure avec négociation
+				- Dialogue compétitif
+			- des marchés sans publicité et sans mise en concurrence
+				- urgence impérieuse comme
+					- en période de crise sanitaire,
+					- pour l'achat d'une œuvre d'art,\
+					- pour des marchés inférieurs à 40 000€ HT,
+					- pour l'achat des livres non scolaires achetés par une bibliothèque
+					- ou la collectivité si le besoin est inférieur à 90 000€ HT, pour en citer certains
+	- # choix de la publicité
+		- En fonction de leur montant
+			- Facultative
+				- en deux ça de 40000 €
+			- Adapter
+				- De 40000 à 90000 €
+				- Doit être publié soit
+					- Boamp
+					- Jal: journal d'annonce légale
+						- Seulement si les besoins sont inférieurs à 90000 € HT
+		- En fonction de leur objet
+			- Publicité libre sauf si le montant est supérieur à 750000 € HT
+			- Dans ce cas il doit être publié au journal officiel de l'Union européenne
+	- # appel d'offre ouvert
+		- 35 jours minimum
+	- # appel d'offre restreint
+		- 5 candidats minimum
+- **MOOC : Les fondamentaux des marchés publics (CNFPT 2024)**
+	- **Source bibliographique :** [CNFPT24] Centre national de la fonction publique territoriale, *MOOC Les fondamentaux des marchés publics : Document support*, CNFPT, 2024, pp. 15–53.
+	- **SÉANCE 2 : Les grandes étapes de la passation d'un marché public**
+		- **1. Définition préalable des besoins (Préalable indispensable)**
+			- **Enjeux & Risques :**
+				- Évite les avenants coûteux, les réclamations ou l'infructuosité.
+				- Prévient l'annulation juridique du marché (ex: CE, 29 juillet 1998, *Commune de Léognan*).
+				- Conditionne la forme du marché (classique ou accord-cadre) et le seuil de procédure.
+			- **Méthodes & Outils :**
+				- *Sourcing* : Rencontre préalable et transparente des candidats potentiels.
+				- *Benchmarking* : Analyse comparée des achats similaires d'autres acheteurs publics.
+				- Analyse des besoins fonctionnels et démarche en coût global (acquisition + exploitation + fin de vie).
+		- **2. Dossier de Consultation des Entreprises (DCE)**
+			- **Pièces non contractuelles :**
+				- *Règlement de la Consultation (RC)* : Règles du jeu, modalités de dépôt et de jugement des offres.
+				- *Avis d'Appel Public à la Concurrence (AAPC)* : Publicité (formulaires *eForms* BOAMP/JOUE).
+				- *DQE / DPGF* : Pièces financières d'analyse quantitative ou décomposition des prix.
+			- **Pièces contractuelles :**
+				- *Acte d'Engagement (AE)* : Seule pièce signée formalisant l'accord financier.
+				- *CCAP* : Conditions administratives particulières (délais, pénalités, règlements).
+				- *CCTP* : Spécifications et exigences techniques particulières.
+				- *CCAG / CCTG* : Cahiers généraux de référence applicables par secteur d'activité.
+		- **3. Analyse des offres & Critères d'attribution**
+			- **Filtrage initial des offres non conformes :**
+				- *Offre inappropriée* : Sans rapport avec le besoin exprimé.
+				- *Offre irrégulière* : Incomplète ou ne respectant pas les exigences du DCE.
+				- *Offre inacceptable* : Montant excédant les crédits budgétaires alloués.
+			- **Sélection de l'offre économiquement la plus avantageuse :**
+				- *Évolution réglementaire (Août 2026)* : Proscription du critère prix unique ; attribution fondée sur le coût (cycle de vie, impact environnemental) ou une pluralité de critères.
+			- **Prix Anormalement Bas (PAB) :**
+				- Obligation stricte d'exiger des explications écrites du candidat (R2152-3 CCP) avant tout rejet (CE, 5 mars 1999).
+		- **4. Négociation, Information & Notification**
+			- **Négociation :**
+				- Interdite en Appel d'Offres (AO) ouvert ou restreint.
+				- Autorisée en Procédure Adaptée (MAPA) si annoncée, et en Procédure Avec Négociation (PAN).
+			- **Information des candidats & Standstill :**
+				- Notification motivée des rejets d'offres.
+				- Respect obligatoire d'un délai de suspension (*standstill*) de 11 jours en procédure formalisée avant signature.
+			- **Notification & Publicité finale :**
+				- La notification rend le contrat exécutoire (après transmission au contrôle de légalité pour les collectivités).
+				- Publication de l'avis d'attribution sous 30 jours (réduit le délai du référé contractuel de 6 mois à 1 mois).
+	- **SÉANCE 3 : L'exécution d'un marché public**
+		- **1. Démarrage & Gestion des délais**
+			- Démarrage dès la notification (ou émission de l'Ordre de Service - OS en travaux).
+			- Décompte en **jours calendaires** (début à 00h00 le lendemain du fait générateur, fin à minuit).
+			- Pénalités de retard appliquées automatiquement en cas de dépassement non justifié.
+		- **2. Exécution financière & Règlements**
+			- **Acomptes :** Versés tous les 3 mois maximum, sous condition de *service fait*.
+			- **Avances :** Obligatoires pour les marchés > 50 000 € HT et > 2 mois (taux de 5% à 30%, jusqu'à 60%).
+			- **Délais de paiement :** 30 jours maximum pour les collectivités territoriales.
+			- **Sous-traitance :** Paiement direct obligatoire des sous-traitants de 1er rang dès 600 € TTC.
+			- **Marchés de travaux :** Chaîne comptable cumulative (Décomptes mensuels -> Projet de Décompte Général -> Décompte Général Définitif / DGD).
+			- **Financement :** Possibilité de cession ou nantissement de créance via un exemplaire unique / certificat de cessibilité.
+		- **3. Modifications du marché (Avenants & Clauses)**
+			- Encadrement strict (R2194-1 à R2194-9 CCP) pour éviter de fausser la concurrence initiale :
+				- *Prestations supplémentaires / Imprévus* : Plafonnés à **50% max** du montant initial par avenant.
+				- *Modifications de faible montant* : Plafonnées à **10%** (fournitures/services) ou **15%** (travaux) en cumulé.
+		- **4. Sanctions, Résiliation & Garanties**
+			- **Sanctions :** Pénalités financières, exécution aux frais et risques du titulaire défaillant.
+			- **Résiliation :**
+				- Unilatérale pour faute (après mise en demeure infructueuse).
+				- Pour motif d'intérêt général (avec indemnisation de 5% des prestations non réalisées).
+			- **Réception & Sûretés :**
+				- La réception transfère la propriété, met fin aux prestations et active les garanties légales.
+				- Retenue de garantie (max 5%) remplaçable par une garantie à première demande ou une caution.
+				- *Garanties légales (Travaux)* : Parfait achèvement (1 an), Biennale (2 ans), Décennale (10 ans).
+	- **SÉANCE 4 : Les risques liés aux marchés publics**
+		- **1. Risques pénaux & Atteintes à la probité**
+			- **Délit de favoritisme (Art. 432-14 Code Pénal) :**
+				- Octroi d'un avantage injustifié par infraction aux règles de mise en concurrence.
+				- Touche les élus, agents (même sans délégation) et assistants à maîtrise d'ouvrage (AMO).
+				- S'applique à toutes les procédures (y compris MAPA).
+				- L'intentionnalité est présumée chez les professionnels de la commande publique.
+			- **Autres infractions pénales :**
+				- Prise illégale d'intérêts (Art. 432-12 CP), Corruption (Art. 432-11 CP), Conflit d'intérêts (Art. L2141-10 CCP).
+			- **Dispositifs de prévention (Sapin II / AFA) :**
+				- Cartographie des risques, décisions collégiales, guides de déontologie, séparation des tâches.
+		- **2. Contrôles administratifs & Voies de recours**
+			- **Contrôle de légalité (Préfet) :** Transmission obligatoire sous 15 jours pour les marchés formalisés.
+			- **Référé précontractuel :** Introduit *avant* la signature ; suspend la procédure et sanctionne les manques de publicité/concurrence.
+			- **Référé contractuel :** Introduit *après* la signature si le référé précontractuel a été entravé.
+			- **Recours en contestation de validité (*Tropic / Tarn-et-Garonne*) :** Recours au fond ouvert aux tiers lésés sous 2 mois à compter de la publication de l'avis d'attribution.
+			- **Contrôle financier :** Chambres Régionales des Comptes (CRC) et Cour de discipline budgétaire et financière (CDBF).
 - [Européen](https://ted.europa.eu/en/?hl=fr-FR)
   [Français](https://www.boamp.fr/pages/entreprise-accueil/)
   [Mondial](https://play.google.com/store/apps/details?id=com.biddingsource.tenders)
@@ -6,4 +164,7 @@
 	- https://www.boamp.fr/pages/entreprise-accueil/
 - [[procédure]]
 - [[définition des besoins]]
+- Code Cpv : nomenclature européenne par exemple service de sécurité
+- Pour retrouver un marché particulier sur la plateforme européenne il faut renseigner l'identifiant de la procédure dans le champ de recherche ( exemple: Identifiant de la procédure : 52ca1c97-8ee1-480f-9326-e945819dbf43)
+- Le numéro Boamp: figure tout en haut d'un marché sous la forme Annonce n° 26-41951 par exemple
 -

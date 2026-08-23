@@ -6,6 +6,7 @@ Tags:: méthodologie
 - TODO Best Practices for Applied Quantitative Research in Complex Contexts sur disaster rezdy
 - [[guide de rédaction d'un questionnaire]]
 - [[ligne directrice de la rédaction d'enquête selon le census bureau]]
+- [sélectionner des indicateurs clés](`https://www.betterevaluation.org/frameworks-guides/communication-for-development/tasks/describe/use-measures-indicators-or-metrics)
 - [[guide pratique de la conception d'une enquête]]
 - [[enquête auto administrée]]
 - [[enquête de terrain]]

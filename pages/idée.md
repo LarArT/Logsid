@@ -73,10 +73,12 @@
 - [[icône religion]]
 - [[chinois]]
 - # aide humanitaire
+  collapsed:: true
 	- [[aide humanitaire dans les pays riches]]
 	- [[manuel sphère]]
 	- [[approvisionnement]]
-	-
+	- # shelter cluster
+	- https://unhabitat.org/our-city-plans-an-incremental-and-participatory-toolbox-for-urban-planning
 - # NRBC
 	- [[toxic industrial chimical]]
 - # drone
@@ -89,6 +91,8 @@
 - # Analyse géopolitique
 	- https://lca.logcluster.org/logistics-capacity-assessments-lcas
 	- Factbook cia
+	- https://fews.net/
+	- https://dataviz.vam.wfp.org/
 	- http://www.diplomatie.gouv.fr/fr/information-par-pays
 	- https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Severity/Severity-Crisis-Profile naviguer sur le site
 - ## criminologie
@@ -234,7 +238,8 @@
 		- mode alternatifs de règlement des litiges marl)
 		- Analyse du contexte : [voir la section template de ce document](https://gppac.net/files/2018-11/GPPAC%20CAFGuide_Interactive%20version_febr2018_.pdf)
 		  id:: 69b6a858-91ec-4d0b-9a4e-2ec5036c9d62
-		  [[conflit]]
+		- [[conflit]]
+		- [[la perception sélective]]
 	- ## sécurité publique
 		- [[Dictionnaire des vocabulaires et expressions-types utilisés dans la rédaction des procédures de police administrative et judiciaire]]
 		- [[Registre collectivité territoriale]]
@@ -525,6 +530,7 @@
 			-
 	- ## science comportementale
 		- [organisation internationale précurseuse des nudges](https://www.bi.team/)
+		- [[Applied Behavioural Science]]
 	- ## géographie
 		- [[lectures/mooc **Systèmes d'Information Géographique**]]
 		- StoryMapJS (Knight Lab)

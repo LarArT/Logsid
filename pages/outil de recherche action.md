@@ -7,6 +7,7 @@
   Développé par Jacques Chevalier et Daniel Buckles, c'est le cadre le plus abouti pour la recherche-action participative (RAP).
 - **Principe** : Il propose des modules visuels pré-structurés pour chaque étape de l'action.
 - **Composants clés** :
+  collapsed:: true
 	- **Social DOMAIN** : Pour cartographier les parties prenantes et leurs relations de pouvoir.
 	- **Option DOMAIN** : Pour hiérarchiser et choisir les actions à tester (*Rating & Ranking matrices*).
 	- **Timeline & Action** : Pour planifier l'expérimentation.
@@ -62,12 +63,7 @@
   | **2. Revue & Pivot** | Atelier de bilan réflexif (*After Action Review*) | Co-analyse des données qualitatives | Ensemble des parties prenantes | Décision formelle : **Ajuster**, **Poursuivre** ou **Abandonner** |
   
   | **3. Généralisation** | Déploiement révisé à plus grande échelle | Enquête d'impact intermédiaire (MSNA / Kobo) | Équipe humanitaire globale | Atteinte des indicateurs de performance et de qualité |
-- ### Template 3 : Canvas du Journal de Bord du Chercheur-Acteur
-  
-  L'outil central de la recherche-action pour transformer l'observation du quotidien en matériau scientifique.
-  
-  ```
-  ### CANEVAS DU JOURNAL DE BORD (Saisie hebdomadaire)
+- ### CANEVAS DU JOURNAL DE BORD (Saisie hebdomadaire)
   
   * **Date & Lieu** :
   * **Rédacteur / Posture** : [ex: Humanitaire / Chercheur affilié]
@@ -86,7 +82,6 @@
   
   5. Réajustements proposés pour la semaine suivante (Changement dans l'action) :
    - [...]
-  ```
 - ## 3. Ressources et boîtes à outils téléchargeables
   
   Si vous souhaitez télécharger des documents sources pour enrichir votre cadre :
