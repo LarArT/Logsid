@@ -1,4 +1,5 @@
-- Voici une fiche de révision détaillée et structurée basée sur le document fourni, conçue pour retenir l'essentiel en un coup d'œil.
+-
+- [[principal KPI logistique humanitaire]]
 - ## 1. Définition et Fondements de la Performance
   La performance en entreprise sert d'indicateur critique pour évaluer l'alignement des actions avec les objectifs stratégiques afin d'atteindre les résultats souhaités. Elle comble le fossé entre l'intention et la réalisation.
 - ### La Dualité Centrale : Efficacité vs Efficience

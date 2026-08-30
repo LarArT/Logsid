@@ -1,0 +1,8 @@
+- [[le sachant et son environnement social]]
+-
+- Transparence
+- Scinder le problème et les associés à un plan d'action -> maîtrise générale
+- Reconnaître les incertitudes -> endiguer le terrorisme
+- Itération sur les différentes cibles de la menace = communiquer, scinder, agir (réduire le champ des possibles), exposé les faiblesses en les maîtrisant, nudger la menace afin de l'endiguer, tout en maintenant une communication transparente et responsabilisante.
+-
+-

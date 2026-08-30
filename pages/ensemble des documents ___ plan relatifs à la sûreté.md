@@ -1,152 +1,255 @@
+tags:: plan
+
 - SÛRETÉ / SÉCURITÉ (système global)
 	- NIVEAU ÉTAT
-		- DDRM
-			- Responsable : Préfet
-			- Sert à :
-			  → DICRIM
-			  → PCS
-		- PPI
-			- Responsable : Préfet
-			- Sert à :
-			  → PCS
-			  → POI (coordination)
-		- ORSEC
-			- Responsable : Préfet
-			- Sert à :
-			  → PCS
-			  → Gestion de crise territoriale
-	- NIVEAU COMMUNAL
-		- DICRIM
-			- Responsable : Maire
-			- Alimenté par :
-			  ← DDRM
-			- Sert à :
-			  → PCS
-			  → Information population
-		- PCS (pivot communal)
-			- Responsable : Maire / Directeur de crise
-			- Alimenté par :
-			  ← DICRIM
-			  ← PPI
-			  ← ORSEC
-			  ← Cartographie des risques
-			- Sert à :
-			  → Organisation des secours
-			  → Coordination avec établissements
-	- NIVEAU ORGANISATION
-		- CONNAISSANCE DES RISQUES
-			- Analyse des risques
-				- Responsable : Direction / Risk manager
+		- STRATÉGIE ET POSTURE NATIONALES
+			- VIGIPIRATE & SGDSN
+				- Responsable : Premier ministre / SGDSN
 				- Sert à :
-				  → DUERP
-				  → Plan de sûreté
-				  → PCA
-				  → Plan de gestion de crise
-			- Cartographie des risques
-				- Responsable : Risk manager
+					- Posture nationale de sécurité et de vigilance
+					- Déclinaison en plans spécifiques (Piratair, Piratox, Pirat-NRBC, Piratenet)
+					- Directives de sûreté pour les ministères et établissements
+			- PNO (Plan National d'Organisation des Secours) / PNSR
+				- Responsable : Ministère de l'Intérieur
 				- Sert à :
-				  → PCS (interface externe)
-				  → Plans internes
-			- Étude de vulnérabilité
-				- Responsable : Sûreté / sécurité
+					- ORSEC national
+					- Coordination des grands événements et crises majeures
+			- PSSI-E (Politique de Sécurité des SI de l'État) / NIS 2 (Cadre européen)
+				- Responsable : ANSSI / SGDSN
 				- Sert à :
-				  → Plan de sûreté
-		- PRÉVENTION
-			- DUERP
-				- Responsable : Employeur
+					- Sécurité des réseaux étatiques, OIV, OSE et entités essentielles
+		- PRÉVENTION ET RISQUES TERRITORIAUX
+			- DDRM (Dossier Départemental sur les Risques Majeurs)
+				- Responsable : Préfet
+				- Sert à :
+					- DICRIM
+					- PCS / PICS
+			- PPRT (Plan de Prévention des Risques Technologiques)
+				- Responsable : Préfet (DREAL)
 				- Alimenté par :
-				  ← Analyse des risques
+					- Études de dangers (ICPE / Seveso)
 				- Sert à :
-				  → PAPRIPACT
-			- PAPRIPACT
-				- Responsable : Employeur
+					- Maîtrise de l'urbanisme (expropriation, délaissement, renforcement)
+					- PLU / PLUi (Servitude d'Utilité Publique)
+					- DICRIM
+			- PPRN / PPRNi / PPRL (Plan de Prévention des Risques Naturels / Inondation / Littoraux)
+				- Responsable : Préfet (DDTM)
 				- Sert à :
-				  → Actions de prévention
-			- Plan de sûreté
-				- Responsable : Responsable sûreté
+					- Réglementation des zones constructibles
+					- PLU / PLUi (Servitude d'Utilité Publique)
+					- DICRIM
+		- INTERVENTION ET GESTION DE CRISE
+			- PPI (Plan Particulier d'Intervention)
+				- Responsable : Préfet
 				- Alimenté par :
-				  ← Analyse des risques
-				  ← Étude de vulnérabilité
+					- Études de dangers industrielles / nucléaires
 				- Sert à :
-				  → Plan de gestion de crise
-		- PRÉPARATION
-			- Plans d’évacuation
-				- Responsable : Sécurité incendie
+					- PCS
+					- POI (coordination externe)
+			- ORSEC (Organisation de la Réponse de Sécurité Civile)
+				- Responsable : Préfet (Départemental/Maritime) / Préfet de zone
 				- Sert à :
-				  → Gestion de crise
-			- Consignes de sécurité
-				- Responsable : Employeur / exploitant
+					- Mobilisation de tous les moyens publics et privés
+					- PCS
+					- Gestion de crise territoriale
+	- NIVEAU INFRASTRUCTURES CRITIQUES (OIV / OSE / ENTITÉS ESSENTIELLES)
+		- SAIV (Sécurité des Activités d'Importance Vitale) / Cadre REC
+			- Responsable : SGDSN / Ministères coordonnateurs
+			- Sert à :
+				- PNOIV
+		- PNOIV (Plan National d'Orientation d'Importance Vitale)
+			- Responsable : Ministères de tutelle
+			- Sert à :
+				- PSO
+		- PSO (Plan de Sécurité d'Opérateur)
+			- Responsable : Dirigeant de l'OIV / OSE
+			- Sert à :
+				- PPI
+				- PPP
+		- PPP (Plan Particulier de Protection)
+			- Responsable : Responsable de site OIV (Point d'Importance Vitale - PIV)
+			- Sert à :
+				- Sûreté physique et logique des PIV
+	- NIVEAU COMMUNAL & INTERCOMMUNAL
+		- URBANISME ET INFORMATION
+			- DICRIM (Dossier d'Information Communal sur les Risques Majeurs)
+				- Responsable : Maire
+				- Alimenté par :
+					- DDRM
+					- PPRT
+					- PPRN
 				- Sert à :
-				  → Gestion de crise
-			- PPMS (écoles)
-				- Responsable : Chef d’établissement
+					- PCS
+					- Information de la population
+			- PLU / PLUi (Plan Local d'Urbanisme)
+				- Responsable : Maire / Président de l'EPCI
+				- Alimenté par :
+					- PPRT (SUP)
+					- PPRN (SUP)
 				- Sert à :
-				  → Gestion de crise
-			- POI (industrie)
+					- Encadrement des permis de construire et renforcement du bâti
+		- ORGANISATION DES SECOURS
+			- PICS (Plan Intercommunal de Sauvegarde)
+				- Responsable : Président de l'EPCI
+				- Alimenté par :
+					- PCS des communes membres
+				- Sert à :
+					- Mutualisation des moyens logistiques et humains de crise
+			- PCS (Plan Communal de Sauvegarde - Pivot local)
+				- Responsable : Maire / Directeur de crise
+				- Alimenté par :
+					- DICRIM
+					- PPI
+					- ORSEC
+					- Cartographie communale des risques
+				- Sert à :
+					- Alertes et évacuation des populations
+					- Organisation des secours locaux
+					- Support aux établissements (écoles, ERP, entreprises)
+	- NIVEAU ORGANISATION / ÉTABLISSEMENT
+		- CONNAISSANCE DES RISQUES & ÉVALUATION
+			- Analyse des risques (EBIOS RM, ISO 31000, HAZOP)
+				- Responsable : Direction / Risk Manager / Sûreté
+				- Sert à :
+					- DUERP
+					- Étude de dangers (EDD)
+					- Plan de sûreté / PSSI
+					- PCA / PGC
+			- Étude de dangers (EDD - Industrie / ICPE)
 				- Responsable : Exploitant
-				- Coordonné avec :
-				  ↔ PPI
 				- Sert à :
-				  → Gestion de crise
+					- PPRT (État)
+					- PPI (Préfet)
+					- POI (Site)
+			- Cartographie des risques & Diagnostic de vulnérabilité
+				- Responsable : Risk Manager / Responsable Sûreté
+				- Sert à :
+					- PCS (interface externe)
+					- Travaux de renforcement bâti / Sûreté
+		- PRÉVENTION & CONFORMITÉ
+			- DUERP (Document Unique d'Évaluation des Risques Professionnels)
+				- Responsable : Employeur
+				- Alimenté par :
+					- Analyse des risques SST
+				- Sert à :
+					- PAPRIPACT
+			- PAPRIPACT (Programme Annuel de Prévention)
+				- Responsable : Employeur
+				- Sert à :
+					- Plan d'actions de prévention et d'amélioration SST
+			- Plan de sûreté / Plan de Protection PIV / Notice de Sûreté
+				- Responsable : Responsable Sûreté
+				- Alimenté par :
+					- Analyse de la menace / VIGIPIRATE
+					- Diagnostic de vulnérabilité
+				- Sert à :
+					- Contrôle d'accès, vidéo, gardiennage
+					- Plan de gestion de crise
+			- PSSI (Politique de Sécurité des Systèmes d'Information)
+				- Responsable : RSSI / DSI
+				- Alimenté par :
+					- EBIOS RM / NIS 2
+				- Sert à :
+					- PGC Cyber
+					- PRI / PCA-IT
+		- PRÉPARATION & PLANS SPÉCIFIQUES
+			- INCENDIE & ÉVACUATION (ERP / IGH / Code du Travail)
+				- Plans d'évacuation, d'intervention et Registre de Sécurité
+					- Responsable : Responsable Sécurité Incendie (SSIAP)
+					- Sert à :
+						- Évacuation des occupants
+						- Intervention du SDIS (Plan Établissement)
+				- Consignes de sécurité, Permis de feu & Plan de prévention (Entreprises extérieures)
+					- Responsable : Employeur / Exploitant
+					- Sert à :
+						- Encadrement des travaux à risque
+			- RISQUES MAJEURS & SECTORIELS
+				- PPMS (Plan Particulier de Mise en Sûreté - Établissements scolaires)
+					- Responsable : Chef d'établissement
+					- Sert à :
+						- Protection confinement / Évacuation (Risques majeurs & Attentat-intrusion)
+				- POI (Plan d'Opération Interne - Industrie Seveso / ICPE)
+					- Responsable : Exploitant
+					- Coordonné avec :
+						- PPI
+					- Sert à :
+						- Gestion des accidents majeurs internes au site
+				- PUS (Plan d'Urgence Simplifié - ICPE enregistrement)
+					- Responsable : Exploitant
+					- Sert à :
+						- Gestion d'incident industriel localisé
+				- Plan Blanc / PUM (Santé / Hôpitaux)
+					- Responsable : Directeur d'établissement de santé
+					- Sert à :
+						- Mobilisation des moyens humains et matériels en cas d'afflux de victimes
+				- Plan Bleu (EHPAD / Médico-social)
+					- Responsable : Directeur d'établissement
+					- Sert à :
+						- Gestion des crises sanitaires, epidémiques et climatiques (Canicule/Grand froid)
+				- PNSM / ISPS (Sûreté Maritime et Portuaire / Aérienne)
+					- Responsable : Agent de Sûreté de l'Installation Portuaire (ASIP) / Transporteur
+					- Sert à :
+						- Prévention des actes illicites et terroristes
 		- GESTION DE CRISE (CŒUR DU SYSTÈME)
-			- Plan de gestion de crise
-				- Responsable : Direction
+			- Plan de Gestion de Crise (PGC)
+				- Responsable : Direction / Crisis Manager
 				- Alimenté par :
-				  ← Plan de sûreté
-				  ← Analyse des risques
-				  ← PCS (interface externe)
+					- Plans de sûreté / POI / PPMS
+					- PCS (interface externe)
 				- Sert à :
-				  → Cellule de crise
-				  → PCA
-				  → Communication
-			- Cellule de crise
-				- Responsable : Direction
+					- Activation de la cellule de crise
+					- Plan de communication
+					- Déclenchement du PCA
+			- Cellule de crise (Poste de Commandement / PC Crise)
+				- Responsable : Dirigeant / Directeur de crise
 				- Utilise :
-				  ← Plan de gestion de crise
+					- PGC
+					- Fiches réflexes / Annuaire de crise
 				- Produit :
-				  → Décisions
-			- Fiches réflexes
-				- Responsable : Sécurité
-				- Utilisées par :
-				  → Cellule de crise
-			- Main courante
-				- Responsable : Secrétariat de crise
+					- Arbitrages et décisions stratégiques
+			- Fiches réflexes & Main courante de crise
+				- Responsable : Secrétariat de crise / Sûreté
 				- Sert à :
-				  → RETEX
-		- CONTINUITÉ
-			- PCA
-				- Responsable : Direction
+					- Exécution immédiate des tâches d'urgence
+					- Traçabilité horodatée
+					- RETEX
+		- CONTINUITÉ ET REPRISE D'ACTIVITÉ
+			- PCA (Plan de Continuité d'Activité - ISO 22301)
+				- Responsable : Direction / BCM Manager
 				- Alimenté par :
-				  ← Analyse des risques
-				  ← Plan de gestion de crise
+					- BIA (Business Impact Analysis)
+					- PGC
 				- Sert à :
-				  → PRA
-			- PRA
-				- Responsable : IT / DSI
+					- Maintien des activités essentielles en mode dégradé
+					- PRA
+			- PRA (Plan de Reprise d'Activité - Métiers)
+				- Responsable : Responsables Métiers / Opérations
 				- Sert à :
-				  → Reprise technique
+					- Restauration progressive des fonctions nominales
+			- PRI / PCA-IT (Plan de Secours / Reprise Informatique)
+				- Responsable : DSI / RSSI
+				- Sert à :
+					- Restauration des systèmes, applications et données
 		- COMMUNICATION
 			- Plan de communication de crise
-				- Responsable : Communication
+				- Responsable : Directeur de la Communication
 				- Alimenté par :
-				  ← Plan de gestion de crise
+					- Cellule de crise
 				- Sert à :
-				  → Messages internes/externes
-			- Procédures d’alerte
-				- Responsable : Sécurité
+					- Communication interne (personnels), externe (médias, autorités, familles)
+			- Dispositifs et procédures d'alerte
+				- Responsable : Sûreté / DSI
 				- Sert à :
-				  → Activation crise
+					- Diffusions rapides des alarmes et convocation des équipes
 		- AMÉLIORATION CONTINUE
-			- RETEX
-				- Responsable : Direction / sécurité
+			- RETEX (Retour d'Expérience)
+				- Responsable : Risk Manager / Sûreté
 				- Alimenté par :
-				  ← Main courante
-				  ← Exercices
+					- Main courante de crise
+					- Bilan d'exercices
 				- Sert à :
-				  → Analyse des risques (boucle)
-			- Exercices
-				- Responsable : Sécurité
+					- Révision de l'analyse des risques et mise à jour des plans
+			- Programme d'Exercices et d'Entraînements
+				- Responsable : Responsable Sécurité / Sûreté
 				- Teste :
-				  → Plan de crise
-				  → PCA
--
+					- Réactivité de la cellule de crise, POI, PPMS, PCA, PSSI

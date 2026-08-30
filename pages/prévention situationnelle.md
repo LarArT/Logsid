@@ -1,5 +1,7 @@
 Alias:: space syntax
 
+-
+- [être là sans être là](https://youtu.be/q9Q1q4FDXbQ?si=BefCegXV68MxBo0S)
 - Pour obtenir une expertise solide en **prévention situationnelle** (l'art de modifier l'environnement pour réduire les délits), plusieurs ressources officielles françaises sont accessibles gratuitement.
   Voici les documents et portails essentiels pour votre documentation :
 - ### 1. La "Boîte à Outils" de la SNPD (Document de Référence)

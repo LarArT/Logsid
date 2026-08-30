@@ -5,6 +5,7 @@
 - [[Système des Nations Unies]]
 - [[Veille informationnelle]]
 - [[construction hors site ou modulaire]]
+- [[réponse à la crise humanitaire attentat otage]]
 - # [[science ouverte / production scientifique]]
 - [[magazine]]
 - [IA for Scientific Discovery](https://github.com/mlelarge/ens-ml4sd)
@@ -73,7 +74,6 @@
 - [[icône religion]]
 - [[chinois]]
 - # aide humanitaire
-  collapsed:: true
 	- [[aide humanitaire dans les pays riches]]
 	- [[manuel sphère]]
 	- [[approvisionnement]]
@@ -87,7 +87,7 @@
 - # Union européenne
 	- [[naviguer parmi les projets ERC]]
 	- [[structure ERC]]
--
+- 8
 - # Analyse géopolitique
 	- https://lca.logcluster.org/logistics-capacity-assessments-lcas
 	- Factbook cia
