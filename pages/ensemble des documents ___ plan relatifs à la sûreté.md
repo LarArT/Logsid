@@ -60,12 +60,12 @@ tags:: plan
 		- PNOIV (Plan National d'Orientation d'Importance Vitale)
 			- Responsable : Ministères de tutelle
 			- Sert à :
-				- PSO
+				- PSO https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037336232/?hl=fr-FR
 		- PSO (Plan de Sécurité d'Opérateur)
 			- Responsable : Dirigeant de l'OIV / OSE
 			- Sert à :
 				- PPI
-				- PPP
+				- PPP.
 		- PPP (Plan Particulier de Protection)
 			- Responsable : Responsable de site OIV (Point d'Importance Vitale - PIV)
 			- Sert à :
@@ -253,3 +253,4 @@ tags:: plan
 				- Responsable : Responsable Sécurité / Sûreté
 				- Teste :
 					- Réactivité de la cellule de crise, POI, PPMS, PCA, PSSI
+-

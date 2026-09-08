@@ -1,4 +1,7 @@
-- **[cluster logistique humanitaire](https://wfp.eu.crossknowledge.com/site/channel/278)**
+# logistique
+	- **[cluster logistique humanitaire](https://wfp.eu.crossknowledge.com/site/channel/278)**
+	- https://customs-taxation.learning.europa.eu/local/mvpdgtaxud/pages/mvpdgtaxud-trainee/my/index.php
+	- Opérateur économique agréé : https://taxation-customs.ec.europa.eu/taxation/eu-training/customs-tax-eu-learning-portal_fr
 - https://bneuf.auf.org/resource/home tout est là
 - [bpi](https://universite.bpifrance.fr/Catalog/trainings?sort=creationDate&order=desc&page=1)
   https://moodle.luniversitenumerique.fr/my/

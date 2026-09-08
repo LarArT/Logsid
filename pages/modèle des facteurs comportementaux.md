@@ -1,6 +1,5 @@
 Source:: MOOC Agora UNICEF
 
-- Voici la traduction structurée du **Modèle des Facteurs Comportementaux (Behavioural Drivers Model - BDM)** au format *outliner*, parfaitement adaptée pour Logseq.
 - # Modèle des Facteurs Comportementaux (BDM)
 	- Psychologie
 		- **Définition** : Caractéristiques démographiques et sociales. Cela inclut les croyances, les intentions, les perceptions et les biais qui influencent la prise de décision.

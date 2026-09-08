@@ -1,0 +1,31 @@
+- Pour concevoir et réaliser une étude de marché adaptée aux standards du **Global Shelter Cluster** (GSC) dans le cadre de la reconstruction (qu'il s'agisse d'abris d'urgence, transitoires ou permanents), plusieurs outils, cadres méthodologiques et références de référence permettent de structurer la démarche :
+- ### 1. Ressources et boîtes à outils spécifiques du Shelter Cluster
+- **Global Shelter Cluster - Market-Based Programming & Shelter**
+	- *Description :* Le site officiel du Global Shelter Cluster centralise les notes d'orientation, fiches pratiques (*tip sheets*) et guides méthodologiques pour l'intégration des transferts monétaires (CVA - *Cash and Voucher Assistance*) et l'analyse des marchés dans l'habitat.
+	- *Thématiques couvertes :* Analyse des chaînes d'approvisionnement en matériaux (bois, tôles ondulées, parpaings, etc.), services de planification et d'architecture, et foncier.
+- **Labour Market Analysis to Support the Construction Sector (Framework & Toolkit)**
+	- *Description :* Développé sous l'égide du Global Shelter Cluster, ce kit d'outils est indispensable pour évaluer le marché du travail (main-d'œuvre qualifiée et non qualifiée) indispensable à la reconstruction. Il permet d'analyser la disponibilité des compétences locales, les niveaux de rémunération et les risques d'inflation des salaires post-crise.
+- **S-PCMA (Shelter Pre-Crisis Market Assessment)**
+	- *Description :* Une adaptation sectorielle du cadre classique PCMA, conçue pour anticiper et analyser les marchés liés au logement, à la terre et aux biens de première nécessité avant ou dès le début d'une crise. Développé conjointement par la *Terwilliger Center for Innovation in Shelter* (Habitat for Humanity) et l'Université de Notre Dame.
+- ### 2. Cadres et plateformes inter-agences de référence
+- **Markets in Crisis (MiC) Community of Practice**
+	- *Description :* Une plateforme de référence mondiale (hébergeant des ressources partagées avec le Shelter Cluster) dédiée aux approches fondées sur le marché (*Market-Based Programming*). Elle propose des cas d'études, des webinaires et des guides pratiques pour relier l'aide humanitaire à la relance économique locale.
+- **CALP Network (Cash Learning Partnership) & Normes MISMA**
+	- *Description :* Bien que généraliste sur les transferts monétaires, CALP définit les **Minimum Standards for Market Analysis (MISMA)**. C'est le standard incontournable pour s'assurer que l'évaluation des marchés est rigoureuse, qu'il s'agisse d'évaluer la faisabilité d'une aide en espèces pour l'achat de matériaux ou de bons d'achat (*vouchers*).
+- **MSMA (Multi-Sector Market Assessment) & Outils d'évaluation rapide (ex. Stoplight)**
+	- *Description :* Utilisés pour évaluer la fonctionnalité des marchés locaux sur le long terme ou en phase d'urgence rapide. Des agences comme le NRC ou le HCR publient des boîtes à outils MSMA permettant d'analyser l'offre, la demande, la concurrence et la chaîne logistique des matériaux de construction.
+- ### 3. Standards techniques et humanitaires globaux
+- **The Sphere Handbook (Le Manuel Sphère) - Chapitre "Shelter and Settlement"**
+	- *Description :* Pose les exigences minimales en matière de qualité de vie, d'espace couvert, de sécurité structurelle et de pertinence culturelle. L'étude de marché de la reconstruction doit impérativement s'aligner sur ces standards pour garantir que les matériaux disponibles localement permettent d'atteindre le niveau de sécurité requis (résistance aux aléas climatiques, normes constructives).
+- **IOM Global Shelter and Settlements Strategy / Road Map**
+	- *Description :* Intègre la dimension des colonies humaines et de la durabilité des marchés de construction locaux, en insistant sur l'approche participative et l'utilisation des ressources locales pour éviter de distordre l'économie de la zone touchée.
+- ### 💡 Conseils méthodologiques pour l'étude de marché shelter :
+- **Ne pas se limiter aux marchandises :** Une étude de marché pour la reconstruction ne doit pas seulement auditer les quincailleries et les fournisseurs de ciment ou de bois, mais aussi analyser le **marché du travail** (artisans, maçons), le **marché foncier et locatif**, ainsi que les services financiers et légaux (sécurité foncière et droits de propriété).
+- **Éviter les effets pervers (*Do No Harm*) :** L'analyse doit évaluer si l'injection de liquidités ou l'achat massif de matériaux par les humanitaires risque de créer des tensions sur les prix locaux au détriment des populations non ciblées.
+- # ressource
+- Voici les liens directs vers les principales ressources mentionnées pour structurer une étude de marché dans le cadre humanitaire (secteur de l'habitat / reconstruction) :
+- **Plateforme officielle du Global Shelter Cluster :** [sheltercluster.org](https://www.sheltercluster.org) (centrale pour l'ensemble des notes d'orientation et fiches pratiques).
+- **Cadre et boîte à outils sur le marché du travail (Labour Market Analysis) :** [Télécharger le document-cadre du GSC sur Markets in Crisis](https://marketsincrises.net/wp-content/uploads/2021/12/LABOUR-MARKET-ANALYSIS.pdf).
+- **Portail de la communauté de pratique *Markets in Crisis* (MiC) :** [marketsincrises.net](https://marketsincrises.net) (proposant des ressources transversales pour l'analyse des chaînes d'approvisionnement, des matériaux et du secteur de la construction).
+- **Section dédiée *Shelter and Settlements* de MiC :** [Page Shelter & Settlements sur MiC](https://marketsincrises.net/shelter-and-settlements/) (regroupant les liens vers le S-PCMA, l'analyse des marchés de location et les guides d'évaluation).
+- **Guide de référence PCMA (Pre-Crisis Market Analysis) :** [Ressources PCMA sur MiC](https://marketsincrises.net/resources/pre-crisis-market-analysis-pcma/).

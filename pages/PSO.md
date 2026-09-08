@@ -1,3 +1,5 @@
+-
+- [[template PSO]]
 - En France, la protection des structures critiques repose sur le dispositif de **Sécurité des Activités d’Importance Vitale (SAIV)**, piloté par le SGDSN. Pour un Opérateur d’Importance Vitale (OIV), la planification de la sécurité ne se résume pas à un seul document, mais s'organise autour d'un ensemble de plans complémentaires et réglementaires.
   Le cadre législatif évolue pour transposer les exigences européennes de la directive Résilience des Entités Critiques (REC). Le traditionnel **Plan de Sécurité d'Opérateur (PSO)** fusionne progressivement avec le Plan de Continuité d'Activité pour devenir le **Plan de Résilience Opérateur (PRO)**.
   Voici l'articulation méthodologique et réglementaire de ces plans de prévention.
