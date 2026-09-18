@@ -1,4 +1,3 @@
-- https://www.referentsurete.fr/materielresistance.html
 - Cnpp Apsad r[ 31, 81, 32, 82]
 - [Protection du Patrimoine Scientifique et Techniques](https://www.legifrance.gouv.fr/download/pdf/circ?id=36329)
   collapsed:: true

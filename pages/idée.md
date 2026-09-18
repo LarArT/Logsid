@@ -159,10 +159,11 @@
 			- Environnement de travail
 			- Compétence du travailleur
 - # sécurité / sûreté / analyste
+	- [[Veille sûreté]]
 	- ## certification norme / réglementation
 		- [[SGDSN Security Mechanisms]]
-		- [[iso 18788]] https://cdn.standards.iteh.ai/samples/63380/e48f665b9c9a4c7f8668702597859f39/ISO-18788-2015.pdf
-	- [[NF X50-777]]
+		- [[iso 18788]] Système de management des  opérations de sécurité privéeshttps://cdn.standards.iteh.ai/samples/63380/e48f665b9c9a4c7f8668702597859f39/ISO-18788-2015.pdf
+	- [[NF X50-777]] les exigences de qualité pour les services des entreprises privées de prévention et de sécurité.
 	- # [[formation]]
 	- [contrôle de personnes violente](https://controletp.ccdmd.qc.ca/videos/1-05-defense-contre-lattaque-sournoise-aux-jambes-de-front/)
 	- [[magazine de référence]]
@@ -174,8 +175,11 @@
 	  https://shieldproject.eu/wp-content/uploads/2023/04/public_spaces_rvw_final_1.pdf
 	- [Plateforme de simulation pour la sécurité urbaine](https://safe-cities.eu/?hl=fr-FR)
 	- ## infrastructure
+		- https://www.referentsurete.fr/materielresistance.html résistance du matériel pour le référent sur tes
+		- ### legal
+		- [[directive CER de l'Union européenne]]
 		- [[check liste menace infrastructure]]
-		- [état de l'art](https://www.thepurpleguide.co.uk/)
+		- [état de l'art](https://www.thepurpleguide.co.uk/) purple guide
 		- https://www.wbdg.org/FFC/GSA/site_security_dg.pdf
 		- [protection infrastructure](https://shieldproject.eu/wp-content/uploads/2023/04/public_spaces_rvw_final_1.pdf) : la page 8 référence un grand nombre de documentation
 			- https://prosperes.eu/wp-content/uploads/DELIVERABLE-Prosperes-security-by-design-Guidebook.pdf
@@ -186,11 +190,28 @@
 		- [[évaluation des risques infrastructures]]
 		- https://elearning.pphs.pl/course-offer/
 		- [Installations Classées pour la Protection de l'Environnement (ICPE)](https://aida.ineris.fr/thematiques/nomenclature-icpe)
+		- ## physique
+			- [méthode EBIOS pour le physique](https://club-ebios.org/site/wp-content/uploads/presentations/ClubEBIOS-2010-01-19-MANGIN-MARCHAL-ZAMORA-CONCHON.pdf)
+		- ## Urbanisme
+		  id:: 69fdea9a-2d2a-4405-a4d2-7da5e20df76e
+			- [[CPTED]]
+			- [[ingénierie technique des systèmes de sûreté]]
+				-
+		- ## opérateur vidéoprotection
+			- https://www.seine-et-marne.fr/sites/default/files/media/downloads/dadt-22-brochure-guide-videoprotection_mar22-vf_04042022.pdf
+			- [[présentation vidéo surveillance]]
+			- [[fiche de suivi vidéo protection]] : un acte légal
+			- [feuille de registre](https://www.cnil.fr/sites/default/files/atoms/files/registre_rgpd_basique.pdf)
+			  Vidéo surveillance
+				- [texte réglementaire](https://www.aude.gouv.fr/Actions-de-l-Etat/Securite-et-protection-de-la-population/Cameras/Videoprotection/Que-dit-la-loi/Reglementation)
+			- [[plan de formation agent de vidéoprotection]]
+			- ### caméra de vidéoprotection
+			- [[Technologie de transmission]]
+			- [[étude de cas système de vidéo surveillance]]
+			  [[étude de cas détection intrusion]]
+			- Méthodologie de mise en place d'un dispositif : https://mobile.interieur.gouv.fr/Videoprotection/Le-guide-methodologique/Les-3-parties-du-guide-methodologique
 	- ## dirigeant
 		- [[élaboration d'une prestation de sûreté]]
-	- ## Urbanisme
-	  id:: 69fdea9a-2d2a-4405-a4d2-7da5e20df76e
-		- [[CPTED]]
 	- ## analyste
 		- [[publication de référence]]
 	- ## sécurité
@@ -249,17 +270,6 @@
 		- [[classification internationale des infractions]]
 		- [donner issue de la classification internationale des infractions](http://data.unodc.org/node/1)
 		- [[sécurité civile]]
-	- ## opérateur vidéoprotection
-		- https://www.seine-et-marne.fr/sites/default/files/media/downloads/dadt-22-brochure-guide-videoprotection_mar22-vf_04042022.pdf
-		- [[présentation vidéo surveillance]]
-		- [[fiche de suivi vidéo protection]] : un acte légal
-		- [feuille de registre](https://www.cnil.fr/sites/default/files/atoms/files/registre_rgpd_basique.pdf)
-		  Vidéo surveillance
-			- [texte réglementaire](https://www.aude.gouv.fr/Actions-de-l-Etat/Securite-et-protection-de-la-population/Cameras/Videoprotection/Que-dit-la-loi/Reglementation)
-		- [[plan de formation agent de vidéoprotection]]
-		- ### caméra de vidéoprotection
-		  [[Technologie de transmission]]
-		- Méthodologie de mise en place d'un dispositif : https://mobile.interieur.gouv.fr/Videoprotection/Le-guide-methodologique/Les-3-parties-du-guide-methodologique
 	- ## asvp
 		- [[asvp]]
 	- ### brigadier
@@ -292,8 +302,6 @@
 	- ## référent sûreté
 		- [formation](https://www.83-629.fr/formation-des-referents-surete-a-lecole-nationale-superieure-de-la-police-ouverte-aux-acteurs-prives/)
 	- ## sûreté
-		- [[étude de cas système de vidéo surveillance]]
-		  [[étude de cas détection intrusion]]
 		- [[plan de sécurité du pays]] pour les ONG
 		- [[plan de sécurité]] entreprise essentielle
 		- [[Registre collectivité territoriale]]
@@ -313,7 +321,7 @@
 			- [[mooc perturbation financière - ONU]]
 			- [[ONU DC nim: 9 techniques d'analyse du renseignement]]
 	- [[Processus renseignement]]
-	- [[sûreté]]
+	- [[Veille sûreté]]
 	- Assurer la stabilité d'une organisation :
 		- [[psychologie de l'engagement]]
 		- [[psychologie de la loyauté]]
@@ -333,8 +341,6 @@
 			- Vision de la direction -> pssi
 		- ## rssi
 		  [[Plan rssi]]
-		- ## physique
-			- [méthode EBIOS pour le physique](https://club-ebios.org/site/wp-content/uploads/presentations/ClubEBIOS-2010-01-19-MANGIN-MARCHAL-ZAMORA-CONCHON.pdf)
 		- # onu
 		- [[sécurité sûreté ONU]]
 		- # France

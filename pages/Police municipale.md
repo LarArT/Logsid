@@ -3,8 +3,7 @@
 -
 - [[Thierry Delpeuch, Jacqueline Ross. Manuel d’intelligence de sécurité publique pour la Police nationale. 2017]]
 - [[guide de rédaction rapport]
-  
-  ### manuel d'application
+- ### manuel d'application
 - [cours ONU](https://www.unodc.org/e4j/fr/tertiary/criminal-justice.html)
 -
 - https://assets.college.police.uk/s3fs-public/2021-11/Knife-crime-a-problem-solving-guide.pdf
@@ -12,7 +11,7 @@
 -
 - ## design
 - Alier :
-	- [[CPTED]] (Crime Prevention Through Environmental Design)
+	- [[Qu'est-ce qu'est le CPTED]] (Crime Prevention Through Environmental Design)
 	- Design social
 	-
 - # impliquer la population 

@@ -1,0 +1,21 @@
+- Pour préparer le **Certificat Technique Sûreté (CTS)** du CNPP, il existe un corps d'ouvrages incontournables édités par **CNPP Éditions**. Ce sont les manuels de référence sur lesquels s'appuient directement les formateurs, les sujets d'examen et les études de cas.
+- ### 1. La « Bible » indispensable
+- **Traité pratique de sûreté malveillance (7ᵉ édition, CNPP Éditions) :**
+	- [[sommaire du traité pratique de sûreté malveillance]]
+	- **Pourquoi c'est LE livre clé :** Il regroupe en plus de 700 pages l'intégralité du programme du CTS.
+	- **Contenu :** Traite exhaustivement de la méthodologie d'analyse de risque (référentiel CNPP 6011), de la protection mécanique, du fonctionnement détaillé des capteurs (détection extérieure, périmétrique, volumétrique), des règles de positionnement, de la vidéo-protection, du contrôle d'accès et du cadre réglementaire.
+- ### 2. Les Référentiels APSAD (Spécifications d'implantation)
+  
+  Le CTS évalue l'aptitude à concevoir des installations conformes aux règles **APSAD**. La lecture et la maîtrise de ces guides d'application sont indispensables pour l'implantation sur le terrain :
+- **Règle APSAD R81 — Détection d'intrusion :**
+	- Décrit précisément le choix, le nombre et le **positionnement des détecteurs** (contacts, infrarouges, barrières, sismiques) en fonction des locaux et des classes de risque, avec les règles pour éviter les zones d'ombre.
+- **Règle APSAD R82 — Vidéoprotection :**
+	- Aborde le dimensionnement des caméras, la détermination des champs de vision (détection, reconnaissance, identification selon les normes EN 62676-4) et l'implantation selon la luminosité et la scène.
+- **Règle APSAD R83 — Contrôle d'accès :**
+	- Couvre l'architecture des systèmes, la hiérarchisation des zones, la résistance mécanique des franchissements et l'asservissement des accès.
+- ### 3. Le Référentiel Méthodologique d'Audit
+- **Référentiel CNPP 6011 — Analyse de risque et de vulnérabilité (Méthode pour la malveillance) :**
+	- C'est le document cadre du CNPP pour structurer la phase d'audit « clinique ». Il détaille pas à pas l'évaluation des menaces, la caractérisation des cibles/attractivité et le calcul de vulnérabilité de l'infrastructure avant tout choix technique.
+- ### Stratégie de lecture conseillée
+- **Priorité 1 :** Se procurer le *Traité pratique de sûreté malveillance* (CNPP Éditions). Il sert de manuel de cours avant et pendant la formation.
+- **Priorité 2 :** Étudier les principes de dimensionnement des règles **APSAD R81 et R82** pour réussir la partie exercice pratique d'implantation physique sur plan.
