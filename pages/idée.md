@@ -6,6 +6,9 @@
 - [[Veille informationnelle]]
 - [[construction hors site ou modulaire]]
 - [[réponse à la crise humanitaire attentat otage]]
+- MoS
+- [[contrôle de gestion prestation]]
+-
 - # [[science ouverte / production scientifique]]
 - [[magazine]]
 - [IA for Scientific Discovery](https://github.com/mlelarge/ens-ml4sd)
@@ -16,7 +19,6 @@
 - [[Diagramme de base]]
 - [[guide de rédaction rapport]]
 - # financement de projet d'intérêt général
-  collapsed:: true
 	- [[fonds européens]]
 	- [ANR](https://direction-recherche.parisnanterre.fr/service-de-la-valorisation-et-appui-a-la-recherche/boite-a-outils-aapg-anr)
 	- [[financement recherche fondamentale]]
@@ -88,7 +90,7 @@
 - # Union européenne
 	- [[naviguer parmi les projets ERC]]
 	- [[structure ERC]]
-- 8
+-
 - # Analyse géopolitique
 	- https://lca.logcluster.org/logistics-capacity-assessments-lcas
 	- Factbook cia
@@ -160,9 +162,11 @@
 			- Compétence du travailleur
 - # sécurité / sûreté / analyste
 	- [[Veille sûreté]]
+	- # événement
+		- [[gestion des risques prestation restauration]]
 	- ## certification norme / réglementation
 		- [[SGDSN Security Mechanisms]]
-		- [[iso 18788]] Système de management des  opérations de sécurité privéeshttps://cdn.standards.iteh.ai/samples/63380/e48f665b9c9a4c7f8668702597859f39/ISO-18788-2015.pdf
+		- [[iso 18788]] Système de management des  opérations de sécurité privées https://cdn.standards.iteh.ai/samples/63380/e48f665b9c9a4c7f8668702597859f39/ISO-18788-2015.pdf
 	- [[NF X50-777]] les exigences de qualité pour les services des entreprises privées de prévention et de sécurité.
 	- # [[formation]]
 	- [contrôle de personnes violente](https://controletp.ccdmd.qc.ca/videos/1-05-defense-contre-lattaque-sournoise-aux-jambes-de-front/)

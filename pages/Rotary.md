@@ -1,0 +1,6 @@
+- Définir il y a une conformité avec la superficie : articles R123-1 et suivants, et dans l'arrêté du 25 juin 1980.
+- [[définition du périmètre Rotary]]
+- [[analyse du contexte Rotary]]
+- [[billet sur les Rotary]]
+- Utilisation de Pia de la CNIL pour ebios rm ou https://github.com/Cyber-Autopsie/ebios-rm-pro?utm_source=gemini&hl=fr-FR
+- [[dispositif de sécurité]]

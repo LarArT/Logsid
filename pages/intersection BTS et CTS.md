@@ -35,3 +35,38 @@
 - **Canaux :**
 	- Candidatures spontanées directement auprès des **Responsables d'Agences / Chefs d'Agence Courants Faibles** (sur LinkedIn) plutôt qu'aux RH centrales pour les PME.
 	- Portails carrières dédiés pour les grands groupes (*spie-job*, *Securitas carrières*).
+-
+- Pour décrocher un contrat de professionnalisation en BTS MOS chez un grand intégrateur (SPIE, Securitas Technology, VFLIT, ISO Sécurité), le piège serait de vouloir vous improviser "technicien électrotechnique".
+  
+  L'argumentaire gagnant consiste à valoriser l'approche **CPTED (Crime Prevention Through Environmental Design / Prévention de la criminalité par l'aménagement de l'espace)** comme le **maillon d'analyse** qui manque souvent aux profils purement techniques.
+  
+  Voici la trame d'argumentaire structurée à tenir face à un recruteur :
+- ### 1. Le Pitch d'Accroche (L'Angle différenciant)
+  
+  > 
+  
+  *"La plupart des installateurs posent des caméras ou des capteurs là où le client le demande ou là où le câblage est le plus simple. Ma valeur ajoutée avec le BTS MOS et mon intérêt pour le CPTED, c'est que je n'analyse pas seulement l'équipement, mais l'usage de l'espace, la vulnérabilité du bâti, la gestion des flux et le facteur humain. Je suis la passerelle entre l'analyse du besoin sur le terrain et vos techniciens qui déploient la solution."*
+- ### 2. Les 3 piliers de votre argumentaire
+- #### Pilier A — L'analyse CPTED comme outil d'avant-vente et d'efficience
+- **L'argument :** Avant de vendre de la technologie, il faut comprendre l'environnement. L'approche CPTED permet d'étudier la surveillance naturelle, le contrôle des accès physiques, la territorialité et la gestion des accès.
+- **Ce que ça apporte au recruteur :** Vous êtes capable d'accompagner un chargé d'affaires sur le site d'un client pour réaliser un **diagnostic de vulnérabilité clinique et objectif**. Cela évite le sur-équipement inutile et garantit une installation réellement efficiente.
+- #### Pilier B — Le BTS MOS pour le suivi organisationnel et réglementaire
+- **L meur de force :** Un projet de sûreté ne s'arrête pas au raccordement des câbles. Il implique le cadre juridique (RGPD, code de la sécurité intérieure pour la vidéo), la coordination des sous-traitants et la rédaction de procédures pour l'exploitant.
+- **Ce que ça apporte au recruteur :** Pendant que les techniciens s'occupent du matériel, vous gérez la dimension administrative, réglementaire, la relation client et la conformité du chantier.
+- #### Pilier C — Une posture d'apprentissage technique structurée
+- **L'honnêteté payante :** *"Je ne suis pas électrotechnicien de formation, mais le BTS MOS m'apporte la rigueur de gestion de projet. Ma curiosité pour la sûreté physique fait que j'apprends très vite la couche technique (normes APSAD, réseaux, matériel) sur le terrain auprès de vos équipes."*
+- **Ce que ça apporte au recruteur :** Un profil modeste, motivé, formé aux méthodes de gestion et prêt à être modelé à la culture technique de l'entreprise.
+- ### 3. Les missions concrètes que vous pouvez proposer dans le contrat
+  
+  Pour rassurer le recruteur sur votre utilité immédiate au quotidien, proposez de vous positionner sur un poste d'**Assistant Chargé d'Études / Avant-Vente** ou d'**Assistant Conducteur de Travaux** :
+- **En phase Amont (Audit & Conception) :**
+	- Réaliser l'analyse de site initiale (accès, flux, visibilité, vulnérabilités mécaniques et spatiales).
+	- Préparer les pré-diagnostics pour aider à la rédaction des offres commerciales / réponses aux appels d'offres.
+- **En phase Déploiement (Chantier) :**
+	- Coordonner le suivi d'exécution sur le terrain (respect des plannings, relation avec le client sur site).
+	- S'assurer que le positionnement des équipements respecte bien l'intention initiale d'aménagement et de protection.
+- **En phase Recette (Livraison) :**
+	- Rédiger les notices d'exploitation, former les utilisateurs du client final et formaliser les PV de recette.
+- ### Résumé de la posture à adopter en entretien
+- **Ne vous excusez pas** de ne pas avoir de bac technique.
+- **Revendiquez votre prisme "Analyse globale & CPTED"** : les entreprises ont déjà des techniciens pour câbler, mais elles manquent de profils capables d'analyser intelligemment le besoin d'un bâtiment et de structurer la gestion de projet.

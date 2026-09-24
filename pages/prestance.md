@@ -1,0 +1,12 @@
+- le nom de votre entreprise; opé
+- son identité visuelle;
+- son logo;
+- sa devise;
+- ses valeurs: ouverture proactif excellence
+- son positionnement;
+- ses prestations;
+- ses clients cibles;
+- son organisation;
+- • son fonctionnement;
+- les métiers qu'elle veut "vendre
+- Ouvert proactif excellence

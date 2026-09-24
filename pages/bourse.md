@@ -242,6 +242,7 @@
 		- note :: leader
 		- url :: https://fr.wikipedia.org/wiki/Roxel
 		- [[missiles tactiques]]
+		  collapsed:: true
 			- [[pyrotechnique]]
 - [[Northrop Grumman Innovation 
   Systems]]
