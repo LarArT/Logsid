@@ -8,7 +8,8 @@
 - [[réponse à la crise humanitaire attentat otage]]
 - MoS
 - [[contrôle de gestion prestation]]
--
+- [[norme obligatoire]]
+- [[lexique génie civil loi de Pareto]]
 - # [[science ouverte / production scientifique]]
 - [[magazine]]
 - [IA for Scientific Discovery](https://github.com/mlelarge/ens-ml4sd)
@@ -66,7 +67,7 @@
 - [[Cuisine moléculaire]]
 - [[Manpage]]
 - [[liste des organismes de recherche en France]]
-- [[marché public]]
+- [[Les grands principes de la commande publique]]
 - - [[rapport d'étonnement]]
 - [[Génération de logo]]
 - Lettre
@@ -162,6 +163,7 @@
 			- Compétence du travailleur
 - # sécurité / sûreté / analyste
 	- [[Veille sûreté]]
+	- [[thesaurus sûreté]]
 	- # événement
 		- [[gestion des risques prestation restauration]]
 	- ## certification norme / réglementation
