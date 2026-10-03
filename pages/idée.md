@@ -10,6 +10,8 @@
 - [[contrôle de gestion prestation]]
 - [[norme obligatoire]]
 - [[lexique génie civil loi de Pareto]]
+- [[organisme divers d'administration centrale]]
+- [[MOS]]
 - # [[science ouverte / production scientifique]]
 - [[magazine]]
 - [IA for Scientific Discovery](https://github.com/mlelarge/ens-ml4sd)
@@ -164,6 +166,7 @@
 - # sécurité / sûreté / analyste
 	- [[Veille sûreté]]
 	- [[thesaurus sûreté]]
+	- [[sûreté courant vs événementiel]]
 	- # événement
 		- [[gestion des risques prestation restauration]]
 	- ## certification norme / réglementation
@@ -198,10 +201,11 @@
 		- [Installations Classées pour la Protection de l'Environnement (ICPE)](https://aida.ineris.fr/thematiques/nomenclature-icpe)
 		- ## physique
 			- [méthode EBIOS pour le physique](https://club-ebios.org/site/wp-content/uploads/presentations/ClubEBIOS-2010-01-19-MANGIN-MARCHAL-ZAMORA-CONCHON.pdf)
+			- [[pense-bête ebios RM physique]]
 		- ## Urbanisme
 		  id:: 69fdea9a-2d2a-4405-a4d2-7da5e20df76e
 			- [[CPTED]]
-			- [[ingénierie technique des systèmes de sûreté]]
+			- [[cursus SERC (Spécialiste - Évaluation et Réduction des Risques de malveillance]]
 				-
 		- ## opérateur vidéoprotection
 			- https://www.seine-et-marne.fr/sites/default/files/media/downloads/dadt-22-brochure-guide-videoprotection_mar22-vf_04042022.pdf
@@ -218,6 +222,7 @@
 			- Méthodologie de mise en place d'un dispositif : https://mobile.interieur.gouv.fr/Videoprotection/Le-guide-methodologique/Les-3-parties-du-guide-methodologique
 	- ## dirigeant
 		- [[élaboration d'une prestation de sûreté]]
+		- [[charge agence de sécurité]]
 	- ## analyste
 		- [[publication de référence]]
 	- ## sécurité
@@ -341,7 +346,12 @@
 		- [[Planification et affectation des ressources aux activités de gestion des risques de sécurités]]
 		- [[Cartographier les risques : panorama des méthodes]]
 		- [[cartographie des risques]]
+		- [[évaluation des risques infrastructures]]
+		- [[Office central de lutte contre la corruption et les infractions financières et fiscales]]
+		- [[classification internationale des infractions]]
+		- [[NFI : nomenclature française des infractions]]
 		- ## EBIOS
+			-
 			- [[méthode EBIOS]]
 		- ## SSI
 			- Vision de la direction -> pssi

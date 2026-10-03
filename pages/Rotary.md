@@ -4,3 +4,4 @@
 - [[billet sur les Rotary]]
 - Utilisation de Pia de la CNIL pour ebios rm ou https://github.com/Cyber-Autopsie/ebios-rm-pro?utm_source=gemini&hl=fr-FR
 - [[dispositif de sécurité]]
+- [[plan particulier de sécurité]]

@@ -1,0 +1,513 @@
+# Liste des Organismes Divers d'Administration Centrale (ODAC) - 2023
+
+- **Informations Générales**
+  - **Source** : Insee - Direction générale
+  - **Date** : Mai 2025
+  - **Définition** : Organismes de statut juridique varié (souvent établissements publics à caractère administratif) dotés de la personnalité juridique, auxquels l'État a confié une compétence fonctionnelle et spécialisée au niveau national.
+  - **Nombre approximatif** : ~700 organismes
+  - **Nomenclature** : Classés selon la nomenclature CFAP (COFOG)
+
+- **Fonction 1 : Services généraux des administrations publiques**
+  - **ADOM** : l'Agence de l'outre-mer pour la mobilité
+  - **AFA** : Groupement d'intérêt public Agence française de l'adoption
+  - **ANTS** : Agence nationale des titres sécurisés
+  - **BPI_FSIPME** : FSI PME Portefeuille
+  - **BPI_IC** : Bpifrance international capital
+  - **BPI_PARTICIP** : Bpifrance Participations
+  - **BRGM** : BRGM (Bureau de recherches géologiques et minières)
+  - **CDAD (Conseils départementaux de l'accès au droit)**
+    - GIP Conseil départemental de l'accès au droit de la Ain
+    - GIP Conseil départemental de l'accès au droit de l'Aisne
+    - GIP Conseil départemental de l'accès au droit de l'Allier
+    - GIP Conseil départemental de l'accès au droit des Alpes de Haute-Provence
+    - GIP Conseil départemental de l'accès au droit des Alpes Maritimes
+    - GIP Conseil départemental de l'accès au droit de l'Ardèche
+    - GIP Conseil départemental de l'accès au droit de l'Ariège
+    - GIP Conseil départemental de l'accès au droit de l'Aube
+    - GIP Conseil départemental de l'accès au droit de l'Aude
+    - GIP Conseil départemental de l'accès au droit du Bas-Rhin
+    - GIP Conseil départemental de l'accès au droit du Calvados
+    - GIP Conseil départemental de l'accès au droit du Cantal
+    - GIP Conseil départemental de l'accès au droit de la Charente
+    - GIP Conseil départemental de l'accès au droit de la Charente Maritime
+    - GIP Conseil départemental de l'accès au droit du Cher
+    - GIP Conseil départemental de l'accès au droit de la Corrèze
+    - GIP Conseil départemental de l'accès au droit de Corse-du-Sud
+    - GIP Conseil départemental de l'accès au droit des Côtes d'Armor
+    - GIP Conseil départemental de l'accès au droit de la Creuse
+    - GIP Conseil départemental de l'accès au droit des Deux-Sèvres
+    - GIP Conseil départemental de l'accès au droit de la Dordogne
+    - GIP Conseil départemental de l'accès au droit du Doubs
+    - GIP Conseil départemental de l'accès au droit de la Drôme
+    - GIP Conseil départemental de l'accès au droit de l'Eure
+    - GIP Conseil départemental de l'accès au droit du Finistère
+    - GIP Conseil départemental de l'accès au droit du Gard
+    - GIP Conseil départemental de l'accès au droit du Gers
+    - GIP Conseil départemental de l'accès au droit de la Gironde
+    - GIP Conseil départemental de l'accès au droit de la Guyane
+    - GIP Conseil départemental de l'accès au droit des Hautes-Alpes
+    - GIP Conseil départemental de l'accès au droit de la Haute Corse
+    - GIP Conseil départemental de l'accès au droit de la Haute-Garonne
+    - GIP Conseil départemental de l'accès au droit de la Haute-Loire
+    - GIP Conseil départemental de l'accès au droit des Hautes-Pyrénées
+    - GIP Conseil départemental de l'accès au droit de Haute Saône
+    - GIP Conseil départemental de l'accès au droit de la Haute-Savoie
+    - GIP Conseil départemental de l'accès au droit de l'Hérault
+    - GIP Conseil départemental de l'accès au droit d'Ille et Vilaine
+    - GIP Conseil départemental de l'accès au droit de l'Indre
+    - GIP Conseil départemental de l'accès au droit d'Indre-et-Loire
+    - GIP Conseil départemental de l'accès au droit de l'Isère
+    - GIP Conseil départemental de l'accès au droit du Jura
+    - GIP Conseil départemental de l'accès au droit des Landes
+    - GIP Conseil départemental de l'accès au droit de Loir-et-Cher
+    - GIP Conseil départemental de l'accès au droit de la Loire
+    - GIP Conseil départemental de l'accès au droit de la Loire-Atlantique
+    - GIP Conseil départemental de l'accès au droit du Loiret
+    - GIP Conseil départemental de l'accès au droit de Lot-et-Garonne
+    - GIP Conseil départemental de l'accès au droit de la Lozère
+    - GIP Conseil départemental de l'accès au droit de Maine-et-Loire
+    - GIP Conseil départemental de l'accès au droit de la Martinique
+    - GIP Conseil départemental de l'accès au droit de Mayenne
+    - GIP Conseil départemental de l'accès au droit de Mayotte
+    - GIP Conseil départemental de l'accès au droit de Meurthe-et-Moselle
+    - GIP Conseil départemental de l'accès au droit de la Meuse
+    - GIP Conseil départemental de l'accès au droit du Morbihan
+    - GIP Conseil départemental de l'accès au droit de la Moselle
+    - GIP Conseil départemental de l'accès au droit de la Nièvre
+    - GIP Conseil départemental de l'accès au droit du Nord
+    - GIP Conseil départemental de l'accès au droit de l'Oise
+    - GIP Conseil départemental de l'accès au droit de l'Orne
+    - GIP Conseil départemental de l'accès au droit de Paris
+    - GIP Conseil départemental de l'accès au droit du Pas-de-Calais
+    - GIP Conseil départemental de l'accès au droit du Puy-de-Dôme
+    - GIP Conseil départemental de l'accès au droit des Pyrénées-Atlantiques
+    - GIP Conseil départemental de l'accès au droit des Pyrénées-Orientales
+    - GIP Conseil départemental de l'accès au droit de la Réunion
+    - GIP Conseil départemental de l'accès au droit de Saint-Barthélemy - Saint-Martin
+    - GIP Conseil départemental de l'accès au droit de Saône-et-Loire
+    - GIP Conseil départemental de l'accès au droit de la Sarthe
+    - GIP Conseil départemental de l'accès au droit de la Savoie
+    - GIP Conseil départemental de l'accès au droit de Seine-Maritime
+    - GIP Conseil départemental de l'accès au droit de Seine-Saint-Denis
+    - GIP Conseil départemental de l'accès au droit de la Somme
+    - GIP Conseil départemental de l'accès au droit du Tarn
+    - GIP Conseil départemental de l'accès au droit de Tarn-et-Garonne
+    - GIP Conseil départemental de l'accès au droit du Territoire de Belfort
+    - GIP Conseil départemental de l'accès au droit du Val d'Oise
+    - GIP Conseil départemental de l'accès au droit du Val-de-Marne
+    - GIP Conseil départemental de l'accès au droit du Var
+    - GIP Conseil départemental de l'accès au droit de Vaucluse
+    - GIP Conseil départemental de l'accès au droit de Vendée
+    - GIP Conseil départemental de l'accès au droit de la Vienne
+    - GIP Conseil départemental de l'accès au droit des Yvelines
+  - **CDP** : Caisse de la dette publique
+  - **CINES** : Centre informatique national de l'enseignement supérieur
+  - **CIVIQUE** : Groupement d'intérêt public Agence du service civique
+  - **CNG** : Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière
+  - **CNRS** : Centre national de la recherche scientifique
+  - **COFRANCE** : Collège de France
+  - **CSA** : Conseil supérieur de l'audiovisuel
+  - **CYCERON** : Centre d'imagerie cérébrale et de recherches en neuroscience
+  - **FGAO** : Fonds de garantie des assurances obligatoires de dommage
+  - **FGTI** : Fonds de garantie des victimes des actes de terrorisme et d'autres infractions
+  - **FSD** : Fonds de solidarité pour le développement
+  - **HONNEUR** : Grande chancellerie de la Légion d'honneur
+  - **IFRTPE** : Groupement d'intérêt public Institut polaire français Paul-Emile Victor
+  - **IGNF** : Institut national de l'information géographique et forestière
+  - **IHESBY** : Institut des hautes études scientifiques de Bures-sur-Yvette
+  - **INED** : Institut national d'études démographiques
+  - **INRAP** : Institut national de recherches archéologiques préventives
+  - **INRIA** : Institut national de recherche en informatique et en automatique
+  - **IRD** : Institut de recherche pour le développement
+  - **LIBERATION** : Conseil national des communes Compagnon de la Libération
+  - **MRDJ** : Mission de recherche droit et justice
+  - **MSH** : Fondation maison des sciences de l'homme
+  - **OBPA** : Observatoire de Paris
+  - **OCA** : Observatoire de la Côte-d'Azur
+  - **OFFPRA** : Office français de protection des réfugiés et apatrides
+  - **OFII** : Office français de l'immigration et de l'intégration
+  - **SPPE** : Société de prise de participations de l'Etat
+
+- **Fonction 2 : Défense**
+  - **ECPAD** : Établissement de communication et de production audiovisuelle de la défense
+  - **ENSOSP** : École nationale supérieure des officiers de Sapeurs-Pompiers
+  - **IHEDN** : Institut des hautes études de défense nationale
+  - **ISL** : Institut franco-allemand de recherches de Saint-Louis
+  - **SHOM** : Établissement public administratif Service hydrographique et océanographique de la marine
+
+- **Fonction 3 : Ordre et sécurité publics**
+  - **ACMOSS** : Agence des communications mobiles opérationnelles de sécurité et de secours
+  - **AGRASC** : Agence de gestion et de recouvrement des avoirs saisis et confisqués
+  - **ANTAI** : Agence nationale de traitement automatisé des infractions
+  - **APIJ** : Agence publique pour l'immobilier de la justice
+  - **CNAPS** : Conseil national des activités privées de sécurité
+
+- **Fonction 4 : Affaires économiques**
+  - **ACTA** : Association de coordination des techniques agricoles
+  - **ACTIA** : Association de coordination technique pour l'industrie agro-alimentaire
+  - **ADEME** : Agence de l'environnement et de la maîtrise de l'énergie
+  - **AFDPAB** : Groupement d'intérêt public Agence française pour le développement et la promotion de l'agriculture biologique
+  - **AFITF** : Agence de financement des infrastructures de transport de France
+  - **AMF** : Autorité des marchés financiers
+  - **ANACT** : Agence nationale pour l'amélioration des conditions de travail
+  - **ANF** : Agence nationale des fréquences
+  - **ANR** : Agence nationale de la recherche
+  - **ARAF** : Autorité de régulation des transports
+  - **ARPE** : Autorité des Relations sociales des Plateformes d'Emploi
+  - **ASIP** : Groupement d'intérêt public Agence du numérique en santé (ANS)
+  - **ASP** : Agence de services et de paiement
+  - **BPI (Groupe)**
+    - **BPI_AE** : Bpifrance Assurance Export
+    - **BPI_EPIC** : EPIC BPIFRANCE
+    - **BPI_INVEST** : Bpifrance Investissement
+  - **BUSINESS_FRANCE** : Business France
+  - **CDGX** : Gestionnaire d'infrastructures CDG-Express
+  - **CDR** : Consortium de réalisation
+  - **CEA** : Commissariat à l'énergie atomique
+  - **CEPREMAP** : Centre pour la recherche économique et ses applications
+  - **CIRAD** : Centre de coopération internationale en recherche agronomique
+  - **CNA** : Caisse nationale des autoroutes
+  - **CNES** : Centre national d'études spatiales
+  - **CPSSP** : Comité professionnel des stocks stratégiques pétroliers
+  - **EPSF** : Établissement public de sécurité ferroviaire
+  - **FCOMPET** : France Compétences
+  - **FGDR** : Fonds de garantie des dépôts et de résolution
+  - **FRANCE_AGRIMER** : Établissement national des produits de l'agriculture et de la mer
+  - **H3C** : Haut-Conseil du commissariat aux comptes
+  - **HCERES** : Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur
+  - **IFCE** : Institut français du cheval et de l'équitation
+  - **IFPEN** : Institut français du pétrole
+  - **IFREMER** : Institut français de recherche pour l'exploitation de la mer
+  - **INAO** : Institut national de l'origine et de la qualité
+  - **INFFO** : Centre pour le développement de l'information sur la formation permanente
+  - **INPI** : Institut national de la propriété industrielle
+  - **INRA** : Institut national de recherche pour l'agriculture, l'alimentation et l'environnement
+  - **INTEFP** : Institut national du travail, de l'emploi et de la formation professionnelle
+  - **METEO** : Météo-France
+  - **MNE** : Médiateur national de l'énergie
+  - **ODEADOM** : Office de développement de l'économie agricole d'outre-mer
+  - **ONERA** : Office national d'études et de recherches aérospatiales
+  - **OPCO (Opérateurs de Compétences)**
+    - Akto
+    - Atlas
+    - Constructys
+    - L'Opcommerce
+    - Ocapiat
+    - Opco EP
+    - Opco Mobilités
+    - Opco Santé
+    - Opco2i
+    - Uniformation
+    - Afdas
+  - **PPLE** : Groupement d'intérêt public Portail d'accès à la publicité légale des entreprises (www.pple.fr)
+  - **SAGESS** : Société anonyme de gestion de stocks de sécurité
+  - **SGFGAS** : Société de Gestion du Fonds de Garantie de l'Accession Sociale à la propriété
+  - **SNCFR** : SNCF RÉSEAU
+  - **TELT** : Tunnel euroalpin Lyon Turin SAS
+  - **VNF** : Voies navigables de France
+
+- **Fonction 5 : Protection de l'environnement**
+  - **CALANQUES** : Parc national des Calanques
+  - **CELRL** : Conservatoire de l'espace littoral et des rivages lacustres
+  - **CEREMA** : Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement
+  - **CEVENNES** : Parc national des Cévennes
+  - **CROS** : Parc national de Port-Cros
+  - **ECOFOR** : Groupement d'intérêt public Écosystèmes forestiers
+  - **ECRINS** : Parc national des Écrins
+  - **GUADE** : Parc national de la Guadeloupe
+  - **GUYANE** : Parc amazonien de Guyane
+  - **INERIS** : Institut national de l'environnement industriel et des risques
+  - **MERCANTO** : Parc national du Mercantour
+  - **OFB** : Office français de la biodiversité
+  - **PNF** : Parc national de forêts
+  - **PNR** : Parc national de la Réunion
+  - **PYRENEES** : Parc national des Pyrénées
+  - **VANOISE** : Parc national de la Vanoise
+
+- **Fonction 6 : Logement et équipements collectifs**
+  - **ALS** : Action logement services
+  - **ANAH** : Agence nationale de l'habitat
+  - **ANRU** : Agence nationale pour la rénovation urbaine
+  - **CGLLS** : Caisse de garantie du logement locatif social
+  - **FNAP** : Fonds national des aides à la pierre
+  - **FNAVDL** : Fonds national d'accompagnement vers et dans le logement
+
+- **Fonction 7 : Santé**
+  - **AASPEG** : Groupement d'intérêt public Réseau addictions Guadeloupe
+  - **ABM** : Agence de la Biomédecine
+  - **AFLD** : Agence française de lutte contre le dopage
+  - **AFSSPS** : Agence nationale de sécurité du médicament et des produits de santé
+  - **ANAP** : GIP Agence nationale d'appui à la performance des établissements de santé et médico-sociaux
+  - **ANSES** : Agence nationale chargée de la sécurité sanitaire, de l'alimentation, de l'environnement et du travail
+  - **ARS (Agences Régionales de Santé)**
+    - ARS Auvergne-Rhône-Alpes
+    - ARS Bourgogne-Franche-Comté
+    - ARS de Bretagne
+    - ARS de Corse
+    - ARS de Guyane
+    - ARS de la Guadeloupe, de Saint-Martin et de Saint-Barthélémy
+    - ARS de la Réunion
+    - ARS de Martinique
+    - ARS de Mayotte
+    - ARS de Provence-Alpes-Côte d'Azur
+    - ARS des Pays-de-la-Loire
+    - ARS d'Île-de-France
+    - ARS du Centre - Val de Loire
+    - ARS Grand Est
+    - ARS Hauts-de-France
+    - ARS Normandie
+    - ARS Nouvelle-Aquitaine
+    - ARS Occitanie
+  - **CEDERNU_LYON** : Groupement d'intérêt public Centre de recherches en nutrition humaine Rhône-Alpes
+  - **CNMPF** : Confédération nationale du mouvement pour le planning familial
+  - **CPP (Comités de Protection des Personnes)**
+    - Est (I, II, III, IV)
+    - Île-de-France (I, II, III, IV, V, VI, VII, VIII, X, XI)
+    - Nord-Ouest (I, II, III, IV)
+    - Ouest (I, II, III, IV, V, VI)
+    - Sud-Est (I, II, III, IV, V, VI)
+    - Sud-Méditerranée (I, II, III, IV, V)
+    - Sud-Ouest et Outre-mer (I, II, III, IV)
+  - **EFS** : Établissement français du sang
+  - **FEP** : GIP France enfance protégée
+  - **HAS** : Haute autorité de santé
+  - **INCA** : Groupement d'intérêt public Institut national du cancer
+  - **INSERM** : Institut national de la santé et de la recherche médicale
+  - **IRSN** : Institut de radioprotection et de sûreté nucléaire
+  - **MDA (Maisons des Adolescents)**
+    - GIP Maison départementale des adolescents de la Vendée
+    - GIP Maison départementale des adolescents de Loire-Atlantique
+    - GIP Maison des adolescents de Vaucluse
+    - GIP Maison des adolescents des Côtes d'Armor
+    - GIP Maison des adolescents d'Ille et Vilaine
+    - Autres GIP Maison des adolescents
+  - **ONDT** : GIP Observatoire français des drogues et des toxicomanies
+  - **SANTE** : Agence nationale de santé publique
+
+- **Fonction 8 : Loisirs, culture et culte**
+  - **ABES** : Agence bibliographique de l'enseignement supérieur
+  - **ACADE (Académies)**
+    - Académie d'agriculture de France
+    - Académie de chirurgie
+    - Académie de Marine
+    - Académie de médecine
+    - Académie de pharmacie
+    - Académie des beaux-arts
+    - Académie des inscriptions et belles lettres
+    - Académie des sciences
+    - Académie des sciences d'outre-mer
+    - Académie des sciences morales et politiques
+    - Académie des technologies
+    - Académie française
+    - Académie vétérinaire de France
+    - Institut de France et fondations
+  - **ACMISA** : GIP Action Culturelle en Milieu Scolaire d'Alsace
+  - **AFIF** : Association française du festival international du film
+  - **ANS** : Agence nationale du sport
+  - **ARMEE** : Musée de l'armée
+  - **ARTE** : ARTE France
+  - **ASTP** : Association pour le soutien du théâtre privé
+  - **BNF** : Bibliothèque nationale de France
+  - **BNUS** : Bibliothèque nationale et universitaire de Strasbourg
+  - **BPI** : Bibliothèque publique d'information
+  - **BRANLY** : Établissement public du Musée du quai Branly-Jacques Chirac
+  - **BULC** : Groupement d'intérêt public Bibliothèque universitaire des langues et civilisations
+  - **CFRANC** : Comédie-Française
+  - **CGP** : Centre national d'art et de culture Georges Pompidou
+  - **CHAILLOT** : Théâtre national de Chaillot
+  - **CIDJ (Centres d'information et de documentation jeunesse)**
+    - Bourgogne Franche-Comté
+    - Bretagne
+    - Champagne-Ardenne
+    - Guadeloupe
+    - Guyane
+    - La Réunion
+    - Normandie Caen
+    - Nouvelle-Aquitaine
+    - Occitanie
+    - Paris
+    - Pays de Loire
+    - Provence-Alpes-Côte d'Azur
+    - Rhône-Alpes
+    - Seine-et-Marne
+    - Hauts-de-France
+    - Yvelines
+    - Centre
+    - Val d'Oise
+  - **CIFRA** : Cinémathèque française
+  - **CITEMUSI** : Établissement public de la Cité de la musique - Philharmonie de Paris
+  - **CNAP** : Centre national des arts plastiques
+  - **CNC** : Centre national du cinéma et de l'image animée
+  - **CND** : Centre national de la danse
+  - **CNHI** : Établissement public du palais de la Porte Dorée
+  - **CNL** : Centre national du livre
+  - **COLINE** : Théâtre national de la Colline
+  - **COTRAVA** : Cotravaux
+  - **CTL** : Centre technique du livre de l'enseignement supérieur
+  - **DAME** : Établissement public chargé de la conservation et de la restauration de la cathédrale Notre-Dame de Paris
+  - **EMN** : Établissement Public du Mobilier National
+  - **EPPDCSI** : Établissement public du palais de la Découverte et de la Cité des sciences et de l'industrie
+  - **EPPGHV** : Établissement public du parc et de la grande halle de la Villette
+  - **ESPA** : Musée de l'air et de l'espace
+  - **FDML** : Fonds de dotation du Musée du Louvre
+  - **FONJEP** : Fonds de coopération de la jeunesse et de l'éducation populaire
+  - **FONTAINEBLEAU** : Établissement public du château de Fontainebleau
+  - **FRANCETELE (France Télévisions & Filiales)**
+    - France Télévision
+    - France 2 cinéma
+    - France 3 cinéma
+    - France Télévisions Distribution
+    - France Télévisions Gestion Immobilière
+    - France Télévisions Publicité
+    - France Télévisions Publicité Conseil
+    - France Télévisions Publicité Inter Océan
+    - France Télévisions SVOD
+    - France.tvpresse
+    - France.tvstudio
+    - Les tontons truqueurs
+    - Papangue Immo
+    - Réseau Outre Mer 1
+    - SCI France Télévisions
+    - SCI VALIN
+    - Société de gestion du réseau R1
+  - **FRMEDIA MONDE** : France Médias Monde
+  - **GUIMET** : Établissement public du musée des arts asiatiques Guimet
+  - **HENNERMOREAU** : Établissement public du musée national Jean-Jacques Henner et du Musée national Gustave Moreau
+  - **ICS** : Institut de la cinématographie scientifique
+  - **IMA** : Institut du monde arabe
+  - **INA** : Institut national de l'audiovisuel
+  - **INSTITUT_FRANCAIS** : Institut français
+  - **LOUVRE** : Établissement public du musée du Louvre
+  - **MARINE** : Musée national de la Marine
+  - **MICHEL** : Établissement public du Mont Saint-Michel
+  - **MNHN** : Muséum national d'histoire naturelle
+  - **MNS** : Musée national du sport
+  - **MUCEM** : Musée des civilisations de l'Europe et de la Méditerranée
+  - **ODEON** : Théâtre national de l'Odéon
+  - **ONAIRAC** : GIP Onairac: Terre de vie, terres de vignes
+  - **OPPIC** : Opérateur du patrimoine et des projets immobiliers de la culture
+  - **ORCHESTR (Ensembles et Orchestres)**
+    - Ensemble intercontemporain
+    - Ensemble orchestral de Paris
+    - Orchestre de Lille
+    - Orchestre de Montpellier Languedoc-Roussillon
+    - Orchestre d'Île-de-France
+    - Orchestre national de chambre de Toulouse
+    - Orchestre régional de Provence-Alpes-Côte d'Azur de Cannes
+  - **PICASSO** : Musée national Picasso-Paris
+  - **RADIOFR** : Radio France
+  - **SEVRES LIMOGES** : Établissement public Cité de la céramique Sèvres et Limoges
+  - **TNOC** : Théâtre national de l'Opéra-comique
+  - **TNOP** : Opéra national de Paris
+  - **TNS** : Théâtre national de Strasbourg
+  - **TOKYO** : Association Palais de Tokyo
+  - **TV5MONDE** : TV 5 Monde
+  - **UCAD** : Union centrale des arts décoratifs
+  - **UNIF** : Unifrance films
+
+- **Fonction 9 : Enseignement**
+  - **A2E2F** : Groupement d'intérêt public Agence Erasmus France/Éducation Formation
+  - **AEFE** : Agence pour l'enseignement français à l'étranger
+  - **AFDET** : Association française pour le développement de l'enseignement technique
+  - **AGRO** : Institut national d'enseignement supérieur pour l'agriculture, l'alimentation et l'environnement (INESAAE)
+  - **AMUEPE** : GIP Agence de mutualisation des universités et des établissements d'enseignement supérieur ou de recherche
+  - **ANSC** : Agence du numérique de la sécurité civile
+  - **ARSON** : Villa Arson
+  - **C2RP** : GIP Centre régional de ressources pédagogiques et de développement de la qualité de la formation
+  - **CAMJUSS** : Établissement public d'aménagement universitaire de la région Île-de-France
+  - **CAMPUS_FRANCE** : Campus France
+  - **CEREQ** : Centre d'études et de recherches sur les qualifications
+  - **CHANCEL** : Chancellerie des universités de Paris
+  - **CHAPTAL** : Fondation Léonie Chaptal
+  - **CIEP** : Centre international d'études pédagogiques
+  - **CNDP** : Réseau Canopé
+  - **CNED** : Centre national d'enseignement à distance
+  - **CNM** : Centre national de la musique
+  - **COMUE (Communautés d'universités et établissements)**
+    - COMUE Angers - Le Mans
+    - COMUE HESAM Université
+    - COMUE Normandie Université
+    - COMUE Université Bourgogne Franche-Comté
+    - COMUE Université de Lyon
+    - COMUE Université fédérale de Toulouse Midi-Pyrénées
+    - COMUE Université Paris Lumières
+    - COMUE Université Paris-Est
+  - **CUFR MAYOTTE** : Centre universitaire de formation et de recherche de Mayotte
+  - **E_LOUVRE** : École du Louvre
+  - **EAMV** : École nationale supérieure d'architecture de Marne-la-Vallée
+  - **EDA** : École de l'air
+  - **EHESP** : École des hautes études en santé publique
+  - **ENA / IRA**
+    - Institut National du Service Public (ex-ENA)
+    - IRA de Bastia
+    - IRA de Lille
+    - IRA de Lyon
+    - IRA de Metz
+    - IRA de Nantes
+  - **ENAC** : École nationale de l'aviation civile
+  - **ENAM** : École nationale supérieure d'arts et métiers
+  - **ENAP** : École nationale de l'administration pénitentiaire
+  - **ENM** : École nationale de la magistrature
+  - **ENPC** : École nationale des ponts et chaussées
+  - **ENSM** : École nationale des sports de montagne
+  - **ENSN** : École nationale de voile et des sports nautiques
+  - **ENSO** : École normale sociale de l'ouest d'Angers
+  - **ENSP** : École nationale supérieure de paysage de Versailles
+  - **ENSPO** : École nationale supérieure de la police
+  - **CREPS / ENSSPORT**
+    - Bordeaux, Dijon, La Réunion, Montpellier, Nancy, Pointe-à-Pitre, Poitiers, Reims, Rhône-Alpes, Strasbourg, Toulouse, Vichy, Wattignies, Île-de-France, Centre, Pays de la Loire, PACA.
+    - INSEP (Institut national du sport, de l'expertise et de la performance)
+  - **ENSSS** : École nationale supérieure de sécurité sociale
+  - **ENTPE** : École nationale des travaux publics de l'État
+  - **EPCS_CONDORCET** : Établissement public Campus Condorcet
+  - **EPE / EPOLY**
+    - Établissement public expérimental Université Clermont Auvergne (UCA)
+    - École polytechnique
+  - **Écoles Supérieures / ESAG**
+    - Centre d'enseignement zootechnique
+    - École nationale du génie de l'eau et de l'environnement de Strasbourg
+    - École nationale supérieure de formation de l'enseignement agricole
+    - Institut supérieur de l'agriculture de Rhône-Alpes
+  - **Écoles d'Art et Architecture / ESAR**
+    - Centre national des arts du cirque
+    - Conservatoires nationaux supérieurs (Drama/Musique/Danse de Paris et Lyon)
+    - Écoles nationales supérieures d'architecture (Bretagne, Clermont-Ferrand, Grenoble, Lyon, Marseille, Montpellier, Nancy, Nantes, Normandie, Paris-Belleville, Paris-La Villette, Paris-Malaquais, Paris-Val de Seine, Saint-Étienne, Strasbourg, Toulouse, Versailles, Bordeaux, Lille)
+    - Écoles nationales supérieures d'art (Bourges, Cergy, Dijon, Limoges-Aubusson, Nancy, ENSCI, Photographie Arles, Arts Déco, Beaux-Arts, ENSATT, Louis-Lumière, Ensib, Cité de l'architecture, Institut National du Patrimoine)
+  - **FCIP (GIP Formation Continue & Insertion Professionnelle)**
+    - Déclinés par académie/région (Guadeloupe, Bourgogne, Franche-Comté, Normandie, Paris, Toulouse, Orléans-Tours, Poitiers, Lyon, Lille, Martinique, Alsace, Aquitaine, Guyane, Corse, Créteil, La Réunion, Limoges, Versailles, Rennes - GIPFAR, Grenoble, Nice, Montpellier).
+  - **FCS PSCC** : FCS Paris Saclay Cancer Cluster
+  - **FIPHFP** : Fonds pour l'insertion des personnes handicapées dans la Fonction Publique
+  - **FPE (Instituts des jeunes aveugles/sourds)**
+    - INJA Paris, INJS (Bordeaux, Chambéry, Metz, Paris)
+    - INSHEA
+  - **Grands Établissements (GEES / GEEST)**
+    - EHESS, EFEO, École des chartes, ENSIEG, ENSM, École navale
+    - ENS (Paris, Lyon, Paris-Saclay, Rennes)
+    - EPHE, INALCO, ISG
+    - Centrale (Lille, Supélec, Lyon, Marseille, Nantes)
+    - CNAM, ENIB, ENIT, ENSCM, ENSCP, ENSCR, ENSEA, ENSMA, ENSMM, ENSTA Bretagne, ENSTA ParisTech, ENSAIT, Mines ParisTech, ENSICAEN, ESB, IOTA, Institut Mines-Télécom, Bordeaux INP, ISAE-SUPAERO, Supméca
+  - **GEN** : GIP La Grande École du Numérique
+  - **GENES** : Groupe des écoles nationales d'économie et statistique
+  - **IAEP** : Institut d'administration des entreprises de Paris
+  - **IEP (Instituts d'Études Politiques)**
+    - Aix-en-Provence, Bordeaux, Grenoble, Lille, Lyon, Rennes, Toulouse
+  - **IHEST** : Institut des hautes études pour la science et la technologie
+  - **INFOMA** : Institut national de formation des personnels du ministère de l'agriculture
+  - **INHA** : Institut national d'histoire de l'art
+  - **INSA (Instituts Nationaux des Sciences Appliquées)**
+    - Centre Val de Loire, Lyon, Rennes, Rouen, Strasbourg, Toulouse, Hauts-de-France
+  - **INUJFC** : Institut national universitaire Jean-François Champollion
+  - **ONISEP** : Office national d'information sur les enseignements et les professions
+  - **PTECH** : AgroParisTech
+  - **UNIVERS (Universités & Instituts Rattachés)**
+    - Clermont Auvergne INP, CY Cergy Paris, IPGP, INP Toulouse, Grenoble INP, IP Paris, Lyon I, Côte d'Azur, Aix-Marseille, Angers, Artois, Avignon, Besançon, Bordeaux, Bordeaux III, Bourgogne, Bretagne occidentale, Bretagne-Sud, Caen, Chambéry, Corse, Grenoble Alpes, Guyane, La Réunion, La Rochelle, Lille, Limoges, Lorraine, Lyon II, Lyon III, Montpellier, Montpellier III, Mulhouse, Nantes, Nîmes, Paris, Paris I, Paris III, Paris VIII, Paris XII, Paris XIII, Pau, Perpignan, Picardie, Poitiers, Reims, Rennes, Rennes II, Rouen, Saint-Étienne, Strasbourg, UTBM, UTC, UTT, Toulon, Toulouse II, Toulouse III, Tours, UVSQ, Antilles, Évry, Orléans, Le Havre, ULCO, Le Mans, Gustave Eiffel, Paris Nanterre, Paris Saclay, PSL, Paris-Dauphine, Paris-Panthéon-Assas, UPHF, Sorbonne Université, Toulouse Capitole.
+  - **UNIVFSSP** : Université numérique en santé et sport.fr (UNESS.fr)
+
+- **Fonction 10 : Protection sociale**
+  - **AGS** : Association pour la gestion du régime d'assurance des créances des salariés
+  - **ANCOLS** : Agence nationale de contrôle du logement social
+  - **ANCT** : Agence nationale de la cohésion des territoires
+  - **CLEISS** : Centre des liaisons européennes et internationales de sécurité sociale
+  - **EPIDE** : Établissement public d'insertion de la défense
+  - **ONAC** : Office national des anciens combattants et victimes de guerre
+  - **SNE** : Groupement d'intérêt public système national d'enregistrement

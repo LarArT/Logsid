@@ -12,7 +12,8 @@
   Pour une approche directement axée sur l'ingénierie de sûreté électronique et physique sur le terrain :
 - **Agrément CERIC / Certifications CNPP (ex : Certificat Technique Sûreté - CTS) :**
 	- Axé sur la conception technique des dispositifs : analyse méthodique du risque d'intrusion/malveillance, implantation des technologies (détection périmétrique, volumétrique, contrôle d'accès) et rédaction de cahiers des charges techniques (CCTP).
-	- [[Qu'est ce que c'est le CTS  du CNPP]]
+	- [[formation ceric]]
+	-
 - ### Aperçu de la démarche d'ingénierie de sûreté
   
   L'analyse technique du besoin s'appuie sur une méthode structurée d'évaluation des menaces et d'architecture des sous-systèmes :

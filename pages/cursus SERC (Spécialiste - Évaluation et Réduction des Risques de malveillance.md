@@ -1,4 +1,4 @@
-- [[formation ingénierie des systèmes de sûreté]]
+- cursus SERC (Spécialiste - Évaluation et Réduction des Risques de malveillance
 	- [[agrément ceric]]
 		- [[formation universitaire le plus proche de ceric]]
 		- [[CTS du CNPP]]
