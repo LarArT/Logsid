@@ -165,6 +165,7 @@
 			- Compétence du travailleur
 - # sécurité / sûreté / analyste
 	- [[Veille sûreté]]
+	- [[ville stratégique]]
 	- [[thesaurus sûreté]]
 	- [[sûreté courant vs événementiel]]
 	- # événement
