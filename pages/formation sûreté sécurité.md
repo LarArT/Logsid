@@ -1,0 +1,44 @@
+-
+- Synthèse globale : CLSPD, Formations universitaires et Certifications internationales
+	- 2. Typologie des Formations liées au CLSPD et aux Politiques de Sécurité
+		- **A. Formations Métier & Ingénierie du CLSPD (Profil Coordonnateur)**
+			- *DU Sécurité et Vie Urbaine (UVSQ / FFSU)* : Référence opérationnelle sur le DLS, la rédaction du document et l'animation des instances.
+			- *Formations professionnelles continues* : Modules courts dispensés par le CNFPT ou le FFSU pour les agents territoriaux et élus.
+		- **B. Formations Stratégiques & Management Public (Profil Directeur / Cadre)**
+			- *Sciences Po Rennes* : Master SEDEFIS (Sécurité, Défense et Intelligence Stratégique).
+			- *Université Paris-Saclay / UVSQ* : Master 2 Politiques de Prévention et de Sécurité.
+			- *Université Rennes 2* : Master Management Public Territorial.
+			- *Université Lyon 3* : Master Sécurité Intérieure.
+		- **C. Formations Data & Modélisation (Profil Analyste / Expert)**
+			- *Université de Rennes / ENSAI* : Master Science des Données pour la Décision Publique (économétrie, machine learning, sociologie quantitative).
+			- *Université de Rennes* : Master 2 Criminologie (Faculté de Droit / Médecine).
+			- *Cnam Bretagne* : Master Criminologie (Expertise criminologique).
+			- *IHEMI (École Militaire)* : Ingénierie de la sécurité et structuration des données de renseignement.
+	- 3. Panorama des Formations Universitaires en Gestion des Risques (Vision 360°)
+		- **Risques & Environnement / Incendie**
+			- *Université de Poitiers* : Master Sécurité Incendie (pilotage stratégique du risque incendie).
+			- *Université de Montpellier* : Master Gestion des risques, sécurité et sûreté (droit, responsabilité, malveillance).
+		- **Sécurité Globale & Cybersécurité**
+			- *Université de Technologie de Troyes (UTT)* : Master Sécurité des SI / Mastères Spécialisés avec l'ENSOSP.
+			- *Université de Bordeaux* : Master Sécurité Globale et Analyste Politique (menaces hybrides).
+		- **Gestion Globale des Risques et Crises (GGRC)**
+			- *Université Paris 1 Panthéon-Sorbonne* : Master GGRC (intelligence stratégique, risque cyber, gestion de crise).
+			- *Université Gustave Eiffel* : Master Intelligence Stratégique et Résilience des Territoires.
+	- 4. Certifications Professionnelles Internationales (Sûreté & Renseignement)
+		- **ASIS International (Management de la Sûreté)**
+			- **CPP** (*Certified Protection Professional*) : Management global de la sûreté (norme internationale).
+			- **PSP** (*Physical Security Professional*) : Expertise en sécurité physique et technique.
+			- **PCI** (*Professional Certified Investigator*) : Conduite et gestion des enquêtes professionnelles.
+			- **APP** (*Associate Protection Professional*) : Niveau intermédiaire / débutant.
+		- **IACA - International Association of Crime Analysts (Analyse Criminelle)**
+			- **CLEA** (*Certified Law Enforcement Analyst*) : Certification avancée pour analystes en services répressifs/justice.
+			- **LEAF** (*Law Enforcement Analyst – Foundations*) : Socle fondamental théorique et technique.
+		- **IALEIA - Int. Assoc. of Law Enforcement Intelligence Analysts (Renseignement)**
+			- **BAC** (*Basic Analyst Classification*) : Niveau initial exigé après 40h de formation validée (stage FIAT, I-Intelligence, EPEE, DU Panthéon-Assas, EGE).
+			- **CICA** (*Criminal Intelligence Certified Analyst*) : Certification de référence pour analystes confirmés (expérience + examen).
+			- **Lifetime CICA** : Titre accordé après 10 ans de maintien actif de la certification.
+		- [[expérience nécessaire pour ses certifications]]
+	- 5. Synthèse des Alignements Trajectoires / Diplômes / Certifications
+		- **Rédaction & Animation du CLSPD** -> DU Sécurité & Vie Urbaine + Formations CNFPT/FFSU.
+		- **Analyse de données & Modélisation des risques** -> Master Science des Données / Criminologie + Certification IACA (LEAF/CLEA) ou IALEIA (BAC/CICA).
+		- **Direction Sûreté / Sécurité Globale** -> Master GGRC / Sécurité Globale + Certification ASIS (CPP/PSP).

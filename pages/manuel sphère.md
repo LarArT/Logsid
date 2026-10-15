@@ -1,0 +1,53 @@
+- Comment utiliser le manuel Sphère : Messages clés
+- Qu'est-ce que Sphère ?
+	- Ce récapitulatif des messages clés peut vous servir de rappel des principaux enseignements du module.
+	- Sphère fournit une série de **standards humanitaires minimums** soutenus par des actions précises.
+		- Ils aident les personnels et les bénévoles dans les crises humanitaires à soulager la souffrance.
+		- Ils permettent de renforcer la résilience des personnes qui en ont besoin, tout en leur apportant de l'aide.
+		- Ces standards figurent dans le manuel Sphère.
+	- Sphère est cependant bien plus qu'un manuel. C'est également :
+		- **Une communauté** — Sphère est une communauté de membres, de formateurs et formatrices, de points focaux et de praticiens et praticiennes qui utilisent le manuel, en discutent et cherchent continuellement à améliorer les orientations qu'il fournit.
+		- **Un service public** — Puisque le manuel et les autres ressources de Sphère sont utilisables gratuitement, Sphère est un service public : une ressource qui vise à aider les humanitaires à apporter une meilleure assistance aux personnes qui en ont besoin.
+		- **Une approche** — Sphère est également une approche de l'aide humanitaire.
+	- L'approche de Sphère
+		- L'approche de Sphère se définit comme suit :
+			- Efforcez-vous de toujours faire de votre mieux avec les ressources dont vous disposez.
+			- Expliquez ce que votre programme a accompli, ce que vous avez appris et ce qu'il reste à faire.
+			- Plaidez en faveur de davantage de mesures et de moyens.
+			- Assurez-vous de la **participation active des populations affectées** à toutes les étapes de votre programme.
+		- Sphère fournit une orientation pratique, ce qui nous aide à apporter une aide basée sur les besoins et les capacités, plus efficace et sans discrimination.
+		- Le manuel reconnaît le **droit des individus** :
+			- À l'assistance.
+			- À une vie digne.
+			- À la protection et à la sécurité.
+			- À une entière participation dans les décisions relatives à leur relèvement.
+- Le contenu principal du manuel Sphère
+	- Le manuel Sphère contient une introduction, « Qu'est-ce que Sphère ? », trois chapitres sur les principes et les fondations, et quatre chapitres sur quatre domaines vitaux :
+	- Principes et fondations
+		- Charte humanitaire
+		- Principes de protection
+		- Norme humanitaire fondamentale
+	- Les quatre domaines vitaux (Standards)
+		- L'approvisionnement en eau, l'assainissement et la promotion de l'hygiène (WASH)
+		- La sécurité alimentaire et la nutrition
+		- Les abris et l'habitat
+		- La santé
+- Structure des standards du manuel
+	- Ces quatre chapitres sectoriels incluent les standards, dont la structure est la suivante :
+		- **Le standard minimum** — la condition minimale universelle et de qualité d'une vie digne.
+		- **Les actions clés** — des suggestions d'étapes pratiques pour atteindre le standard minimum.
+		- **Les indicateurs clés** — des suggestions de mesures des progrès vers la réalisation du standard.
+		- **Les notes d'orientation** — des informations supplémentaires en soutien aux actions clés.
+- Ressources complémentaires
+	- Les ressources suivantes peuvent également vous intéresser :
+		- Le manuel Sphère interactif (2018)
+		- Le manuel Sphère (2018)
+		- Le site du Partenariat pour les standards humanitaires (HSP)
+		- Les ressources de Sphère en matière de formation
+		- La chaîne YouTube de Sphère
+		- L'histoire de Sphère : un documentaire
+	- Sphère en pratique (Études de cas)
+		- Mise en œuvre des standards Sphère dans l'intervention en Haïti
+		- Mise en œuvre des standards Sphère dans l'intervention en Colombie
+		- Mise en œuvre des standards Sphère dans l'intervention au Brésil
+		- Mise en œuvre des standards Sphère dans l'intervention au Yémen

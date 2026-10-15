@@ -1,0 +1,10 @@
+- Quels sont les valeurs éthiques d'un médiateur?
+- L'impartialité
+- La neutralité
+- Intégrité
+- Confidentialité
+- Compétence
+- Respect de l'autodétermination des parties
+- Divulgation des conflits d'intérêts réels ou perçus
+-
+- L'éthique est l'ensemble des principes moraux qui régissent le comportement d’une personne ou la conduite d’une activité.

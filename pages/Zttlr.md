@@ -1,0 +1,20 @@
+- ____________
+- Zetel castle
+-
+	- Lire un livre livre : prise de notes ou annotation  ou surlignage (readwise)
+		- Faire une fiche littéraire qui résume l'ensemble des notes
+			- Retirer les concepts clés
+			- Créer une note pour chaque concept
+			- À partir des concepts intéressants utiliser la méthode de feyman
+			- Qu'est-ce qu'on souhaite apprendre
+			- Extraire les concepts
+			- Créer une arborescence de sous concept et approfondir
+			-
+			-
+		- Pour un projet rédiger une fiche qqoqcc0mp
+		- Pour un concept créer un template qui indique la source (une source littéraire va donner plusieurs concepts pour pouvoir reconstruire son schéma de pensée à l'avenir indiquer la source dans le document), tag, date, projet
+		- Suite template concept : indiquer des questions ouvertes l que ouvre e concept, les références, et des illustration s
+		-
+		-
+		-
+		- Workflow : soit une idée (fichier idee), ressources zotero

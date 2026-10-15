@@ -1,0 +1,1 @@
+- Méthode bow tie - amdec

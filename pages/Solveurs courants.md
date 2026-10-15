@@ -1,0 +1,27 @@
+-
+- [ ] Solveurs d'équations :
+- Équations linéaires : Méthodes directes (Gauss, LU, Cholesky), Méthodes itératives (Jacobi, Gauss-Seidel)
+- Équations non linéaires : Méthode de Newton, Méthode du point fixe
+- Équations différentielles : Méthodes d'Euler, Méthodes de Runge-Kutta
+- [ ] Solveurs d'optimisation :
+- Programmation linéaire : Algorithme du simplex
+- Programmation non linéaire : Méthodes de gradient, Méthodes de Newton
+- [ ] Solveurs de systèmes dynamiques :
+- Méthodes d'intégration numérique : Euler, Runge-Kutta, Verlet
+- [ ] Solveurs pour l'informatique :
+- Solveurs de contraintes (CSP) : Algorithmes de recherche (Backtracking, Propagation de contraintes), Solveurs SAT (DPLL, WalkSAT)
+- Solveurs de programmes linéaires en nombres entiers (MILP) : Méthodes de coupes, Méthodes de branch and bound
+- Solveurs de problèmes de satisfaction de contraintes (SAT) : DPLL, WalkSAT
+- [ ] Solveurs pour les jeux :
+- Solveurs de Sudoku : Backtracking, Propagation de contraintes
+- Solveurs de mots croisés : Recherche dans un dictionnaire, Vérification de contraintes
+- Solveurs de Rubik's Cube : Algorithmes spécifiques (par exemple, la méthode Fridrich)
+- [ ] Autres solveurs :
+- Solveurs de problèmes de planification : Algorithmes de recherche, Techniques d'intelligence artificielle
+- Solveurs de problèmes de diagnostic : Systèmes experts, Raisonnement probabiliste
+- [ ] Outils logiciels courants :
+- MATLAB : pour les problèmes mathématiques et d'ingénierie
+- Python : avec des bibliothèques comme NumPy, SciPy, SymPy pour les problèmes scientifiques
+- CPLEX, Gurobi : pour l'optimisation linéaire et non linéaire
+- Z3, CVC4 : pour la résolution de contraintes et la vérification de modèles
+- Solver Foundation : pour les problèmes d'optimisation dans Excel

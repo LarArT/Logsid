@@ -1,0 +1,62 @@
+- Les six catégories du Cercle du conflit sont:
+- les *Valeurs*
+	- Toutes les valeurs et croyances des parties peuvent contribuer au conflit ou en être la cause.
+	- Il peut s'agir de valeurs comme la religion, l'éthique, la morale et la politique, ou de valeurs plus simples de la vie professionnelle et de la vie privée, comme la loyauté envers l'entreprise, la valeur du service à la clientèle, la nécessité de réduire les coûts, etc.
+	- Les conflits de valeurs surviennent lorsque les valeurs divergentes des parties s'affrontent et peuvent causer ou exacerber une situation. Pensez aux perspectives différentes des capitalistes et des socialistes, des hommes et des femmes, des jeunes et des vieux, ainsi qu'aux origines culturelles ou ethniques.
+	- Étant subjectives, les valeurs sont très difficiles à aborder dans le cadre d'une médiation puisque chaque personne peut percevoir une même situation selon son interprétation du conflit de valeur en cause.
+	- Lorsque le médiateur identifie un conflit de valeur, il serait judicieux de sa part d'éviter de l'aborder de front dans le feu de l'action et plutôt réorienter la discussion, en posant des questions, vers une des catégories dans la partie inférieure du Cercle de conflit.
+- la *Relation*
+	- Leçon 2 - Leçon 2. L'Escalier de résolution des conflits
+	  Leçon 3 sur 6
+	  Leçon 3. Le Cercle du conflit
+	  Cette section présente le Cercle du conflit, un modèle qui catégorise les conflits et propose des approches pour chacune des catégories.
+	- Dans cette vidéo, Louise Aubertin présente le Cercle du conflit, c'est-à dire les 6 catégories de conflit.
+	- Les six catégories du Cercle du conflit
+	- Source: Christopher Moore, The Mediation Process, adapted by G. T. Furlong, The Conflict Resolution Toolbox
+	- Les six catégories du Cercle du conflit sont:
+	- les Valeurs
+	- la Relation
+	- les Éléments externes
+	- les Données
+	- les Structures
+	- les Intérêts.
+	- Le modèle propose une approche différente pour aborder chacune d'elle dans le cadre d'une médiation.
+	- Puisque les catégories valeurs et relation sont de nature subjective, elles sont très difficiles à aborder dans le cadre d'une médiation.
+	- L'approche suggérée pour ces catégories est donc de diriger la discussion vers la catégorie intérêts, une catégorie qui est moins difficile à aborder.
+	- Les six catégories du Cercle du conflit
+	- Les valeurs
+	  Toutes les valeurs et croyances des parties peuvent contribuer au conflit ou en être la cause.
+	- Il peut s'agir de valeurs comme la religion, l'éthique, la morale et la politique, ou de valeurs plus simples de la vie professionnelle et de la vie privée, comme la loyauté envers l'entreprise, la valeur du service à la clientèle, la nécessité de réduire les coûts, etc.
+	- Les conflits de valeurs surviennent lorsque les valeurs divergentes des parties s'affrontent et peuvent causer ou exacerber une situation. Pensez aux perspectives différentes des capitalistes et des socialistes, des hommes et des femmes, des jeunes et des vieux, ainsi qu'aux origines culturelles ou ethniques.
+	- Étant subjectives, les valeurs sont très difficiles à aborder dans le cadre d'une médiation puisque chaque personne peut percevoir une même situation selon son interprétation du conflit de valeur en cause.
+	- Lorsque le médiateur identifie un conflit de valeur, il serait judicieux de sa part d'éviter de l'aborder de front dans le feu de l'action et plutôt réorienter la discussion, en posant des questions, vers une des catégories dans la partie inférieure du Cercle de conflit.
+	- Exemple:
+	- Si l'une des parties dit "Ces travailleurs n'ont aucun respect pour les règles''. Il s'agit d'un conflit de valeur, soit le respect. Le médiateur pourrait répondre ''Je comprends. Il s'agit d'une question de respect pour vous. Puis-je vous demander ce qu'ils ont fait au juste?''. La personne devrait décrire un comportement tel que ''Ils garent leur voiture dans les espaces réservés''. Le médiateur pourrait répondre ''D'accord. Je comprends. Quel est l'impact?''.  En posant cette question, le médiateur redirige la discussion vers la catégorie des Intérêts. Une fois que la personne aura décrit l'impact (l'intérêt), le médiateur pourrait orienter la discussion vers la recherche de solutions en posant une autre question. ''Je comprends. Quelles solutions pourriez-vous envisager pour régler la situation?''
+	- Les relations
+	  Les conflits qui relèvent de la catégorie relation sont particulièrement difficiles à aborder, surtout dans le feu de l'action d'une médiation. Il peut s'agir d'un conflit de personnalité entre certains individus, d'une méfiance envers une personne inconnue présente à la table de négociation ou d'une expérience passée négative vécue avec un individu ou un groupe de personnes. Ces sources de conflit peuvent influencer la façon dont un individu peut interagir avec les autres participants ou les membres d'un comité de négociation de l'autre partie.
+	- Les gens ont tendance à créer des stéréotypes et des idées préconçues et faire des suppositions concernant leurs ''adversaires''. Ces perceptions contribuent évidemment à envenimer le conflit. Il serait contre-productif pour le médiateur de les aborder lors d'une médiation ou négociation collective.
+	- Lorsqu'un individu fait un commentaire désobligeant concernant l'autre partie, le médiateur peut reconnaitre son commentaire (sans l'appuyer), exprimer de l'empathie au besoin, et poursuivre en réorientant la conversation vers l'enjeu qui fait l'objet de son intervention.
+	- Si les esprits se réchauffent et que les parties lèvent le ton, le médiateur peut leur rappeler les règles établies d'entrée de jeu. Par contre, si les parties n'arrivent pas à retrouver leur calme, le médiateur peut faire une pause ou suggérer qu'elles occupent des salles séparées et qu'il fasse l'aller-retour pour communiquer les informations de part et d'autre.
+- les *É**léments externes*
+	- Cette catégorie concerne les facteurs qui n'ont rien à voir avec les négociations en cours, mais qui contribuent tout de même au conflit, des forces externes sur lesquelles aucune des parties n'a de prise.
+	- À titre d'exemple, il peut s'agir de la négociation d'une convention collective en période de récession ou lorsqu'une entreprise est confrontée à une faillite ou à une reprise potentielle.
+	- Aucune des parties n'a provoqué ni ne contrôle la situation, mais toutes deux doivent faire face à son impact négatif.
+	- Le médiateur peut laisser les parties s'exprimer, reconnaître leurs préoccupations, leur exprimer de l'empathie et diplomatiquement proposer d'aborder un autre enjeu, un enjeu sur lequel elles ont de l'influence.
+- les *Données*
+	- Les données ou les informations sont une source de conflit fréquente. Le conflit survient lorsque les informations avec lesquelles les parties travaillent sont inexactes, incomplètes, non-fondées, incomprises, non-pertinentes ou interprétées différemment par les parties.
+	  Par exemple, les documents financiers d'une entreprise - bien que les chiffres soient les mêmes, la façon dont chaque partie interprète des éléments comme les bénéfices et les dépenses peut être très différente.
+	- Cette situation peut être à l'origine de conflits importants.
+	- À titre d'exemple, dans le cadre d'une négociation collective, les parties peuvent avoir des interprétations différentes des coûts des pensions et des avantages sociaux ou des messages aux actionnaires dans les rapports annuels par rapport à l'image donnée au syndicat à la table des négociations.
+	- Présenter des ouï-dire comme des faits contribue également aux conflits de données.
+	- Le rôle du médiateur est d'aider les parties à s'entendre sur les sources d'information à utiliser. Il pourra faciliter une discussion durant laquelle les parties présenteront, à tour de rôle, leurs arguments respectifs et leur posera des questions pour identifier leurs intérêts. Lorsque pertinent, il peut suggérer l'établissement de critères objectifs à partir desquels évaluer les informations.
+- les *Structures *
+	- Cette catégorie de conflit concerne les problèmes liés aux structures organisationnelles, aux systèmes en place ainsi que la disponibilité des ressources. À titre d'exemple, il peut s'agir d'un problème de pouvoir décisionnel en l'absence des décideurs à la table des négociations.
+	- Les ressources sont aussi souvent source de conflit. La divergence des points de vue concernant l'allocation, l'utilisation et la répartition des ressources humaines et financières. Le budget salarial par exemple. Les outils, processus et systèmes peuvent aussi être source de conflit ainsi que le manque de temps.
+	- Pour cette catégorie de conflit, le médiateur peut aider les parties en posant des questions qui visent à identifier leurs préoccupations, besoins et intérêts respectifs ainsi qu'à identifier de possibles solutions.
+- les *Intérêts*.
+	- Bien que les conflits qui concernent les intérêts des parties aient tendance à être moins litigieux que les autres sources de conflit, ils surviennent et doivent être abordés. Décrits simplement, ils constituent les besoins, préoccupations, souhaits, aspirations, espoirs et craintes des parties.
+	- Exemple : La mise en œuvre d'un nouvel horaire de travail peut avoir des impacts sur la vie personnelle de certains travailleurs.
+	- Le rôle du médiateur est toujours de faciliter un dialogue durant lequel les parties exprimeront, à tour de rôle, leurs demandes, préoccupations, besoins, intérêts, souhaits, craintes et espoirs, suivi d'une discussion sur les solutions possibles.
+-
+- Puisque les catégories **valeurs** et **relation** sont de nature subjective, elles sont très difficiles à aborder dans le cadre d'une médiation.
+- L'approche suggérée pour ces catégories est donc de diriger la discussion vers la catégorie **intér****ê****ts**, une catégorie qui est moins difficile à aborder.

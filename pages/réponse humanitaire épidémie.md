@@ -1,0 +1,6 @@
+- [[International Nonproprietary Names (INNs) for Pharmaceutical Substance]]
+- # substance active essentielle
+- [liste des médicaments essentiels dans le contexte français](https://sante.gouv.fr/IMG/pdf/liste_medicaments_essentiels_2024.07_08.pdf)
+- [liste des médicaments essentiels dans le contexte who](https://list.essentialmeds.org/?hl=fr-FR)
+- [[différence entre ces deux listes]]
+-

@@ -1,0 +1,127 @@
+- https://www.hoganassessments.com/wp-content/uploads/2019/12/MVPI-Subscale-Interpretation-Handbook.pdf
+- https://www.crownedgrace.com/wp-content/uploads/2016/04/Motives-Values-Preferences-Invetory.pdf
+-
+- MVPI (Motives, Values, Preferences Inventory) - Échelles et Sous-échelles
+	- MVPI (Motives, Values, Preferences Inventory) - Échelles et Sous-échelles
+	- 1. Reconnaissance (Recognition)
+		- Lifestyles (Modes de vie)
+		- Beliefs (Croyances)
+		- Occupational Preferences (Préférences professionnelles)
+		- Aversions (Aversions)
+		- Preferred Associates (Associés préférés)
+	- 2. Pouvoir (Power)
+		- Lifestyles (Modes de vie)
+		- Beliefs (Croyances)
+		- Occupational Preferences (Préférences professionnelles)
+		- Aversions (Aversions)
+		- Preferred Associates (Associés préférés)
+	- 3. Hédonisme (Hedonism)
+		- Lifestyles (Modes de vie)
+		- Beliefs (Croyances)
+		- Occupational Preferences (Préférences professionnelles)
+		- Aversions (Aversions)
+		- Preferred Associates (Associés préférés)
+	- 4. Altruisme (Altruistic)
+		- Lifestyles (Modes de vie)
+		- Beliefs (Croyances)
+		- Occupational Preferences (Préférences professionnelles)
+		- Aversions (Aversions)
+		- Preferred Associates (Associés préférés)
+	- 5. Affiliation (Affiliation)
+		- Lifestyles (Modes de vie)
+		- Beliefs (Croyances)
+		- Occupational Preferences (Préférences professionnelles)
+		- Aversions (Aversions)
+		- Preferred Associates (Associés préférés)
+	- 6. Tradition (Tradition)
+		- Lifestyles (Modes de vie)
+		- Beliefs (Croyances)
+		- Occupational Preferences (Préférences professionnelles)
+		- Aversions (Aversions)
+		- Preferred Associates (Associés préférés)
+	- 7. Sécurité (Security)
+		- Lifestyles (Modes de vie)
+		- Beliefs (Croyances)
+		- Occupational Preferences (Préférences professionnelles)
+		- Aversions (Aversions)
+		- Preferred Associates (Associés préférés)
+	- 8. Commerce (Commerce)
+		- Lifestyles (Modes de vie)
+		- Beliefs (Croyances)
+		- Occupational Preferences (Préférences professionnelles)
+		- Aversions (Aversions)
+		- Preferred Associates (Associés préférés)
+	- 9. Esthétique (Aesthetics)
+		- Lifestyles (Modes de vie)
+		- Beliefs (Croyances)
+		- Occupational Preferences (Préférences professionnelles)
+		- Aversions (Aversions)
+		- Preferred Associates (Associés préférés)
+	- 10. Science (Science)
+		- Lifestyles (Modes de vie)
+		- Beliefs (Croyances)
+		- Occupational Preferences (Préférences professionnelles)
+		- Aversions (Aversions)
+		- Preferred Associates (Associés préférés)
+- MVPI (Motives, Values, Preferences Inventory)
+	- 1. Reconnaissance (Recognition)
+		- Lifestyles (Modes de vie) :: Aime être sous les projecteurs, en quête de visibilité.
+		- Beliefs (Croyances) :: Pense que les succès doivent être annoncés.
+		- Occupational Preferences (Préférences pro) :: Environnements où l'on peut briller.
+		- Aversions (Aversions) :: Irrité par l'absence de reconnaissance.
+		- Preferred Associates (Associés) :: S'entoure de personnes admiratives ou de haut statut.
+	- 2. Pouvoir (Power)
+		- Lifestyles (Modes de vie) :: Désir de diriger et compétition constante.
+		- Beliefs (Croyances) :: Le monde est un terrain de compétition (gagner est primordial).
+		- Occupational Preferences (Préférences pro) :: Rôles de management et d'influence.
+		- Aversions (Aversions) :: Déteste la paresse et le manque d'ambition.
+		- Preferred Associates (Associés) :: S'entoure de personnes ambitieuses et compétitives.
+	- 3. Hédonisme (Hedonism)
+		- Lifestyles (Modes de vie) :: Vie orientée vers les loisirs et le plaisir.
+		- Beliefs (Croyances) :: Prône le "travailler dur, jouer dur".
+		- Occupational Preferences (Préférences pro) :: Environnements flexibles (vente, tourisme, accueil).
+		- Aversions (Aversions) :: Déteste la formalité excessive.
+		- Preferred Associates (Associés) :: Apprécie ceux qui savent se détendre.
+	- 4. Altruisme (Altruistic)
+		- Lifestyles (Modes de vie) :: Plaisir à aider les autres et s'impliquer.
+		- Beliefs (Croyances) :: Croit en la justice sociale et l'aide à autrui.
+		- Occupational Preferences (Préférences pro) :: Métiers relationnels (santé, social).
+		- Aversions (Aversions) :: Frustré par l'indifférence aux problèmes d'autrui.
+		- Preferred Associates (Associés) :: S'entoure de personnes généreuses.
+	- 5. Affiliation (Affiliation)
+		- Lifestyles (Modes de vie) :: Recherche d'environnements interactifs et collectifs.
+		- Beliefs (Croyances) :: Maintien constant des relations amicales.
+		- Occupational Preferences (Préférences pro) :: Travail d'équipe, vente, networking.
+		- Aversions (Aversions) :: Déteste la solitude et l'isolement.
+		- Preferred Associates (Associés) :: Recherche un large réseau social.
+	- 6. Tradition (Tradition)
+		- Lifestyles (Modes de vie) :: Adhésion à un code moral établi.
+		- Beliefs (Croyances) :: Respect des coutumes et du passé.
+		- Occupational Preferences (Préférences pro) :: Environnements structurés avec des règles claires.
+		- Aversions (Aversions) :: Déteste le non-conformisme et l'irrespect des règles.
+		- Preferred Associates (Associés) :: S'entoure de personnes ayant des valeurs similaires.
+	- 7. Sécurité (Security)
+		- Lifestyles (Modes de vie) :: Planification rigoureuse et minimisation des risques.
+		- Beliefs (Croyances) :: "Mieux vaut prévenir que guérir".
+		- Occupational Preferences (Préférences pro) :: Recherche de stabilité financière.
+		- Aversions (Aversions) :: Déteste l'imprévisibilité et les changements brusques.
+		- Preferred Associates (Associés) :: S'entoure de personnes prévisibles et fiables.
+	- 8. Commerce (Commerce)
+		- Lifestyles (Modes de vie) :: Intérêt marqué pour la finance et les budgets.
+		- Beliefs (Croyances) :: L'argent est un moteur de motivation légitime.
+		- Occupational Preferences (Préférences pro) :: Gestion financière, investissement, profit.
+		- Aversions (Aversions) :: Critique les dépenses inutiles et la gestion floue.
+		- Preferred Associates (Associés) :: S'entoure de personnes financièrement prospères.
+	- 9. Esthétique (Aesthetics)
+		- Lifestyles (Modes de vie) :: Valorisation de l'apparence et de l'environnement visuel.
+		- Beliefs (Croyances) :: La beauté et le design comme mode de vie.
+		- Occupational Preferences (Préférences pro) :: Créativité, design, communication.
+		- Aversions (Aversions) :: Déteste les environnements laids ou non soignés.
+		- Preferred Associates (Associés) :: Apprécie les idées originales et créatives.
+	- 10. Science (Science)
+		- Lifestyles (Modes de vie) :: Vie organisée autour de l'analyse et de la donnée.
+		- Beliefs (Croyances) :: Le progrès repose sur la recherche et les faits.
+		- Occupational Preferences (Préférences pro) :: Ingénierie, recherche, analyse technique.
+		- Aversions (Aversions) :: Déteste l'intuition non basée sur des preuves.
+		- Preferred Associates (Associés) :: S'entoure de personnes analytiques.
+-

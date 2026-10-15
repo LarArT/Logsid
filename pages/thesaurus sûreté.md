@@ -1,0 +1,440 @@
+# Thésaurus Exhaustif de Sûreté, Audit & Référentiels SGDSN (400 Termes)
+- ## 1. Méthodologie d'Audit, Gestion des Risques & Continuité (ISO 31000 / ISO 22301 / ISO 28000 / ISO 19011)
+	- ### 1.1. Concepts Fondamentaux des Risques, Menaces & Vulnérabilités
+		- **Sûreté (Security)** :: Protection contre les actes de malveillance, le sabotage, le vol, l'espionnage, le vandalisme et le terrorisme.
+		- **Sécurité (Safety)** :: Protection contre les événements accidentels, les défaillances techniques, les pannes et les risques naturels.
+		- **Risque de sûreté** :: Combinaison de la vraisemblance d'un acte malveillant et de la gravité de ses conséquences sur l'organisation.
+		- **Menace (Threat)** :: Cause potentielle d'un incident indésirable, caractérisée par une intention malveillante, des capacités et une cible.
+		- **Agent de menace / Attaquant** :: Entité interne ou externe motivée pour porter atteinte aux actifs d'une organisation.
+		- **Source de risque** :: Élément ayant le potentiel de générer une menace ou d'accroître une vulnérabilité.
+		- **Scénario de menace** :: Description séquentielle des étapes qu'un attaquant doit franchir pour réaliser son objectif.
+		- **Cible privilégiée** :: Actif spécifique présentant le plus fort intérêt stratégique ou financier pour un attaquant.
+		- **Attractivité de la cible** :: Valeur perçue d'un actif par un attaquant potentiel déterminant le niveau de ciblage.
+		- **Vulnérabilité / Faiblesse** :: Marge de faiblesse organisationnelle, physique ou technique exploitable par une menace.
+		- **Facteur d'exposition** :: Pourcentage d'un actif susceptible d'être endommagé ou détruit lors d'une attaque donnée.
+		- **Actif critique / Bien essentiel** :: Ressource (humaine, physique, matérielle, immatérielle) dont la perte ou la dégradation nuit à la mission.
+		- **Actif immatériel** :: Patrimoine informationnel, savoir-faire, brevets, réputation ou données stratégiques d'une entité.
+		- **Impact / Conséquence** :: Ampleur des dommages humains, financiers, juridiques ou réputationnels causés par un événement.
+		- **Impact direct** :: Dommage immédiat et mesurable causé au droit de l'attaque (ex: destruction physique d'un serveur).
+		- **Impact indirect / Collatéral** :: Effet en chaîne ou perte d'exploitation survenant après l'événement initial.
+		- **Vraisemblance / Probabilité** :: Évaluation de la possibilité qu'un scénario d'attaque se concrétise.
+		- **Niveau de risque** :: Expression quantitative ou qualitative combinant la gravité de l'impact et la vraisemblance.
+		- **Cartographie des risques** :: Représentation visuelle et hiérarchisée des risques de l'organisation selon leur criticité.
+		- **Matrice de criticité** :: Grille croisant les niveaux d'impact et de vraisemblance pour catégoriser les risques.
+		- **Risque brut (Inhérent)** :: Niveau de risque évalué avant l'application de toute mesure ou contre-mesure de sécurité.
+		- **Risque résiduel** :: Niveau de risque subsistant après la mise en œuvre des contrôles et mesures de sûreté.
+		- **Risque acceptable** :: Niveau de risque résiduel jugé tolérable par la direction et ne nécessitant pas d'action immédiate.
+		- **Appétence au risque / Tolérance** :: Niveau maximal de risque qu'une organisation décide formellement d'assumer.
+		- **Marge de sécurité** :: Écart entre le niveau de risque résiduel et le niveau de risque maximal toléré.
+		- **Traitement du risque** :: Décision stratégique de réduire, transférer, éviter ou accepter un risque de sûreté.
+		- **Réduction du risque** :: Application de mesures organisationnelles ou techniques visant à diminuer la vraisemblance ou l'impact.
+		- **Transfert du risque** :: Déport de la charge financière du risque vers un tiers (assurance, clause contractuelle).
+		- **Évitement du risque** :: Abandon d'une activité ou modification d'un projet pour supprimer totalement la source du risque.
+		- **Acceptation formelle du risque** :: Validation écrite et assumée par la direction d'un niveau de risque résiduel.
+		- **Analyse des modes de défaillance (AMDEC sûreté)** :: Méthode d'analyse systématique des défaillances potentielles des barrières.
+		- **Modèle du fromage suisse (James Reason)** :: Théorie montrant comment l'alignement des failles dans différentes lignes de défense produit un incident.
+		- **Nœud papillon (Bow-Tie)** :: Schéma d'analyse liant les causes d'un événement redouté à ses conséquences via les barrières.
+		- **Événement redouté (ER)** :: Événement majeur que les barrières de sûreté cherchent prioritairement à empêcher.
+		- **Barrière de prévention** :: Mesure visant à empêcher la survenance de l'événement redouté (en amont du nœud).
+		- **Barrière de protection / Mitigation** :: Mesure visant à réduire les conséquences une fois l'événement survenu (en aval).
+		- **Niveau de confiance des barrières** :: Évaluation de l'efficacité, de la réactivité et de la pérennité d'une mesure de sécurité.
+		- **Facteur aggravant** :: Élément contextuel augmentant la gravité d'un impact ou facilitant l'action de l'attaquant.
+		- **Facteur atténuant** :: Élément contextuel ou mesure réflexe réduisant spontanément la portée d'une attaque.
+		- **Incertitude du risque** :: État d'incapacité d'évaluation précise dû au manque d'informations sur la menace.
+	- ### 1.2. Ingénierie, Conduite & Preuves d'Audit (ISO 19011)
+		- **Audit de sûreté** :: Examen méthodique, indépendant et documenté permettant d'évaluer la conformité à un référentiel.
+		- **Auditeur leader / Auditeur chef** :: Responsable de la gestion, de la réalisation et du rapport final de la mission d'audit.
+		- **Champ de l'audit (Périmètre)** :: Limites physiques, organisationnelles et techniques fixées pour la mission d'évaluation.
+		- **Référentiel d'audit** :: Ensemble des normes, lois, réglementations et politiques internes servant de base à l'évaluation.
+		- **Preuve d'audit** :: Données, constatations de terrain, photos, registres ou témoignages vérifiables recueillis par l'auditeur.
+		- **Constat d'audit** :: Résultat de la comparaison entre les preuves collectées et le référentiel d'exigences.
+		- **Conformité** :: Respect effective d'une exigence définie dans le référentiel d'audit.
+		- **Non-conformité majeure** :: Absence ou défaillance critique d'une mesure de sûreté compromettant l'ensemble de la protection.
+		- **Non-conformité mineure** :: Écart ponctuel n'entraînant pas un risque immédiat de compromission globale.
+		- **Remarque / Piste d'amélioration** :: Observation d'une situation qui ne viole pas le référentiel mais présente une vulnérabilité future.
+		- **Test de pénétration physique (Red Teaming)** :: Simulation contrôlée d'intrusion visant à tester l'efficacité des barrières et la réaction des équipes.
+		- **Ingénierie sociale inversée / Test d'infiltration** :: Tentative de contournement des procédures humaines par manipulation lors de l'audit.
+		- **Piste d'audit / Traçabilité** :: Capacité à reconstituer l'historique d'un événement, d'un accès ou d'une modification.
+		- **Plan d'Actions Correctives (PAC)** :: Ensemble formalisé de mesures et calendriers visant à résorber les non-conformités.
+		- **Revue de direction** :: Évaluation périodique par la gouvernance de l'efficacité du système de management de la sûreté.
+		- **Revue documentaire** :: Étape de l'audit consacrée à l'examen des politiques, procédures, plans et registres.
+		- **Inspection visuelle sur le terrain** :: Contrôle physique direct de l'état des barrières, clôtures, serrures et éclairages.
+		- **Echantillonnage d'audit** :: Sélection représentative de dossiers, personnes ou accès pour vérifier la conformité générale.
+		- **Entretien d'audit** :: Questionnaire structuré mené auprès des collaborateurs pour vérifier la maîtrise des procédures.
+		- **Rapport d'audit** :: Document officiel synthétisant la méthodologie, les constats, les écarts et les recommandations.
+		- **Recommandation prioritaire** :: Action préconisée à traiter en urgence en raison de la sévérité du risque associé.
+		- **Audit de suivi / Ré-audit** :: Mission ultérieure visant à vérifier la mise en œuvre effective des actions du PAC.
+		- **Indépendance de l'auditeur** :: Absence d'intérêt direct ou d'implication opérationnelle de l'auditeur dans le périmètre évalué.
+		- **Impartialité** :: Objectivité stricte dans la collecte et l'analyse des preuves sans préjugé.
+		- **Confidentialité d'audit** :: Obligation de non-divulgation des constats et vulnérabilités découverts durant la mission.
+	- ### 1.3. Sûreté de la Chaîne d'Approvisionnement (ISO 28000)
+		- **Sûreté de la chaîne d'approvisionnement** :: Protection globale des flux logistiques contre le vol, le sabotage, le détournement et la contrebande.
+		- **Évaluation de la sûreté des fournisseurs** :: Audit préalable des mesures de sécurité appliquées par les prestataires et sous-traitants.
+		- **Rupture de traçabilité** :: Perte de suivi physique ou numérique d'un flux de marchandise ou de matériel sensible.
+		- **Sûreté du fret** :: Dispositifs de scellé, de contrôle d'accès et d'inspection-filtrage appliqués aux marchandises en transit.
+		- **Scellé haute sécurité (ISO 17712)** :: Dispositif mécanique à usage unique laissant une preuve irréfutable de tentative d'ouverture.
+		- **Zone de fret sécurisée** :: Aire d'entreposage sous contrôle d'accès strict et surveillance vidéo permanente.
+		- **Opérateur Économique Agréé (OEA-Sûreté)** :: Statut accordé par les douanes certifiant la fiabilité de la chaîne logistique d'une entreprise.
+		- **Audit de maillon critique** :: Inspection ciblée sur l'étape de transfert ou de rupture de charge d'une marchandise.
+		- **Contamination de fret** :: Introduction illicite de produits prohibés ou dangereux au sein d'une cargaison légitime.
+		- **Vol en cours de transit (Hijacking)** :: Détournement sous la contrainte d'un véhicule de transport de marchandises.
+		- **Zone de stationnement sécurisée (TPARK)** :: Parking poids lourds certifié disposant de clôtures, gardiennage et vidéo.
+		- **Sûreté des conteneurs** :: Ensemble des procédures d'inspection à 7 points recommandées avant le chargement d'un conteneur.
+		- **Traceur GPS / Geofencing** :: Dispositif d'alerte automatique en cas de déviation d'un véhicule de son itinéraire autorisé.
+		- **Agent habilité (Sûreté aérienne)** :: Entreprise effectuant des contrôles de sûreté reconnus sur le fret aérien.
+		- **Expéditeur connu** :: Chargeur certifié appliquant des règles de sûreté garantissant l'intégrité du fret dès l'origine.
+	- ### 1.4. Continuité d'Activité & Résilience (ISO 22301)
+		- **Résilience** :: Capacité d'une organisation à résister, s'adapter et reprendre son fonctionnement face à un choc majeur.
+		- **Plan de Continuité d'Activité (PCA)** :: Stratégie documentée assurant le maintien des missions essentielles en mode dégradé.
+		- **Plan de Reprise d'Activité (PRA)** :: Procédures techniques et opérationnelles permettant le retour à la normale des équipements.
+		- **Plan de Secours Utilisateur (PSU)** :: Procédures de repli des collaborateurs vers un site secondaire pré-équipé.
+		- **BIA (Business Impact Analysis)** :: Évaluation méthodique des impacts temporels et financiers consécutifs à une interruption.
+		- **Activité essentielle / Prioritaire** :: Fonction devant être maintenue à tout prix pour éviter une rupture critique d'exploitation.
+		- **MTPD (Durée Maximale d'Interruption Admissible)** :: Seuil temporel au-delà duquel la survie de l'organisation est menacée.
+		- **RTO (Durée Maximale de Coupure)** :: Délai cible imparti pour remettre en service un système ou une activité.
+		- **RPO (Perte de Données Maximale Admissible)** :: Quantité maximale de données ou d'informations que l'organisation accepte de perdre.
+		- **Mode dégradé** :: Fonctionnement provisoire restreint aux activités strictly indispensables pour garantir la sécurité.
+		- **Site de repli / Hot Site** :: Centre d'exploitation secondaire immédiatement opérationnel en cas de sinistre sur le site principal.
+		- **Site froid / Cold Site** :: Local secours disposant des commodités de base mais nécessitant le déploiement de matériel avant reprise.
+		- **Exercice de gestion de crise** :: Simulation périodique destinée à tester l'enclenchement des procédures et la réactivité des décideurs.
+		- **Stratégie de contournement** :: Solution palliative temporaire mise en place pour maintenir un service en cas de panne critique.
+		- **Ressource critique de secours** :: Équipement, personnel ou fournisseur de remplacement indispensable en cas de crise.
+		- **Plan d'évacuation d'urgence** :: Procédures de mise en sécurité immédiate du personnel face à une menace imminente.
+		- **Gestion des dépendances** :: Identification des interconnexions internes et externes nécessaires au maintien d'une activité.
+		- **Cellule de continuité** :: Équipe opérationnelle dédiée au pilotage du PCA lors du déclenchement du mode dégradé.
+- ## 2. Cadre Réglementaire, Souveraineté & Référentiel SGDSN
+	- ### 2.1. Organisation de la Défense Nationale & SGDSN
+		- **SGDSN** :: Secrétariat Général de la Défense et de la Sécurité Nationale, rattaché au Premier ministre.
+		- **Conseil de Défense et de Sécurité Nationale (CDSN)** :: Formation restreinte présidée par le Président de la République fixant les orientations stratégiques.
+		- **PSSI-E** :: Politique de Sécurité des Systèmes d'Information de l'État définissant les règles pour les administrations.
+		- **Posture de sécurité nationale** :: Niveau d'alerte et de préparation ajusté par le gouvernement selon l'état des menaces.
+		- **Plan Général de Vigilance** :: Cadre d'action assurant la cohérence des réponses face aux menaces extérieures et intérieures.
+		- **Contre-ingérence** :: Ensemble des actions menées par les services spécialisés pour détecter et neutraliser l'espionnage.
+		- **Haute Fonctionnaire de Défense et de Sécurité (HFDS)** :: Représentant de la défense désigné au sein de chaque ministère régalien.
+		- **Service du Haut Fonctionnaire de Défense (SHFD)** :: Organe exécutif assistant le HFDS dans le contrôle des règles de sûreté.
+		- **Sûreté de l'État** :: Ensemble des mesures visant à préserver les institutions, l'indépendance nationale et l'intégrité du territoire.
+		- **SGDSN/ANSSI** :: Direction nationale de l'expertise en cybersécurité sous l'autorité du SGDSN.
+		- **VIGINUM** :: Service de vigilance et de protection contre les ingérences numériques étrangères rattaché au SGDSN.
+		- **Coordinateur National du Renseignement (CNRLT)** :: Conseiller du Président chargé d'orienter les services du premier cercle.
+		- **Premier cercle du renseignement** :: Services spécialisés (DGSE, DGSI, DRM, DRSD, TRACFIN, DNRED).
+		- **DRSD** :: Direction du Renseignement et de la Sécurité de la Défense, chargée de la sûreté des entreprises de défense.
+		- **DGSI** :: Direction Générale de la Sécurité Intérieure, chargée de la contre-ingérence et du contre-terrorisme.
+		- **Secrétariat d'État à la Mer / CIMER** :: Instance de coordination interministérielle de la sûreté des espaces maritimes.
+		- **Comité Interministériel de Prévention de la Délinquance (CIPDR)** :: Organe coordonnant la prévention de la radicalisation.
+		- **Plan National de Prévention de la Radicalisation** :: Cadre d'action visant à détecter et traiter le basculement violent.
+		- **Stratégie Nationale de Sécurité Résilience** :: Feuille de route fixant la préparation globale de la Nation aux crises majeures.
+		- **Défense économique** :: Ensemble des dispositifs visant à préserver le patrimoine stratégique des entreprises nationales.
+	- ### 2.2. Protection des Secteurs d'Importance Vitale (SAIV / OIV / Directive REC)
+		- **SAIV (Secteur d'Activité d'Importance Vitale)** :: Domaine névralgique de la nation encadré par la loi (ex: Énergie, Transports, Santé, Eau, Finance).
+		- **OIV (Opérateur d'Importance Vitale)** :: Organisme public ou privé désigné par arrêté ministériel pour son rôle critique pour la Nation.
+		- **NIV (Nœud d’Importance Vitale)** :: Ouvrage, installation ou équipement physique d'un OIV dont la destruction paralyserait le secteur.
+		- **Point d'Importance Vitale (PIV)** :: Périmètre géographique restreint au sein d'un OIV nécessitant des règles renforcées d'accès.
+		- **PPSI (Plan Particulier de Sûreté d'Opérateur)** :: Document stratégique où l'OIV définit sa politique de sûreté et ses analyses de risques.
+		- **PPP (Plan de Protection d'Établissement)** :: Plan opérationnel détaillant les mesures de sûreté sur un site OIV spécifique.
+		- **Directives Nationales de Sécurité (DNS)** :: Instructions ministérielles fixant les exigences minimales de sûreté par SAIV.
+		- **Délégué pour la Sécurité et la Défense (DSD)** :: Interlocuteur référent au sein de l'OIV chargé de la liaison avec les ministères de tutelle.
+		- **Inspecteur de la sécurité de défense** :: Agent de l'État habilité à contrôler sur place le respect des mesures imposées aux OIV.
+		- **Directive REC (Résilience des Entités Critiques)** :: Cadre juridique européen renforçant la résilience physique des entités essentielles.
+		- **Directives NIS 2** :: Réglementation européenne imposant des obligations accrues de sécurité aux entités essentielles et importantes.
+		- **Zone Protégée OIV** :: Périmètre légalement approuvé par le préfet ouvrant des prérogatives de contrôle renforcées.
+		- **Déclarations d'incidents OIV** :: Obligation légale de notification immédiate de tout acte de malveillance grave aux autorités.
+		- **Homologation de sécurité OIV** :: Validation formelle par l'État du niveau de sûreté déployé sur un PIV.
+		- **Opérateur de Services Essentiels (OSE)** :: Entité désignée selon la directive européenne pour son rôle dans le fonctionnement de l'économie.
+		- **Système d'Information d'Importance Vitale (SIIV)** :: SI dont la défaillance porterait atteinte au potentiel de guerre ou économique.
+		- **Prestataire de Services de Confiance (PASSI / PDIS)** :: Entreprise qualifiée par l'ANSSI pour auditer ou défendre les OIV.
+		- **Comité de Sûreté d'Opérateur** :: Instance interne d'un OIV dédiée au suivi de la conformité réglementaire SAIV.
+		- **Audit d'homologation SAIV** :: Contrôle périodique imposé par l'État pour maintenir l'homologation des PIV.
+		- **Plan de réponse aux crises SAIV** :: Déclinaison opérationnelle spécifique d'urgence sur un site d'importance vitale.
+	- ### 2.3. Protection du Potentiel Scientifique et Technique (PPST & ZRR)
+		- **PPST** :: Dispositif interministériel protégeant les savoir-faire, technologies et recherches sensibles contre l'espionnage.
+		- **ZRR (Zone à Régime Restrictif)** :: Espace physique ou logique délimité nécessitant un avis de sécurité préalable avant tout accès.
+		- **Laboratoire / Entité qualifiée PPST** :: Structure de recherche identifiée détenant des connaissances entrant dans le champ du PPST.
+		- **Avis de sécurité ZRR** :: Évaluation administrative préalable délivrée par le ministre de tutelle après enquête pour autoriser l'accès.
+		- **Responsable de la ZRR (RZRR)** :: Cadre désigné au sein de l'établissement garant du contrôle des accès et de la conformité ZRR.
+		- **Souveraineté numérique / scientifique** :: Capacité de la Nation à conserver le contrôle exclusif de ses technologies critiques.
+		- **Ingérence économique / Espionnage** :: Actions clandestines d'acteurs étrangers visant à capter du capital immatériel stratégique.
+		- **Pillage technologique** :: Vol méthodique de données de R&D par cyberattaque, captation physique ou infiltration d'acteurs.
+		- **Compromission** :: Divulgation, perte ou détérioration non autorisée d'un secret d'État ou d'un patrimoine protégé.
+		- **Clause de confidentialité défense** :: Engagement contractuel juridique protégeant les informations transmises lors d'une étude.
+		- **Contrôle des investissements étrangers en France (IEF)** :: Procédure d'autorisation préalable du Ministère de l'Économie sur les actifs sensibles.
+		- **Marché à double usage (Bien à double usage - BDU)** :: Équipement civil susceptible d'être détourné à des fins militaires.
+		- **Autorisation d'exportation BDU** :: Licence délivrée par le SBDU pour autoriser la sortie du territoire de biens sensibles.
+		- **Captation de données d'essais** :: Piratage ou vol de résultats expérimentaux avant dépôt de brevet.
+		- **Visiteur étranger en ZRR** :: Procédure renforcée d'enregistrement et d'accompagnement continu des chercheurs invités.
+		- **Fichier des accès ZRR** :: Registre légal retraçant l'ensemble des autorisations accordées sur une zone restreinte.
+		- **Guide de sécurité PPST** :: Référentiel des mesures physiques et informatiques minimales applicables en ZRR.
+		- **Intrusion logique en ZRR** :: Accès non autorisé au réseau de données hébergeant le potentiel scientifique.
+		- **Sensibilisation à la fuite d'information** :: Formation obligatoire des chercheurs aux vulnérabilités lors des déplacements à l'étranger.
+		- **Protection du patrimoine immatériel de l'État (APIE)** :: Mission d'appui à la valorisation et la défense des actifs immatériels publics.
+	- ### 2.4. Protection du Secret de la Défense Nationale (IGI 1300)
+		- **IGI 1300** :: Instruction Générale Interministérielle n°1300 régissant la protection du secret de la défense nationale en France.
+		- **Information classifiée** :: Donnée ou document faisant l'objet de mesures de protection juridique contre sa divulgation.
+		- **Secret Défense** :: Niveau de classification s'appliquant aux informations dont la divulgation peut nuire gravement à la Défense nationale.
+		- **Très Secret** :: Niveau le plus élevé de classification réservé aux objets et informations protégeant les intérêts fondamentaux de l'État.
+		- **Très Secret (avec Spécialité)** :: Classification restreinte à un cercle d'habilités spécifiques pour des programmes d'État souverains.
+		- **Besoin d'en connaître** :: Principe selon lequel l'accès à une information classifiée est restreint aux personnes ayant un besoin fonctionnel strict.
+		- **Habilitation de sécurité** :: Décision administrative autorisant une personne physique à accéder à des informations classifiées après enquête.
+		- **Notice d'information de sécurité (Formulaire BS5)** :: Document d'évaluation préalable renseigné par le candidat à l'habilitation.
+		- **Enquête administrative d'habilitation** :: Vérification effectuée par les services de renseignement (DGSI, DRSD) avant décision.
+		- **Attestation de sécurité (Entreprise)** :: Habilitation délivrée à une personne morale permettant d'exécuter un marché classé.
+		- **Officier de Sécurité (OS)** :: Personne responsable au sein de l'organisme de la mise en œuvre de l'IGI 1300 et de la gestion du secret.
+		- **Zone Réservée / Zone Classée** :: Espace matériellement protégé abritant des supports ou travaux classifiés.
+		- **Coffre de sûreté agréé** :: Meuble de conservation blindé conforme aux exigences techniques du SGDSN pour fichiers classés.
+		- **Compte de gestion des matériels classés** :: Registre d'inventaire retraçant la création, la transmission et la destruction des supports classifiés.
+		- **Broyage / Destruction certifiée** :: Procédure irréversible de destruction physique de documents classifiés sous contrôle d'un OS.
+		- **Zones Protégées (Art. 413-7 du Code Pénal)** :: Périmètre légalement sanctionné pénalement en cas d'intrusion non autorisée.
+		- **Atteinte aux intérêts fondamentaux de la Nation** :: Qualification pénale réprimant le sabotage, la trahison et l'espionnage.
+		- **Emise / Bordereau d'envoi classé** :: Fiche de suivi formelle accompagnant la transmission d'un pli classifié.
+		- **Valise diplomatique / Transporteur habilité** :: Canal sécurisé exclusif pour l'acheminement physique d'éléments classifiés.
+		- **Protection Tempête (TEMPEST)** :: Mesures d'isolation matérielle contre les compromissions par rayonnements électromagnétiques d'équipements.
+		- **Chambre sourde / Local Faraday classé** :: Pièce blindée empêchant toute fuite d'ondes et toute écoute clandestine.
+		- **Liaison chiffrée agréée** :: Canal télécom utilisant un crypto-équipement certifié par l'ANSSI pour données classifiées.
+		- **Compromission de document classé** :: Perte de contrôle ou accès non habilité avéré à un support Secret Défense.
+		- **Procédure d'incinération d'urgence** :: Consignes d'élimination immédiate des archives Secret Défense en cas de menace d'invasion.
+		- **Délégation de pouvoir de classification** :: Autorisation ministérielle accordée à une autorité pour apposer le timbre de secret.
+		- **Déclassification** :: Décision administrative formelle abaissant ou supprimant le niveau de secret d'un document.
+		- **Timbre de classification** :: Marquage physique indélébile précisant le niveau de secret en tête et pied de page.
+		- **Fiche de suivi d'habilitation** :: Registre tenu par l'OS détaillant la date de fin et le périmètre d'habilitation du personnel.
+		- **Marché classé** :: Contrat de commande publique dont l'exécution nécessite l'accès à des informations Secret Défense.
+		- **Annexe de sécurité du marché** :: Document contractuel listant les contraintes IGI 1300 imposées au titulaire d'un marché.
+	- ### 2.5. Posture Vigipirate & Gestion des Crises Nationales
+		- **Plan Vigipirate** :: Outil central du dispositif national de vigilance, de prévention et de protection contre le terrorisme.
+		- **Vigilance (Vigipirate)** :: Niveau permanent du plan assurant un socle de mesures de sécurité au quotidien.
+		- **Sécurité renforcée / Risque attentat** :: Niveau intermédiaire adaptant les contrôles face à une menace élevée ou ciblée.
+		- **Urgence Attentat** :: Niveau maximal du plan déclenché immédiatement après une attaque ou si un acte terroriste est imminent.
+		- **Fiche mesure Vigipirate** :: Instruction d'action thématique décrivant les contrôles à appliquer sur un type de site (ERP, gares, écoles).
+		- **Opération Sentinelle** :: Déploiement militaire permanent sur le territoire national en soutien des forces de sécurité intérieure.
+		- **CIC (Cellule Interministérielle de Crise)** :: Organe de pilotage stratégique de l'État activé au niveau gouvernemental lors d'un événement majeur.
+		- **Centre Opérationnel Départemental (COD)** :: Structure de crise présidée par le préfet pour coordonner les secours et la sécurité au niveau local.
+		- **Plan ORSEC** :: Organisation de la Réponse de SÉcurité Civile coordonnant les moyens publics et privés face aux catastrophes.
+		- **Codir / Copil de crise** :: Instance de direction au sein d'une organisation privée ou publique dédiée à la gestion d'un incident grave.
+		- **Main courante de crise** :: Chronologie infalsifiable enregistrant les décisions, appels et actions entrepris pendant l'événement.
+		- **Plan de Communication de Crise** :: Dispositif encadrant la prise de parole publique pour éviter la panique et désinformer l'attaquant.
+		- **Retex (Retour d'Expérience)** :: Analyse méthodique a posteriori du déroulement de la crise pour faire évoluer les plans.
+		- **Exercice gouvernemental de crise** :: Simulation interministérielle annuelle testant la réactivité au plus haut niveau de l'État.
+		- **Portail d'Alerte SAIP** :: Dispositifs de diffusion rapide des consignes de sécurité à la population en cas de péril majeur.
+		- **Plan Piratox / Piratom / Pirateme** :: Déclinaisons spécifiques du plan de réplique face aux menaces NRBC.
+		- **Piratnet** :: Dispositif national de réponse face à une attaque informatique majeure paralysant les infrastructures d'État.
+		- **Piratmer** :: Plan d'intervention de l'État en mer face à un acte terroriste ou un détournement de navire.
+		- **Directeur des Opérations de Secours (DOS)** :: Autorité (Maire ou Préfet) assurant la direction générale des opérations d'urgence.
+		- **Commandant des Opérations de Secours (COS)** :: Officier de sapeurs-pompiers gérant la tactique de secours sur le terrain.
+- ## 3. Sûreté Opérationnelle, Technologies & Convergence (CSI & ANSSI)
+	- ### 3.1. Sûreté Physique & Protection Périmétrique
+		- **Sûreté physique** :: Moyens matériels, organisationnels et humains empêchant l'accès non autorisé à un site.
+		- **Lignes de défense (Principe de l'oignon)** :: Concepts de cercles concentriques (Périmétrie, Périphonie, Volumétrie) retardant l'attaquant.
+		- **Périmétrie (1ère ligne)** :: Dispositif de protection et de détection implanté sur les limites extérieures de la propriété.
+		- **Périphonie (2ème ligne)** :: Dispositif de détection fixé sur l'enveloppe extérieure du bâtiment (façades, ouvertures).
+		- **Volumétrie (3ème ligne)** :: Détection d'intrusion à l'intérieur des pièces et volumes fermés du bâtiment.
+		- **Concept de retardement** :: Aménagement d'obstacles dont la résistance temporelle dépasse le temps de réaction des forces de sécurité.
+		- **Obstacle physique retardateur** :: Clôture haute performance, barrière, grille, concertina, vitrage retardateur d'effraction.
+		- **Clôture détectrice / Câble sensoriel** :: Grillages équipés de capteurs piézoélectriques détectant l'escalade ou la découpe.
+		- **Concertina / Bavolet** :: Rouleaux de lianes d'acier crantées installés en sommet de clôture pour interdire le franchissement.
+		- **Sismo-détection de sol** :: Capteurs enterrés mesurant les vibrations pour détecter le franchissement piéton sans impact visuel.
+		- **Système anti-intrusion** :: Ensemble de capteurs, centrales et avertisseurs détectant le franchissement d'une ligne de défense.
+		- **Détecteur infrarouge pasif (PIR)** :: Capteur thermique mesurant les variations de rayonnement calorifique dans une zone.
+		- **Détecteur hyperfréquence (Radar)** :: Capteur émettant des ondes électromagnétiques pour analyser l'effet Doppler provoqué par un mouvement.
+		- **Détecteur bi-technologique** :: Capteur combinant infrarouge et hyperfréquence nécessitant la double confirmation avant alarme.
+		- **Barrière infrarouge** :: Colonne émettrice/réceptrice projetant des faisceaux invisibles dont la coupure déclenche l'alarme.
+		- **Détecteur choc / Sismique** :: Capteur mesurant les vibrations anormales sur une structure (percement de mur, découpe de coffre).
+		- **Contact d'ouverture / Sabot de rideau** :: Capteur magnétique signalant l'écartement d'une porte ou d'un ouvrant.
+		- **Détecteur de bris de vitre** :: Capteur acoustique analysant la fréquence sonore spécifique de la brisure du verre.
+		- **Autoprotection (AP)** :: Boucle de sécurité déclenchant une alarme immédiate en cas d'ouverture ou d'arrachement d'un boîtier.
+		- **Câble microphonique** :: Capteur acoustique fixé le long d'un grillage captant les bruits de torsion ou d'impact.
+		- **Barrière laser / LiDAR de sûreté** :: Scanner optique balayant un plan pour détecter toute intrusion avec précision métrique.
+		- **Eclairage asservi sur alarme** :: Projecteurs s'allumant instantanément sur la zone de détection pour appuyer la levée de doute.
+		- **Garde-corps anti-escalade** :: Profilé incliné rendant impossible l'accroche des mains en haut d'un mur.
+		- **Vitrage feuilleté de sûreté (EN 356)** :: Verre composé de plusieurs films PVB résistant aux coups de masse ou tirs.
+		- **Menuiserie blindée (EN 1627)** :: Bloc-porte et châssis certifiés résistant aux tentatives d'effraction par outils mécaniques.
+		- **Siren / Avertisseur sonore** :: Diffuseur de puissance destiné à perturber l'intrus et alerter le voisinage.
+		- **Canon à fumée / Générateur de brouillard** :: Dispositif saturant une pièce en quelques secondes d'un opacifiant inoffensif.
+		- **Zone tampon / No-man's land** :: Espace neutre dégagé situé entre deux clôtures facilitant la détection automatique.
+		- **Zone de balayage visuel** :: Périmètre maintenu sans végétation ni stockage pour préserver les champs des caméras.
+		- **Boucle d'alarme normalement fermée (NF)** :: Circuit électrique de sécurité où la rupture du fil déclenche l'alerte.
+	- ### 3.2. Contrôle d'Accès, Obstacles & Filtration
+		- **Contrôle d'accès physique** :: Système automatisé autorisant ou refusant le franchissement d'un obstacle selon l'identité.
+		- **Identifiant / Badge de sécurité** :: Support physique ou numérique (RFID, MIFARE DESFire) contenant les droits d'accès de l'usager.
+		- **Badgeuse / Lecteur d'accès** :: Terminal captant et déchiffrant les identifiants présentés par l'usager à la porte.
+		- **Biométrie de sécurité** :: Analyse de caractéristiques physiques uniques (empreinte, réseau veineux, iris) pour l'authentification.
+		- **Gabarit biométrique** :: Empreinte chiffrée issue de l'analyse biométrique et stockée sur le badge ou en base sécurisée.
+		- **Authentification forte / Multi-facteurs** :: Validation de l'accès combinant au moins deux éléments (ex: badge + code secret).
+		- **Obstacle escamotable** :: Borne escamotable, hacheur, obstacle piéton (tourniquet toute hauteur, SAS) bloquant le passage.
+		- **Borne anti-bélier (K12 / PAS 68 / ISO 22343)** :: Obstacle physique d'arrêt d'urgence capable de stopper un camion à haute vitesse.
+		- **Tourniquet Toute Hauteur (TTH)** :: Obstacle piéton rotatif interdisant le passage par-dessus ou par-dessous.
+		- **Couloir Rapide de Contrôle (CRC)** :: Obstacle à portes vitrées escamotables assurant un passage fluide et contrôlé.
+		- **SAS Unipersonnel** :: Saisie à double porte empêchant le franchissement simultané de deux personnes (anti-passage en fraude).
+		- **Unicité de passage** :: Dispositif technique (détection de poids, volumétrie 3D) garantissant qu'une seule personne franchit le SAS.
+		- **Anti-passback (APB)** :: Règle logique empêchant la réutilisation d'un badge pour entrer sans avoir validé une sortie préalable.
+		- **Anti-tailgating** :: Système empêchant un individu non autorisé de coller au talon d'un usager légitime lors de l'ouverture.
+		- **Unité Centrale de Traitement (UCT)** :: Boîtier électronique local gérant l'intelligence du contrôle d'accès sur une porte.
+		- **Gâche électrique / Ventouse électromagnétique** :: Dispositif de verrouillage maintenant la porte fermée hors impulsion d'accès.
+		- **Organigramme de clés** :: Schéma hiérarchisé de répartition des droits d'ouverture par serrures mécaniques ou électroniques.
+		- **Passe-partout général (PG)** :: Clé unique ouvrant l'ensemble des serrures inscrites dans un organigramme donné.
+		- **Cylindre électronique / Béquille autonome** :: Serrure alimentée par batterie modifiant les accès sans câblage de porte.
+		- **Badge visiteur / Pass temporaire** :: Identifiant éphémère bridé dans le temps et restreint aux zones publiques du site.
+		- **Encodeur de badges** :: Périphérique permettant de graver la puce et d'imprimer la photo sur la carte de sécurité.
+		- **Protocole Wiegand / OSDP** :: Standards de communication entre le lecteur de badge physique et l'unité centrale UCT.
+		- **OSDP Secure Channel** :: Protocole chiffré empêchant l'interception des données entre le lecteur et la centrale.
+		- **Dépassement de temporisation (Porte trop longtemps ouverte)** :: Alarme d'anomalie signalant une porte maintenue ouverte au-delà du délai.
+		- **Forçage de porte** :: Déclenchement d'alarme lié à l'ouverture mécanique d'un accès sans impulsion valide.
+		- **Lecteur de plaques d'immatriculation (LAPI)** :: Caméra dédiée au contrôle d'accès des véhicules sur un parking sécurisé.
+		- **Serrure A2P (APSAD)** :: Certification française garantissant le niveau de résistance des serrures à l'effraction.
+		- **Barrière levante automatique** :: Obstacle léger gérant la fluidité des accès véhicules non hostiles.
+		- **Garde d'accès physique / Vigie** :: Filtrage humain venant en contrôle des systèmes automatiques sur un point sensible.
+		- **Bouton-poussoir de demande de sortie (RTE)** :: Commande intérieure permettant d'ouvrir la ventouse magnétiques sans badge.
+	- ### 3.3. Vidéoprotection, Supervision & Télé-ingénierie
+		- **Vidéoprotection (CCTV)** :: Dispositif vidéo déployé sur la voie publique ou un ERP soumis aux règles préfectorales du CSI.
+		- **Vidéosurveillance** :: Dispositif vidéo installé dans des espaces privés non ouverts au public.
+		- **Caméra dôme télescopique (PTZ)** :: Caméra mobile orientable à distance disposant d'un zoom optique puissant.
+		- **Caméra thermique** :: Caméra captant le rayonnement infrarouge pour détecter une présence humaine de nuit ou dans le brouillard.
+		- **Caméra 180° / 360° (Fisheye)** :: Caméra fixe panoramique offrant une couverture globale sans angle mort.
+		- **Vidéoprotection intelligente / VCA** :: Analyse d'image automatisée détectant le franchissement, la maraude ou l'abandon d'objet.
+		- **Lecture Automatique de Plaques Immatriculation (LAPI)** :: Analyse vidéo identifiant les véhicules à l'entrée des sites.
+		- **Masquage dynamique / Anonymisation** :: Floutage automatique des zones privées ou des visages pour respecter le RGPD.
+		- **PC Sûreté (Poste Central)** :: Local blindé et sécurisé centralisant la réception, l'analyse et la levée de doute des alarmes.
+		- **Hypervision / VMS** :: Logiciel fédérant au sein d'une interface unique la vidéo, le contrôle d'accès et l'intrusion.
+		- **Enregistreur vidéo réseau (NVR)** :: Serveur de stockage et de retransmission des flux vidéo chiffrés.
+		- **Rétention des données vidéo** :: Durée légale maximale de conservation des images fixée par la réglementation (souvent 30 jours max).
+		- **Levée de doute** :: Vérification physique ou vidéo obligatoire de la réalité d'une alarme avant l'appel des forces de l'ordre.
+		- **Télé-sécurité / Centre de télésurveillance** :: Prestataire externe gérant à distance les alarmes d'un site conforme à la norme APSAD.
+		- **Main Courante Informatisée (MCI)** :: Journal de bord horodaté et infalsifiable consignant tous les faits de sûreté survenus.
+		- **Standard vidéo H.265 / AV1** :: Algorithme de compression d'image réduisant la bande passante et le stockage vidéo.
+		- **WDR (Wide Dynamic Range)** :: Traitement d'image permettant d'obtenir une lisibilité parfaite en cas de fort contre-jour.
+		- **Sensibilité Lux / Vision nocturne** :: Capacité du capteur optique à restituer des images exploitables sous très faible éclairage.
+		- **Analyse vidéo algorithmique (Edge AI)** :: Analyse de l'image réalisée directement par la puce de la caméra.
+		- **Mur d'images / Mur d'écrans** :: Alignement de moniteurs au PC Sûreté affichant les caméras prioritaires et cartes.
+		- **Ligne de franchissement virtuelle** :: Règle logicielle VCA déclenchant l'alarme si un objet traverse une ligne tracée à l'écran.
+		- **Détection de maraudage (Loitering)** :: Déclenchement d'alerte lorsqu'une personne stagne anormalement dans une zone sensible.
+		- **Objet abandonné / Déposé** :: Alerte automatique sur l'apparition d'un paquet immobile non identifié dans un périmètre public.
+		- **Détection d'objet disparu** :: Alarme consécutive au retrait non autorisé d'un équipement surveillé dans le champ caméra.
+		- **Filiation vidéo (Tracking)** :: Capacité du VMS à suivre un usager de caméra en caméra lors de sa progression sur le site.
+		- **Chiffrement du flux vidéo (HTTPS/SRTP)** :: Sécurisation des images transitant de la caméra vers le NVR pour éviter l'écoute.
+		- **Filigrane numérique (Watermarking)** :: Tatouage invisible sur la vidéo garantissant son authenticité devant la justice.
+		- **Audit de couverture vidéo** :: Analyse des angles morts pour garantir l'absence de zone non observée sur un parcours critique.
+		- **Poste opérateur de supervision** :: Station de travail ergonomique permettant l'interaction avec le VMS et le levage de doute.
+		- **Alimentation PoE (Power over Ethernet)** :: Câblage réseau unique injectant simultanément les données et le courant de la caméra.
+	- ### 3.4. Convergence Cyber-Sûreté, OT & SCADA (ANSSI)
+		- **ANSSI** :: Agence Nationale de la Sécurité des Systèmes d'Information, autorité nationale de défense des SI.
+		- **Convergence Sûreté-Cyber** :: Protection combinée des infrastructures physiques et des réseaux informatiques d'un site.
+		- **SCADA / ICS** :: Systèmes d'automatismes industriels pilotant les fonctions physiques (GTC, GTB, électricité, contrôle d'accès).
+		- **GTC (Gestion Technique Centralisée)** :: Système central de contrôle des automates du bâtiment (éclairage, CVC, énergie).
+		- **Automate Programmable Industriel (API / PLC)** :: Boîtier matériel d'exécution des commandes physiques d'un bâtiment.
+		- **Partitionnement / Segment réseau** :: Séparation physique ou logique des réseaux de sûreté pour éviter une attaque par rebond.
+		- **Réseau IP de sûreté** :: Réseau informatique physiquement isolé et chiffré dédié à la transmission des flux vidéo et alarmes.
+		- **Menace interne (Insider Threat)** :: Acte de malveillance (sabotage, fuite) perpétré par un individu habilité ou employé du site.
+		- **Ingénierie sociale / Social Engineering** :: Manipulation psychologique visant à contourner les barrières humaines de sûreté.
+		- **Usurpation d'identité** :: Utilisation illicite des identifiants d'un tiers pour s'introduire dans un site ou un système.
+		- **Attaque par rebond** :: Compromission d'un sous-système secondaire (ex: climatisation) pour accéder au réseau principal.
+		- **Sensibilisation / Culture de sûreté** :: Niveau d'implication et d'apprentissage des collaborateurs face aux risques et réflexes de sécurité.
+		- **Test de robustesse matérielle** :: Évaluation physique des boîtiers et lecteurs pour vérifier la résistance aux chocs et piratage.
+		- **Réseau OT (Operational Technology)** :: Environnement informatique pilotant les processus physiques et automates industriels.
+		- **Zone Démilitarisée (DMZ sûreté)** :: Réseau intermédiaire sécurisé isolant les serveurs de sûreté du réseau bureautique.
+		- **Bastion d'administration** :: Point d'accès unique et tracé pour la télémaintenance des équipements par les prestataires.
+		- **Durcissement d'automate (Hardening)** :: Désactivation des services inutiles et modification des mots de passe usine sur un PLC.
+		- **Isolation physique (Air Gap)** :: Absence totale de connexion logique entre un réseau critique et les réseaux externes.
+		- **Infiltration par média amovible** :: Infection d'un système isolé au moyen d'une clé USB piégée introduite physiquement.
+		- **Supervision des journaux de sécurité (SIEM)** :: Outil d'analyse centralisant les logs informatiques et alertes physiques.
+		- **SOC (Security Operations Center)** :: Équipe spécialisée analysant en continu les événements de cybersécurité.
+		- **Corrélation d'événements** :: Croisement automatique d'un accès physique (ex: badge) et d'un accès logique (ex: session PC).
+		- **Attaque Spoofing RFID** :: Clonage de la puce d'un badge d'accès au moyen d'un lecteur radio pirate autonome.
+		- **Analyse de la chaîne de dépendance OT** :: Cartographie des impacts d'une panne cyber sur la chaîne de sécurité physique.
+		- **Firmware signé** :: Microprogramme d'équipement de sûreté certifié électroniquement pour empêcher les modifications malveillantes.
+		- **Port USB bloqué physiquement** :: Obturateur matériel fermant les prises informatiques pour empêcher la connexion de clés non autorisées.
+		- **Sonde de souveraineté / Sonde ANSSI** :: Dispositif matériel d'inspection du trafic réseau qualifié par l'État.
+		- **Vulnérabilité d'équipement de sûreté (Zero-Day)** :: Faille logicielle inconnue du fabricant impactant un composant de sécurité.
+		- **Gestion des correctifs OT (Patch Management)** :: Procédure appliquée de mise à jour des automates sans couper la production.
+		- **Sécurisation des liaisons RS485** :: Chiffrement des protocoles filaires reliant les lecteurs aux centrales d'accès.
+	- ### 3.5. Cadre Légal, Sécurité Privée & Prérogatives (Code de la Sécurité Intérieure - CSI)
+		- **CSI (Code de la Sécurité Intérieure)** :: Recueil de lois régissant la sécurité publique, la sécurité civile et la sécurité privée en France.
+		- **CNAPS (Conseil National des Activités Privées de Sécurité)** :: Établissement public délivrant les cartes professionnelles d'agents.
+		- **Carte professionnelle CNAPS** :: Titre individuel obligatoire autorisant l'exercice d'une activité de sécurité privée.
+		- **Agent de Prévention et de Sécurité (APS)** :: Salarié d'entreprise de sécurité assurant la surveillance générale d'un site.
+		- **Agent de Sécurité Incendie (SSIAP)** :: Personnel qualifié dédié à la prévention des incendies et à l'évacuation dans les ERP/IGH.
+		- **Inspection visuelle des bagages** :: Prérogative légale accordée sous conditions aux agents pour vérifier l'intérieur des sacs.
+		- **Palpation de sécurité** :: Mesure de filtrage manuelle exceptionnelle soumise au consentement et réalisée par une personne de même sexe.
+		- **Filtrage / Inspection-filtrage** :: Contrôle systématique des personnes et effets à l'entrée d'une zone réglementée ou d'un événement.
+		- **Rétention d'un intrus / Flagrant délit (Art. 73 CPP)** :: Droit d'appréhender un auteur de crime ou délit en attendant les forces de l'ordre.
+		- **Périmètre de sécurité préfectoral** :: Zone temporairement réglementée par le préfet restreignant la circulation et autorisant les fouilles.
+		- **Convention de coordination avec la Force Publique** :: Accord formalisé précisant l'articulation entre sécurité privée et forces de l'ordre.
+		- **Poste d'inspection-filtrage (PIF)** :: Installation équipée de portiques magnétiques et scanners RX pour filtrer les accès.
+		- **Agrément dirigeant CNAPS** :: Autorisation délivrée au gérant d'une société de sécurité privée après vérification de sa moralité.
+		- **Autorisation d'exercer (Entreprise privée)** :: Numéro de licence accordé par le CNAPS permettant la commercialisation de prestations.
+		- **Carte d'agent armé (Catégorie B et D)** :: Autorisation spécifique permettant à certains agents de porter une arme en mission ciblée.
+		- **Interdiction de port d'arme générale** :: Règle de principe interdisant le port d'armes aux agents de sécurité privée sauf dérogation.
+		- **Tenue réglementaire de sécurité privée** :: Obligation de porter un uniforme comportant les insignes de l'entreprise et le matricule.
+		- **Interdiction de voie publique** :: Interdiction légale faite à la sécurité privée d'intervenir sur le domaine public hors dérogation.
+		- **Sous-traitance de sécurité privée** :: Encadrement strict interdisant la sous-traitance en chaîne au-delà de deux rangs.
+		- **Chien de défense / Agent cynophile** :: Équipe homme-chien diplômée dédiée à la ronde, la détection d'intrusion ou la levée de doute.
+		- **Portique de détection de masse métallique** :: Équipement de passage magnétométrique signalant le port d'armes ou objets en fer.
+		- **Scanner RX / Rayons X bagages** :: Tunnel d'imagerie médicale permettant d'analyser le contenu d'un bagage fermé.
+		- **Détecteur d'explosifs / Sniffer d'ingrédients** :: Appareil d'analyse chimique captant les traces d'éléments pyrotechniques.
+		- **Contrôle d'immatriculation sur parking** :: Prérogative d'enregistrement des plaques sur voie privée ouverte au public.
+		- **Refus d'accès** :: Droit pour l'exploitant d'un site privé d'interdire l'entrée à quiconque refuse les contrôles de sûreté.
+		- **Période de garde à vue / Intervention des forces de l'ordre** :: Transfert immédiat de la personne retenue au titre de l'Art. 73 aux officiers de police judiciaire.
+		- **Registre des objets trouvés / Confisqués** :: Main courante spécifique consignant la mise en sécurité d'articles prohibés.
+		- **Agrément préfectoral palpation** :: Habilitation spécifique accordée à un agent de sécurité lors de manifestations réunissant plus de 300 personnes.
+		- **Agent de sécurité renforcée (ASR)** :: Agent formé pour intervenir dans des contextes à haut risque sécuritaire (ex: sites sensibles).
+		- **Secret professionnel de sécurité privée** :: Obligation de réserve interdisant la divulgation des vulnérabilités du client à des tiers.
+- ## 4. Normes, Référentiels Professionnels & Méthodologies d'Ingénierie
+	- ### 4.1. Certification des Équipements & Référentiels APSAD (CNPP)
+		- **CNPP (Centre National de Prévention et de Protection)** :: Organisme de certification et de référence pour la maîtrise des risques.
+		- **APSAD R81** :: Référentiel technique d'installation des systèmes de détection d'intrusion.
+		- **APSAD R82** :: Référentiel technique d'installation des systèmes de vidéoprotection.
+		- **APSAD R101** :: Référentiel technique de conception et d'installation du contrôle d'accès physique.
+		- **APSAD P3 / P5** :: Certification qualifiant le niveau de prestation des centres de télésurveillance.
+		- **APSAD I7 / I11** :: Qualification accordée aux entreprises d'installation et de maintenance de sûreté.
+		- **A2P (Assurance Protection Appareillage)** :: Marque de certification attestant de la résistance du matériel à l'effraction.
+		- **A2P BP1 / BP2 / BP3** :: Grille de niveau de résistance des blocs-portes blindés au temps d'attaque d'un cambrioleur.
+		- **Degré de protection IK (IEC 62262)** :: Indice international mesurant la résistance mécanique des boîtiers aux chocs.
+		- **Indice de protection IP (IEC 60529)** :: Indice d'étanchéité du matériel aux solides (poussières) et liquides (eau).
+		- **EN 50131** :: Norme européenne régissant la qualité et la fiabilité des systèmes de détection d'intrusion.
+		- **EN 60839** :: Norme européenne encadrant les systèmes d'alarme et de contrôle d'accès électronique.
+		- **EN 1627 à 1630** :: Normes de classification de la résistance des portes et fenêtres à l'effraction manuelle (RC1 à RC6).
+		- **Niveau RC4 à RC6 (EN 1627)** :: Niveaux élevés de résistance mécanique destinés à parer des attaques par outillage lourd.
+		- **Certificat de conformité APSAD** :: Document officiel remis au client attestant du respect des règles de pose.
+		- **Organisme Fictif de Contrôle / Label SecuriNet** :: Labellisation privée de la robustesse matérielle d'équipements connectés.
+		- **Essai de résistance physique en laboratoire** :: Test normé appliquant des contraintes thermiques, mécaniques et chimiques au matériel.
+		- **Audit de suivi de certification matériel** :: Contrôle périodique des chaînes de fabrication pour maintenir la marque A2P.
+		- **Norme ISO 9001 Sûreté** :: Application des exigences de management de la qualité aux prestations de sécurité.
+		- **CCTP Sûreté** :: Cahier des Clauses Techniques Particulières décrivant les exigences matériel pour un appel d'offres.
+	- ### 4.2. Méthodologies de Conception Intégrée (CPTED & Aménagement)
+		- **CPTED (Crime Prevention Through Environmental Design)** :: Aménagement de l'espace visant à réduire la criminalité par le design urbanistique.
+		- **Prévention situationnelle** :: Ensemble des mesures environnementales réduisant les opportunités d'actes de malveillance.
+		- **Surveillance naturelle** :: Agencement des espaces favorisant la visibilité mutuelle et la présence dissuasive des usagers.
+		- **Contrôle d'accès naturel** :: Utilisation de la topographie, de la végétation ou de l'architecture pour guider les flux.
+		- **Territorialité / Sécurisation des limites** :: Marquage clair des frontières entre espace public, semi-privé et privé.
+		- **Maintenance des lieux (Théorie des vitres brisées)** :: Entretien rapide des dégradations pour éviter la déchéance sécuritaire du site.
+		- **Éclairage dissuasif / CPTED** :: Conception de la lumière éliminant les zones d'ombre sans aveugler les caméras.
+		- **Sûreté dès la conception (Security by Design)** :: Intégration des contraintes de sécurité dès la phase esquisse d'un projet de bâtiment.
+		- **Diagnostic de Sécurité Publique (DSP)** :: Étude préalable obligatoire avant tout projet d'aménagement urbain d'envergure.
+		- **Étude de Sûreté et de Sécurité Publique (ESSP)** :: Analyse d'impact sécuritaire requise pour les grands projets de construction.
+		- **Sous-commission départementale pour la sécurité** :: Organe préfectoral examinant la conformité des dossiers ESSP.
+		- **Gestion des flux de masse** :: Conception des voies de circulation et SAS pour éviter les bousculades en cas de panique.
+		- **Zone d'évacuation sécurisée** :: Périmètre extérieur de rassemblement à l'abri des risques d'attentat secondaire.
+		- **Mobilier urbain anti-bélier** :: Intégration esthétique de bancs, bacs à fleurs ou bornes renforcées pour stopper les véhicules.
+		- **Signalétique de sûreté** :: Panneautage explicite indiquant les règles d'accès, les zones sous vidéo et les issues de secours.
+		- **Transparence visuelle** :: Emploi de vitrages anti-effraction permettant la surveillance visuelle des abords sans affaiblir la structure.
+		- **Périmètre de protection rapprochée** :: Zone de neutralisation immédiate entourant un bâtiment à haute valeur stratégique.
+		- **Audit de vulnérabilité urbaine** :: Analyse des risques d'intrusion ou d'attaque par véhicule bélier sur le parvis d'un site.
+		- **Espace semi-public** :: Zone de transition (ex: hall d'accueil) soumise à un premier niveau de filtrage visuel ou humain.
+		- **Aménagement anti-intrusion** :: Choix de plantations épineuses ou d'ouvrages maçonnés dissuadant le franchissement piéton.
+	- ### 4.3. Gestion de l'Information, RGPD & Droits Humains
+		- **RGPD (Règlement Général sur la Protection des Données)** :: Cadre juridique européen régissant la collecte des données personnelles.
+		- **DPA / AIPD (Analyse d'Impact relative à la Protection des Données)** :: Étude obligatoire avant le déploiement d'un système vidéo intelligent.
+		- **CNIL** :: Commission Nationale de l'Informatique et des Libertés, autorité de contrôle de la vie privée en France.
+		- **Principe de minimisation des données** :: Limitation de la collecte aux seules données strictement nécessaires à la sûreté.
+		- **DPO (Délégué à la Protection des Données)** :: Responsable interne de la conformité des traitements de données au RGPD.
+		- **Droits des personnes (Accès, Rectification, Effacement)** :: Droit des usagers à consulter les images vidéo sur lesquelles ils apparaissent.
+		- **Registre des traitements de sûreté** :: Bilan récapitulatif des systèmes (vidéo, contrôle d'accès, LAPI) gérés par l'entité.
+		- **Registre des accès vidéo** :: Fichier traçant chaque consultation, extraction ou transmission d'images à la police.
+		- **Durée de conservation des images** :: Délai maximal légal (généralement 30 jours) avant effacement automatique des données CCTV.
+		- **Information des usagers (Panneau d'avertissement)** :: Signalétique obligatoire indiquant la présence de caméras et les coordonnées du DPO.
+		- **Extraction judiciaire de scellés vidéo** :: Procédure formelle de remise d'une copie vidéo sur support physique aux forces de l'ordre.
+		- **Sécurisation des bases d'accès** :: Chiffrement des fichiers contenant les noms, photos et gabarits biométriques des usagers.
+		- **Interdiction de la reconnaissance faciale de masse** :: Encadrement strict interdisant le traitement automatisé des visages sur la voie publique.
+		- **Droits humains et sûreté privée** :: Respect des libertés fondamentales lors des opérations de contrôle, filtrage et rétention.
+		- **Principe de proportionnalité** :: Exigence légale imposant que la mesure de sûreté ne porte pas une atteinte disproportionnée aux libertés.
+		- **Sensibilisation à la protection de la vie privée** :: Formation des opérateurs VMS à l'interdiction de scruter les espaces privés.
+		- **Violations de données de sûreté** :: Obligation de notification à la CNIL de la fuite du fichier des inscrits au contrôle d'accès.
+		- **Audit de conformité CNIL** :: Inspection sur site ou sur pièces des installations de vidéoprotection par les agents de la CNIL.
+		- **Zones exclues du champ vidéo** :: Interdiction d'implanter des caméras pointant vers les sanitaires, salles de pause ou locaux syndicaux.
+		- **Encadrement de la vidéosurveillance d'un salarié** :: Interdiction légale de filmer un employé de manière permanente à son poste de travail.

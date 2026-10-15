@@ -1,0 +1,15 @@
+- **Définition 1.2.3 (Termes d'un langage $L$)**
+	- **1. Définition générale :** L'ensemble $T$ des **termes** sur $L$ est le plus petit ensemble contenant les variables, les constantes, et stable par l'application des symboles de fonctions de $L$ à des termes.
+	- **2. Terme clos :** Un terme clos est un terme qui ne contient aucune variable.
+	- **3. Définition formelle (Construction inductive) :**
+		- Soit $T_0 = \{t \mid t \text{ est une variable ou un symbole de constante}\}$.
+		- Pour tout $k \in \mathbb{N}$, $T_{k+1} = T_k \cup \{f(t_1, \dots, t_n) \mid t_i \in T_k \text{ et } f \text{ est un symbole de fonction d'arité } n\}$.
+		- On pose alors :
+		  $$T = \bigcup_{k \in \mathbb{N}} T_k$$
+	- **4. Hauteur d'un terme :** On appelle **hauteur** d'un terme $t$ le plus petit entier $k$ tel que $t \in T_k$.
+- **Définition 1.2.5** (Taille / Longueur d'un terme)
+	- La **taille** (on dit aussi la *longueur*) d'un terme t, notée \tau(t), est le nombre de symboles de fonction apparaissant dans t.
+	- Formellement :
+		- \tau(x) = \tau(c) = 0 si x est une variable et c est une constante ;
+		- `\tau(f(t_1, \dots, t_n)) = 1 + \sum_{1 \le i \le n} \tau(t_i)`
+-

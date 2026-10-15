@@ -1,0 +1,2 @@
+- Rapprochement avec NFI https://www.interieur.gouv.fr/Interstats/Sources-et-methodes-statistiques/La-nomenclature-francaise-des-infractions-NFI ou iccs onudc https://www.unodc.org/documents/data-and-analysis/statistics/crime/ICCS/ICCS_French_2016_web.pdf
+-

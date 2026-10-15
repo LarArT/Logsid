@@ -1,0 +1,29 @@
+- Espacementement.
+- Veillez à prévoir un espace suffisant pour:
+	- Une ventilation adéquate
+	- Réaliser un inventaire précis
+	- Inspecter les dommages/dégradations
+	- Stocker des éléments attendus pour différents projets/bailleurs de fonds
+	- Des zones séparées pour les biens/fournitures qui doivent être stockées séparément (vivres, carburant, huile ou produits chimiques)
+	- La manipulation et le reconditionnement des biens Un espace de travail pour le personnel de l'entrepôt permettant de conserver et mettre à jour la documentation (table et chaise)
+	- Stocker du matériel de nettoyage
+	- Stocker de l'équipement (palettes de réserve, emballage)
+	- L'élimination des ordures
+	- Stocker de l'équipement de manutention (chariots élévateurs, chariots)
+	- Prévoir une zone pour les biens endommagés
+- Autres considérations pour le plan
+- A faire:
+	- Assurez-vous que l'espace minimum entre les groupes ou les piles est de 0,7 mètre. L'espace idéal est de 1,2 mètres.
+	- Assurez la circulation de l'air autour des matériaux.
+	- Maximisez l'éclairage pour décourager les insectes.
+	- Faites tourner le stock. Placez les matériaux plus anciens sur le dessus afin qu'ils soient utilisés en premier. Cela permet également d'éviter que les anciens emballages ne se détériorent et ne s'effondrent.
+	- Empilez les boîtes et les sacs rectangulaires en couches alternées, perpendiculairement les uns aux autres. Cela augmente la stabilité de la pile.
+	- Utilisez des lattes en bois pour soutenir les longs articles (exemple: cela permet d'éviter que le bois ou les tôles ne se plient ou ne s'inclinent).
+	- Prenez des dispositions pour les articles qui ne peuvent pas être facilement stockés sur des étagères ou des palettes (meubles).
+	- Gardez les articles lourds, encombrants et fréquemment utilisés/nécessaires à proximité de la porte d'expédition/de réception.
+	- Affichez les étiquettes ou les listes de colisage vers l'extérieur pour une meilleure visibilité. Enregistrez les articles obsolètes ou endommagés, et stockez-les dans une zone désignée à cet effet
+	- Empiler les biens contre les murs extérieurs. Les murs extérieurs peuvent être humides.
+	- Empiler les éléments trop haut. Il est recommandé d'empiler les articles à une hauteur maximale de 2,5 mètres. Une hauteur ou un nombre d'empilage maximum peut être indiqué(e) sur les cartons ou boîtes du fabricant.
+	- Empiler les articles directement sur le sol. Utilisez des bâches en plastique si les palettes ne sont pas disponibles.
+	- Placer les matériaux dans les coins ou derrière les piles.
+-

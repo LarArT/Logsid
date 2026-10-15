@@ -1,0 +1,6 @@
+- Support ++ : https://www.college-de-france.fr/media/xavier-leroy/UPL6494511429626416191_Cours4.pdf
+- Réécriture de Godel
+- Réécriture de Kuroda
+-
+- Outils: construkti
+-

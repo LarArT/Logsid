@@ -1,0 +1,12 @@
+- [[lectures/mooc analyse de donner multidimensionnelle]]
+- [[lectures/mooc statistiques pour l'ingénieur]]
+- [[etude statistiques]]
+- [[lectures/mooc statistique avec r]]
+- [explorer les distributions statistiques Caltech](https://distribution-explorer.github.io/index.html?hl=fr-FR-u-fw-mon-mu-celsius)
+- [[détermination loi statistique]]
+- [[standard error]]
+- [[test statistique]]
+  [[Regression]]
+-
+-
+-

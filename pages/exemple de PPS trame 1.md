@@ -1,0 +1,39 @@
+- Les grands organismes d'État et de sûreté ne publient pas de formulaire « unique », mais ils diffusent des **guides méthodologiques** et des **trames types de Dossier/Plan de Sûreté** obligatoirement réclamés par les préfectures lors des demandes d'autorisation.
+  
+  La trame type d'un **Plan Particulier de Sûreté (PPS)** événementiel se structure selon la grille de référence du **SGDSN**, du **CNPP** et des **préfectures** (Ministère de l'Intérieur).
+- ### Structure type de la trame institutionnelle
+- #### 1. Cadre général et Gouvernance
+- **Descriptif de la manifestation :** Intitulé, organisateur, dates/horaires (montage, exploitation, démontage), jauges (instantanée et cumulée), typologie du public (VIP, exposants, grand public, VIP/Personnalités sous protection).
+- **Organigramme de crise & de sûreté :**
+	- Directeur de la Sûreté / Directeur de site (Organisateur).
+	- Chef du PC Sûreté (Société de sécurité privée / Interne).
+	- Référent Préfecture / Forces de Sécurité Intérieures (FSI).
+	- Annuaire de crise opérationnel (lignes directes, réseaux radio, canaux chiffrés).
+- #### 2. Analyse des Risques et Évaluation des Menaces (Méthode SGDSN / CNPP)
+- **Cartographie des menaces :** Attentat/Intrusion armée, acte malveillant, manifestation/blocage, surcapacité/mouvement de foule, vol/espionnage industriel (spécifique salons BITD/Technologiques).
+- **Niveau d'alerte Vigipirate en vigueur** et déclinaison des mesures associées.
+- #### 3. Zonation & Architecture de Protection Physique
+- **Zonage opérationnel (découpage du site) :**
+	- *Zone Publique / Extérieure :* Parking, files d'attente.
+	- *Périmètre de Protection (Loi SILT) / Zone d'Accès Restreint (ZAR) :* Filtrage amont.
+	- *Zone Privative / Exposants :* Halls d'exposition, salles de conférences.
+	- *Zones Sensibles / Critiques :* Regie technique, zones de stockage VIP, PC Sécurité, locaux réseau.
+- **Moyens techniques & matériels :** Barriérage (HERAS, Vauban), obstacles anti-franchissement (plots/plots béton contre le risque voiture-bélier), vidéoprotection temporaire, détection d'intrusion.
+- #### 4. Dispositif Humain et Contrôle d'Accès
+- **Société de sécurité privée :** Effectifs (Nombre de cartes professionnelles CNAPS), implantation des agents par poste et créneau (filtrage, rondes, palpation, surveillance visuelle).
+- **Contrôle d'accès & inspection-filtrage (ACVS) :**
+	- Régime d'accréditation (badging exposants/prestataires préalable).
+	- Inspection visuelle des sacs, passage aux détecteurs magnétiques (raquettes), magnétomètres portiques.
+	- Consignes relatives au refus d'accès et à la gestion des objets interdits (consigne).
+- #### 5. Procédures Réflexes, Fiches Réponse & Conduite à Tenir (SGDSN)
+- **Fiche Intrusion / Attaque terroriste (Tueur masse) :** Consignes *« Échapper, Se cacher, Alerter »*, procédure de mise en sécurité / confinement, bouclage des zones.
+- **Fiche Colis / Objet Suspect :** Périmètre de sécurité, procédure de levée de doute, alerte FSI (17/112).
+- **Fiche Mouvement de foule / Surcapacité :** Régulation des flux en amont, délestage, fermeture temporaire des accès.
+- **Fiche Gestion d'incidents / Altération d'accès :** Panne du système d'accréditation, panne de vidéoprotection.
+- #### 6. Liaisons avec les Services de l'État et PC Sécurité
+- **Comité de pilotage de sécurité :** Compte-rendu de la visite de la commission de sécurité.
+- **Implantation et rôles du Poste de Commandement (PC Sûreté) :** Centralisation des flux vidéo, liaisons radio avec les FSI (Police/Gendarmerie), le SDIS (Sapeurs-Pompiers) et le SAMU.
+- ### Où consulter ces documents d'État originaux ?
+- **Guide SGDSN « Sécurité des rassemblements et festivals » :** Disponible sur le site du SGDSN (`sgdsn.gouv.fr`), il détaille l'ensemble des fiches réflexes et l'analyse de risque.
+- **Dossier type « Sécurité des grands rassemblements » (Préfectures) :** La plupart des Préfectures (ex: Préfecture de Police de Paris, Yvelines, Ille-et-Vilaine) proposent un formulaire PDF téléchargeable intitulé *« Dossier de sûreté / sécurité pour les manifestations et événements »* reprenant exactement cette trame.
+- **Référentiel CNPP - Ouvrage « Sécurité des sites et manifestations temporaires » :** Le CNPP propose des trames complètes certifiées et alignées sur la norme ISO 22342 (Sûreté des établissements) adaptées à l'événementiel.

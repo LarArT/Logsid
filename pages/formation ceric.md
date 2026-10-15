@@ -1,0 +1,4 @@
+- [[cursus SERC (Spécialiste - Évaluation et Réduction des Risques de malveillance]]
+- [[Agrément CESS (Certificat d'Études Supérieures de Sûreté) / Spécialiste Audit de Sûreté.]]
+-
+-

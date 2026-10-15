@@ -1,0 +1,56 @@
+- Topologie — classification hiérarchique (v2, format outliner)
+	- Note méthodologique : classification thématique/pédagogique, pas une reproduction de la MSC2020 ; codes MSC donnés à titre de repère, divergences signalées explicitement plutôt que masquées
+	- 1. Fondations et théories apparentées
+		- Topologie générale (point-set topology) — MSC 54-XX
+			- Objet : structure d'espace topologique fondée sur ouverts, fermés, voisinages
+			- Notions clés : axiomes de séparation (T0, T1, T2/Hausdorff, régularité, normalité)
+			- Notions clés : compacité, connexité
+			- Notions clés : métrisabilité (Urysohn, Nagata-Smirnov)
+			- Notions clés : convergence (suites, filtres, réseaux/nets)
+		- Topologie ensembliste avancée — MSC 54-XX (sous-classes cardinales, espaces ordonnés)
+			- Objet : propriétés requérant des outils de théorie des ensembles fine (cardinaux, forcing)
+			- Exemple : existence de certains espaces (ex. espaces de Suslin) indépendante de ZFC
+			- Ajout par rapport à la v1, absente auparavant
+		- Topologie sans points (pointless / point-free topology, frames et locales) — MSC 06D22
+			- Objet : remplacer l'espace topologique par son treillis d'ouverts (frame), étudié pour lui-même
+			- Point de rigueur : indépendante de la théorie des topos — se formule entièrement en théorie des treillis (Isbell 1972, Johnstone 1982), sans site ni catégorie de faisceaux
+			- La MSC confirme cette distinction : 06D22, séparé de 18B25
+		- Topologie catégorique et théorie des topos — MSC 18B25 (topoi), voir aussi 03G30
+			- Objet : généralisation via faisceaux sur un site (topologie de Grothendieck)
+			- Un locale correspond à un topos localique (0-tronqué) ; l'inverse est faux — un topos porte une logique interne (intuitionniste d'ordre supérieur) qu'un locale n'a pas
+			- Choix de classification à noter : relève arguablement davantage de la théorie des catégories que de la topologie au sens strict ; conservée ici comme branche sœur pour la cohérence de l'exposé, pas parce que la MSC l'y classerait
+	- 2. Topologie géométrique et des variétés — MSC 57-XX (topologique/combinatoire), MSC 58-XX (dès structure différentiable)
+		- Topologie de basse dimension (dim ≤ 4) — MSC 57K
+			- Surfaces (dim 2) : classification des surfaces compactes, genre g, orientabilité
+			- Dimension 3 : conjecture de Poincaré (démontrée, Perelman 2003), géométrisation de Thurston
+			- Dimension 4 : phénomènes exotiques sur R^4, travaux combinés de Freedman (classification topologique) et Donaldson (invariants de jauge, structures lisses)
+		- Théorie des nœuds — MSC 57K10 et suivants
+			- Objet : plongements du cercle S1 dans R^3 ou S^3
+			- Invariants : polynôme de Jones, polynôme d'Alexander, homologie de Khovanov (catégorification du polynôme de Jones)
+			- Notions associées : groupes de tresses, entrelacs
+		- Topologie des grandes dimensions (dim ≥ 5) — MSC 57Q, 57R
+			- Chirurgie des variétés, théorème du h-cobordisme de Smale
+			- S'applique plus librement en grande dimension (absence des obstructions spécifiques à dim 4)
+		- Topologie différentielle — MSC 57R (composante différentielle), MSC 58-XX (analyse globale)
+			- Variétés C∞, difféomorphismes, espaces tangents
+			- Théorie de Morse, fibrés vectoriels, classes caractéristiques (Chern, Stiefel-Whitney, Pontryagin)
+	- 3. Topologie algébrique — MSC 55-XX
+		- Théorie de l'homotopie — MSC 55P
+			- Groupe fondamental π1, groupes d'homotopie supérieurs πn
+			- Espaces d'Eilenberg-MacLane, équivalences d'homotopie
+		- Homologie et cohomologie — MSC 55N
+			- Homologie singulière, homologie simpliciale, dualité de Poincaré
+			- Point corrigé (v1 → v2) : la cohomologie de de Rham exige une structure différentiable — pas de place sans réserve dans une branche définie sur des espaces topologiques généraux
+			- Le théorème de de Rham (isomorphisme avec la cohomologie singulière réelle) est le pont entre branche 3 et la sous-branche différentielle de la branche 2 ; mentionné comme tel plutôt qu'absorbé silencieusement
+		- K-théorie topologique — MSC 19-XX
+			- Fibrés vectoriels sur un espace topologique, périodicité de Bott, méthodes d'algèbre homologique
+	- 4. Applications et domaines croisés
+		- Analyse topologique des données (TDA) — MSC 55N31, voir aussi 62R40
+			- Homologie persistante
+			- Complexes de Vietoris-Rips (correction : non « Vieteris »)
+			- Diagrammes de persistance (correction : non « persistence »)
+		- Topologie et physique — MSC 81-XX (théorie quantique), MSC 82-XX (mécanique statistique, structure de la matière)
+			- Théories quantiques des champs topologiques (TQFT)
+			- Phases topologiques de la matière condensée, isolants topologiques (prix Nobel de physique 2016 : Thouless, Haldane, Kosterlitz)
+		- Dynamique topologique — MSC 37B (au sein de 37-XX, dynamical systems and ergodic theory)
+			- Entropie topologique, systèmes dynamiques qualitatifs, chaos

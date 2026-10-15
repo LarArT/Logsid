@@ -1,0 +1,4 @@
+- Une question pour fermer qui provoque un oui : engagement, pied dans la porte
+- Une question ouverte d'investigation
+- Cadrer le problème
+- Une question fermée qui provoque un oui

@@ -1,0 +1,6 @@
+-
+- Violent subcurrent of Salafism that rejects democracy and elected parliaments
+- Argues that human legislation goes against God's status as the sole lawgiver.
+- Aims to create an Islamic state governed exclusively by Islamic law (Shari'a).
+- Legitimizes the use of violence with a reference to the classical Islamic doctrines on jihad.
+- Perceives opposing interpretations of Islamic law as 'enemies of Islam', including Shi'a, Sufis and other Muslims.

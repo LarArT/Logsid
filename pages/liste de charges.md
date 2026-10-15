@@ -1,0 +1,81 @@
+- Voici l'inventaire structuré et le plus exhaustif possible de l'ensemble des **charges financières, fiscales, sociales et opérationnelles** auxquelles une entreprise de sécurité privée (TPE/PME) doit faire face.
+- ### 1. Charges de Personnel et Directes d'Exploitation
+  
+  En sécurité privée, le coût du travail représente **entre 70 % et 85 % du chiffre d'affaires**. C'est le premier poste de dépense.
+- **Salaires bruts** :
+	- Salaires de base des agents de sécurité (agents de prévention, cynophiles, SSIAP, etc.) respectant les grilles de la **Convention collective nationale des entreprises de prévention et de sécurité (IDCC 1358)**.
+	- Majorations légales et conventionnelles : heures supplémentaires, travail de nuit (21h-6h), dimanches, jours fériés.
+	- Primes conventionnelles : prime de panier, prime d'habillage/déshabillage, prime d'entretien des tenues, prime pour détention de chien (unités cynophiles).
+	- Indemnités de congés payés, précarité (si CDD de surcroît d'activité ou de remplacement).
+- **Cotisations sociales patronales** :
+	- URSSAF (santé, retraite de base, allocations familiales, accidents du travail / maladies professionnelles — *taux AT souvent élevé dans le secteur*).
+	- Retraite complémentaire (Agirc-Arrco).
+	- Assurance chômage et AGS.
+	- Prévoyance et Mutuelle santé d'entreprise (prise en charge patronale à minimum 50 %).
+	- Versement Mobilité (selon la zone géographique d'implantation).
+- **Frais d'équipement direct et tenue** :
+	- Équipements de Protection Individuelle (EPI) : chaussures de sécurité, gilets de haute visibilité, gilets pare-balles/anti-agression (si applicable).
+	- Tenues réglementaires avec insignes et logos obligatoires (CNAPS).
+	- Matériel d'exploitation : PTI/DATI (Protection Travailleur Isolé / Dispositif d'Alarme pour Travailleur Isolé), émetteurs-récepteurs/talkies-walkies, rondiers, lampes torches.
+	- Frais liés aux chiens (pour unités cynophiles) : pension, nourriture, soins vétérinaires, assurance spécifique, matériels de dressage.
+- ### 2. Charges Fixes de Structure et de Fonctionnement (Frais Généraux)
+- **Locaux et Immobilier** :
+	- Loyer commercial (bail 3/6/9) ou bail professionnel.
+	- Charges locatives, entretien, nettoyage, maintenance des locaux.
+	- Électricité, eau, chauffage.
+- **Informatique, Télécoms et Logiciels spécifiques** :
+	- Abonnements téléphoniques et cartes SIM M2M pour les boîtiers PTI / rondiers sur le terrain.
+	- Logiciels de gestion du personnel et de plannings spécialisés sécurité privée (ex. SEI, Comète, SpotOn, etc.) pour la main-courante électronique et la gestion des vacations.
+	- Logiciel de paie / facturation et matériel informatique de bureau.
+- **Sous-traitance et Prestations extérieures** :
+	- Honoraires de l'expert-comptable et du commissaire aux comptes (si seuil atteint).
+	- Honoraires d'avocat (droit du travail, rédaction des contrats commerciaux, contentieux Prud'hommes).
+	- Éventuelle sous-traitance à d'autres sociétés de sécurité (réglementée strictment par le Code de la sécurité intérieure : interdiction de sous-traiter au-delà de 2 rangs).
+- ### 3. Assurances, Habilitations et Conformité Réglementaire
+- **Assurances d'entreprise** :
+	- **RC Pro et RC Exploitation** (obligatoire, ~0,40 % à 0,90 % du CA).
+	- **RCMS** (Responsabilité Civile des Mandataires Sociaux pour le dirigeant).
+	- Assurance des locaux d'entreprise et du matériel informatique.
+	- Insurance flotte automobile (véhicules d'intervention / de ronde).
+	- Protection juridique d'entreprise.
+- **Frais de conformité et formations** :
+	- Maintien et Actualisation des Compétences (**MAC / recyclage**) pour le renouvellement des cartes professionnelles des agents (CQP/Titre pro, SSIAP, SST).
+	- Visites médicales du travail (médecine du travail / VIP) obligatoires à l'embauche et périodiques.
+	- Audit de conformité CNAPS, mise en conformité RGPD (vidéoprotection, données d'accès).
+- ### 4. Flotte et Déplacements
+  
+  Indispensable pour l'encadrement (chefs de secteur), les patrouilleurs, les rondiers et les agents itinérants.
+- **Véhicules** :
+	- Loyers LLD/LOA ou amortissement/crédit-bail des véhicules de ronde/intervention.
+	- Carburant (cartes essence) et péages.
+	- Entretien, pneumatiques, contrôles techniques, réparations.
+	- Remboursement des indemnités kilométriques (IK) ou pass Navigo/transports si les agents utilisent leurs propres moyens pour rejoindre un site d'affectation fixe.
+- ### 5. Taxations Spécifiques et Impôts
+- **Contributions sectorielles et formation** :
+	- **Contribution à la Formation Professionnelle** (OPCO / AKTO pour le secteur de la sécurité).
+	- Taxe d'apprentissage et contribution supplémentaire à l'apprentissage (CSA).
+	- Participation à l'effort de construction (PEEC / Action Logement si > 50 salariés).
+- **Impôts et Taxes Locaux/Nationaux** :
+	- **CFE** (Cotisation Foncière des Entreprises) et **CVAE** (Cotisation sur la Valeur Ajoutée des Entreprises, si CA > 500k€).
+	- **TVA** : collecte et reversement (impact sur la trésorerie).
+	- Impôt sur les Sociétés (**IS**) : 15 % jusqu'à 42 500 € de bénéfice, puis 25 % au-delà.
+	- Taxe sur les salaires (uniquement si l'entreprise n'est pas assujettie à la TVA sur la totalité de son CA).
+- ### 6. Charges Financières et Rémunération du Dirigeant
+- **Rémunération et Charges du Dirigeant** :
+	- *Si Assimilé Salarié (Président de SAS/SASU)* : Salaire brut + cotisations sociales (~75-80 % du salaire net).
+	- *Si Travailleur Non Salarié / TNS (Gérant majoritaire de SARL/EURL)* : Prélèvements TNS / Sécurité Sociale des Indépendants (~40-45 % du revenu net).
+	- Impôt sur les dividendes (PFU / Flat Tax de 30 % ou barème progressif) en cas de distribution de bénéfices.
+- **Frais financiers** :
+	- Frais bancaires de tenue de compte d'entreprise et commissions de mouvement.
+	- Agios, frais de découverts ou coût d'affacturage / Dailly (très fréquent en sécurité privée en raison des délais de paiement clients souvent longs à 60 jours).
+	- Intérêts d'emprunt bancaire (remboursement du capital + intérêts du prêt créateur).
+- ### 7. Postes de Coûts Masqués à Anticiper (Pertes et Imprévus)
+- **Volatilité RH et Turnover** :
+	- Coûts de recrutement permanents (annonces sur les jobboards, temps RH consacré aux entretiens).
+	- Temps de formation interne non facturé au client final.
+	- Heures de vacance de poste (remplacements au pied levé en heures majorées ou via l'astreinte).
+- **Délais de paiement et Créances douteuses** :
+	- Pertes sur créances irrécouvrables (dépôt de bilan de clients).
+	- Frais de recouvrement et d'huissier de justice pour factures impayées.
+- **Franchises de sinistres** :
+	- Reste à charge en cas de casse, vol, détérioration ou perte de clés par un agent chez un client.

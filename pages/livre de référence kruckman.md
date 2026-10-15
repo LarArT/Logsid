@@ -1,0 +1,97 @@
+- Économie internationale (Krugman, Obstfeld, Melitz - 2022)
+	- Introduction
+		- 1. Qu'est-ce que l'économie internationale ?
+			- 1.1 Les gains à l'échange
+			- 1.2 La structure des échanges
+			- 1.3 Protectionnisme ou libre-échange ?
+			- 1.4 La balance des paiements
+			- 1.5 Les taux de change
+			- 1.6 La coordination des politiques économiques
+			- 1.7 Le marché international des capitaux
+		- 2. Commerce et monnaie
+	- Partie I : Théories du commerce international
+		- Chapitre 2 : Aperçu du commerce mondial
+			- 1. Qui commerce avec qui ?
+			- 2. Évolution de la structure du commerce mondial
+		- Chapitre 3 : Modèle ricardien (Productivité et avantages comparatifs)
+			- 1. Principe des avantages comparatifs
+			- 2. Économie à un facteur
+			- 3. Commerce international dans un monde à un facteur
+			- 4. Idées reçues sur l'avantage comparatif
+			- 5. Plusieurs biens et coûts de transport
+		- Chapitre 4 : Facteurs spécifiques et distribution des revenus
+			- 1. Modèle à facteurs spécifiques
+			- 2. Commerce international et distribution des revenus
+			- 3. Économie politique du protectionnisme
+			- 4. Mobilité internationale du travail
+		- Chapitre 5 : Modèle Heckscher-Ohlin (Dotations en facteurs)
+			- 1. Modèle à deux facteurs
+			- 2. Commerce entre deux économies à deux facteurs
+			- 3. Vérifications empiriques
+		- Chapitre 6 : Modèle standard et termes de l'échange
+			- 1. Modèle standard de commerce international
+			- 2. Croissance économique
+			- 3. Droits de douane et subventions
+			- 4. Prêts et emprunts internationaux
+		- Chapitre 7 : Économies d'échelle externes et géographie économique
+			- 1. Structure de marché et économies d'échelle
+			- 2. Économies d'échelle externes et commerce
+			- 3. Dynamiques d'agglomération (économie géographique)
+		- Chapitre 8 : Entreprises, mondialisation et firmes multinationales
+			- 1. Concurrence imparfaite
+			- 2. Commerce en concurrence monopolistique
+			- 3. Firmes hétérogènes et décisions d'exportation
+			- 4. Dumping et discrimination par les prix
+			- 5. Externalisation et firmes multinationales
+	- Partie II : Politiques commerciales
+		- Chapitre 9 : Instruments de la politique commerciale
+			- 1. Analyse simple des droits de douane
+			- 2. Coûts et bénéfices des droits de douane
+			- 3. Autres instruments (subventions, quotas, restrictions)
+		- Chapitre 10 : Économie politique du protectionnisme
+			- 1. Avantages du libre-échange
+			- 2. Libre-échange contre bien-être national
+			- 3. Gagnants et perdants de la politique commerciale
+			- 4. Négociations commerciales (GATT/OMC)
+		- Chapitre 11 : Pays en développement
+			- 1. Industrialisation par substitution aux importations
+			- 2. Industrialisation par les exportations (miracle asiatique)
+		- Chapitre 12 : OMC, débats et controverses
+			- 1. Politiques commerciales interventionnistes
+			- 2. Enjeux sociaux et politiques (salaires, souveraineté)
+			- 3. Mondialisation et environnement
+	- Partie III : Taux de change et macroéconomie ouverte
+		- Chapitre 13 : Comptes nationaux et balance des paiements
+			- 1. Les comptes nationaux
+			- 2. La balance des paiements
+		- Chapitre 14 : Taux de change et marché des changes
+			- 1. Taux de change et prix relatifs
+			- 2. Le marché des changes (acteurs et instruments)
+			- 3. Demande d'actifs en monnaie étrangère
+			- 4. Équilibre sur le marché des changes
+			- 5. Taux d'intérêt, anticipations et parité (PTIC)
+		- Chapitre 15 : Monnaie, taux d'intérêt et taux de change
+			- 1. Définition et fonctions de la monnaie
+			- 2. Demande de monnaie
+			- 3. Équilibre du marché monétaire
+			- 4. Offre de monnaie et taux de change (court/long terme)
+		- Chapitre 16 : Prix et taux de change à long terme
+			- 1. Loi du prix unique et PPA
+			- 2. Modèle à long terme fondé sur la PPA
+			- 3. Limites de la PPA
+			- 4. Modèle général de taux de change réel
+		- Chapitre 17 : Produit intérieur et taux de change à court terme
+			- 1. Demande globale en économie ouverte
+			- 2. Équilibre court terme (Courbes DD et AA)
+			- 3. Politiques monétaire et budgétaire
+			- 4. Dynamiques (Courbe en J, trappe à liquidité)
+		- Chapitre 18 : Taux de change fixes
+			- 1. Mécanismes d'intervention des banques centrales
+			- 2. Politiques de stabilisation
+			- 3. Crises de balance des paiements
+			- 4. Régimes monétaires et monnaies de réserve
+	- Partie IV : Politique macroéconomique internationale
+		- Chapitre 19 : Le système monétaire international (SMI)
+			- 1. Objectifs macroéconomiques (Équilibre interne/externe)
+			- 2. Triangle d'incompatibilités
+			- 3. L'étalon-or (1870-1914)

@@ -1,0 +1,10 @@
+-
+- [ ] Valine
+- [ ] Leucine
+- [ ] Isoleucine
+- [ ] Thréonine
+- [ ] Méthionine
+- [ ] Lysine
+- [ ] Tryptophane
+- [ ] Histidine
+- [X] Phénylalanine

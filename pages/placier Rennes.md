@@ -1,0 +1,4 @@
+- [[Réglementation des marchés]]
+- ![asvp-placier-novembre-202412](../assets/asvp-placier-novembre-202412.pdf)
+- [[rédaction d'un rapport]]
+-

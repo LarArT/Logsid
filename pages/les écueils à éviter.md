@@ -1,0 +1,61 @@
+- Pour aborder ces 26 questions non plus une par une, mais par la **structure même de leur formulation** (questions fermées/ouvertes, dilemmes apparents, fausses oppositions, notions à double fond), voici 15 pièges fondamentaux à éviter sur la forme et la logique du sujet :
+- ### 1. Le piège de l'alternative binaire (Faux dilemme)
+- **Structure visée :** *« A ou B ? »* (ex: Q06, Q08, Q15, Q18).
+- **Le piège :** Choisir son camp et exclure le second terme, ou faire une synthèse molle (« un peu des deux »).
+- **La règle :** Montrer que A et B ne s'excluent pas mais s'articulent (la mode est *simultanément* conformisme social et vecteur de liberté individuelle).
+- ### 2. Le piège du « Oui / Non » direct (Interrogation totale)
+- **Structure visée :** *« Peux-t-on... ? »*, *« Faut-il... ? »*, *« Est-on... ? »* (ex: Q01, Q03, Q11, Q19, Q25).
+- **Le piège :** Traiter la question comme un sondage d'opinion ou trancher de manière définitive dès l'introduction.
+- **La règle :** Déplacer la question du **fait** au **droit** ou aux **conditions** : passer de « Peut-on ? » à « Sous quelles conditions est-il légitime de... ? ».
+- ### 3. Le piège du jugement de valeur moralisateur
+- **Structure visée :** Sujets chargés éthiquement (ex: Q11, Q16, Q19, Q23).
+- **Le piège :** Rédiger un sermon ou un réquisitoire (« L'argent a pourri le sport », « Il ne faut pas tout partager »).
+- **La règle :** Neutraliser le jugement moral pour en faire une analyse conceptuelle et fonctionnelle (analyser la fonction économique ou psychologique de l'argent ou du partage).
+- ### 4. Le piège de la réification (Traiter une abstraction comme un sujet conscient)
+- **Structure visée :** *« La société / L'argent / La mode fait-il X ? »* (ex: Q04, Q15, Q20, Q23).
+- **Le piège :** Personifier le concept comme une volonté malveillante extérieure qui « gouverne » ou « dénature ».
+- **La règle :** Redéfinir l'institution ou la structure : ce n'est pas « la mode » qui agit, ce sont les rapports sociaux et de distinction (Bourdieu) qui s'y expriment.
+- ### 5. Le piège de l'essentialisme (Supposer une « nature » intemporelle)
+- **Structure visée :** *« L'art doit-il... ? »*, *« Le sport transmet-il... ? »* (ex: Q10, Q21, Q25).
+- **Le piège :** Parler de « L'Art », du « Sport » ou du « Genre » comme des entités éternelles aux propriétés immuables.
+- **La règle :** Historiser et contextualiser les notions : la fonction de l'art ou la valeur du sport varient selon les époques et les organisations sociales.
+- ### 6. Le piège du procès d'intention (Ad hominem ou diabolisation)
+- **Structure visée :** Sujets sur la technologie, les médias ou le marché (ex: Q09, Q17, Q20).
+- **Le piège :** Attribuer l'aliénation à la seule méchanceté des concepteurs ou des algorithmes.
+- **La règle :** Analyser la mécanique systémique (économie de l'attention, marchandisation) plutôt que de faire le procès d'un outil.
+- ### 7. Le piège du subjectivisme relatif (« À chacun sa vérité »)
+- **Structure visée :** *« Est-on soi-même... ? »*, *« Peut-on juger... ? »* (ex: Q14, Q17).
+- **Le piège :** Répondre que « la beauté/la liberté/l'identité est propre à chacun » et conclure à l'impossibilité de penser la question.
+- **La règle :** Rechercher des critères universels ou intersubjectifs (comment se construit le jugement, qu'est-ce que l'authenticité).
+- ### 8. Le piège de la fausse contradiction réciproque
+- **Structure visée :** Chiasmes ou jeux de mots apparents (ex: Q08 : *« Vivre pour travailler ou travailler pour vivre »*).
+- **Le piège :** Rester bloqué dans l'effet de style ou la formule choc.
+- **La règle :** Démonter le slogan : séparer le travail comme *substance de l'existence* et le travail comme *moyen de subsistance*.
+- ### 9. Le piège du réductionnisme économique
+- **Structure visée :** *« Pour gagner sa vie »*, *« Marchandise »*, *« L'argent »* (ex: Q05, Q09, Q23).
+- **Le piège :** Réduire le problème à sa seule dimension matérielle, monétaire ou financière.
+- **La règle :** Réintégrer les dimensions symboliques, anthropologiques et sociales (reconnaissance, statut, don/contre-don).
+- ### 10. Le piège du romantisme ou de la nostalgie
+- **Structure visée :** Sujets sous-entendant une dégradation (ex: Q22, Q23 : *« Déjà dénaturé ? »*, *« Envie d'un modèle perdu ? »*).
+- **Le piège :** Postuler un « âge d'or » mythique (un sport autrefois pur, un art autrefois désintéressé).
+- **La règle :** Déconstruire le mythe originel (le sport antique ou classique était déjà traversé par le pouvoir et l'argent).
+- ### 11. Le piège du fétichisme du mot d'esprit ou du proverbe
+- **Structure visée :** Titres sous forme de dicton (ex: Thème 4 : *« L'habit ne fait pas le moine »*, Thème 5 : *« Je publie donc je suis »*).
+- **Le piège :** Prendre le proverbe au pied de la lettre ou l'utiliser comme argument d'autorité.
+- **La règle :** Interroger ce que le proverbe masque : l'habit fait *souvent* le moine en sociologie (signe d'appartenance, rôle social).
+- ### 12. Le piège de la tautologie (Définir la notion par elle-même)
+- **Structure visée :** *« L'égalité est-elle acquise ? »*, *« Le sport est-il un modèle ? »* (ex: Q22, Q26).
+- **Le piège :** Définir l'égalité par « l'absence d'inégalité » sans définir ce qu'est une égalité réelle (de droit, de fait, de chances).
+- **La règle :** Distinguer minutieusement les différents niveaux conceptuels de la notion (égalité formelle vs égalité réelle).
+- ### 13. Le piège de l'impasse utopique (L'illusion du « Tout ou Rien »)
+- **Structure visée :** *« Peut-on échapper... ? »*, *« Faut-il tout... ? »* (ex: Q11, Q19, Q25).
+- **Le piège :** Conclure que parce qu'un idéal absolu est impossible (ex: échapper à 100 % aux stéréotypes), toute tentative est vaine.
+- **La règle :** Penser en termes de degrés, de marge de manœuvre, de réflexivité et de prise de conscience.
+- ### 14. Le piège du psychologisme (Réduire le social à l'individuel)
+- **Structure visée :** Sujets sur le bonheur, l'apparence, l'isolement (ex: Q03, Q13, Q18).
+- **Le piège :** Expliquer les phénomènes par des sentiments individuels (« c'est une question de volonté », « les gens sont timides »).
+- **La règle :** Analyser les déterminants sociaux, matériels et institutionnels qui conditionnent ces états individuels.
+- ### 15. Le piège de la sur-généralisation de l'exception
+- **Structure visée :** *« Un objet du quotidien peut-il devenir... ? »* (ex: Q12).
+- **Le piège :** Faire d'une rupture artistique historique (ex: le ready-made de Duchamp) une règle générale et banalisée.
+- **La règle :** Expliquer le mécanisme institutionnel et théorique qui permet à l'exception d'exister (le monde de l'art, le musée, l'intention).

@@ -1,0 +1,3 @@
+- [cours à polytechnique](https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/hott/)
+	- Il est indiqué aussi [[l'ensemble des personnes qui travaillent sur le sujet]]
+- [projet ANR visant à intégrer à la théorie des catégorie à coq](https://coreact.wiki/)

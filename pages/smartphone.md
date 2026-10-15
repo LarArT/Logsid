@@ -1,0 +1,4 @@
+- [[perturbation électromagnétique écran tactile]]
+-
+- [[smartphone durci contre EMI]]
+- [[norme ik]]

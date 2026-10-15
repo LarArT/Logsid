@@ -1,0 +1,5 @@
+- L’Unité Nationale d’Intervention Rapide (UNIR) regroupe des agents opérationnels qui interviennent en appui des équipes locales.
+- L’Équipe d’Assistance Rapide (EAR), constituée d’agents de la Sûreté ferroviaire et d’agents d’Escale, gère les situations exceptionnelles et offre une prise en charge des voyageurs en situation perturbée.
+- Une plateforme cynophile avec des équipages de cyno-défense qui assurent une présence dissuasive et des équipages spécialisés dans la détection et la recherche d’explosifs.
+- Les Unités Civiles (UC) oeuvrent principalement contre les vols à la tire et les atteintes sexistes.
+- Le Groupement de Protection de l’Infrastructure (GPI), doté d’équipements spécifiques (drone, nano-drone…) est chargé de la protection du patrimoine SNCF

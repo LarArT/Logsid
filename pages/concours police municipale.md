@@ -1,0 +1,2 @@
+- [ressources prépa concours](https://www.wikiterritorial.cnfpt.fr/xwiki/bin/view/vitrine/Les%20fiches%20connaissances%20du%20cadre%20d%27emplois%20des%20gardiens%20de%20police%20municipale)
+-

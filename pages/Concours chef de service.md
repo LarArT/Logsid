@@ -1,0 +1,4 @@
+- [ressources chef de service](https://www.wikiterritorial.cnfpt.fr/xwiki/bin/view/vitrine/Lecadredemploisdeschefsdeservicedepolicemunicipale)
+-
+-
+-

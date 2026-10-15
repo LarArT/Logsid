@@ -1,0 +1,10 @@
+- **Définition 1.2.1** Un **langage** (du premier ordre) est la donnée d'une famille (pas nécessairement finie) de symboles. On en distingue trois sortes :
+	- Les symboles de **constante**.
+	- Les symboles de **fonction**. À chaque symbole est associé un entier strictement positif appelé son **arité** (le nombre d'arguments de la fonction).
+		- Si l'arité est 1, la fonction est dite *unaire*.
+		- Si l'arité est 2, la fonction est dite *binaire*.
+		- Si l'arité est $n$ , la fonction est dite *$n$-aire*.
+	- Les symboles de **relation**. À chaque symbole est associé un entier positif ou nul (**arité**) correspondant à son nombre d'arguments. On parle également de relation *unaire*, *binaire* ou *$n$-aire*.
+	- **Synonymes et terminologie :**
+		- Le mot **vocabulaire** ou **signature** peut être utilisé à la place du mot *langage*.
+		- Le mot **prédicat** peut être utilisé à la place du mot *relation*. On parle alors de **calcul des prédicats** au lieu de *logique du premier ordre*.

@@ -1,0 +1,6 @@
+- Changements quant à l'endroit où et la manière dont les différents groupes cibles sont impliqués dans le système de marché.
+- Changements selon lesquels les voies d'acheminement (ou les chaînes) dans le système sont les plus importants pour répondre à leurs besoins.
+- Changements selon lesquels les acteurs du marché sont les acteurs essentiels de ces chaînes.
+- Changements quant aux formes d'infrastructures et aux types de services de soutien qui sont particulièrement importants.
+- Changements des règles, règlements, normes sociales ou pratiques qui sont importants.
+- Changements des facteurs qui affectent la performance du système, ou l'accès de groupes cibles particuliers, y compris les rôles de genre.

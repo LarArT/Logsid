@@ -1,0 +1,3 @@
+### Contextes d'utilisation enseignés
+- ​**Réécriture dans le but (****Goal****) :** Si le contexte contient une hypothèse H : t = q, l'exécution de rewrite H remplace toutes les occurrences de t par q dans le but. À l'inverse, rewrite <- H effectue le remplacement de q par t.
+- ​**Réécriture dans une hypothèse :** Le cours présente également la variante rewrite H in H1, qui permet d'utiliser l'égalité H : t = q pour modifier une autre hypothèse H1 du contexte contenant le terme t.

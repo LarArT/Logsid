@@ -1,0 +1,6 @@
+- La classification selon l'organisation de l'achat au sein du marché
+- L'acheteur peut passer un marché comportant une tranche ferme et une ou plusieurs tranches optionnelles (article R2113-4).
+- L'exécution de chaque tranche optionnelle est subordonnée à la décision de l'acheteur de l'affermir, notifiée au titulaire dans les conditions fixées par le marché.
+- Il s'agit donc d'une possibilité pour l'acheteur, et non d'une obligation. Ce dispositif peut être mis en œuvre, par exemple, lorsque l'acheteur ne sait pas s'il va disposer des moyens financiers nécessaires au paiement des prestations.
+- L'allotissement, c'est-à-dire le fait de constituer des lots lorsque le marché comporte des prestations distinctes, est une règle qui s'impose à l'acheteur (article L2113-10).
+- Néanmoins, à titre dérogatoire, un certain nombre de situations peuvent justifier d'avoir recours à un lot unique (notamment si la dévolution en lots séparés est de nature à restreindre la concurrence ou risque de rendre techniquement difficile ou financièrement plus coûteuse l'exécution des prestations).

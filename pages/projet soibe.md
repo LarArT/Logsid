@@ -1,0 +1,15 @@
+- prévention de la criminalité par l'aménagement du territoire (PCAT
+- [secure by design](https://www.securedbydesign.com/images/LITTLE%20YELLOW%20BOOK%20%20CONTENTS%20JUNE%2024.pdf)
+-
+- [Projet acess :Évaluer l'action de sécurité publique](https://www.vie-publique.fr/files/collection_number/portrait/photo/9782111459700.pdf)
+-
+	- Plan : 2 ans
+	  Brainstorming
+		- Problématique
+			- Hypothèse
+				-
+				- [[projet  Enquête]]
+					-
+					- [[criminalistic intelligence]]
+		-
+		-

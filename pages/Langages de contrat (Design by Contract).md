@@ -1,0 +1,8 @@
+- Cette approche s'applique souvent directement au code ou à des pseudocodes très proches de l'implémentation, en utilisant le concept de **Design by Contract** (Conception par contrat).
+- ​**WP (Weakest Precondition) / Calcul de WP :**
+	- ​**Principe :** On annote le code avec des préconditions, des postconditions et des invariants de boucle (souvent écrits en logique de Hoare). Un outil déduit les conditions de vérification (*Verification Conditions*, VC) et les transmet à des solveurs SMT (*Satisfiability Modulo Theories*) comme Z3 ou CVC5 pour prouver l'absence d'erreurs d'exécution.
+- ​**Langages & Outils associés :**
+	- ​**ACSL** (ANSI/ISO C Specification Language) utilisé par le framework **Frama-C** pour le langage C.
+	- ​**Spark / SPARK 2014** (sous-ensemble d'Ada) pour les systèmes avioniques et spatiaux.
+	- ​**Dafny** : Langage de programmation et de spécification orienté vérification formelle.
+	- ​**JML** (Java Modeling Language) pour Java.

@@ -1,0 +1,419 @@
+# Lexique de Pareto - Construction & Bâtiment (400 mots)
+- ## 1. Acteurs, Juridique, Documents & Processus
+	- ### Intervenants & Organismes
+		- **MOA (Maîtrise d'ouvrage)** :: Client / commanditaire du projet.
+		- **MOE (Maîtrise d'œuvre)** :: Architecte / maître d'œuvre pilotant la conception et les travaux.
+		- **AMO (Assistance à Maîtrise d'Ouvrage)** :: Conseil rattaché au client.
+		- **BET (Bureau d'Études Techniques)** :: Ingénieurs spécialisés (structure, fluide, acoustique).
+		- **Bureau de contrôle** :: Organisme agréé contrôlant la solidité et la sécurité (ex: Socotec, Apave).
+		- **OPC** :: Ordonnancement, Pilotage et Coordination du chantier.
+		- **CSPS** :: Coordonnateur Sécurité et Protection de la Santé.
+		- **Entreprise générale** :: Entreprise réalisant l'ensemble des lots.
+		- **Mandataire** :: Chef de file d'un groupement d'entreprises.
+		- **Sous-traitant** :: Entreprise exécutant un lot pour le compte d'une autre.
+		- **Conducteur de travaux** :: Responsable de la gestion administrative, financière et technique.
+		- **Chef de chantier** :: Manager terrain encadrant les ouvriers au quotidien.
+		- **Géomètre-expert** :: Professionnel établissant les limites foncières et relevés topographiques.
+		- **Ergologue / Ergoconcepteur** :: Spécialiste de l'adaptation des espaces de travail.
+	- ### Documents Contractuels & Techniques
+		- **CCTP** :: Cahier des Clauses Techniques Particulières (descriptif des travaux).
+		- **CCAP** :: Cahier des Clauses Administratives Particulières.
+		- **DPGF** :: Décomposition du Prix Global et Forfaitaire.
+		- **BPU** :: Bordereau des Prix Unitaires.
+		- **DOE** :: Dossier des Ouvrages Exécutés (remis à la livraison).
+		- **DIUO** :: Dossier d'Intervention Ultérieure sur l'Ouvrage.
+		- **DCE** :: Dossier de Consultation des Entreprises.
+		- **DTU** :: Document Technique Unifié (règles de l'art et normes de construction).
+		- **PLU** :: Plan Local d'Urbanisme.
+		- **Permis de construire** :: Autorisation administrative obligatoire pour bâtir.
+		- **Déclaration préalable (DP)** :: Autorisation pour des travaux légers ou modifications.
+		- **Pacte d'Avenant** :: Modification contractuelle du montant ou des délais.
+		- **Plan d'exécution (EXE)** :: Plan détaillé utilisé directement par les ouvriers.
+		- **Plan de récolement** :: Plan constatant l'état réel des ouvrages enterrés/exécutés.
+		- **Carnet de détails** :: Zooms techniques sur des points d'assemblage spécifiques.
+		- **Planning GANTT** :: Représentation visuelle de l'avancement des tâches dans le temps.
+		- **BIM (Building Information Modeling)** :: Maquette numérique 3D collaborative.
+	- ### Phases & Événements
+		- **Esquisse / APS / APD** :: Phases successives de conception architecturale.
+		- **PIC (Plan d'Implantation de Chantier)** :: Organisation logistique du site (base vie, grue).
+		- **Ordre de Service (OS)** :: Document officiel déclenchant une étape ou des travaux.
+		- **Compte rendu de chantier (CR)** :: Procès-verbal hebdomadaire des décisions et retards.
+		- **Implantation** :: Matérialisation sur le terrain des axes du bâtiment.
+		- **Gros œuvre** :: Structure portante de l'édifice (fondations, voiles, dalles).
+		- **Second œuvre** :: Aménagements intérieurs, réseaux et finitions (hors structure).
+		- **Hors d'eau** :: Étape où la structure est couverte (toiture posée).
+		- **Hors d'air** :: Étape où le bâtiment est clos (fenêtres et portes posées).
+		- **Corps d'état architecturaux (CEA)** :: Ensemble des lots de finition intérieure.
+		- **Lot** :: Division des travaux par spécialité métier (ex: Lot Électricité).
+		- **Réception de chantier** :: Acte juridique par lequel le MOA accepte l'ouvrage.
+		- **PV de réception** :: Procès-verbal consignant la livraison avec ou sans réserves.
+		- **Réserve** :: Défaut ou malfaçon constaté lors de la réception et à corriger.
+		- **Levée de réserves** :: Validation de la correction des défauts signalés.
+		- **GPA (Garantie de Parfait Achèvement)** :: Obligation de réparation pendant 1 an.
+		- **Garantie biennale** :: Garantie de bon fonctionnement des équipements (2 ans).
+		- **Garantie décennale** :: Assurance obligatoire couvrant les dommages majeurs (10 ans).
+		- **Quitus** :: Libération d'une responsabilité contractuelle.
+		- **Malfaçon** :: Défaut de construction résultant d'un travail mal exécuté.
+		- **Abandon de chantier** :: Interruption non justifiée des travaux par l'entreprise.
+		- **Pénalité de retard** :: Retenue financière appliquée en cas de dépassement des délais.
+		- **Retenue de garantie** :: Somme consignée (souvent 5 %) jusqu'à la levée des réserves.
+		- **Acompte** :: Paiement partiel versé au fur et à mesure de l'avancement.
+		- **Situation de travaux** :: État de facturation basé sur l'avancement réel.
+		- **Décompte Général Définitif (DGD)** :: Bilan financier final du marché de travaux.
+		- **Métré** :: Calcul quantitatif des matériaux et surfaces à réaliser.
+		- **Ouvrage** :: La construction terminée dans son ensemble.
+		- **Ouvrage d'art** :: Structure d'ingénierie complexe (pont, tunnel, barrage).
+		- **Partie commune** :: Espaces réservés à l'usage de tous les occupants.
+		- **Partie privée** :: Espaces réservés à l'usage exclusif d'un occupant.
+		- **Dépôt de bilan** :: Cessation de paiements d'une entreprise intervenante.
+		- **Soustraction de lot** :: Retrait d'une prestation du marché initial.
+		- **Cessation d'activité** :: Arrêt temporaire ou définitif du chantier.
+- ## 2. Terrassement, Fondations & Infrastructures
+	- **Étude de sol (G2)** :: Analyse géotechnique déterminant le type de fondation.
+	- **Terrassement** :: Travaux de fouille, déplacement et préparation des terres.
+	- **Fouille en rigole** :: Tranchée étroite destinée à recevoir les fondations continues.
+	- **Fouille en pleine masse** :: Excavation générale sur toute la surface de l'emprise.
+	- **Fouille en puits** :: Trou profond destiné aux fondations ponctuelles.
+	- **Décapage** :: Enlèvement de la couche supérieure de terre végétale.
+	- **Remblai** :: Apport de terres ou matériaux pour élever le niveau du sol.
+	- **Déblai** :: Enlèvement de terres pour abaisser le niveau du sol.
+	- **Nivellement** :: Action de rendre une surface plane et horizontale.
+	- **Compactage** :: Tassage mécanique du sol pour améliorer sa portance.
+	- **Portance** :: Capacité d'un sol à supporter des charges sans s'affaisser.
+	- **Fondation superficielle** :: Fondation peu profonde (semelle filante ou isolée).
+	- **Fondation profonde** :: Fondation s'appuyant en profondeur (pieux, forages).
+	- **Semelle filante** :: Fondation continue sous un mur porteur.
+	- **Semelle isolée** :: Fondation ponctuelle sous un poteau.
+	- **Pieu** :: Élément vertical ancré profondément dans le sol résistant.
+	- **Micropieu** :: Pieu de faible diamètre injecté sous haute pression.
+	- **Radier** :: Dalle générale en béton armé servant de fondation sur sol instable.
+	- **Longrine** :: Poutre en béton préfabriquée reliant les fondations et supportant les voiles.
+	- **Tête de pieu** :: Partie supérieure du pieu recevant la structure.
+	- **Recépage** :: Destruction de la partie supérieure altérée d'un pieu coulé.
+	- **Dallage** :: Ouvrage en béton reposant directement sur le sol.
+	- **Hérisson** :: Lit de pierres cassées étalé sous un dallage pour stabiliser et drainer.
+	- **Drainage** :: Dispositif d'évacuation des eaux souterraines autour des fondations.
+	- **Drain** :: Tuyau perforé captant les eaux d'infiltration.
+	- **Cunette** :: Rigole aménagée au point bas pour guider les eaux.
+	- **Cuvelage** :: Étanchéité renforcée d'un sous-sol soumis à la pression de l'eau.
+	- **Nappe phréatique** :: Eau souterraine affleurant le niveau des fouilles.
+	- **Rabattement de nappe** :: Pompage temporaire pour assécher la zone de travail.
+	- **Soutènement** :: Ouvrage retenant les terres (paroi moulée, mur de soutènement).
+	- **Blindage** :: Maintien temporaire des parois d'une tranchée pour éviter l'éboulement.
+	- **Paroi berlinoise** :: Structure de soutènement constituée de profilés acier et madriers.
+	- **Paroi moulée** :: Mur en béton armé coulé directement dans le sol.
+	- **Ancrage** :: Tirant de fixation scellé dans le sol pour maintenir un mur.
+	- **Poussée des terres** :: Force exercée par le sol sur un ouvrage de soutènement.
+	- **Masse d'inertie** :: Volume massif apportant de la stabilité à la base.
+	- **Talutage** :: Inclinaison donnée aux parois d'une excavation pour éviter les glissements.
+	- **Géo-textile** :: Tissu synthétique imputrescible séparant les matériaux et drainant.
+	- **Soustraction de charge** :: Allègement des contraintes pesant sur le sol.
+	- **Tassement** :: Enfoncement progressif de la structure sous l'effet du poids.
+	- **Tassement différentiel** :: Enfoncement inégal provoquant des fissures.
+	- **Reprise en sous-œuvre** :: Consolidation des fondations d'un bâtiment existant.
+	- **Coup de sabre** :: Fissure verticale continue traversant une maçonnerie.
+	- **Buse** :: Conduit préfabriqué de fort diamètre pour l'écoulement des eaux.
+	- **Regard** :: Ouvrage maçonné permettant d'accéder aux canalisations.
+	- **Fosse toutes eaux** :: Élément de traitement autonome des eaux usées.
+	- **Siphon d'assainissement** :: Dispositif évitant les remontées d'odeurs des réseaux.
+	- **Eaux usées (EU)** :: Eaux provenant des sanitaires et cuisines.
+	- **Eaux grises (EG)** :: Eaux ménagères faiblement souillées.
+	- **Eaux pluviales (EP)** :: Eaux issues des précipitations météorologiques.
+- ## 3. Gros Œuvre & Structure
+	- ### Béton & Ferraillage
+		- **Béton armé (BA)** :: Béton associant granulats, ciment et armatures en acier.
+		- **Béton précontraint** :: Béton mis sous tension préalable via des câbles acier.
+		- **Béton désactivé** :: Béton laissé apparent en surface en faisant ressortir les graviers.
+		- **Béton cellulaire** :: Matériau de construction léger et isolant (ex: Siporex).
+		- **Béton autonivelant (BAN)** :: Béton très fluide s'étalant sans vibration.
+		- **Laitance** :: Remontée d'eau et de ciment très fine à la surface du béton.
+		- **Ciment** :: Liant hydraulique réduisant en poudre qui durcit avec l'eau.
+		- **Mortier** :: Mélange de ciment (ou chaux), de sable et d'eau (sans gravier).
+		- **Grave** :: Mélange de sable et de graviers utilisé comme remblai ou assise.
+		- **Granulat** :: Ensembles de sables et graviers entrant dans la composition du béton.
+		- **Adjuvant** :: Produit chimique ajouté au béton (plastifiant, retardateur, hydrofuge).
+		- **Toupie** :: Camion malaxeur livrant le béton prêt à l'emploi.
+		- **Pompe à béton** :: Équipement projetant ou acheminant le béton à distance.
+		- **Cure du béton** :: Protection du béton frais contre le dessèchement trop rapide.
+		- **Prise** :: Changement d'état du béton du liquide vers le solide.
+		- **Banche** :: Panneau de coffrage vertical métallique ou en bois.
+		- **Banchée** :: Volume de béton coulé en une seule fois entre deux banches.
+		- **Coffrage** :: Structure temporaire retenant le béton jusqu'à son durcissement.
+		- **Décoffrage** :: Retrait du coffrage une fois le béton sec.
+		- **Armature** :: Ensembles des barres ou grillages d'acier intégrés au béton.
+		- **Treuillis soudé (TS)** :: Grillage d'acier utilisé pour armer les dalles.
+		- **Enrobage** :: Épaisseur de béton protégeant les aciers de la corrosion.
+		- **Ferraillage** :: Action de poser les aciers avant le coulage du béton.
+		- **Chaînage** :: Élément en béton armé ceinturant un bâtiment pour lier les structures.
+		- **Saignée** :: Entaille pratiquée dans un mur pour y encastrer une gaine.
+	- ### Éléments de Maçonnerie & Porteurs
+		- **Voile** :: Mur vertical en béton armé coulé en place.
+		- **Mur porteur** :: Mur supportant la charge des planchers ou de la charpente.
+		- **Mur de refend** :: Mur porteur situé à l'intérieur du bâtiment.
+		- **Mur séparatif** :: Mur isolant deux logements ou locaux distincts.
+		- **Parpaing / Agglo** :: Bloc de béton creux utilisé en maçonnerie.
+		- **Brique monomur** :: Brique en terre cuite haute performance thermique.
+		- **Brique plâtrière** :: Brique fine servant aux cloisonnements légers.
+		- **Moellon** :: Pierre de taille moyenne utilisée pour la maçonnerie rustique.
+		- **Poteau** :: Élément porteur vertical de section réduite (carré ou rond).
+		- **Poutre** :: Élément porteur horizontal transmettant les charges aux poteaux/murs.
+		- **Poutrelle** :: Petite poutre préfabriquée servant de support de plancher.
+		- **Entrevous / Hourdis** :: Élément intercalé entre deux poutrelles pour composer un plancher.
+		- **Dalle** :: Plaque horizontale épaisse en béton armé.
+		- **Prédalle** :: Dalle mince préfabriquée servant de coffrage perdu et d'armature.
+		- **Plancher collaborant** :: Plancher associant une tôle d'acier profilée et du béton.
+		- **Trémie** :: Réservation / ouverture aménagée dans un plancher (ex: pour escalier).
+		- **Linteau** :: Poutre située au-dessus d'une baie (porte, fenêtre) supportant le mur.
+		- **Pré cadre** :: Encadrement métallique ou bois posé dans la maçonnerie avant menuiserie.
+		- **Arase** :: Couche de mortier égalisant le sommet d'une maçonnerie.
+		- **Ragréage** :: Enduit de finition lissant les imperfections d'une dalle ou d'un mur.
+		- **Feuillure** :: Entaille aménagée dans la maçonnerie pour recevoir un dormant.
+		- **Tableau** :: Surface verticale bordant la baie d'une porte ou fenêtre.
+		- **Allège** :: Partie du mur située sous une fenêtre.
+		- **Appui de fenêtre** :: Pièce maçonnée ou préfabriquée rejetant l'eau sous la fenêtre.
+		- **Seuil** :: Partie basse de la baie d'une porte au niveau du sol.
+		- **Jambage** :: Montant vertical encadrant une baie.
+		- **Cintre** :: Structure en courbe fermant le haut d'une baie.
+		- **Acrotère** :: Muret prolongeant un mur façade au-dessus du niveau du toit-terrasse.
+		- **Soubassement** :: Partie basse des murs reposant sur les fondations.
+		- **Vide sanitaire** :: Espace ventilé laissé entre le sol et le premier plancher.
+		- **Plancher haut de sous-sol** :: Plancher séparant le sous-sol du rez-de-chaussée.
+		- **Plancher bas** :: Plancher situé au niveau le plus bas de la construction.
+		- **Nez de dalle** :: Tranche visible d'un plancher en façade.
+		- **Console** :: Poutre en saillie supportant un élément en corbellement (ex: balcon).
+		- **Corbellement** :: Structure en saillie sur le nu d'un mur.
+		- **Contreventement** :: Système assurant la stabilité face aux forces horizontales (vent, séisme).
+		- **Joint de dilatation** :: Espace réservé pour absorber les variations thermiques des matériaux.
+		- **Joint de rupture** :: Dispositif séparant deux ouvrages pour éviter les tassements inégaux.
+		- **Joint d'étanchéité** :: Garniture empêchant le passage de l'air ou de l'eau.
+		- **Désaffleurement** :: Décalage d'alignement entre deux éléments adjacents.
+		- **Écorché** :: Représentation d'une structure dépouillée de ses revêtements.
+		- **Calpinage / Calepinage** :: Plan de disposition précise des éléments (dalles, briques, carrelage).
+		- **Fixation chimique** :: Scellement d'une tige par résine synthétique dans la maçonnerie.
+		- **Goujon** :: Tige métallique d'ancrage rapide dans le béton.
+		- **Goutte d'eau / Larmier** :: Rainure sous un appui empêchant l'eau de ruisseler vers le mur.
+		- **Pignon** :: Partie supérieure triangulaire d'un mur supportant le toit.
+		- **Mur mitoyen** :: Mur commun séparant deux propriétés adjacentes.
+		- **Mur pignon** :: Mur extérieur latéral ne comportant généralement pas d'entrée.
+		- **Mur de façade** :: Mur extérieur principal exposant l'architecture du bâtiment.
+		- **Chaînage vertical** :: Armature d'acier intégrée aux angles du bâtiment.
+		- **Chaînage horizontal** :: Ceinture continue en béton armé au niveau des planchers.
+		- **Surcharges d'exploitation** :: Charges temporaires liées aux occupants et au mobilier.
+		- **Charge permanente** :: Poids propre de la structure et des équipements fixes.
+		- **Loi de Hooke** :: Principe d'élasticité régissant la déformation des matériaux.
+		- **Fluage** :: Déformation lente et différée d'un matériau sous charge constante.
+- ## 4. Clos, Couvert & Enveloppe
+	- ### Charpente & Couverture
+		- **Charpente traditionnelle** :: Structure en bois massif composée de fermes et pannes.
+		- **Fermette / Charpente industrielle** :: Structure légère assemblée par connecteurs métalliques.
+		- **Ferme** :: Élément porteur principal triangulé d'une charpente.
+		- **Panne** :: Poutre horizontale supportant les chevrons (panne sablière, intermédiaire, faîtière).
+		- **Panne faîtière** :: Poutre sommet située au point le plus haut du toit.
+		- **Panne sablière** :: Poutre posée horizontalement au sommet des murs porteurs.
+		- **Chevron** :: Pièce de bois inclinée fixée sur les pannes supportant le liteau.
+		- **Liteau / Liteaunage** :: Baguette de bois supportant directement les tuiles.
+		- **Volige** :: Planche de bois fixée à plat sur la charpente pour former un plancher continu.
+		- **Bastaing / Madrier** :: Pièces de bois de fortes sections pour ossatures.
+		- **Solive** :: Pièce de bois ou métal supportant un plancher léger.
+		- **Pannes en I** :: Poutres profilées légères à haute résistance mécanique.
+		- **Faîtage** :: Ligne de jonction supérieure des deux versants d'un toit.
+		- **Arêtier** :: Ligne saillante formée par l'intersection de deux versants.
+		- **Noue** :: Ligne rentrante formée par l'intersection de deux versants (évacuation d'eau).
+		- **Rive** :: Extrémité bordant le versant d'un toit.
+		- **Égout du toit** :: Ligne basse de la toiture déversant l'eau dans la gouttière.
+		- **Pente de toit** :: Inclinaison calculée en pourcentage ou en degrés.
+		- **Tuile mécanique** :: Tuile en terre cuite ou béton à emboitement.
+		- **Ardoise** :: Schiste naturel taillé en fine plaque imperméable.
+		- **Bac acier** :: Plaque de tôle profilée servant de couverture rapide.
+		- **Couverture en zinc** :: Couverture métallique façonnée à tasseaux ou à joint debout.
+		- **Gouttière** :: Profilé semi-circulaire ou pendard collectant les eaux de pluie.
+		- **Chéneau** :: Conduit encastré ou maçonné recueillant l'eau à la base du toit.
+		- **Descente d'eau pluviale (DEP)** :: Tuyau vertical évacuant les eaux de toiture.
+		- **Solin** :: Dispositif de jonction étanche entre la toiture et un mur vertical.
+		- **Souche de cheminée** :: Partie d'un conduit émergeant au-dessus du toit.
+		- **Fenêtre de toit** :: Châssis vitré posé dans le plan de la toiture (ex: Velux).
+		- **Lucarne / Chien-assis** :: Baie verticale saillant sur la pente d'un toit.
+	- ### Étanchéité & Isolation Extérieure
+		- **Toit-terrasse** :: Toiture plate accessible ou non, nécessitant un complexe d'étanchéité.
+		- **Étanchéité bitumineuse** :: Membrane à base de bitume thermosoudée sur le support.
+		- **Membrane EPDM** :: Membrane synthétique monocouche pour toit-terrasse.
+		- **Relevé d'étanchéité** :: Remontée verticale de la membrane d'étanchéité sur l'acrotère.
+		- **Pare-vapeur** :: Écran empêchant la migration de la vapeur d'eau dans l'isolant.
+		- **Isolant sous étanchéité** :: Panneau résistant à la compression posé sur le support.
+		- **Sarking** :: Isolation de la toiture par l'extérieur au-dessus de la charpente.
+		- **ITE (Isolation Thermique par l'Extérieur)** :: Enveloppe isolante appliquée sur les façades.
+		- **ITIR (Isolation Thermique Répartie)** :: Isolation intégrée directement à la maçonnerie.
+		- **Enduit RPE (Revêtement Plastique Épais)** :: Finition synthétique organique sur ITE.
+		- **Bardage** :: Revêtement extérieur désolidarisé du mur (bois, composite, métal).
+		- **Lame d'air** :: Espace ventilé laissé entre le parement et l'isolant.
+		- **Rupture de pont thermique (RPT)** :: Dispositif isolant intégré aux profilés métalliques.
+		- **Mur-rideau** :: Façade légère vitrée suspendue devant la structure portante.
+		- **Bandeau de façade** :: Éléments horizontaux saillants ou décoratifs en façade.
+	- ### Menuiseries Extérieures
+		- **Dormant** :: Cadre fixe scellé dans la maçonnerie.
+		- **Ouvrant / Vantail** :: Partie mobile de la fenêtre ou de la porte.
+		- **Meneau** :: Montant vertical divisant la baie d'une fenêtre.
+		- **Traverse** :: Pièce horizontale divisant le cadre d'une baie.
+		- **Parclose** :: Profilé maintenant le vitrage dans le châssis.
+		- **Double vitrage / Vitrage FE** :: Vitrage composite à Isolation Thermique Renforcée.
+		- **Régulation solaire** :: Traitement de vitrage réduisant l'apport de chaleur estival.
+		- **Rupture thermique** :: Barrière isolante évitant la condensation sur le châssis.
+		- **Cochonnet** :: Partie visible du dormant une fois le doublage posé.
+		- **Plaque de plâtre de doublage** :: Complexe isolant collé directement sur le mur extérieur.
+		- **Appui de baie** :: Pièce basse assurant l'évacuation des eaux vers l'extérieur.
+		- **Coffre de volet roulant** :: Logement supérieur abritant le volet et son axe.
+		- **Garde-corps** :: Barrière de protection empêchant la chute au droit des fenêtres/balcons.
+		- **Compriband** :: Mousse de polyuréthane imprégnée assurant l'étanchéité à l'air de la pose.
+		- **Pare-pluie** :: Écran souple protégeant les isolants contre les infiltrations d'eau.
+		- **Pare-air** :: Membrane garantissant l'étanchéité à l'air de l'enveloppe.
+		- **Pont thermique** :: Zone de faiblesse dans l'isolation générant des fuites de chaleur.
+		- **Affaiblissement acoustique (Rw)** :: Capacité de l'enveloppe à réduire la transmission des bruits.
+		- **Facteur solaire (Sw)** :: Capacité du vitrage à transmettre la chaleur du soleil.
+		- **Coefficient Uw** :: Performance d'isolation thermique globale de la fenêtre complète.
+		- **AEV** :: Classement de résistance à l'Air, à l'Eau et au Vent des menuiseries.
+- ## 5. Second Œuvre, Réseaux & Équipements
+	- ### Plâtrerie & Cloisonnement
+		- **Plaque de plâtre (BA13)** :: Plaque à bords amincis de 13mm montée sur ossature.
+		- **Plaque hydrofuge (Verte)** :: Plaque résistant à l'humidité pour pièces humides.
+		- **Plaque coupe-feu (Rose)** :: Plaque à résistance renforcée au feu.
+		- **Plaque phonique (Bleue)** :: Plaque haute densité améliorant l'isolation acoustique.
+		- **Rail** :: Profilé métallique horizontal fixé au sol et au plafond.
+		- **Montant** :: Profilé métallique vertical emboîté dans les rails pour former l'ossature.
+		- **Fourrure** :: Profilé métallique léger servant de support aux plafonds suspendus.
+		- **Suspente** :: Tige ou patte métallique fixant la fourrure au plancher supérieur.
+		- **Bande à joint** :: Bande en papier ou armée noyée dans l'enduit pour lier les plaques.
+		- **Enduit de lissage** :: Enduit fin préparant le support avant peinture.
+		- **Faux-plafond / Plafond suspendu** :: Plafond désolidarisé créant un plenum pour les réseaux.
+		- **Plenum** :: Espace technique libre ménagé entre le faux-plafond et le plancher.
+		- **Cloison alvéolaire** :: Cloison légère composée de deux plaques de plâtre liées par un carton.
+		- **Cloison de doublage** :: Cloison posée contre un mur extérieur pour masquer l'isolant.
+		- **Gaine technique** :: Espace vertical fermé réservé au passage des conduites/câbles.
+		- **Trappe d'accès** :: Portillon étanche ouvrant sur un plenum ou une gaine.
+	- ### Électricité & Courants Faibles
+		- **GTL (Gaine Technique Logement)** :: Espace regroupant tous les arrivées et tableaux du logement.
+		- **TGBT** :: Tableau Général Basse Tension (bâtiment tertiaire/industriel).
+		- **Tableau électrique** :: Coffret centralisant les protections et départs de circuits.
+		- **Disjoncteur différentiel** :: Dispositif de sécurité coupant l'alimentation en cas de fuite de courant.
+		- **Coupe-circuit / Fusible** :: Protection thermique contre les surcharges d'intensité.
+		- **Gaine ICTA** :: Conduit plastique annelé et isolant protégeant les câbles.
+		- **Boîte de dérivation** :: Boîtier regroupant les connexions de plusieurs câbles.
+		- **Boîte d'encastrement** :: Boîtier logé dans le mur recevant les prises ou interrupteurs.
+		- **DCL (Dispositif de Connexion Luminaire)** :: Boîtier sécurisé pour le raccordement des points lumineux.
+		- **DDR (Dispositif Différentiel Résiduel)** :: Interrupteur détectant les fuites à la terre.
+		- **Mise à la terre** :: Liaison électrique vers le sol évacuant les courants de défaut.
+		- **Piquet de terre** :: Tige métallique enfoncée en sol profond pour la liaison à la terre.
+		- **Liaison équipotentielle** :: Protection reliant la masse métallique à la terre.
+		- **RJ45** :: Connecteur standardisé pour la distribution du réseau informatique/télécom.
+		- **VDI (Voix, Données, Images)** :: Réseau de communication interne courant faible.
+		- **Courant fort** :: Réseau dédié à l'énergie et l'éclairage (230V / 400V).
+		- **Courant faible** :: Réseau dédié aux signaux et informations (Alarme, VDI, Contrôle d'accès).
+		- **Alimentation Sans Interruption (ASI / Onduleur)** :: Équipement maintenant la tension en cas de coupure.
+		- **BAES** :: Bloc Autonome d'Éclairage de Sécurité (évacuation en cas de panne).
+		- **SSI** :: Système de Sécurité Incendie (détection, alarme et désenfumage).
+	- ### Plomberie, Chauffage & HVAC
+		- **Nourrice / Clarinet** :: Collecteur distribuant les fluides vers différents circuits.
+		- **Tuyau PER** :: Polyéthylène Réticulé (tuyauterie plastique flexible).
+		- **Tuyau Multicouche** :: Tube associant aluminium et plastique sans déformation.
+		- **Cuivre** :: Matériau traditionnel résistant pour les réseaux d'eau et de gaz.
+		- **PVC (Poly-Chlorure de Vinyle)** :: Tuyau plastique pour les réseaux de vidange et évacuation.
+		- **PEX** :: Polyéthylène extrudé haute résistance pour réseaux.
+		- **VMC (Ventilation Mécanique Contrôlée)** :: Système d'extraction mécanique de l'air vicié.
+		- **VMC Simple Flux** :: Extraction simple de l'air intérieur sans récupération de chaleur.
+		- **VMC Double Flux** :: Système croisant l'air entrant et sortant pour échanger les calories.
+		- **Centrale de Traitement d'Air (CTA)** :: Équipement filtrant, chauffant ou rafraîchissant l'air neuf.
+		- **Gaine de ventilation** :: Conduit aéraulique rigide ou souple transportant l'air.
+		- **Bouche d'extraction** :: Grille plastique réglable aspirant l'air dans les pièces humides.
+		- **Grille de soufflage** :: Diffuseur injectant l'air neuf ou traité dans les pièces.
+		- **Désenfumage** :: Système évacuant les fumées toxiques en cas d'incendie.
+		- **Volet coupe-feu** :: Dispositif obturant automatiquement une gaine en cas de chaleur.
+		- **Groupe Froid / Chiller** :: Équipement de production d'eau glacée pour climatisation.
+		- **PAC (Pompe À Chaleur)** :: Équipement thermodynamique puisant les calories (Air/Air, Air/Eau).
+		- **Plancher chauffant** :: Circuit d'eau basse température noyé dans la chape du sol.
+		- **Sèche-serviette** :: Émetteur hydraulique ou électrique dédié aux salles d'eau.
+		- **Chape fluide / Anhydrite** :: Mortier autolissant coulé sur l'isolant ou le plancher chauffant.
+		- **Robinet thermostatique** :: Valve ajustant le débit d'eau chaude selon la température voulue.
+		- **Pression statique** :: Pression de l'eau à l'arrêt dans les conduites.
+		- **Coup de bélier** :: Onde de choc provoquée par la fermeture rapide d'un robinet.
+		- **Adoucisseur d'eau** :: Équipement neutralisant le calcaire contenu dans l'eau.
+		- **Vidange / Purge** :: Action de vider l'eau ou l'air contenu dans un réseau fermé.
+		- **Surpresseur** :: Pompe augmentant la pression de l'eau dans les étages élevés.
+		- **Disconnecteur** :: Dispositif évitant le retour d'eau souillée dans le réseau potable.
+	- ### Revêtements & Aménagements Intérieurs
+		- **Chape** :: Couche de mortier posée sur la dalle servant de support au carrelage.
+		- **Carrelage grès cérame** :: Carreaux céramiques très solides et peu poreux.
+		- **Faïence** :: Carrelage mural en céramique tendre recouvert d'émail.
+		- **Joint de carrelage** :: Mortier de remplissage étanche entre les carreaux.
+		- **Parquet flottant** :: Lames de parquet clipsées posées sans collage sur sous-couche.
+		- **Parquet collé** :: Lames assemblées et fixées directement sur la chape.
+		- **Sous-couche acoustique** :: Isolat souple étalé sous le sol réduisant les bruits d'impact.
+		- **Résine de sol** :: Revêtement continu synthétique coulé (Autolissant / Époxy).
+		- **Peinture primaire / Impression** :: Couche d'accroche régulant la porosité du support.
+		- **Peinture mate** :: Peinture sans brillance masquant les défauts de surface.
+		- **Peinture satinée** :: Peinture légèrement brillante et lavable.
+		- **Plinthe** :: Bandeau bas protégeant le pied du mur au raccordement du sol.
+		- **Huisserie** :: Encadrement fixe intérieur recevant une porte.
+		- **Bloc-porte** :: Ensemble composé de l'huisserie et du vantail de la porte.
+		- **Porte à galandage** :: Porte coulissante s'escamotant directement à l'intérieur du mur.
+		- **Garde-corps intérieur** :: Rampe ou balustrade sécurisant les escaliers/mezzanines.
+		- **Limon** :: Pièce de structure inclinée supportant les marches d'un escalier.
+		- **Marche / Contremarche** :: Face horizontale (pied) et verticale de l'escalier.
+		- **Giron** :: Distance horizontale entre deux nez de marche consécutifs.
+		- **Trémie d'escalier** :: Ouverture réservée dans le plancher pour laisser passer l'escalier.
+		- **Laine de verre / Laine de roche** :: Isolants minéraux en rouleaux ou panneaux.
+		- **Laine de bois / Bio-sourcé** :: Isolants écologiques issus de fibres végétales.
+		- **Polyuréthane (PUR)** :: Isolant synthétique à très haute résistance thermique.
+		- **Polystyrène expansé (PSE)** :: Isolant rigide synthétique très léger.
+- ## 6. Matériel, Engins, Sécurité & Pathologies
+	- ### Engins & Matériel de Chantier
+		- **Grue à tour** :: Engin de levage lourd orientable fixé au sol ou sur châssis.
+		- **GMA (Grue à Montage Automatique)** :: Grue dépliante rapide pour petits chantiers.
+		- **Pelle mécanique / Chenille** :: Engin de terrassement et d'excavation.
+		- **Mini-pelle** :: Pelle compacte adaptée aux petits travaux et espaces réduits.
+		- **Chargeuse / Bobcat** :: Engin à godet avant servant à déplacer les matériaux.
+		- **Tombereau / Dumper** :: Véhicule articulé benne pour le transport des terres.
+		- **Pilonneuse / Dameuse** :: Outil servant à compacter le sol dans les tranchées.
+		- **Nacelle élévatrice (PEMP)** :: Plateforme mobile pour travail sécurisé en hauteur.
+		- **Échafaudage de pied** :: Structure métallique fixe montée le long d'une façade.
+		- **Échafaudage roulant** :: Structure mobile sur roues pour travaux de finition.
+		- **Étai / Étaiement** :: Pièce métallique télescopique soutenant temporairement une charge.
+		- **Acroter / Étai de poussée** :: Étai maintenant les banches ou voiles verticaux.
+		- **Bétonnière** :: Malaxeur rotatif pour la préparation du béton sur place.
+		- **Aiguille vibrante** :: Outil plongé dans le béton frais pour chasser les bulles d'air.
+		- **Laser de chantier** :: Appareil projetant une ligne niveau parfaite sur les murs.
+		- **Marteau-piqueur / Brise-béton** :: Outil de démolition pneumatique ou électrique.
+		- **Scie à sol** :: Équipement coupant les dalles béton ou enrobés.
+		- **Plateforme de travail (PTE)** :: Console suspendue sécurisée pour façadiers.
+		- **Groupes électrogènes** :: Générateur autonome d'électricité provisoire.
+		- **Base vie** :: Ensemble de bungalows mobiles (cantine, sanitaires, bureaux).
+	- ### Sécurité, Protection & Risques
+		- **EPI (Équipement de Protection Individuelle)** :: Casque, chaussures de sécurité, gants, harnais.
+		- **EPC (Équipement de Protection Collective)** :: Garde-corps provisoires, filets anti-chute.
+		- **PPSPS** :: Plan Particulier de Sécurité et de Protection de la Santé.
+		- **Ligne de vie** :: Câble d'ancrage horizontal sur lequel s'accroche le harnais.
+		- **Balisage** :: Dispositif délimitant les zones dangereuses sur le chantier.
+		- **Garde-corps provisoire** :: Barrière temporaire fixée en rive de dalle pendant le chantier.
+		- **Filoche / Filet de protection** :: Filet retenant les chutes d'hommes ou d'outils.
+		- **Consignation** :: Procédure verrouillant un réseau (élec/gaz) avant intervention.
+		- **Amiante** :: Fibres toxiques nécessitant un protocole de désamiantage strict.
+		- **Plomb (CREP)** :: Diagnostic identifiant le risque d'intoxication au plomb dans les peintures.
+		- **Nuisance de chantier** :: Poussières, bruits ou blocages générés par le site.
+	- ### Pathologies & Diagnostics
+		- **Fissure traversante** :: Fissure coupant toute l'épaisseur d'un mur.
+		- **Microfissure** :: Fissure superficielle inférieure à 0,2 mm.
+		- **Faïençage** :: Réseau de microfissures superficielles sur un enduit.
+		- **Lézarde** :: Fissure grave supérieure à 2 mm menaçant la structure.
+		- **Infiltration** :: Pénétration d'eau extérieure à travers l'enveloppe du bâtiment.
+		- **Remontée capillaire** :: Humidité du sol migrant verticalement dans la maçonnerie.
+		- **Efflorescence / Salpêtre** :: Dépôt de sels blancs sur des murs humides.
+		- **Condensation** :: Transformation de la vapeur d'eau en gouttelettes sur surface froide.
+		- **Moisi / Moisissure** :: Champignons microscopiques liés à un défaut de ventilation.
+		- **Surchauffe / Inconfort d'été** :: Élévation excessive de la température intérieure.
+		- **Affaissement** :: Enfoncement anormal d'un sol, d'une fondation ou d'un dallage.
+		- **Flèche** :: Déformation vers le bas d'une poutre ou d'un plancher sous charge.
+		- **Cisaillement** :: Force exercée en sens opposé provoquant la rupture d'un matériau.
+		- **Corrosion** :: Altération des aciers sous l'effet de l'eau et de l'oxygène.
+		- **Désordres** :: Terme générique désignant les défauts, vices et dégâts d'une construction.
+		- **Diagnostic de Performance Énergétique (DPE)** :: Évaluation des consommations et émissions.
+		- **Audit énergétique** :: Analyse complète préconisant les travaux de rénovation thermique.
+		- **Infiltrométrie / BlowerDoor** :: Test d'étanchéité à l'air du bâtiment.
+		- **Thermographie infrarouge** :: Caméra révélant les fuites thermiques et ponts thermiques.

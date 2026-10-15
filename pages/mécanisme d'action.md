@@ -1,0 +1,5 @@
+- Les mécanismes exacts par lesquels les ultrasons modulent l'activité neuronale ne sont pas entièrement compris, mais plusieurs hypothèses existent :
+	- Effets mécaniques: Les ondes ultrasonores peuvent exercer une pression mécanique sur les membranes cellulaires des neurones, entraînant des changements dans leur perméabilité ionique et leur excitabilité.
+	- Effets thermiques: Bien que l'ultrason neuromodulateur utilise de faibles intensités pour éviter le chauffage significatif des tissus, de légères élévations de température localisées pourraient influencer l'activité neuronale.
+	- *[[Cavitation]]*: La formation et l'effondrement de microbulles de gaz induits par les ultrasons pourraient générer des forces mécaniques affectant les neurones.
+	- Flexoelectricité: Les ondes ultrasonores pourraient induire des courants électriques dans les membranes cellulaires en provoquant leur flexion.

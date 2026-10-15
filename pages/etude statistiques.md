@@ -1,0 +1,6 @@
+- Etude observationnelle:
+	- X, une variable quantitative
+	- Y, une variable catégorielle
+- Etude expérimentale:
+	- •X, une variable quantitative
+	- Y, un facteur à plusieurs niveaux

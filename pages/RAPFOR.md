@@ -1,0 +1,12 @@
+- Les éléments tangibles
+	- Objet de la négociation
+	- Budget
+	- Informations
+	- Alternative
+- Élément intangible
+	- Le temps _
+	- La capacité d'action
+	- La vitesse
+	- L'éthique
+	- La relation de dépendance
+-

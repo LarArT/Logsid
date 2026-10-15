@@ -1,0 +1,52 @@
+- [[préparation PSP]]
+  
+  C'est une excellente question qui touche au cœur de l'expertise en sécurité professionnelle. Le terme **"C3 certifications"** fait référence aux trois certifications de spécialistes de niveau supérieur offertes par **ASIS International** (l'association mondiale des professionnels de la sécurité), bien que la plus prestigieuse reste le \text{CPP}.
+  Les trois certifications sont le \text{CPP}, le \text{PCI} et le \text{PSP}. Elles sont conçues pour valider l'expertise dans des domaines spécifiques de la sécurité, tout en exigeant un niveau d'expérience substantiel.
+  Voici une explication détaillée de chacune et ce qui les différencie :
+- Voici la mise en page sous forme d'arbre hiérarchique adaptée pour un outil de prise de notes outliner (type Logseq, Obsidian ou Workflowy) :
+- 🔒 Les Certifications C3 d'ASIS International
+	- Présentation générale
+		- Définit les 3 certifications de spécialistes de niveau supérieur d'**ASIS International**
+		- Reconnues mondialement pour valider une expertise avancée en sûreté/sécurité
+		- Exigent un niveau d'expérience professionnelle substantiel
+	- 1. CPP™ (Certified Protection Professional)
+		- **Positionnement** : "Gold Standard" de l'industrie (gestion stratégique & leadership global)
+		- **Rôles cibles**
+			- Directeur Sécurité
+			- Responsable Sécurité
+			- Consultant Stratégique
+		- **Domaines clés (7 domaines)**
+			- Principes et pratiques de sécurité
+			- Principes et pratiques commerciales
+			- Enquêtes (partie intégrante)
+			- Sécurité du personnel
+			- Sécurité physique (partie intégrante)
+			- Sécurité de l'information
+			- Gestion de crise
+		- **Élément distinctif** : Maîtrise du management global et intégration de la protection des actifs (humains, physiques, informationnels)
+	- 2. PCI™ (Professional Certified Investigator)
+		- **Positionnement** : Expert technique et opérationnel des enquêtes
+		- **Rôles cibles**
+			- Chef Enquêteur
+			- Directeur des Enquêtes Internes
+			- Consultant en Investigation Privée
+		- **Domaines clés (3 domaines)**
+			- **Gestion de cas** (*Case Management*)
+			- **Techniques d'enquête** (*Investigative Techniques* : entretiens, surveillance, digital forensics)
+			- **Présentation de cas** (*Case Presentation* : rapports, témoignages)
+		- **Élément distinctif** : Compétence approfondie dans l'art et la méthode de l'investigation, du cadrage initial aux conclusions légales
+	- 3. PSP™ (Physical Security Professional)
+		- **Positionnement** : Expert de la sûreté physique et de l'ingénierie des systèmes
+		- **Rôles cibles**
+			- Ingénieur / Architecte de Sécurité
+			- Consultant en Sûreté Physique
+			- Chef de projet en intégration de systèmes de sécurité
+		- **Domaines clés (3 domaines)**
+			- Évaluation de la sécurité physique (*Physical Security Assessment*)
+			- Application, conception et intégration de systèmes (*Application, Design, and Integration*)
+			- Mise en œuvre des mesures de sécurité physique (*Implementation of Physical Security Measures*)
+		- **Élément distinctif** : Maîtrise technique des contre-mesures physiques et matérielles (accès, clôtures, vidéo, détection)
+	- 📊 Synthèse comparative
+		- **CPP** : Management & Généraliste | Senior Management / Direction
+		- **PCI** : Investigation & Enquêtes | Expert technique / Responsable d'enquêtes
+		- **PSP** : Sûreté physique & Ingénierie | Expert technique / Concevant de solutions

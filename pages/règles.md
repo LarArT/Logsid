@@ -1,0 +1,3 @@
+- Le cahier des clauses administratives générales (CCAG) est un document qui définit les règles administratives et financières applicables aux marchés publics. Il établit les droits et obligations des parties, l'acheteur public et le titulaire du marché. Il existe plusieurs CCAG, adaptés à différents types de marchés (travaux, services, etc.).
+  Le cahier des clauses techniques particulières (CCTP), quant à lui, décrit les spécifications techniques précises des prestations, c'est-à-dire ce qui doit être réalisé.
+  Ces documents, avec l'acte d'engagement et le cahier des clauses administratives particulières (CCAP), forment les pièces contractuelles d'un marché public.

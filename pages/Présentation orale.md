@@ -1,0 +1,38 @@
+- Soyez structuré
+- percutant :
+- Adopter le bon ton
+- Montrez votre humanité
+- Répétez-vous
+- Utilisez des transitions
+- Terminez de façon percutante
+- Soyez bref
+- https://agora.unicef.org/pluginfile.php/1366213/mod_scorm/content/3/scormdriver/indexAPI.html
+- Concentrez-vous sur un ou deux messages essentiels à transmettre
+- Définissez l'objectif de la présentation
+- Évitez le langage technique
+- Ayez une vision claire de l'objectif à long terme, de la situation dans son ensemble
+- Une introduction percutante
+- 1. Déclaration forte/percutante
+- Une déclaration ou une phrase peut attirer l'attention du public en le laissant deviner ce que vous allez dire ensuite. L'application de la technique du silence par la suite renforce également l'effet.
+- « On ne peut pas gagner. On ne peut pas gagner... »
+- (Pause)
+- « ... C'est ce que disent tous les journaux du pays. »
+- 2.Statistique
+- Utilisez une statistique surprenante, forte et personnalisée qui trouvera un écho auprès du public pour faire passer votre message immédiatement.
+- « Aujourd'hui, près d'un quart des enfants de moins de 5 ans souffrent d'un retard de croissance ».
+- 3.Silence
+- La plupart des publics s'attendent à ce que l'intervenant commence immédiatement. Une pause supplémentaire attire toute l'attention là où vous le souhaitez : sur vous.
+- 4.Question
+- Posez une question rhétorique ou littérale. Lorsqu'on pose une question à quelqu'un, qu'une réponse soit nécessaire ou non, cette personne répond intuitivement.
+- « Qui ne voudrait pas sauver la vie d'un enfant ? »
+- 5. Scénario « Imaginez »
+- Une méthode similaire, mais plus pertinente pour donner des exemples spectaculaires. Elle place les membres de votre public directement dans la présentation en permettant à chacun de visualiser un scénario extraordinaire.
+- « Imaginez que vous sautez d'un avion en parachute et que vous découvrez que votre parachute ne fonctionne pas. Quels souvenirs verriez-vous défiler ? Imaginez maintenant que le parachute s'ouvre. Dans quelle mesure agiriez-vous différemment à l'atterrissage ? »
+- 6. Scénario « Et si... »
+- Attirez votre public immédiatement dans votre discours. En posant une question du type « et si », vous invitez le public à suivre votre processus de réflexion.
+- « Et si nous étions dans une ville ravagée par la guerre ? Pouvez-vous imaginer la peur, la faim, la désolation ? »
+- Citation
+- Commencez par une citation pertinente pour donner le ton au reste de votre discours. Par exemple :
+- « L'égalité des genres est plus qu'un objectif en soi. C'est une condition préalable pour relever le défi de la réduction de la pauvreté, promouvoir le développement durable et établir une bonne gouvernance. »
+- Kofi Annan
+- 7.

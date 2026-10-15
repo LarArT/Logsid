@@ -1,0 +1,18 @@
+- Voici un tableau de concordance complet qui croise les livrables fondamentaux à chaque phase du cycle de vie d'un projet selon quatre référentiels majeurs : **PM4NGOs (Project DPro)** (gestion de projet humanitaire et de développement), **PM4R** (Project Management for Results, de la Banque Interaméricaine de Développement), le **PMBOK (versions 7 & 8)** du PMI, et la méthode officielle de l'Union européenne, **PM²**.
+  | Phase du projet | PM4NGOs / PMD Pro | PM4R (IDB) | PMI PMBOK (7 & 8) | UE PM² Methodology |
+  |---|---|---|---|---|
+  | **Lancement & Alignement Stratégique** | Identification & Definition Note | Profil de projet / Charte de projet | **Business Case** / Log des hypothèses | **Business Case (Analyse de rentabilisation)** |
+  | **Autorisation Officielle** | Project Charter (Charte de projet) | Acte de constitution de projet | **Project Charter (Charte du projet)** | **Project Initiation Request (PIR)** / Project Charter |
+  | **Découpage du Périmètre** | WBS (Work Breakdown Structure) / Cadre logique | WBS / Structure de découpage du projet | **WBS (Structure de découpage du projet)** | **SDR (Structure de Décomposition du Projet)** |
+  | **Planification du Temps** | Network Diagram / Diagramme de Gantt | Chronogramme (Schedule) | Échéancier du projet (*Project Schedule*) | **Project Schedule (Planning du projet)** |
+  | **Planification Budgétaire** | Project Budget / Plan de trésorerie | Budget d'exécution S-Curve | Budget de référence / *Cost Baseline* | **Project Budget (Budget du projet)** |
+  | **Gouvernance & Responsabilités** | RACI Matrix (Matrice des compétences) | Matrice d'acquisition des ressources | Matrice d'attribution des responsabilités (RAM/RACI) | **RAM (Responsibility Assignment Matrix)** / Plan de gouvernance |
+  | **Gestion des Risques & Hypothèses** | Risk Register (Registre des risques) | Matrice de gestion des risques | **Risk Register (Registre des risques)** / Issue Log | **Risk Register (Registre des risques)** / Évaluation des risques |
+  | **Suivi de la Performance & Résultats** | **Logical Framework (Cadre Logique)** | Matrice des résultats (*Results Matrix*) | **Plan de gestion des bénéfices** / OKR | **Business Case** (Section *Success Criteria*) |
+  | **Suivi de l'Exécution (Rapports)** | Project Progress Report / Itération | Rapport de suivi d'exécution (PMR) | Rapports de performance du travail | **Project Progress Report** / *Core Log* |
+  | **Clôture du Projet** | End of Project Transition Report | Rapport final de clôture | Clôture des contrats et du projet / Rapport final | **Project End Report (Rapport de clôture)** |
+  | **Apprentissage Organisationnel** | Lessons Learned Document | Rapport de leçons apprises | Enregistrement des leçons apprises | **Lessons Learned (Leçons apprises)** |
+- ### Points clés de concordance à retenir :
+  1. **La culture du Résultat (PM4NGOs, PM4R et PMBOK 8) :** Le **Cadre Logique** de PM4NGOs et la **Matrice des résultats** de PM4R trouvent leur parfait pendant business dans le **Plan de gestion des bénéfices** du PMBOK. PM² intègre cette logique directement au sein des sections de critères de succès de son *Business Case*.
+  2. **Le Découpage opérationnel :** Le concept de découpage des tâches est rigoureusement identique partout. On parle de **WBS** (*Work Breakdown Structure*) dans le monde anglo-saxon (PMI, PM4R, PM4NGOs) et de **SDR** (*Structure de Décomposition du Projet*) dans la documentation francophone de la méthode européenne PM².
+  3. **Le pilotage par la gouvernance :** La définition des rôles utilise la matrice **RACI** de manière universelle à travers ces quatre méthodologies pour éviter les conflits d'attribution durant la phase d'exécution.

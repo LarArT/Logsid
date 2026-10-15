@@ -1,0 +1,12 @@
+- Conseils pour bien gérer un entrepôt
+- Planifiez à l'avance pour déterminer les biens, le personnel et les transports qui seront nécessaires la semaine, le mois ou l'année prochaine.
+- Planifiez l'agencement.
+- Empilez les biens en toute sécurité.
+- Enregistrez les mouvements de stock sur les bons formulaires.
+- Effectuez un inventaire physique régulièrement.
+- Enregistrez les dommages ou les pertes sur les bons formulaires.
+- Classez toute documentation immédiatement.
+- Effectuez une rotation les biens: premier entré, premier sorti.
+- Gardez les biens en sécurité.
+- Gardez le magasin/l'entrepôt propre (avec des routines quotidiennes, hebdomadaires, mensuelles).
+- Éliminez correctement et rapidement les biens abîmés/endommagés.

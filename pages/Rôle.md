@@ -1,0 +1,15 @@
+-
+- [[santé]]
+- [[achat potentiel]]
+	-
+- #Recherche
+	-
+- [[base de données]]
+	- https://www.chemspider.com
+		- https://citeseerx.ist.psu.edu/
+		-
+- IA
+	- Modèle génératif
+		- Distribution de données
+	- Modèle discriminatif
+		- Classe de données

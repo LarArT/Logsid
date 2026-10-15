@@ -1,0 +1,139 @@
+- [[drogue]]
+  - note :: https://wdr.unodc.org/wdr2019/
+  - url :: https://www.state.gov/wp-content/uploads/2019/04/INCSR-Vol-INCSR-Vol.-I-1.pdf
+  - [[coca]]
+  - [[drogue de synthese]] label
+  - [[point de transit]]
+    - [[guine bissau]]
+    - [[maroc]]
+      - [[Ceuta]]
+        - note :: https://fr.wikipedia.org/wiki/R%pct;C3%pct;A9v%pct;C3%pct;A9lations_de_t%pct;C3%pct;A9l%pct;C3%pct;A9grammes_de_la_diplomatie_am%pct;C3%pct;A9ricaine_par_WikiLeaks
+        - url :: https://fr.wikipedia.org/wiki/Ceuta
+      - [[Melilla]] label
+        - note :: https://fr.wikipedia.org/wiki/R%pct;C3%pct;A9v%pct;C3%pct;A9lations_de_t%pct;C3%pct;A9l%pct;C3%pct;A9grammes_de_la_diplomatie_am%pct;C3%pct;A9ricaine_par_WikiLeaks
+        - url :: https://fr.wikipedia.org/wiki/Melilla
+- [[Perou]]
+  - [[coca]] produit
+  - [[Bolivie]] transit
+    - [[coca]]
+- [[chine]]
+  - [[Petrole]] mainmise
+- [[Russie]]
+  - [[Venezuela]] aide financière
+- [[Daniel Barrera Barrera]]
+  - url :: https://en.wikipedia.org/wiki/Daniel_Barrera_Barrera
+  - [[FARC]] deal
+  - [[United Self Defense Forces 
+Of Colombia]] deal
+    - url :: https://en.wikipedia.org/wiki/United_Self-Defense_Forces_of_Colombia
+- [[Sinaloa Cartel]]
+  - url :: https://en.wikipedia.org/wiki/Sinaloa_Cartel
+- [[zaidan El Aissami]]
+  - [[Tareck El Aissami]] pere
+    - url :: https://en.wikipedia.org/wiki/Tareck_El_Aissami
+    - [[Venezuela]]
+    - [[Walid Makled Garcia]]
+      - url :: https://www.insightcrime.org/venezuela-organized-crime-news/walid-makled/
+      - [[Cartel Of The Suns]]
+        - url :: https://en.wikipedia.org/wiki/Cartel_of_the_Suns
+        - [[Venezuela]]
+        - [[FARC]]
+          - url :: https://en.wikipedia.org/wiki/FARC
+          - [[coca]] produit
+          - [[Colombie]]
+            - [[Venezuela]]
+              - [[Afrique de l'ouest]] destination
+              - [[Europe]] destination
+              - [[Amerique Central]] destination
+              - [[USA]] destination
+              - [[Caraibe]] destination
+              - [[Petrole]] produit
+      - [[Familia Makled]]
+        - url :: https://es.wikipedia.org/wiki/Familia_Makled
+    - [[Hezbollah]]
+      - url :: https://en.wikipedia.org/wiki/Hezbollah
+    - [[Los Zetas,]]
+    - [[Daniel 
+Barrera Barrera]]
+      - url :: https://en.wikipedia.org/wiki/Daniel_Barrera_Barrera
+      - [[Colombie]]
+      - [[FARC]] deal
+    - [[Hermagoras Gonzalez Polanco]]
+    - [[Ayman Saied Joumaa]]
+      - url :: https://en.wikipedia.org/wiki/Ayman_Saied_Joumaa
+      - [[Hezbollah]] leve des fonds en amerique
+  - [[Izzat Ibrahim Al Douri]] fort lien
+    - url :: https://en.wikipedia.org/wiki/Izzat_Ibrahim_al-Douri
+- [[South est asia]]
+  - [[methamphetamine]]
+    - [[drogue de synthese]]
+- [[Fentanyl]]
+  - note :: oxycodone, tramadol, carfentanil
+  - url :: https://en.wikipedia.org/wiki/Fentanyl
+  - [[Opioid]]
+    - url :: https://en.wikipedia.org/wiki/Opioid
+  - [[ANPP]]
+    - url :: https://en.wikipedia.org/wiki/N-Phenethyl-4-piperidinone
+  - [[NNPP]]
+  - [[drogue de synthese]]
+    - [[substances chimique]]
+      - url :: https://www.incb.org/documents/PRECURSORS/RED_LIST/RedList_16thEd_Jan2018_F.pdf
+      - [[TiHKAL]]
+        - url :: https://en.wikipedia.org/wiki/TiHKAL
+      - [[PiHKAL]]
+        - url :: https://en.wikipedia.org/wiki/PiHKAL
+- [[acetic anhydride]]
+  - [[methamphetamine]] precurseur
+  - [[heroine]] precurseur pour produire
+    - url :: https://fr.wikipedia.org/wiki/H%C3%A9ro%C3%AFne
+    - [[Opioid]]
+    - [[afghanistan]]
+      - url :: https://www.unodc.org/documents/publications/NR_Report_21.06.18_low.pdf
+    - [[mexique]]
+  - [[principaux]]
+    - [[afghanistan]] achat
+    - [[Turquie]]
+    - [[Iran]]
+  - [[secondaire]]
+    - [[bulgarie]]
+    - [[mexique]]
+    - [[japon]]
+    - [[pays bas]]
+    - [[pakistan]]
+- [[phenyl-
+2-  propanon]]
+  - [[pseudoephedrine]] contient
+    - [[methamphetamine]] precurseur
+    - [[methcathione]]
+      - [[drogue de synthese]]
+- [[phenylacetic acid]]
+  - [[ID 132]]
+    - [[ephedrine]]
+      - [[methamphetamine]] precurseur
+- [[lpha
+-
+phenylacetoacetonitrile]]
+  - [[benzyl methyl ketone]] conversion
+    - [[methamphetamine]] precurseur
+- [[potassium permanganate]]
+  - note :: an oxidizer, is the primary chemical used to remove the impurities from cocaine base It has many legitimate industrial uses, including waste -water treatment, and as a disinfectant and deodorize
+  - url :: https://www.state.gov/wp-content/uploads/2019/04/INCSR-Vol-INCSR-Vol.-I-1.pdf
+  - [[coca]]
+  - [[ID 141]]
+- [[south africa]]
+  - [[inde]] importe
+- [[red phosphorous]]
+  - [[drogue de synthese]]
+- [[hydriodic acid]]
+  - [[drogue de synthese]]
+- [[formaldehyde]]
+  - [[methylamine]]
+- [[ammonium chloride]]
+  - [[methylamine]]
+    - [[methamphetamine]] composant clé
+- [[mexique]]
+  - [[chine]] importe
+  - [[inde]] importe
+- [[Centre opérationnel d’analyse du renseignement maritime pour les stupéfiants]]
+  - url :: https://fr.wikipedia.org/wiki/Centre_op%C3%A9rationnel_d%E2%80%99analyse_du_renseignement_maritime_pour_les_stup%C3%A9fiants
+  - [[lutte]]

@@ -1,0 +1,237 @@
+# Modèles Homotopiques : Théories Cubiques vs Simpliciaux
+- **Auteur** : Clarification rigoureuse basée sur Coquand, Lurie, Riehl, Shulman
+- **Date** : Août 2026
+- **Domaine** : Théorie des types homotopiques, topologie synthétique, ∞-catégories
+- ## ⚠️ ATTENTION — Imprécisions du texte original
+- [[simplex vs cube]]
+- Les tableaux LaTeX sont mal rendus/incomplets
+- La notation "⇄ Quillen ∼" est non-standard et source de confusion
+- Certaines affirmations ne distinguent pas clairement les niveaux (modèles vs syntaxe)
+- Manque de précision sur le statut sémantique des équivalences
+- ## 1. Les trois niveaux fondamentaux
+- **Niveau 1 : Géométrie combinatoire (Modèles classiques)**
+	- Objets : Ensembles simpliciaux (sSet) et ensembles cubiques (cSet)
+	- Statut : Structures mathématiques concrètes
+	- Lien : Liés par une équivalence de Quillen
+	- Importance : Outils calculatoires pour manipuler les espaces
+- **Niveau 2 : Structures algébriques abstraites**
+	- ∞-Groupoïdes : Espaces où toutes les flèches sont inversibles (chemins symétriques)
+	- ∞-Catégories : Structures où les morphismes a → b ne sont pas nécessairement réversibles
+	- Statut : Objets mathématiques idéaux (peuvent être modélisés par sSet ou cSet)
+- **Niveau 3 : Théorie des types formelle**
+	- Statut : Syntaxe informatique/logique de programmation
+	- Fonction : Formaliser les concepts du niveau 2 dans un langage prouvable
+	- Exécution : Implémentées dans des prouveurs assistés par ordinateur
+- ## 2. L'équivalence de Quillen (Fondation du pont classique)
+- **Énoncé mathématique rigoureux**
+	- Il existe un couple de foncteurs adjoints : sSet ⇄ cSet
+	- Ces foncteurs induisent une équivalence de catégories dérivées
+	- L'équivalence préserve les structures homotopiques (fibrations de Kan)
+- **Notation correcte**
+	- sSet ≃ cSet (équivalence de catégories dans Qcat)
+	- NON : "⇄ Quillen ∼" (trop vague et non-standard)
+	- Précision : Les adjoints sont des **équivalences de Quillen** en théorie des modèles
+- **Ce qu'elle transporte**
+	- Tout calcul en simplicial se transpose en cubique
+	- Les homotopies sont préservées dans les deux directions
+	- Les fibrations de Kan (notion cruciale pour HoTT) existent dans les deux cadres
+- **Implication ontologique**
+	- Les simplexes et cubes sont deux représentations équivalentes de la même réalité topologique
+	- Le choix entre eux est une question de commodité computationnelle, pas de différence fondamentale
+- ## 3. Filiation I : Coquand & Voevodsky (Univers des espaces)
+- **Axiomatisation : Homotopy Type Theory (Vladimir Voevodsky)**
+	- Année : Années 2000-2010
+	- Objectif : Réconcilier théorie des types constructive et topologie algébrique
+	- Axiome clé : Univalence (isomorphisme ≡ égalité de types)
+	- Univers ontologique : ∞-Groupoïdes
+	- Statut : Théorie des types abstraite (sans implémentation spécifiée)
+- **Implémentation concrète : Théorie des Types Cubiques**
+	- Auteurs principaux : Thierry Coquand, Marc Bezem, Cubical Type Theory (2015+)
+	- Géométrie primitive : Ensembles cubiques I^n (cubes standards)
+	- Avantage clé : Rend l'axiome d'univalence **calculable** (pas seulement postulé)
+	- Nature des chemins : Symétriques — tout chemin γ : a ↔ b peut se parcourir avant ou arrière
+	- Modèle mathématique : cSet muni des fibrations de Kan
+- **Prouveurs implémentant cette théorie**
+	- Cubical Agda (Mora Steenkamp et al., 2016+)
+		- Langage : Extension d'Agda avec primitives cubiques
+		- Exécutabilité : Oui, programs computationally terminate
+	- RedTT (Sterling & Angiuli)
+		- Fokus : Théorie observationnelle pour les cubes
+	- XTT (Angiuli et al.)
+		- Extension pour les structures linéaires
+- **Priorité mathématique**
+	- Calculabilité de l'univalence (pas juste postulat non-computé)
+	- Constructivité (preuve = programme)
+	- Applicabilité algorithmique
+- **Propriété clé : Égalité propositionnelle calculable**
+	- En théorie cubique, a = b peut être décidé par un algorithme
+	- Cela contraste avec HoTT classique où l'égalité peut être indécidable
+	- Avantage : Les prouveurs peuvent faire de la vérification de type plus efficace
+- ## 4. Filiation II : Lurie & Riehl (Univers des catégories)
+- **Théorie fondatrice : Jacob Lurie (∞-Catégories)**
+	- Œuvre majeure : *Higher Topos Theory* (2009), *Higher Algebra* (2016)
+	- Objectif : Développer la théorie des catégories pour la topologie algébrique moderne
+	- Univers : ∞-Catégories avec morphismes **orientés** et non-inversibles
+	- Géométrie : Ensembles simpliciaux (simplexes Δⁿ)
+	- Modèle privilégié : Quasi-catégories (ensembles simpliciaux satisfaisant certaines conditions de corned)
+	- Statut : Théorie classique (utilise la logique classique, pas constructive)
+	- Impact : Révolutionné la théorie des catégories, dérivée, géométrie algébrique supérieure
+- **Extension formelle : Simplicial Type Theory (Emily Riehl & Michael Shulman)**
+	- Objectif principal : Axiomatiser les ∞-catégories de Lurie dans une théorie des types
+	- Fondement : Extension de HoTT (pas remplacement)
+	- Innovation clé : Ajout d'un intervalle **orienté** I (vs intervalle non-orienté en HoTT)
+	- Conséquence : Permet de distinguer a → b et b → a formellement
+	- Statut des morphismes : Non-inversibles par défaut
+	- Langage : Synthétique (sur papier, pas d'exécution computationnelle prévue)
+	- Utilité : Rendre les arguments de Lurie plus directs et formalisables
+- **Relation entre Lurie et Riehl : Sémantique exacte**
+	- Les quasi-catégories de Lurie = **modèles géométriques** de Simplicial Type Theory
+	- Riehl construit une interprétation sémantique dans les quasi-catégories
+	- Conséquence : Tout théorème en Simplicial Type Theory peut être interprété géométriquement chez Lurie
+	- Impact philosophique : La théorie de Riehl est une "synthétisation" du programme de Lurie
+- **Prouveurs et formalisations**
+	- Rzk language (Favonia et al.)
+		- Implémente Simplicial Type Theory
+		- Accent : Formalisation explicite des ∞-catégories
+		- Status : Expérimental mais fonctionnel
+	- Lean 4 (en développement)
+		- Extension vers les types simpliciaux
+		- Ambitieux : Formaliser des théorèmes de Higher Algebra de Lurie
+- ## 5. Tableau comparatif détaillé (CORRIGÉ ET AUGMENTÉ)
+- **Langage formel**
+	- Cubique : Cubical Type Theory (Coquand et al.)
+	- Simplicial : Simplicial Type Theory (Riehl & Shulman)
+- **Géométrie primitive**
+	- Cubique : Ensembles cubiques I^n (cubes standards)
+	- Simplicial : Ensembles simpliciaux Δⁿ (simplexes)
+- **Pont mathématique**
+	- Cubique : Équivalence de Quillen (préserve Kan fibrations)
+	- Simplicial : Équivalence de Quillen (même pont)
+- **Structure ontologique**
+	- Cubique : ∞-Groupoïdes (toutes flèches inversibles)
+	- Simplicial : ∞-Catégories (morphismes potentiellement non-inversibles)
+- **Nature des chemins/morphismes**
+	- Cubique : Symétriques (a ↔ b, bidirectionnel)
+	- Simplicial : Orientés (a → b, unidirectionnel)
+- **Univers sémantique mathematique**
+	- Cubique : HoTT de Voevodsky (topologie synthétique)
+	- Simplicial : ∞-Catégories de Lurie (géométrie algébrique supérieure)
+- **Implémentation informatique**
+	- Cubique : Cubical Agda, RedTT (exécutable, constructif)
+	- Simplicial : Rzk, Lean 4 (synthétique, logique classique)
+- **Priorité mathématique**
+	- Cubique : Calculabilité, constructivité, décidabilité de l'égalité
+	- Simplicial : Géométrie synthetique formelle, axiomatisation rigoureuse des catégories
+- **Filiation philosophique**
+	- Cubique : Voevodsky (HoTT) → Coquand (implémentation cubique calculable)
+	- Simplicial : Lurie (quasi-catégories) → Riehl (formalisation synthétique)
+- ## 6. DISTINCTION CRUCIALE : Espaces vs Catégories
+- **Topologie synthétique (Univers Cubique)**
+	- Objet type : ∞-Groupoïde (espace)
+	- Propriété définissante : Tous les chemins sont réversibles
+	- Formalisation : Une boucle γ : * → * et son inverse γ⁻¹ sont **égaux** dans le type
+	- Exemple concret : La sphère S¹ est un espaces homotopique où π₁(S¹) = ℤ
+	- Géométrie : Topologie usuelle (continue, sans direction privilégiée)
+- **Algèbre catégorique (Univers Simplicial)**
+	- Objet type : ∞-Catégorie
+	- Propriété définissante : Les morphismes a → b et b → a sont **distincts**
+	- Formalisation : f : a → b et g : b → a ne s'égalisent pas sans composition explicite
+	- Exemple concret : La catégorie Set⁰ᵖ des ensemble (cotangente) : f et f⁻¹ sont formellement différentes
+	- Géométrie : Catégorique (les flèches ont une source et une cible orientées)
+- **Implication pour la théorie des types**
+	- Cubique = Langage pour décrire les espaces (topologie synthétique)
+	- Simplicial = Langage pour décrire les structures algébriques orientées (théorie de Lurie)
+- **À ne pas confondre**
+	- HoTT (Voevodsky) postule seulement l'univalence abstraitement
+	- Cubical Type Theory rend cette univalence concrètement calculable
+	- Simplicial Type Theory ne calcule pas l'univalence, mais axiomatise les morphismes orientés
+- ## 7. Architecture globale et flux sémantique
+- **Strate classique (Catégories de modèles)**
+	- sSet (ensembles simpliciaux)
+		- Modèles géométriques des quasi-catégories (Lurie)
+		- Reliés par fibrations de Kan
+	- cSet (ensembles cubiques)
+		- Modèles géométriques des espaces homotopiques (Voevodsky)
+		- Reliés par fibrations de Kan cubiques
+	- Pont : Équivalence de Quillen sSet ≃ cSet
+- **Strate intermédiaire (Structures abstraites)**
+	- ∞-Catégories (Jacob Lurie)
+		- Objets idéaux sans implémentation directe
+		- Modélisés par quasi-catégories dans sSet
+	- ∞-Groupoïdes (Vladimir Voevodsky)
+		- Objets idéaux correspondant aux espaces
+		- Modélisés par objets fibrants dans cSet
+- **Strate formelle (Théories des types)**
+	- Cubical Type Theory (Coquand)
+		- Formalisation synthétique des ∞-groupoïdes
+		- Interprétée sémantiquement dans cSet
+		- Modèles : Cubical Agda, RedTT
+	- Simplicial Type Theory (Riehl & Shulman)
+		- Formalisation synthétique des ∞-catégories
+		- Interprétée sémantiquement dans sSet et quasi-catégories
+		- Modèles : Rzk, Lean 4
+- ## 8. Erreurs courantes à éviter
+- **Erreur 1 : Confondre HoTT avec théorie cubique**
+	- HoTT = théorie abstraite des types
+	- Théorie cubique = implémentation calculable de HoTT
+	- Distinction : HoTT n'engage pas sur la calculabilité
+- **Erreur 2 : Penser que Riehl "améliore" Lurie**
+	- Faux : Riehl formalise synthétiquement ce que Lurie décrit géométriquement
+	- Relation : Complémentarité, non hiérarchie
+- **Erreur 3 : Équivalence de Quillen = identité**
+	- Faux : C'est une équivalence, pas une égalité
+	- Conséquence : sSet et cSet sont **isomorphes à équivalence** près, pas identiques
+- **Erreur 4 : Croire que simplicial = mieux que cubique**
+	- Faux : Simplement des choix de représentation différents
+	- Réalité : Cubique = meilleur pour la calculabilité, simplicial = meilleur pour la géométrie
+- **Erreur 5 : Confondre univalence et équivalence de Quillen**
+	- Univalence : Axiome de HoTT (isomorphisme = égalité de types)
+	- Équivalence de Quillen : Pont entre deux catégories de modèles
+	- Lien : L'univalence est un principe qui s'implémente grâce aux modèles via l'équivalence de Quillen
+- ## 9. Points critiques non clarifiés dans l'original (À mémoriser)
+- **Point 1 : L'équivalence de Quillen ne transpose pas juste les objets**
+	- Elle transporte aussi les **morphismes** et les **structures homotopiques**
+	- Les fibrations de Kan sont préservées rigoureusement
+	- Conséquence : Tout calcul en simplicial reste valide en cubique (et vice-versa)
+- **Point 2 : HoTT ≠ Théorie cubique**
+	- HoTT est l'axiomatisation abstraite
+	- La théorie cubique en est **une implémentation** parmi d'autres possibles
+	- Importance : Cette distinction permet de séparer les "vraies" propriétés de HoTT de ses réalisations techniques
+- **Point 3 : Riehl n'étend pas HoTT pour le "dépasser", mais pour capturer les ∞-catégories**
+	- Extension de HoTT : Ajout d'un intervalle orienté
+	- Focalisation : Spécifiquement sur les morphismes non-réversibles
+	- Utilité : Formaliser synthétiquement le programme de Lurie
+- **Point 4 : Les prouveurs implémentent ces théories, pas l'inverse**
+	- Cubical Agda implémente Cubical Type Theory (pas l'inverse)
+	- Rzk implémente Simplicial Type Theory (pas l'inverse)
+	- Conséquence : Les limitations du prouveur ne reflètent pas les limitations de la théorie
+- **Point 5 : Évaluation vs Vérification**
+	- Théorie cubique : Exécution complète (evaluation)
+	- Théorie simpliciale : Vérification formelle seulement (pas d'execution a priori)
+	- Implication : Cubique = plus constructif, simplicial = plus "abstrait synthétiquement"
+- ## 10. Bibliographie et références rigoureuses
+- **Fondations : HoTT**
+	- Voevodsky, V. "A very short note on the homotopy λ-calculus" (2006)
+	- HoTT Book (Institute for Advanced Study, Princeton, 2013)
+- **Théorie cubique**
+	- Coquand, T., Huber, M., Mörtberg, A. "Cubical type theory: a constructive interpretation of the univalence axiom" (2018)
+	- Mörtberg, A. "Cubical Type Theory" (PhD Thesis, 2017)
+- **Théorie simpliciale & ∞-catégories**
+	- Lurie, J. "Higher Topos Theory" (Princeton University Press, 2009)
+	- Lurie, J. "Higher Algebra" (2016, freely available online)
+	- Riehl, E., Shulman, M. "A type theory for synthetic ∞-categories" (2017)
+- **Formalisations**
+	- Cubical Agda : https://agda.readthedocs.io/en/latest/language/cubical.html
+	- Rzk language : https://rzk-lang.github.io/
+- ## 11. Questions ouvertes et recherche active
+- **Q1 : Peut-on calculer efficacement dans la théorie simpliciale?**
+	- État : Recherche en cours par Riehl, Shulman, et collaborateurs
+	- Enjeu : Implémenter Rzk de manière efficace
+- **Q2 : L'univalence en théorie cubique capture-t-elle toute la géométrie simpliciale?**
+	- État : Oui, via l'équivalence de Quillen, mais les détails restent à clarifier
+	- Enjeu : Comprendre le rapport exact entre modèles cubiques et simpliciaux
+- **Q3 : Peut-on fusionner cubique et simplicial en une théorie unique?**
+	- État : Pas de consensus, plusieurs approches exploratoires
+	- Enjeu : Avoir un seul formalisme pour espaces et catégories
+- ## Tags
+- #typeTheory #homotopy #cubical #simplicial #Coquand #Lurie #Riehl #HoTT #categoryTheory #formalMathematics

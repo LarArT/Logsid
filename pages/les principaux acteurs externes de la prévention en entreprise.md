@@ -1,0 +1,42 @@
+- CARSAT CRAMIF CGSS
+	- Mission de contrôle et de conseil
+	- Mission contrôleur :
+		- incite à la mise en œuvre des actions ayant pour objectif de réduire le nombre et la gravité des accidents du travai et des maladies professionnelles et d'améliorer les conditions de travail des salariés.
+		- Il analyse les situations de travail et les accidents avec objectif: faire supprimer le risque ou le réduire.
+		- il dispose d'un droit d'entrée, de visite et d'enquête dans l'entreprise, d'un pouvoir d'investigation et de moyens techniques (mesures, prélèvements, analyses).
+- Inspecteur du travail
+	- dépend du DREETS :direction régionale de l'économie de l'emploi du travail et de solidarités
+	- Mission
+		- Il vérifie que la législation et la réglementation du travail sont respectées.
+		  :LOGBOOK:
+		  CLOCK: [2026-01-10 Sat 12:00:08]--[2026-01-10 Sat 12:00:10] =>  00:00:02
+		  :END:
+		- /contribue à l'amélioration de la qualité du travail et des relations sociales en conseillant les employeurs, les travailleurs et les représentants du personnel sur leurs droits et obligations.
+		- Il garantit la protection des salariés (amélioration des conditions de travail, mise en œuvre d'une politique de santé au travail...).
+	- Champ d'action
+		- Il dispose d'un droit d'entrée, de visite et d'enquête dans l'entreprise.
+		- peut décider de l'arrêt immédiat d'une activité afin de protéger les salariés exposés à un danger important et imminent (présence d'amiante, de produits chimiques, etc.).
+		- Il est un interlocuteur pour l'employeur et les représentants du personnel en matière de respect du du droit du travail.
+- Organisme de contrôle :
+	- L'entreprise peut faire appel à des organismes de contrôle technique pour les vérifications réglementaires des matériels et installations:
+		- prélèvements, analyses, contrôles de valeurs limites d'exposition professionnelle,
+		- vérifications périodiques des installations, appareils de protection collective et individuelle, machines, équipements de travail.
+- Médecine du travail
+	- Il agit sur le milieu de travail avec les membres de son équipe (adaptation des postes, des techniques et des rythmes de travail à la santé physique et mentale; protection des travailleurs contre l'exposition à des agents chimiques dangereux; aménagements des locaux...).
+	- Il consacre au moins un tiers de son temps de travail à l'analyse des conditions de travail dans les entreprises (visite des lieux de travail, étude de postes, identification et analyse des risques professionnels, élaboration et mise à jour de la fiche d'entreprise, etc.).
+	- • Il surveille la santé des travailleurs (visite d'embauche ou de reprise, visites périodiques...) et établit les avis d'aptitude.
+- Intervenant en prévention des risques professionnels
+	- Il a des compétences techniques ou organisationnelles en matière de santé et de sécurité au travail.
+	- Il assure des missions de diagnostic, de conseil, d'accompagnement et communique les résultats de ses études au médecin du travail.
+	- Il peut être un ergonome, un toxicologue, un hygiéniste industriel...
+- Les acteurs institutionnels
+	- INRS
+		- L'Institut national de recherche et de sécurité (INRS) effectue des travaux de recherche, propose des services d'assistance (documentaire, technique, médicale, juridique), met en place des actions de formation, diffuse des produits d'information (http://www.inrs.fr).
+	- Réseau régional de l'Assurance maladie risque professionnel
+	- Autre institution
+		- Selon leur spécificité, d'autres organismes techniques ou scientifiques interviennent dans le champ de la prévention. Tout salarié peut trouver des informations utiles auprès de ces organismes, notamment.
+			- Organisme professionnel de prévention du bâtiment et des travaux publics - OPPBTP et ses comités régionaux (www.preventionbtp.fr)
+			- Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail - ANSES (www.anses.fr)
+			- Agence nationale pour l'amélioration des conditions de travail - ANACT et son réseau régional (www.anact.fr)
+			- Institut de radioprotection et de sûreté nucléaire - IRSN (www.irsn.fr)
+			- Santé publique France (www.santepubliquefrance.fr)

@@ -1,0 +1,106 @@
+- [L'ensemble des cours lmfi](https://younesse.net/Preuves-programmes/)
+- [[HOTT – Homotopy type theory]]
+- [[notion de base]]
+- [[Logique pas à pas livre]]
+- [[Uu]]
+- [[coq]]
+- [[automate theorem proving]]
+- [[correspondance entre théorie homotopique, logique, théorie des ensembles, théorie des types, théorie des catégories]]
+- [[modeles-homotopiques-enrichi]]
+- [[modeles-homotopiques]]
+- il faut distinguer la géométrie des espaces (où toutes les directions sont inversibles) et la géométrie des catégories (où les flèches ont un sens unique) :
+	- Théorie des Types Homotopiques (HoTT) de Vladimir Voevodsky vers la [[théorie des types cubique]] de Thierry Coquant qui étudie les  $\infty$-groupoïdes qui sont des espaces topologiques  où chaque flèche est un chemin qu'on peut parcourir dans les deux sens)
+	- [[Quasi-catégories simpliciales]] de [[Jacob lurie]] vers Théorie des Types Simpliciaux de Emily Riehl
+- [[logique de réécriture]]
+- [[workflow méthode formelle]]
+- # code dans la loi
+	- [[presentation]]
+	- [[analyse technique]]
+	- [[Système logique utilisé]]
+	- [[ressources pour l'apprentissage de l'utilisation de catala]]
+	- [[enseignement universitaire ressource]]
+	- [[projet ERC]]
+	- [[projet de recherche ANR et ERC]]
+	- [[taxonomie des systèmes de démonstration en logique mathématique]]
+- # logique /catégorie
+  title:: Logique formel - vérification de programme
+- théorie des topos
+  Homotopie des types 
+  Géométrie de l'interaction
+- [[logique géométrique]]
+- [[aide-memoire-lean]]
+- [[théorème des points fixes]]
+- [[matrice des  logique]]
+- [[loi de Morgan en logique classique vs intuitionniste]]
+- [[logique constructive extension de la logique intuitionniste]]
+- [[Logique propositionnel]]
+- [[Logique de premier ordre]]
+	- [[formules]]
+- [[logique de second ordre]]
+	- [[expressions]]
+	- [[sortes]]
+- [[logique d'ordre supérieur]]
+- [[Théorie Homotopique des Types]]
+- [[Dans le cas du calcul des prédicats]]
+- [[élimination de coupure]]
+- [[règles de logique en déduction naturelle]]
+- [[règle logique des types dépendants et CIC]]
+- [[règle logique des calculs des constructions]]
+- [[skolemisation]]
+- [[sequent]]
+- [[interprétation]]
+- [[théorie des modèles]]
+- [[théorème de complétude]]
+- [[formules]]
+- [[Formule prenexe]]
+- [[arithmétique de peano]]
+- [[théorie ZF]]
+- [[Théorème de tarski]]
+	-
+- [[arithmétique de HEYTING]]
+- [[arithmétique de pressburger]]
+- [[unification]]
+- [[λ calcul]]
+	- Typé : théorie des types dépendants
+- [[Logique combinatoire : réécriture de curry]]
+- [[le calcul de la logique de hoare : réécriture de hoare]]
+- [[correspondance de curry howard]]
+- [[double négation]]
+- # preuve interactive de programme
+- [[Preuve interactive de programme]]
+- [[preuve interactive de ia generative]]
+-
+- [[preuve formelle]]
+- [[asp vs prolog]]
+- # [[conférence]]
+- # [[laboratoire de recherche]]
+-
+	- [[exemple de mise en œuvre pour le droit]]
+	- ## Laboratoires d'accueil
+		- **IMJ** (B. Velikovic, A. Durand, ...)
+			- **Thèmes :** Théorie des modèles, théorie des ensembles, complexité
+		- **IRIF PPS** (A. Saurin, H. Herbelin, ...)
+			- **Thèmes :** Preuves et programmes, types
+		- **IRIF Algo et Complexité** (F. Magniez, M. de Rougemont)
+			- **Thèmes :** Complexité
+		- **IRIF** (A. Bouajjani, F. Laroussinie, ...)
+			- **Thèmes :** Vérification
+		- **LSV ENS-Paris-Saclay** (P. Bouyer, ...)
+			- **Thèmes :** Vérification
+		- **IML Luminy** (L. Régnier, ...)
+			- **Thèmes :** Preuves et programmes, types
+		- **VERIMAG Grenoble** (J.F. Monin, ...)
+			- **Thèmes :** Vérification
+		- **GREYC Caen** (E. Grandjean, ...)
+			- **Thèmes :** Complexité descriptive
+		- **CEA-LIST Saclay** (N. Rapin, S. Bardin)
+			- **Thèmes :** Preuves et vérification
+		- **INRIA Projet Deducteam** (G. Dowek)
+			- **Thèmes :** Systèmes de preuves
+		- **LIX Palaiseau** (O. Bournez)
+			- **Thèmes :** Théorie des calculs
+		- **LIP ENS-Lyon** (P. Koiran)
+			- **Thèmes :** Complexité
+		- **ONERA Palaiseau** (R. Kervac)
+			- **Thèmes :** Méthodes formelles, traitement événements complexes
+-

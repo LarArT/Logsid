@@ -1,0 +1,352 @@
+- [[constructeur cable sous marin]]
+  - [[NEC]]
+    - url :: https://en.wikipedia.org/wiki/NEC
+  - [[TE Connectivity]]
+    - url :: https://en.wikipedia.org/wiki/TE_Connectivity
+  - [[Alcatel Submarine Networks]]
+    - url :: https://fr.wikipedia.org/wiki/Alcatel_Submarine_Networks
+- [[Axa Investment Managers (Axa IM)]]
+  - url :: https://www.lemonde.fr/economie/article/2013/09/30/axa-private-equity-s-emancipe-de-sa-maison-mere-et-se-rebaptise-ardian_3487398_3234.html
+  - [[AXA Private Equity]] controle
+    - url :: https://www.lemonde.fr/economie/article/2013/09/30/axa-private-equity-s-emancipe-de-sa-maison-mere-et-se-rebaptise-ardian_3487398_3234.html
+    - [[Ardian]]
+      - url :: https://fr.wikipedia.org/wiki/Ardian
+      - [[Expleo]] controle
+  - [[Axa]] filliale
+    - url :: https://fr.wikipedia.org/wiki/Axa
+- [[Conseil Informatique]]
+  - [[Francais]]
+    - [[Assystem Technologies]]
+      - note :: ’adresse lui aux industriels de l’automobile, l’aéronautique et l’assurance depuis peu avec le rachat de SQS.
+      - [[Expleo]] devient
+        - url :: https://www.usinenouvelle.com/article/assystem-technologies-se-rebaptise-expleo-pour-mieux-se-demarquer.N803435
+    - [[Alten]]
+      - url :: https://fr.wikipedia.org/wiki/Alten
+    - [[Altran]]
+      - url :: https://fr.wikipedia.org/wiki/Altran
+    - [[Akka Technologies]]
+      - url :: https://fr.wikipedia.org/wiki/Akka_Technologies
+  - [[Indien]]
+    - [[Infosys]]
+      - url :: https://en.wikipedia.org/wiki/Infosys
+    - [[HCL Technologies]]
+      - url :: https://en.wikipedia.org/wiki/HCL_Technologies
+    - [[Wipro]]
+      - url :: https://en.wikipedia.org/wiki/Wipro
+- [[Sogeti]]
+  - url :: https://fr.wikipedia.org/wiki/Sogeti
+  - [[Capgemini]] filliale
+    - url :: https://fr.wikipedia.org/wiki/Capgemini
+- [[anssi]]
+  - url :: https://www.ssi.gouv.fr/entreprise/produits-certifies/cc/produits-certifies-cc/cartes-a-puce/
+  - [[certification]]
+- [[proxychain]]
+- [[openvpn]]
+- [[tor]]
+- [[TomP2P]]
+  - url :: https://en.wikipedia.org/wiki/TomP2P
+  - [[Distributed Hash Table]] s
+    - url :: https://en.wikipedia.org/wiki/Distributed_hash_table
+- [[Open BTS]]
+  - url :: https://wiki.p2pfoundation.net/Open_BTS
+- [[Pirate Box]]
+  - url :: https://wiki.p2pfoundation.net/Pirate_Box
+- [[Commotion]]
+  - url :: https://wiki.p2pfoundation.net/Commotion
+- [[Category:P2P Infrastructure?
+title=Category:P2P Inf...]]
+  - url :: https://wiki.p2pfoundation.net/Category:P2P_Infrastructure?title=Category:P2P_Infrastructure&filefrom=J%25C3%25BCrgen+Neuman+about+Community+Wireless+Activism+in+Berlin&pageuntil=Design+and+Access+for+Large+Information+Spaces&subcatuntil=J%25C3%25BCrgen+Neuman+about+Community+Wireless+Activism+in+Berlin
+- [[Freifunk]]
+  - url :: https://en.wikipedia.org/wiki/Freifunk
+- [[Calcul Des Propositions]]
+  - url :: https://fr.wikipedia.org/wiki/Calcul_des_propositions
+  - [[Problème SAT]]
+    - url :: https://fr.wikipedia.org/wiki/Probl%C3%A8me_SAT
+    - [[Satisfiability Modulo 
+Theories SMT]]
+      - url :: https://fr.wikipedia.org/wiki/Satisfiability_modulo_theories
+- [[why3]]
+  - url :: http://why3.lri.fr/
+  - [[protege reasoner]]
+- [[binaryedge]]
+  - url :: https://app.binaryedge.io/
+- [[shodan]]
+  - url :: https://www.shodan.io/
+- [[Aladdin (BlackRock)]]
+  - url :: https://fr.wikipedia.org/wiki/Aladdin_(BlackRock)
+- [[homo iso morphisme]]
+  - [[pseudonymisation]]
+- [[moteur d'inférence]]
+  - [[système à base de connaissance]]
+  - [[semantic reasoner]]
+    - url :: https://en.wikipedia.org/wiki/Semantic_reasoner
+    - [[elk fact++]]
+- [[réseaux de neurones artificiels]]
+  - [[apprentissage bio-inspiré]]
+    - [[apprentissage automatique]]
+- [[algo génétique]]
+  - [[apprentissage bio-inspiré]]
+- [[appretissage de sous classes]]
+  - [[apprentissage non supervisé]]
+    - [[apprentissage automatique]]
+- [[clustering hiérarchique]]
+  - [[apprentissage non supervisé]]
+- [[clustering de partitionnement]]
+  - [[apprentissage non supervisé]]
+- [[clustering probabiliste]]
+  - [[apprentissage non supervisé]]
+- [[apprentissage semi supervisé]]
+  - [[apprentissage non supervisé]]
+- [[apprentissage de classifications disjonctives]]
+  - [[apprentissage de classification structurées]]
+    - [[apprentissage automatique]]
+- [[apprentiassage d'arbres de décision]]
+  - [[apprentissage de classification structurées]]
+- [[bagging et boosting]]
+  - [[apprentissage de classification structurées]]
+- [[classification probabiliste]]
+  - [[induction de modèle paraméétriques à partir d'exemples]]
+- [[classification par régression logistique]]
+  - [[induction de modèle paraméétriques à partir d'exemples]]
+- [[regression]]
+  - [[induction de modèle paraméétriques à partir d'exemples]]
+- [[apprentissage par spécialisation]]
+  - [[apprentissage par rercherche]]
+    - [[induction de modèle paraméétriques à partir d'exemples]]
+- [[apprentitssage par généraliastion]]
+  - [[apprentissage par rercherche]]
+- [[frontière de décision]]
+  - [[induction de modèle paraméétriques à partir d'exemples]]
+- [[biais]]
+  - [[induction de modèle paraméétriques à partir d'exemples]]
+- [[représentation]]
+  - [[induction de modèle paraméétriques à partir d'exemples]]
+    - [[apprentissage automatique]]
+- [[planification par chainage arriere]]
+  - [[génération de plan]]
+    - [[raisonnement basé sur modèles]]
+- [[planificationpar inférence logique]]
+  - [[génération de plan]]
+- [[diagnostiique]]
+  - [[raisonnement basé sur modèles]]
+- [[résolution de problèmes par recherche]]
+  - [[raisonnement basé sur modèles]]
+- [[logique floue]]
+  - [[traitement de l'iinformation incertaine]]
+    - [[système à base de connaissance]]
+- [[réseaux bayésiens]]
+  - [[traitement de l'iinformation incertaine]]
+- [[raisonnement basé sur des rèclese et systèmes experts e]]
+  - [[système à base de connaissance]]
+- [[représentation structurée des connaisasances]]
+  - [[système à base de connaissance]]
+- [[continue]]
+  - [[supervisé]]
+  - [[régression]] l
+- [[discret]]
+  - [[supervisé]]
+  - [[classification]]
+- [[feedback]]
+  - [[supervisé]]
+  - [[apprentissage par renforcement]]
+- [[hugo larochelle]]
+  - url :: https://www.youtube.com/user/hugolarochelle/videos
+- [[Jeff Dean (computer 
+Scientist)]]
+  - url :: https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)
+  - [[ia]]
+- [[Geoffrey Hinton]]
+  - url :: https://en.wikipedia.org/wiki/Geoffrey_Hinton
+  - [[ia]]
+- [[Satisfiability Modulo 
+Theories]]
+  - url :: https://en.wikipedia.org/wiki/Satisfiability_modulo_theories
+  - [[satisfaction de contraintes]]
+    - url :: https://en.wikipedia.org/wiki/Constraint_satisfaction_problem
+    - [[raisonnement basé sur modèles]]
+- [[vecteur représentatiif]]
+  - [[etiquette de classe]]
+- [[Minimisation Du Risque 
+Structurel ou
+structural risk minimization (SRM)]]
+  - url :: https://datafranca.org/wiki/Minimisation_du_risque_structurel
+- [[Minimisation Du Risque 
+Empirique ou 
+empirical risk minimization (ERM)]]
+  - url :: https://datafranca.org/wiki/Minimisation_du_risque_empirique
+- [[Adaline]]
+  - url :: https://datafranca.org/wiki/Adaline
+- [[Kappa De Cohen]]
+  - url :: https://datafranca.org/wiki/Kappa_de_Cohen
+  - [[Accord inter-évaluateurs]]
+    - note :: inter-rater agreement
+    - url :: https://datafranca.org/wiki/Accord_inter-%C3%A9valuateurs
+- [[Arbre de décision]]
+  - url :: https://fr.wikipedia.org/wiki/Arbre_de_d%C3%A9cision_(apprentissage)
+  - [[Amplification Adaptative ou adaboost]]
+    - url :: https://datafranca.org/wiki/Amplification_adaptative
+- [[Algorithme Du Simplexe]]
+  - url :: https://fr.wikipedia.org/wiki/Algorithme_du_simplexe
+  - [[Fonction Objectif]]
+    - url :: https://fr.wikipedia.org/wiki/Fonction_objectif
+- [[Algorithme Du Gradient 
+Stochastique]]
+  - url :: https://fr.wikipedia.org/wiki/Algorithme_du_gradient_stochastique
+  - [[Différentielle]]
+    - url :: https://fr.wikipedia.org/wiki/Diff%C3%A9rentielle
+    - [[Fonction Objectif]]
+- [[epoch]]
+  - url :: https://datafranca.org/wiki/%C3%89poque
+- [[Tacotron2]]
+  - url :: https://datafranca.org/wiki/Tacotron2
+  - [[voix]]
+- [[Règle de Hebb]]
+  - url :: https://datafranca.org/wiki/R%C3%A8gle_de_Hebb
+  - [[réseau de neurone]]
+- [[Théorie des perspectives]]
+  - url :: https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_perspectives
+- [[Théorie du renversement]]
+  - url :: https://fr.wikipedia.org/wiki/Th%C3%A9orie_du_renversement
+- [[Réseau de neurones convolutif]]
+  - url :: https://datafranca.org/wiki/R%C3%A9seau_de_neurones_convolutif
+  - [[réseau de neurone]]
+- [[Réseau antagoniste génératif (RAG))]]
+  - url :: https://datafranca.org/wiki/R%C3%A9seau_antagoniste_g%C3%A9n%C3%A9ratif_(RAG)
+- [[graph mining]]
+- [[key - value]]
+  - [[document store]]
+    - [[graph]]
+- [[concept]]
+- [[description]]
+- [[link]]
+- [[map reduce]]
+- [[snorkel]]
+  - [[hazy]]
+- [[wisci]]
+  - url :: http://i.stanford.edu/hazy/deepdive/
+  - [[hazy]]
+- [[deepdive]]
+  - url :: http://deepdive.stanford.edu/
+  - [[hazy]]
+- [[complex netwokr]]
+- [[petit mondes (small world) Watts et Strogatz]]
+- [[s]]
+- [[Dynamic network analysis book  DNA]]
+  - [[CASOS CMU]]
+    - url :: https://www.google.com/url?q=http://www.casos.cs.cmu.edu/&sa=U&ved=2ahUKEwiGxL-ZiZTlAhU67uAKHaE4C7wQFjAAegQIBhAB&usg=AOvVaw0sBvos5l2vWQH1pl4Z8Qio
+    - [[CMU]]
+    - [[analyse des réseaux sociaux]]
+- [[NFP212]]
+  - [[système intleligents]]
+- [[netlogo]]
+  - [[système intleligents]]
+- [[jade]]
+  - [[système intleligents]]
+- [[UTT]]
+  - [[Gephi]]
+    - url :: https://github.com/gephi/gephi
+    - [[analyse des réseaux sociaux]]
+- [[RESIST Inria]]
+  - url :: https://team.inria.fr/resist/cooperations-2/
+  - [[analyse des réseaux sociaux]]
+- [[mining]]
+- [[IRISA TAMIS]]
+  - url :: https://team.inria.fr/tamis/
+  - [[Irisa Rennes]]
+    - url :: https://www.irisa.fr/fr/equipes
+- [[IRISA CIDRE]]
+  - url :: https://team.inria.fr/cidre/
+  - [[Irisa Rennes]]
+- [[LACODAM IRISA]]
+  - url :: https://team.inria.fr/lacodam/
+  - [[Irisa Rennes]]
+- [[Shaman Irisa]]
+  - url :: https://www-shaman.irisa.fr
+  - [[Irisa Rennes]]
+- [[IRISA DRUID /]]
+  - url :: https://www-druid.irisa.fr/news/
+  - [[Irisa Rennes]]
+- [[Discovering clusters of similar nodes in RDF graphs]]
+  - url :: https://bitbucket.org/sebferre/conceptsofneighbours/src/master/
+  - [[IRISA SemLIS]]
+    - url :: https://www-semlis.irisa.fr/
+    - [[Irisa Rennes]]
+- [[RCP216 fouille de données massives]]
+  - url :: http://cedric.cnam.fr/vertigo/Cours/RCP216/index.html
+  - [[analyse des réseaux sociaux]]
+- [[book teaching]]
+  - [[Jure Leskovec.teaching]]
+    - [[snap stanford]]
+      - url :: https://snap.stanford.edu/projects.html
+      - [[analyse des réseaux sociaux]]
+- [[ressource]]
+  - note :: https://github.com/briatte/awesome-network-analysis#java
+  - url :: https://github.com/briatte/awesome-network-analysis#java
+  - [[analyse des réseaux sociaux]]
+- [[Russell Sage 
+Foundation]]
+  - url :: https://www.google.com/url?q=https://en.wikipedia.org/wiki/Russell_Sage_Foundation&sa=U&ved=2ahUKEwjOopKswJTlAhUPYxoKHeN4C1MQmhMwCXoECAcQBg&usg=AOvVaw0PRkdnoC4X7z-6KqAb1T_x
+  - [[Daniel Kahneman]]
+    - url :: https://fr.wikipedia.org/wiki/Daniel_Kahneman
+  - [[Richard Thaler]]
+    - url :: https://fr.wikipedia.org/wiki/Richard_Thaler
+  - [[Amos Tversky]]
+    - url :: https://fr.wikipedia.org/wiki/Amos_Tversky
+  - [[George Loewenstein]]
+    - url :: https://en.wikipedia.org/wiki/George_Loewenstein
+    - [[Neuroéconomie]]
+      - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Neuro%25C3%25A9conomie&sa=U&ved=2ahUKEwiG1uPbwJTlAhVSxoUKHVRwDCsQFnoECAsQBA&usg=AOvVaw1ofDCYEw2lUzJO_7vAt67V
+  - [[Robert Shiller]]
+    - url :: https://fr.wikipedia.org/wiki/Robert_Shiller
+  - [[Colin Camerer]]
+    - url :: https://en.wikipedia.org/wiki/Colin_Camerer
+    - [[Neuroéconomie]]
+    - [[théorie des jeux comportementale]]
+  - [[Économie comportementale]] précurseur
+    - url :: https://fr.wikipedia.org/wiki/%C3%89conomie_comportementale
+  - [[seconde génération]]
+    - [[George Akerlof]]
+      - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/George_Akerlof&sa=U&ved=2ahUKEwjOi5uuwZTlAhUNWxoKHQ6_DGYQFjALegQIChAB&usg=AOvVaw3ZgzAcTSkoGCGyqGn0q9NK
+    - [[Alan Blinder]]
+      - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Alan_Blinder&sa=U&ved=2ahUKEwjo3JHPwZTlAhWnzYUKHVamCQ0QFjAKegQIAhAB&usg=AOvVaw0HAvDFNUzhftiPGUfx6GGK
+    - [[Ernst Fehr]]
+      - url :: https://www.google.com/url?q=https://en.wikipedia.org/wiki/Ernst_Fehr&sa=U&ved=2ahUKEwim1OfvwZTlAhWp4IUKHeEgD6IQFjAMegQICBAB&usg=AOvVaw0Hwt2mLDxmJVMXlM2vFf4D
+      - [[Neuroéconomie]]
+    - [[Thomas Schelling]]
+      - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Thomas_Schelling&sa=U&ved=2ahUKEwjDx9ePwpTlAhVPxYUKHSHJD9UQFjALegQICBAB&usg=AOvVaw3DIvePKfPp0LA3d9So9TTo
+    - [[Jon Elster]]
+      - url :: https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Jon_Elster&sa=U&ved=2ahUKEwicrMGgwpTlAhWDx4UKHVMWDSMQFjALegQIChAB&usg=AOvVaw2OORt_2x41R2Byqxufcx9L
+- [[RCP209 réseaux de neurones]]
+  - url :: http://cedric.cnam.fr/~crucianm/ml.html
+- [[ACT-R]]
+  - note :: ACT-R is a cognitive architecture: a theory about how human cognition works. On the exterior, ACT-R looks like a programming language; however, its constructs reflect assumptions about human cognition. These assumptions are based on numerous facts derived from psychology experiments.
+  - url :: http://act-r.psy.cmu.edu/about/
+  - [[cognitive architecture]]
+  - [[CMU]]
+- [[institut nicod EHESS]]
+  - url :: http://www.institutnicod.org/equipes-projets/projects/?lang=fr
+  - [[cognitive architecture]]
+- [[NLP]]
+- [[Allocation De Dirichlet 
+Latente]]
+  - url :: https://fr.wikipedia.org/wiki/Allocation_de_Dirichlet_latente
+  - [[fouille de données]]
+- [[topic model]]
+- [[pregel google]]
+  - [[giraph apache]]
+    - [[graph parallel]]
+      - [[graphe]]
+- [[turi CMU]]
+  - [[graph parallel]]
+- [[graphx spark]]
+  - [[graph parallel]]
+- [[Gremlin (programming 
+Language)]]
+  - url :: https://en.wikipedia.org/wiki/Gremlin_(programming_language)
+  - [[graph parallel]]
+- [[Jure Leskovec]]
+  - url :: https://profiles.stanford.edu/jure-leskovec
+  - [[https://snap.stanford.edu/projects.html]]
+    - [[analyse des réseaux sociaux]] label
+  - [[graph for maching learning]]
+    - url :: http://web.stanford.edu/class/cs224w/

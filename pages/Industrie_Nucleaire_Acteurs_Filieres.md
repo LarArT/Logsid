@@ -1,0 +1,102 @@
+- [[China National Nuclear 
+Corporation]]
+  - url :: https://en.wikipedia.org/wiki/China_National_Nuclear_Corporation
+- [[Japan Nuclear Fuel Limited]]
+  - url :: https://en.wikipedia.org/wiki/Japan_Nuclear_Fuel_Limited
+  - [[Orano]] actionnaire
+    - url :: https://en.wikipedia.org/wiki/Orano
+- [[Mitsubishi Heavy Industries]]
+  - url :: https://en.wikipedia.org/wiki/Mitsubishi_Heavy_Industries
+  - [[Orano]] actionnaire
+  - [[Framatome]] actionnaire
+- [[USEC]]
+  - url :: https://fr.wikipedia.org/wiki/USEC
+- [[état]]
+  - [[Orano]] actionnaire
+  - [[TechnicAtome]] actionnaire
+- [[Réacteurs à eau pressurisée]]
+  - url :: https://fr.wikipedia.org/wiki/R%C3%A9acteurs_%C3%A0_eau_pressuris%C3%A9e
+- [[Alphatem]]
+  - [[ATEM]] filliale
+    - note :: organisation de la mise en service d'unités industrielles
+    - [[Assystem]] fussion
+  - [[Cogema]] filliale
+    - [[Topco (Areva)]] crée
+    - [[Areva NC]]
+      - url :: https://fr.wikipedia.org/wiki/Areva_NC
+      - [[Orano]] redevient independant
+  - [[ID 71]]
+- [[Uranium Naturel Graphite Gaz (UNGG)]]
+  - url :: https://fr.wikipedia.org/wiki/Uranium_naturel_graphite_gaz
+- [[SOFINEL]]
+  - url :: https://fr.wikipedia.org/wiki/SOFINEL
+  - [[Framatome]] filliale
+  - [[EDF]] filliale
+    - url :: https://fr.wikipedia.org/wiki/%C3%89lectricit%C3%A9_de_France
+    - [[Framatome]]
+      - note :: construction et maintenance des réacteurs nucléaires
+      - url :: https://fr.wikipedia.org/wiki/Framatome
+      - [[European Pressurised Reactor]] construit
+        - url :: https://fr.wikipedia.org/wiki/European_Pressurised_Reactor
+        - [[Centrale Nucluaire De 
+Flamanville]]
+          - url :: https://fr.wikipedia.org/wiki/Centrale_nucl%C3%A9aire_de_Flamanville
+        - [[Centrale Nucléaire De Taishan]]
+          - url :: https://fr.wikipedia.org/wiki/Centrale_nucl%C3%A9aire_de_Taishan
+        - [[Centrale Nucluaire 
+D'Olkiluoto]]
+          - url :: https://fr.wikipedia.org/wiki/Centrale_nucl%C3%A9aire_d%27Olkiluoto
+      - [[Association Mondiale Des 
+Exploitants Nùcléaire]] membre
+        - url :: https://fr.wikipedia.org/wiki/Association_mondiale_des_exploitants_nucl%C3%A9aires
+    - [[CEA]]
+      - url :: https://fr.wikipedia.org/wiki/Commissariat_%C3%A0_l%27%C3%A9nergie_atomique_et_aux_%C3%A9nergies_alternatives
+      - [[TechnicAtome]] actionnaire
+- [[European Pressurised Reactor]]
+  - url :: https://fr.wikipedia.org/wiki/European_Pressurised_Reactor
+- [[Groupe Areva]]
+  - url :: https://fr.wikipedia.org/wiki/Areva_NC
+  - url :: https://fr.wikipedia.org/wiki/Areva_T%26D
+  - url :: https://fr.wikipedia.org/wiki/CEA_Industrie
+  - url :: https://fr.wikipedia.org/wiki/Framatome
+  - url :: https://fr.wikipedia.org/wiki/Topco_(Areva)
+- [[Filliale Areva]]
+  - url :: https://fr.wikipedia.org/wiki/Areva_NC
+  - url :: https://fr.wikipedia.org/wiki/Areva_T%26D
+  - url :: https://fr.wikipedia.org/wiki/Framatome
+- [[Areva T&D]]
+  - url :: https://fr.wikipedia.org/wiki/Areva_T%26D
+- [[Framatome (ancien)]]
+  - [[Areva NP]] devient
+    - url :: https://fr.wikipedia.org/wiki/Framatome
+    - [[Framatome]] redevient independant
+  - [[technicatome (ancien)]] actionnaire
+    - [[Topco (Areva)]] crée
+    - [[Areva TA]]
+      - [[TechnicAtome]] redevient independant
+- [[CEA_Industrie]]
+  - url :: https://fr.wikipedia.org/wiki/CEA_Industrie
+  - [[Topco (Areva)]] crée
+    - url :: https://fr.wikipedia.org/wiki/Topco_(Areva)
+- [[Naval Group]]
+  - url :: https://fr.wikipedia.org/wiki/Naval_Group
+  - [[TechnicAtome]] actionnaire
+    - url :: https://fr.wikipedia.org/wiki/TechnicAtome
+- [[Filière réacteur nucléaire]]
+  - url :: https://fr.wikipedia.org/wiki/Fili%C3%A8re_nucl%C3%A9aire
+- [[Assystem Technologies]]
+  - note :: ’adresse lui aux industriels de l’automobile, l’aéronautique et l’assurance depuis peu avec le rachat de SQS.
+  - [[Assystem]] séparation d'activité
+    - note :: travaille majoritairement pour le secteur de l’énergie et du nucléaire en particulier
+    - url :: https://fr.wikipedia.org/wiki/Assystem
+    - [[Framatome]] posséde
+- [[ultra centrifuge limited nederland]]
+  - [[Urenco]]
+    - note :: cycle du combustible
+    - url :: https://fr.wikipedia.org/wiki/Urenco
+- [[fonte uranium métal en un hémisphere]]
+- [[New Node]]
+- [[P-1]]
+- [[P-2]]
+- [[rotor en alumminium]]
+- [[rotor en acier maraging]]

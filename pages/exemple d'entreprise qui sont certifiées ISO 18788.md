@@ -1,0 +1,13 @@
+- La norme **ISO 18788** (*Système de management des opérations de sécurité privée*) est un standard international exigeant, principalement destiné aux **Entreprises de Services de Sécurité et de Défense (ESSD)** et aux sociétés opérant dans des zones d'analyse de risques complexes, de crise ou à gouvernance affaiblie (gestion des risques, respect des droits humains, éthique).
+  
+  En France, le nombre d'entreprises titulaires de cette certification est **très restreint** (une poignée d'acteurs spécialisés dans la sûreté internationale, le conseil stratégique et la protection rapprochée en zone sensible).
+- ## Principales entreprises françaises certifiées ISO 18788
+  
+  Parmi les acteurs majeurs de l'ingénierie de sûreté et de la sécurité internationale ayant communiqué publiquement sur l'obtention de cette certification :
+- **Amarante International :** L'un des leaders français de la sûreté internationale et de la gestion des risques à l'exportation. La société est certifiée **ISO 18788**, ISO 9001 et ANSI/ASIS PSC.1.
+- **Arkane Risk :** ESSD spécialisée dans la protection de collaborateurs à l'international, l'accompagnement en zone à risque et la sécurité globale, certifiée **ISO 18788** et ISO 9001.
+- **Corpguard (Corpguard Corporate Intelligence & Security Solutions) :** Cabinet de conseil en gouvernance des risques, intelligence économique et sûreté des affaires, certifié **ISO 18788** et membre certifié de l'ICoCA (*International Code of Conduct Association*).
+- **GEOS / Groupe ADIT :** Acteur historique du conseil en sûreté et intelligence stratégique à l'international, dont les filiales de sûreté opérationnelle s'alignent sur les référentiels ISO 18788 / ICoCA.
+- ## Spécificités de la certification ISO 18788 en France
+- **Organismes de certification :** Jusqu'à récemment, la majorité de ces certifications étaient auditées par des organismes internationaux accrédités (comme MSS Global ou Lloyd's Register). En France, **Apave Certification** est devenu le premier organisme de certification français accepté par l'ICoCA pour délivrer des certifications selon la norme ISO 18788.
+- **Différence avec la sécurité privée « classique » :** Contrairement aux normes nationales de gardiennage traditionnel (comme la norme **NF X50-777 / NF 241** pour les agents en poste sur le territoire national), l'ISO 18788 vise le management des opérations de sûreté, la continuité des activités, la conformité légale internationale et la prévention des atteintes aux droits humains dans les environnements dégradés.

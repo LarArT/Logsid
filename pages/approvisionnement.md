@@ -1,0 +1,11 @@
+- [[Lectures/mooc approvisionnement disaster ready]]
+- [[stockage]]
+- [[location entrepôt]]
+- [[réception de bien]]
+- [[inventaire des stocks]]
+- [[bien gérer un entrepôt]]
+- [[Modèle SCOR]]
+- [[KPI ]]
+- [[gestion par les données]]
+- [[réponse humanitaire épidémie]]
+-

@@ -1,0 +1,36 @@
+- Dans le modèle SCOR (Supply Chain Operations Reference) adapté au contexte humanitaire par Lu, Goh et De Souza (2016), les attributs de performance d'origine commerciale ont été réévalués pour répondre aux réalités logistiques des organisations d'aide humanitaire (HRO).
+  Quatre attributs clés ont été retenus à l'échelle organisationnelle : la **fiabilité**, la **réactivité**, l'**agilité** et le **coût**.
+- ### A. Fiabilité (Reliability - RL)
+  Cet attribut évalue la capacité de la chaîne logistique à livrer les bons produits, au bon moment, dans les bonnes conditions, en quantité exacte et avec la documentation appropriée.
+  * **A1.1. Exécution parfaite des commandes (Perfect order fulfilment)** : Mesure le pourcentage global de commandes entièrement conformes aux exigences du besoin, accompagnées d'une documentation complète et sans erreur.
+  * **A2.1. Pourcentage de commandes livrées au complet (Percentage of orders delivered in full)** : Évalue la précision sur les quantités et la conformité des articles livrés par rapport aux demandes initiales.
+  * **A2.2. Performance de livraison à la date engagée (Delivery performance to customer commit date)** : Mesure le respect des délais en calculant le pourcentage de commandes honorées à la date initialement convenue avec le demandeur.
+  * **A2.3. Exactitude de la documentation (Documentation accuracy)** : Pourcentage de commandes dont l'intégralité des documents requis (expédition, douane, paiement, conformité) est exacte et disponible immédiatement.
+  * **A2.4. Pourcentage de produits en parfait état (Perfect condition percentage)** : Mesure la part des commandes livrées sans aucun dommage, répondant parfaitement aux spécifications techniques requises.
+  * **A3.1. Exactitude de la documentation de stockage (Store documentation accuracy)** : Indicateur opérationnel mesurant la précision des documents d'inventaire et de réception durant la phase d'entreposage.
+  * **A3.2. Exactitude de la documentation de livraison (Delivery documentation accuracy)** : Spécifie le taux d'exactitude documentaire propre à la phase finale d'expédition de l'organisation.
+  * **A3.3. Plan de mitigation des risques (Risk mitigation plan)** : Mesure le niveau de préparation face aux ruptures de flux en calculant le pourcentage d'articles critiques bénéficiant de fournisseurs alternatifs sécurisés.
+- ### B. Réactivité (Responsiveness - RS)
+  La réactivité qualifie la vitesse à laquelle la chaîne d'approvisionnement fournit les biens essentiels aux bénéficiaires et répond aux sollicitations.
+  * **B1.1. Temps de cycle d'exécution d'une commande (Order fulfilment cycle time)** : Temps moyen global qui s'écoule entre la réception d'une commande et l'acceptation finale des biens par le demandeur.
+  * **B2.1. Temps de cycle d'approvisionnement (Sourcing cycle time)** : Durée moyenne des processus d'achat, depuis l'identification du besoin de sourçage jusqu'au paiement effectif du fournisseur.
+  * **B2.2. Temps de cycle d'assemblage (Assembling cycle time)** : Temps de traitement consacré à l'emballage, la mise en colis et l'étiquetage des kits humanitaires spécifiques (ex. kits d'hygiène, de cuisine) au sein des entrepôts.
+  * **B2.3. Temps de cycle de livraison (Delivery fulfilment cycle time)** : Durée moyenne allouée aux opérations d'expédition et de transport sortant vers la zone d'intervention.
+  * **B3.1. Pourcentage de disponibilité des stocks (In-stock percentage)** : Part des articles de secours essentiels qui sont immédiatement disponibles en stock à l'entrepôt au moment où le besoin d'urgence survient.
+  * **B3.2. Réponse aux événements externes (External event response)** : Temps moyen (en jours) nécessaire à l'organisation pour déployer et faire parvenir une première ressource matérielle sur le terrain à la suite du déclenchement d'une crise ou d'une catastrophe.
+- ### C. Agility (Agility - AG)
+  L'agilité représente la capacité de la chaîne logistique humanitaire à absorber de fortes incertitudes de demande et à adapter rapidement ses capacités opérationnelles face aux pics de crise.
+  * **C1.1. Souplesse à la hausse de la chaîne logistique (Upside supply chain flexibility)** : Nombre de jours requis par l'organisation pour atteindre de manière durable une augmentation imprévue de 100 % des volumes de biens livrés. *(Note : le modèle adapte ici le benchmark commercial standard qui n'est que de 20 %)*.
+  * **C2.1. Souplesse à la hausse du sourçage (Upside source flexibility)** : Nombre de jours nécessaires pour obtenir une augmentation soudaine et durable de 100 % des volumes commandés auprès des fournisseurs.
+  * **C2.2. Souplesse à la hausse de la livraison (Upside delivery flexibility)** : Nombre de jours requis pour doubler les capacités d'expédition et de transport sortant, en supposant l'absence de contraintes d'approvisionnement extérieures.
+  * **C3.1. Inventaire physique disponible (Current on-hand inventory)** : Quantité exacte de toutes les marchandises et stocks de sécurité actuellement présents dans les entrepôts pour soutenir les opérations en cours.
+  * **C3.2. Temps de cycle actuel des bons de commande (Current purchase order cycle time)** : Délai total mesuré entre l'émission d'une demande d'achat en interne et la réception physique des articles en provenance du fournisseur (incluant son délai d'exécution).
+- ### D. Coût (Cost - CO)
+  Cet attribut surveille l'efficience financière et la transparence de la logistique, un critère de plus en plus exigé par les bailleurs de fonds internationaux.
+  * **D1.1. Coût de gestion de la chaîne logistique (Supply chain management cost)** : Somme globale des coûts directs associés au fonctionnement et à l'administration des processus logistiques de niveau 2 (planifier, sourcer, stocker, livrer).
+  * **D2.1. Coût de planification (Cost to plan)** : Dépenses liées aux activités de gestion prévisionnelle de la demande, du stockage et de l'acheminement.
+  * **D2.2. Coût de sourçage/approvisionnement (Cost to source)** : Ensemble des coûts de personnel d'achat, de gestion du matériel, de passation de marchés, de négociation et de traitement des appels d'offres.
+  * **D2.3. Coût de gestion des stocks de produits (Cost to manage product inventory)** : Total des frais d'entreposage incluant l'exploitation des structures, la location des locaux logistiques et la main-d'œuvre associée.
+  * **D2.4. Coût de livraison (Cost to delivery)** : Budget alloué au transport sortant et à l'acheminement des cargaisons de secours.
+  * **D2.5. Coût de mitigation des risques de la chaîne logistique (Supply chain risk mitigation cost)** : Dépenses engagées de manière préventive pour sécuriser les flux face aux risques environnementaux ou de rupture (frais liés aux processus de planification, de sourçage et de distribution sécurisés).
+  * **D3.1. Coût de gestion de la performance de la chaîne logistique (Cost to manage supply chain performance)** : Coût financier et en temps de travail dédié à l'évaluation, au suivi documentaire et à l'audit des acteurs internes et externes (fournisseurs, transporteurs).

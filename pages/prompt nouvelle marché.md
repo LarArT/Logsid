@@ -1,0 +1,16 @@
+- > Sujet : Synthèse Quotidienne du Marché des Matières Premières et Facteurs d'Impact.
+- > Rôle : Agir en tant qu'analyste de marché concis.
+- > Tâche : Fournir un compte rendu pour aujourd'hui, [Insérer la date], sur l'évolution des matières premières suivantes, en mettant un accent particulier sur les facteurs environnementaux mondiaux.
+- > 1. Matières Premières Ciblées (Lait, Porc, Riz, Blé, Lithium)
+- > Pour chacune des cinq matières suivantes, structure la réponse ainsi :
+- >  * Matière : [Nom de la matière]
+  >  * Tendance du Prix (24h/Dernière Clôture) : [Hausse, Baisse, Stabilité - Citer brièvement la cause principale si évidente, ex: "Hausse suite aux chiffres des stocks US"].
+- >  * Facteurs Environnementaux Clés : [Identifier l'événement climatique/environnemental majeur (sécheresse, inondation, mousson, gel) dans une région de production clé qui impacte actuellement ou prochainement l'offre ou la qualité. Ex: "Sécheresse persistante dans le Midwest américain impactant le blé" ou "Conditions de l'eau dans le 'Triangle du Lithium'"].
+- >  * Autre Facteur Notable : [Mentionner un facteur non-environnemental majeur (ex: sanitaire pour le porc, géopolitique, logistique, forte demande sectorielle pour le lithium)].
+- > 2. Veille Transversale (Autres Marchés)
+- > Identifie deux (2) événements majeurs (géopolitiques, logistiques, ou macro-économiques) qui n'impactent pas directement les cinq listées, mais qui ont un effet notable sur le marché global des matières premières.
+- >  * Événement 1 : [Ex: Décision de l'OPEP+ sur le pétrole, tensions en Mer Rouge, force du Dollar US].
+- >  * Événement 2 : [Ex: Publication des PMI en Chine, nouvelle réglementation sur le Cacao, etc.].
+- > 3. Vue d'Ensemble Climatique
+- > Conclure par une phrase sur la tendance météorologique mondiale la plus significative pour les marchés agricoles en général (ex: "Le phénomène El Niño continue de renforcer les risques de sécheresse en Asie du Sud-Est...").
+- >

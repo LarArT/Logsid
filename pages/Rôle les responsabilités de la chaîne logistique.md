@@ -1,0 +1,41 @@
+- L'auteur (le demandeur)
+- Demande l'achat de biens ou de services • Participe à l'analyse des offres reçues et à la supervision de la mise en œuvre d'un contrat signé.
+- • Fournit des informations suffisantes sur les exigences pour que le personnel chargé des achats puisse exécuter le processus.
+- Le responsable du budget (approbateur autorisé)
+- • A autorité sur le budget à partir duquel les biens ou services seront achetés. ⚫ S'assure que l'approvisionnement demandé est conforme au budget et est autorisé.
+- Le chargé des achats
+- Reçoit et examine les demandes d'achat et les documents justificatifs pour s'assurer qu'ils répondent aux spécifications/ exigences, et que les autorisations ont été obtenues.
+- Conduit le processus d'approvisionnement une fois approuvé.
+- Identifie les biens et services nécessaires aux projets et opérations en cours.
+- Le chargé des achats, suite
+- Y
+- Effectue régulièrement des évaluations des
+- sources et des prix sur le marché.
+- Travaille avec d'autres agences et le secteur privé pour identifier de nouveaux fournisseurs potentiels.
+- S'assure que les demandes de devis/d'offres
+- définissent clairement les spécifications et toute autre exigence.
+- Le chargé des achats, suite
+- Reçoit, révise toutes les offres et prépare les devis/fiches récapitulatives des offres. Classe le statut des demandes
+- d'approvisionnement et donne des mises à jour
+- au personnel qui a fait une demande.
+- Organise les comités d'approvisionnement/de
+- soumission selon le besoin, et veille à ce qu'ils disposent des informations nécessaires pour analyser correctement les offres.
+- ⚫ Soutient et informe le personnel sur les procédures d'approvisionnements.
+- Le Directeur des approvisionnements
+- Supervise et gère les activités d'approvisionnement, de la réception d'une demande d'achat approuvée et de la documentation liée à la demande, jusqu'à la soumission des factures pour le paiement. Établit la politique et les procédures d'approvisionnements de l'organisation.
+- Le Directeur des approvisionnements, suite
+- Assure la conformité avec:
+- La politique et les procédures
+- d'approvisionnement
+- Toutes règles et réglementations requises par les bailleurs de fonds ou les autorités nationales/locales (ou législation)
+- Le Directeur des approvisionnements, suite
+- S'assure que le personnel chargé de l'approvisionnement reste au courant des changements de politique, de procédures, de règles et de règlements concernant:
+- o La formation
+- L'orientation
+- o Les mises à jour
+- IMPORTANT: votre organisation doit désigner un membre du personnel de direction comme principal responsable de l'approvisionnement.
+- Le Directeur des finances
+- • Vérifie le respect des limites de l'autorité d'approbation de l'organisation.
+- Vérifie la conformité avec les exigences de financement des bailleurs de fonds et des exigences financières locales/exigences
+- fiscales (le cas échéant).
+- • Examine et attribue les tâches de paiement au personnel financier.

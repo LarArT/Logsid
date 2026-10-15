@@ -1,0 +1,3 @@
+- [flix](https://flix.dev/)
+- [gen](https://www.gen.dev/tutorials/intro-to-modeling/tutorial)
+- [Anglican](https://probprog.github.io/anglican/)

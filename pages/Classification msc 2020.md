@@ -1,0 +1,64 @@
+## Classification Mathématique (Format Logseq)
+- ​**00** Généralités
+- ​**01** Histoire et fondements
+- ​**03** Logique mathématique et fondements
+- ​**05** Combinatoire
+- ​**06** Théorie de l'ordre, treillis, ensembles ordonnés algébriques
+- ​**08** Structures algébriques générales
+- ​**11** Théorie des nombres
+- ​**12** Théorie des corps et polynômes
+- ​**13** Algèbre commutative
+- ​**14** Géométrie algébrique
+- ​**15** Algèbre linéaire et multilinéaire; théorie des matrices
+- ​**16** Anneaux et algèbres associatifs
+- ​**17** Anneaux et algèbres non associatifs
+- ​**18** Théorie des catégories; algèbre homologique
+- ​**19** K-théorie
+- ​**20** Théorie des groupes
+- ​**22** Groupes topologiques, groupes de Lie
+- ​**26** Fonctions réelles
+- ​**28** Théorie de la mesure et de l'intégration
+- ​**30** Fonctions d'une variable complexe
+- ​**31** Théorie du potentiel
+- ​**32** Plusieurs variables complexes et espaces analytiques
+- ​**33** Fonctions spéciales
+- ​**34** Équations différentielles ordinaires
+- ​**35** Équations aux dérivées partielles
+- ​**37** Systèmes dynamiques et théorie ergodique
+- ​**39** Équations aux différences et équations fonctionnelles
+- ​**40** Suites, séries, sommabilité
+- ​**41** Approximations et développements
+- ​**42** Analyse de Fourier
+- ​**43** Analyse harmonique abstraite
+- ​**44** Équations intégrales, équations intégro-différentielles
+- ​**45** Analyse fonctionnelle
+- ​**46** Théorie des opérateurs
+- ​**47** Calcul des variations et contrôle optimal; optimisation
+- ​**49** Géométrie différentielle
+- ​**51** Géométrie
+- ​**52** Géométrie convexe et discrète
+- ​**53** Topologie générale
+- ​**54** Topologie algébrique
+- ​**55** Théorie des variétés
+- ​**57** Topologie des variétés
+- ​**58** Analyse sur les variétés
+- ​**60** Théorie des probabilités et processus stochastiques
+- ​**62** Statistiques
+- ​**65** Analyse numérique
+- ​**68** Informatique théorique
+- ​**70** Mécanique des particules et des systèmes
+- ​**74** Mécanique des milieux continus
+- ​**76** Mécanique des fluides
+- ​**78** Optique, théorie électromagnétique
+- ​**80** Thermodynamique, transfert de chaleur
+- ​**81** Mécanique quantique, théorie quantique des champs
+- ​**82** Mécanique statistique, structure de la matière
+- ​**83** Relativité et théorie gravitationnelle
+- ​**85** Astronomie et astrophysique
+- ​**86** Géophysique
+- ​**90** Recherche opérationnelle, programmation mathématique
+- ​**91** Théorie des jeux, économie, sciences sociales et comportementales
+- ​**92** Biologie et autres sciences naturelles
+- ​**93** Théorie des systèmes; contrôle
+- ​**94** Théorie de l'information et de la communication
+-

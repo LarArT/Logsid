@@ -1,0 +1,494 @@
+- [[Matra (entreprise)]]
+  - url :: https://fr.wikipedia.org/wiki/Matra_(entreprise)
+  - [[novatech]]
+    - url :: http://www.novatech-groupe.com/?lang=en
+  - [[MBDA]]
+    - url :: https://fr.wikipedia.org/wiki/MBDA
+    - [[roxel]]
+    - [[INP Phelma]]
+      - url :: https://fr.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_de_physique,_%C3%A9lectronique,_mat%C3%A9riaux
+    - [[ISAE]]
+      - url :: https://fr.wikipedia.org/wiki/Institut_sup%C3%A9rieur_de_l%27a%C3%A9ronautique_et_de_l%27espace
+  - [[Airbus Group]]
+    - url :: https://fr.wikipedia.org/wiki/Airbus_Group
+    - [[MBDA]] 37%
+    - [[ID 89]]
+    - [[ArianeGroup]]
+      - url :: https://fr.wikipedia.org/wiki/ArianeGroup
+      - [[Sodern]] 90 %
+      - [[Arianespace]] 70%
+        - url :: https://fr.wikipedia.org/wiki/Arianespace
+        - [[Sodern]]
+          - url :: https://fr.wikipedia.org/wiki/Sodern
+      - [[ENSTA Bretagne]] partenariat
+        - url :: https://fr.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_de_techniques_avanc%C3%A9es_Bretagne
+    - [[DO 178C]]
+      - url :: https://en.wikipedia.org/wiki/DO-178C
+- [[MTU Aero Engines]]
+  - url :: https://fr.wikipedia.org/wiki/MTU_Aero_Engines
+- [[interface concept]]
+  - url :: https://www.interfaceconcept.com/
+- [[Thomson CSF]]
+  - url :: https://fr.wikipedia.org/wiki/Thomson-CSF
+  - [[Thales]]
+    - url :: https://fr.wikipedia.org/wiki/Thales
+    - [[M51]] m
+- [[Dassault Aviation]]
+  - url :: https://fr.wikipedia.org/wiki/Dassault_Aviation
+- [[Finmeccanica]]
+  - url :: https://fr.wikipedia.org/wiki/Finmeccanica
+  - [[ID 89]]
+- [[CEA DAM]]
+  - note :: - simulation nucléaire (laser megajoule).
+  - [[Tetes nucleaires]]
+    - [[Partie industrielle]]
+      - [[Dissuasion stratégique]]
+        - url :: https://www.grip.org/sites/grip.org/files/RAPPORTS/2018/Rapport_2018-10.pdf
+  - [[Arpajon]]
+  - [[Cesta]]
+  - [[Gramat]]
+  - [[Le Ripault]]
+  - [[Valduc]]
+  - [[CEA]]
+    - [[Sodern]] 10 %
+- [[ANSSI]]
+  - [[Opérateur D'importance 
+Vitale]] label
+    - url :: https://fr.wikipedia.org/wiki/Op%C3%A9rateur_d%27importance_vitale
+    - [[Airbus Group]]
+    - [[Dassault Aviation]]
+      - url :: https://fr.wikipedia.org/wiki/Dassault_Aviation
+      - [[MALE 2020]]
+        - url :: https://fr.wikipedia.org/wiki/MALE_2020
+    - [[réseau transeuropéen de transport (RTE-T)]]
+      - url :: https://fr.wikipedia.org/wiki/R%C3%A9seau_transeurop%C3%A9en_de_transport
+      - [[gaz]]
+    - [[communication]]
+      - [[Eutelsat]]
+        - url :: https://en.wikipedia.org/wiki/Eutelsat
+        - [[List Of Communication 
+Satellite Companies]]
+          - url :: https://en.wikipedia.org/wiki/List_of_communication_satellite_companies
+    - [[energie]]
+    - [[espace]]
+    - [[aeronotique]]
+    - [[armee]]
+    - [[Sodern]]
+      - url :: https://fr.wikipedia.org/wiki/Sodern
+    - [[CNIM.]]
+      - url :: https://fr.wikipedia.org/wiki/Constructions_industrielles_de_la_M%C3%A9diterran%C3%A9e
+      - [[M51]] ournisseur unique du système lance missile intégré aux 
+SNLE),
+        - [[ArianeGroup]]
+        - [[Missiles]]
+          - [[Partie industrielle]]
+        - [[M45]]
+    - [[Naval Group]]
+      - url :: https://fr.wikipedia.org/wiki/Naval_Group
+      - [[M51]]
+- [[Israel]]
+  - url :: https://en.wikipedia.org/wiki/Israel
+  - [[Goa]]
+    - url :: https://en.wikipedia.org/wiki/Goa
+- [[REC Structure Et Dynamique 
+Des Organisations7]]
+  - url :: https://www.univ-montp3.fr/infocom/wp-content/REC-structure-et-dynamique-des-organisations7.pdf
+- [[action francaise extérieur]]
+  - [[Agence Françoise de dévelppement]]
+    - url :: https://fr.wikipedia.org/wiki/Agence_fran%C3%A7aise_de_d%C3%A9veloppement
+  - [[Institut Français]]
+    - url :: https://fr.wikipedia.org/wiki/Institut_fran%C3%A7ais
+- [[infrastructure stratégique]]
+  - [[pipeline]]
+    - [[carte]]
+      - url :: https://geomondiale.fr/pipelines/
+  - [[port]]
+  - [[aéroport]]
+  - [[cable sous marin]]
+  - [[infrastructure Internet]]
+  - [[réserve pétrolière]]
+  - [[satellite]]
+- [[entreprise stratégique]]
+  - [[Russie]]
+    - [[Nyonoksa]]
+      - url :: https://en.wikipedia.org/wiki/Nyonoksa
+      - [[pole militaire]]
+    - [[atchinks]]
+  - [[Rosatom]]
+    - url :: https://fr.wikipedia.org/wiki/Rosatom
+  - [[gazprom]]
+- [[entreprise statégique]]
+  - [[Constructions industrielles de la Méditerranée...]]
+    - url :: https://fr.wikipedia.org/wiki/Constructions_industrielles_de_la_M%C3%A9diterran%C3%A9e
+  - [[Total (entreprise)]] label
+    - url :: https://fr.wikipedia.org/wiki/Total_(entreprise)
+    - [[Saft Groupe S A]]
+      - url :: https://en.wikipedia.org/wiki/Saft_Groupe_S.A.
+  - [[Defense Conseil 
+International]]
+    - url :: https://fr.wikipedia.org/wiki/D%C3%A9fense_conseil_international
+  - [[Office Fran%C3%A7ais 
+D'exportation D'armement]] label
+    - url :: https://fr.wikipedia.org/wiki/Office_fran%C3%A7ais_d%27exportation_d%27armement
+  - [[Base Industrielle Et 
+Technologique De Défense (BITD)]]
+    - url :: https://fr.wikipedia.org/wiki/Base_industrielle_et_technologique_de_d%C3%A9fense
+  - [[Atlas Europeen]]
+    - url :: https://armement.ead-minerve.fr/index.php/atlas-europeen
+- [[Iran]]
+  - [[Iran's Nuclear Program]]
+    - url :: https://en.wikipedia.org/wiki/Iran%27s_nuclear_program
+    - [[Operation Olympic Games]]
+      - url :: https://en.wikipedia.org/wiki/Operation_Olympic_Games
+      - [[Stuxnet]]
+        - url :: https://en.wikipedia.org/wiki/Stuxnet
+    - [[Bushehr Nuclear Power Plant]]
+      - url :: https://en.wikipedia.org/wiki/Bushehr_Nuclear_Power_Plant
+    - [[Nuclear Facilities In 
+Iran#Natanz]]
+      - url :: https://en.wikipedia.org/wiki/Nuclear_facilities_in_Iran#Natanz
+    - [[Ispahan#Centre De 
+Technologie Nucl C3 A9aire D 
+E2 ...]]
+      - url :: https://fr.wikipedia.org/wiki/Ispahan#Centre_de_technologie_nucl.C3.A9aire_d.E2.80.99Ispahan
+    - [[Partchine]]
+      - url :: https://fr.wikipedia.org/wiki/Partchine
+  - [[arme chimique]]
+    - [[Pasteur Institute Of Iran]]
+      - note :: https://www.iranwatch.org/iranian-entities/pasteur-institute-iran e grandes universités et des instituts comme l’Institut Pasteur de Téhéran contribueraient au programme biologique iranien [12] . Les industries biotechnologiques et pharmacologiques iraniennes sont très performantes et sont dotées de budgets importants. Les services de renseignement israéliens affirment que l’Iran disposerait de stocks de Bacillus anthracis (bactérie du charbon) et de toxine botulinique, qu’il pourrait charger sur des missiles Scud et des avions Sukhoi [13] . En avril 1999, John Lauder, directeur à la CIA, affirmait que l’Iran avait la capacité de déployer des armes biologiques. %sp; %sp;Les armes de destruction massive au Moyen-Orient %sp; %sp;Richard Yilmaz %sp; %sp;Dans Outre-Terre 2006/1 (no 14), pages 27 à 38
+      - url :: https://en.wikipedia.org/wiki/Pasteur_Institute_of_Iran
+    - [[Raja Shimi Industrial Manufacturing]]
+      - note :: D’après les déclarations de l’Iran à l’OIAC, la Raja Shimi Industrial Manufacturing avait contribué à ses expériences passées sur les toxines de guerre, et l’usine en question serait susceptible de produire un précurseur essentiel du sarin, du soman et du VX %sp; %sp;Les armes de destruction massive au Moyen-Orient %sp; %sp;Richard Yilmaz %sp; %sp;Dans Outre-Terre 2006/1 (no 14), pages 27 à 38
+    - [[centre de recherche Shahid Meysami]]
+      - note :: Le centre de recherche Shahid Meysami, lui aussi signalé à l’OIAC, produit des composés dont l’exportation est contrôlée et qui peuvent également être utilisés comme précurseurs du sarin, du soman, du tabun et du VX %sp; %sp;Les armes de destruction massive au Moyen-Orient %sp; %sp;Richard Yilmaz %sp; %sp;Dans Outre-Terre 2006/1 (no 14), pages 27 à 38 https://www.iranwatch.org/iranian-entities/shahid-meisami-group
+    - [[Melli Agrochemical Company]]
+      - note :: . Les sociétés Melli Agrochemical Company et Iranian Chemical Company ont installé des usines de production d’insecticides organophosphorés, très proches des neurotoxiques. La compétence de son industrie pétrochimique donne à l’Iran la possibilité de fabriquer tous les précurseurs des gaz vésicants, et l’industrie iranienne est en mesure de fabriquer tout l’appareillage indispensable à la production chimique : colonnes à distiller, vannes, pompes, verrerie… Il semblerait qu’elle ait désormais dépassé ses lacunes en matière de vitrification et de revêtements anticorrosifs (les toxines chimiques sont particulièrement corrosives). %sp; %sp;Les armes de destruction massive au Moyen-Orient %sp; %sp;Richard Yilmaz %sp; %sp;Dans Outre-Terre 2006/1 (no 14), pages 27 à 38
+    - [[Irainan Chemiacl company]]
+  - [[Defense Industries 
+Organization]]
+    - url :: https://en.wikipedia.org/wiki/Defense_Industries_Organization
+- [[Paul Singer (businessman)]]
+  - url :: https://en.wikipedia.org/wiki/Paul_Singer_(businessman)
+  - [[Elliott Management 
+Corporation]]
+    - url :: https://en.wikipedia.org/wiki/Elliott_Management_Corporation
+    - [[poursuit les Etats devant les tribunaux]]
+    - [[département de recherche (service de renseignement)]]
+- [["William Peter Goodall"]]
+  - [[département de recherche (service de renseignement)]] dirige
+  - [[DIA]]
+  - [[Kroll Inc]] ancien
+    - url :: https://en.wikipedia.org/wiki/Kroll_Inc.
+- [[israel]]
+  - [[Israel Aerospace Industries]]
+    - url :: https://fr.wikipedia.org/wiki/Israel_Aerospace_Industries
+- [[iran]]
+  - [[center of iranian studies in toronto]] soft power
+- [[Société d'intelligence économique]]
+  - url :: https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_d%27intelligence_%C3%A9conomique
+  - [[GEOS (entreprise)]]
+    - url :: https://fr.wikipedia.org/wiki/GEOS_(entreprise)
+  - [[risk & co]]
+    - url :: https://www.riskeco.com/
+  - [[gallice]]
+    - url :: https://www.gallice-protection.com/
+  - [[anticip]]
+    - url :: https://www.anticip.eu/en/group-anticip/our-presence/#
+  - [[amarante]]
+    - url :: https://www.amarante.com/qui-sommes-nous/qui-sommes-nous/
+  - [[CEIS]]
+    - url :: https://ceis.eu/en/home/
+- [[Gilles Gsacaze]]
+  - url :: https://twitter.com/gsacaze
+  - [[gallice]] creer
+- [[Nicolas Bourillon]]
+  - url :: https://www.google.com/search?source=hp&ei=L-1oXf-VF8r4aMWCr-gC&q=Nicolas+Bourillon+bucy&oq=Nicolas+Bourillon+bucy&gs_l=psy-ab.3..0i22i30.473.2286..2507...0.0..0.378.1308.2-1j3......0....2j1..gws-wiz.KH8DOETfVag&ved=0ahUKEwi_6aDppKrkAhVKPBoKHUXBCy0Q4dUDCAU&uact=5
+  - [[pierre antoine lorenzi]] a collaboré
+    - [[amarante]] creer
+    - [[Cedric Lewandowski]]
+      - url :: https://fr.wikipedia.org/wiki/C%C3%A9dric_Lewandowski
+    - [[entreprise serenus]]
+      - url :: https://www.challenges.fr/entreprise/pourquoi-ce-francais-est-la-bete-noire-de-la-dgse_33594
+      - [[nièce du général Rondot (Stéphane Q. )]] embauche
+    - [[entreprise Bucy]]
+      - url :: https://www.challenges.fr/entreprise/pourquoi-ce-francais-est-la-bete-noire-de-la-dgse_33594
+  - [[Bucy et associates]] creer
+    - url :: https://bucy-associates.com/en/nicolas-bourillon/
+- [[Arnaud Danjean]]
+  - url :: https://en.wikipedia.org/wiki/Arnaud_Danjean
+  - [[pierre antoine lorenzi]]
+- [[Arnaud hollander]]
+  - url :: https://www.amarante.com/fr/presidence.html
+  - [[amarante]] creer
+- [[état profond / deep state]]
+  - url :: https://www.toto.fr
+  - [[Main Page]]
+    - url :: https://wikispooks.com/wiki/Main_Page
+  - [[entreprise]]
+  - [[capitalisme à la française]] s
+    - url :: https://www.alternatives-economiques.fr/enquete-laristocratie-cac-40/00084302
+    - [[liens membres cac40]]
+      - url :: https://www.alternatives-economiques.fr/sites/default/files/public/media/20180501/A379014A.GIF
+    - [[02 Administrateurs Cac40 
+Cursus Degrc3a9]]
+      - url :: https://cartorezo.files.wordpress.com/2014/09/02_administrateurs_cac40_cursus_degrc3a9.png
+    - [[administrateur cac40]]
+      - url :: https://cartorezo.wordpress.com/2014/09/03/le-reseau-des-administrateurs-du-cac-40-entre-grandes-ecoles-et-cursus-universitaires/
+- [[industrie militaire]]
+- [[240 ogives nucléaires]]
+  - [[. La Force Océanique Stratégique (FOST)]]
+    - [[Partie Militaire]]
+      - [[Dissuasion stratégique]]
+- [[Rosnay]]
+  - note :: Majeur
+  - [[4 centres de transmissions]]
+    - [[. La Force Océanique Stratégique (FOST)]]
+- [[Sainte Assise]]
+  - [[4 centres de transmissions]]
+- [[FRance Sud]]
+  - [[4 centres de transmissions]]
+- [[Kerlouan]]
+  - [[4 centres de transmissions]]
+- [[1 centre d’interprétation et de reconnaissance acoustiqu]]
+  - [[. La Force Océanique Stratégique (FOST)]]
+- [[bâtiment d’essais et de mesures (BEM) 
+Monge]]
+  - [[. La Force Océanique Stratégique (FOST)]]
+- [[Antares]]
+  - [[BRS   (bâtiments   remorqueurs   de   sonars)]]
+- [[Altair]]
+  - [[BRS   (bâtiments   remorqueurs   de   sonars)]]
+- [[Aldébaran]]
+  - [[BRS   (bâtiments   remorqueurs   de   sonars)]]
+- [[Avord]]
+  - [[54 ogives nucléaires]]
+    - [[. Les Forces Aériennes Stratégiques (FAS)]]
+      - [[Partie Militaire]]
+- [[20 avions Rafale BF3]]
+  - [[Gascogne]]
+    - [[deux escadrons de chasse armés de missiles ASMPA]]
+- [[20 avions Rafale BF3]]
+  - [[La Fayette]]
+    - [[deux escadrons de chasse armés de missiles ASMPA]]
+      - [[Saint Dizier]]
+        - [[54 ogives nucléaires]]
+- [[un groupe de ravitaillement en vol « Bretagne »]]
+  - [[. Les Forces Aériennes Stratégiques (FAS)]]
+- [[14 Boeing C135]]
+  - [[. Les Forces Aériennes Stratégiques (FAS)]]
+  - [[Istres]]
+    - [[54 ogives nucléaires]]
+- [[20 avions Rafale BF3]]
+  - [[. Les Forces Aériennes Stratégiques (FAS)]]
+  - [[Istres]]
+- [[Safran (entreprise)]]
+  - url :: https://fr.wikipedia.org/wiki/Safran_(entreprise)
+  - [[ArianeGroup]] 50%
+  - [[M51]]
+  - [[roxel]] 50%
+- [[Souriau (entreprise)]]
+  - url :: https://fr.wikipedia.org/wiki/Souriau_(entreprise)
+  - [[M51]] connectique
+- [[BAE]]
+  - [[MBDA]] 37
+- [[Leonardo (entreprise)]]
+  - url :: https://fr.wikipedia.org/wiki/Leonardo_(entreprise)
+  - [[MBDA]] 37%
+- [[Saint Medard en Jalles]]
+  - [[bounges]]
+- [[DGA biscarosse]]
+  - [[ASMPA]] essai
+- [[indret]]
+- [[TechnicAtome]]
+- [[cherbourg - brest - Indret]]
+  - [[Aix en provence]]
+    - [[Cadarache]]
+      - [[Saclay]]
+- [[Industeel]]
+  - note :: fabrication des aciers des sous marins
+  - [[4 SNLE]]
+  - [[6 SNA]]
+    - [[. La Force Océanique Stratégique (FOST)]]
+  - [[Arcelor Mittal]] filliale
+- [[Thermodyn]]
+  - [[6 SNA]] fabrication turbine
+à vapeur
+  - [[GE]] filliale
+- [[partie Universitaire]]
+  - [[Dissuasion stratégique]]
+- [[Rapport_2018-10.pdf]]
+- [[Identification Friend Or Foe system]]
+  - url :: https://fr.wikipedia.org/wiki/Identification_friend_or_foe
+  - [[Thales]]
+- [[rand rapport]]
+  - note :: https://apps.dtic.mil/dtic/tr/fulltext/u2/1015876.pdf
+  - url :: https://apps.dtic.mil/dtic/tr/fulltext/u2/1015876.pdf
+  - [[C4ISR system]]
+    - url :: https://fr.wikipedia.org/wiki/C4ISR
+    - [[Thales]]
+- [[Pierre Conesa]]
+  - url :: https://fr.wikipedia.org/wiki/Pierre_Conesa
+  - [[CEIS]]
+- [[Jean Marc Balencie]]
+  - url :: http://fr.viadeo.com/fr/profile/jean-marc.balencie
+  - [[risk & co]]
+- [[Jean Louis Georgelin]]
+  - url :: https://fr.wikipedia.org/wiki/Jean-Louis_Georgelin
+  - [[avisa partners]]
+    - url :: https://www.avisa-partners.com/en/team/
+- [[Icwatch Wikileaks]]
+  - url :: https://icwatch.wikileaks.org
+  - [[intelligence communauty usa]]
+- [[russe]]
+- [[russe]]
+  - [[centre afrique]] forme actuellement 
+l'armee
+- [[import / export]]
+  - [[Oec]]
+    - url :: https://oec.world
+- [[osm]]
+  - [[overpass]]
+    - url :: https://overpass-turbo.osm.ch/
+- [[requete dork google]]
+  - [[blacklist proxy]]
+    - url :: http://dsi.ut-capitole.fr/blacklists/
+- [[finance]]
+  - [[marché financier]]
+    - [[tradingeconomics]]
+      - url :: http://docs.tradingeconomics.com/?java#snapshots
+  - [[fonds souverin]]
+    - url :: https://www.swfinstitute.org/fund-rankings/sovereign-wealth-fund
+  - [[secret financier index]]
+    - url :: https://www.financialsecrecyindex.com/en/introduction/fsi-2018-results
+  - [[financialmodelingprep]]
+- [[lutte finance]]
+  - [[Groupe d’action financière]]
+    - url :: http://www.fatf-gafi.org/fr/aproposdugafi/
+- [[site CEVESO]]
+  - url :: https://www.data.gouv.fr/fr/datasets/base-des-installations-classees-icpe/
+- [[Open Food Facts]]
+  - url :: https://www.data.gouv.fr/fr/datasets/open-food-facts-produits-alimentaires-ingredients-nutrition-labels/
+- [[geozone monde]]
+  - url :: https://www.data.gouv.fr/fr/datasets/geozones/
+- [[Statistiques sur les Français résidant a l’étranger : données démographiques]]
+  - url :: https://www.data.gouv.fr/fr/datasets/statistiques-sur-les-francais-residant-a-letranger-donnees-demographiques/#_
+- [[Français de l'étranger : inscriptions au registre des Français établis hors de France]]
+  - url :: https://www.data.gouv.fr/fr/datasets/francais-de-letranger-inscriptions-au-registre-des-francais-etablis-hors-de-france/
+- [[Les projets de coopération décentralisée]]
+  - url :: https://www.data.gouv.fr/fr/datasets/les-projets-de-cooperation-decentralisee-asie-centrale-et-du-sud/
+- [[activités de recherche et développement dans le monde]]
+  - url :: https://www.data.gouv.fr/fr/datasets/les-activites-de-recherche-et-developpement-dans-le-monde-00000000/
+- [[Protection des données personnelles dans le monde]]
+  - url :: https://www.data.gouv.fr/fr/datasets/protection-des-donnees-personnelles-dans-le-monde/
+- [[Les Alliances françaises dans le monde]]
+  - url :: https://www.data.gouv.fr/fr/datasets/les-alliances-francaises-dans-le-monde/
+- [[Les Espaces CampusFrance dans le monde]]
+  - url :: https://www.data.gouv.fr/fr/datasets/les-espaces-campusfrance-dans-le-monde/
+- [[Les Instituts de recherche français à l’étranger (IFRE) dans le monde]]
+  - url :: https://www.data.gouv.fr/fr/datasets/les-instituts-de-recherche-francais-a-l-etranger-ifre-dans-le-monde/
+- [[https://www.data.gouv.fr/fr/datasets/les-instituts-de-recherche-francais-a-l-etranger-ifre-dans-le-monde/]]
+  - url :: https://www.data.gouv.fr/fr/datasets/les-instituts-de-recherche-francais-a-l-etranger-ifre-dans-le-monde/
+- [[Projections démographiques Europe Inde Chine Brésil Russie]]
+  - url :: https://www.data.gouv.fr/fr/datasets/projections-demographiques-europe-inde-chine-bresil-russie/
+- [[usa]]
+- [[Porcellian Club]]
+  - url :: https://en.wikipedia.org/wiki/Porcellian_Club
+- [[Scroll And Key]]
+  - url :: https://en.wikipedia.org/wiki/Scroll_and_Key
+- [[Skull And Bones]]
+  - url :: https://en.wikipedia.org/wiki/Skull_and_Bones
+- [[The Wise Men (book)]]
+  - url :: https://en.wikipedia.org/wiki/The_Wise_Men_(book)
+- [[sourcewatch]]
+  - url :: https://www.sourcewatch.org/index.php?title=SourceWatch
+  - [[état profond]]
+    - [[Michael Hershman]]
+      - url :: https://wikispooks.com/wiki/Michael_Hershman
+- [[Proparco]]
+  - url :: https://fr.wikipedia.org/wiki/Proparco
+  - [[Agence française de développement]]
+    - url :: https://fr.wikipedia.org/wiki/Agence_fran%C3%A7aise_de_d%C3%A9veloppement
+- [[math in the middle]]
+- [[Civipol Conseil]]
+  - url :: https://fr.wikipedia.org/wiki/Civipol_Conseil
+- [[wallet explorer]]
+  - url :: https://www.walletexplorer.com/wallet/00000014ea8b260f/addresses
+- [[Harbin Institute Of 
+Technology]]
+  - url :: https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology
+  - [[chine]] proche de l'armée
+- [[prix « AAT – Ingénieur Général Chanson »]]
+- [[Pinkerton National Detective 
+Agency]]
+  - url :: https://fr.wikipedia.org/wiki/Pinkerton_National_Detective_Agency
+- [[Control Risks]]
+  - url :: https://en.wikipedia.org/wiki/Control_Risks
+- [[Military Professional 
+Resources Inc]]
+  - url :: https://en.wikipedia.org/wiki/Military_Professional_Resources_Inc.
+- [[Pardis]]
+  - url :: https://en.wikipedia.org/wiki/Pardis
+  - [[iran]]
+    - [[AS souverain]]
+      - [[ITC AS12880]]
+        - note :: https://arxiv.org/ftp/arxiv/papers/1911/1911.07723.pdf
+      - [[TIC AS48159]]
+        - note :: https://arxiv.org/ftp/arxiv/papers/1911/1911.07723.pdf
+- [[universite De 
+Technologie De Sharif]]
+  - url :: https://en.wikipedia.org/wiki/Sharif_University_of_Technology
+  - [[iran]]
+- [[AS afghan telecom AS59295]]
+  - note :: - was in a situation of dependency on Iran connectivity (ITC AS) https://arxiv.org/ftp/arxiv/papers/1911/1911.07723.pdf
+  - [[afghanistan]]
+- [[corse]]
+  - [[Université de Corse-Pascal-Paoli]] berceau nationalisme corse
+    - url :: https://fr.wikipedia.org/wiki/Universit%C3%A9_de_Corse-Pascal-Paoli
+- [[japon]]
+- [[Japan International 
+Cooperation Agency]]
+  - url :: https://en.wikipedia.org/wiki/Japan_International_Cooperation_Agency
+- [[UK]]
+  - [[G4S]]
+    - url :: https://fr.wikipedia.org/wiki/G4S
+    - [[SMP]]
+  - [[Control Risks]]
+    - url :: https://www.google.com/url?q=https://en.wikipedia.org/wiki/Control_Risks&sa=U&ved=2ahUKEwiLovuCl4jmAhWAAWMBHZJCCfoQFjAHegQIAxAB&usg=AOvVaw2ZAC3ISnDKTeN7Tb8PQkdl
+    - [[SMP]]
+- [[canada]]
+  - [[GardaWorld]]
+    - url :: https://en.wikipedia.org/wiki/GardaWorld
+    - [[SMP]]
+      - url :: https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_militaire_priv%C3%A9e
+- [[DF-17]]
+  - url :: https://www.google.com/url?q=https://en.wikipedia.org/wiki/DF-17&sa=U&ved=2ahUKEwj7xIXRq4jmAhUz5uAKHeodC_gQFjAAegQIAxAB&usg=AOvVaw1Oip12T2RYjyh-tESMJQdJ
+  - [[chine]] s
+  - [[Hypersonic Glide Vehicle]]
+    - url :: https://en.wikipedia.org/wiki/Hypersonic_Glide_Vehicle
+  - [[China Aerospace Science And 
+Technology Corporation]]
+    - url :: https://en.wikipedia.org/wiki/China_Aerospace_Science_and_Technology_Corporation
+- [[Birmanie - cambodge - laos]]
+- [[Uruguay - Bresil - argentine]]
+- [[extreme orient russe - chinoi]]
+- [[Port Of Gioia Tauro]]
+  - url :: https://en.wikipedia.org/wiki/Port_of_Gioia_Tauro
+  - [['Ndrangheta]]
+    - url :: https://en.wikipedia.org/wiki/%27Ndrangheta
+    - [[mafia]]
+- [[mafia Corse]]
+  - [[Gabon]]
+- [[Luciano Leggio]]
+  - url :: https://en.wikipedia.org/wiki/Luciano_Leggio
+- [[crime organisé]]
+- [[salamandre]]
+  - url :: http://www.salamandre.com/index.php
+- [[prochaine plaque tournante commerce mondiale]]
+  - [[Hainan]]
+    - url :: https://fr.wikipedia.org/wiki/Hainan
+- [[cercle de l'arabalete]]
+  - url :: https://cercledelarbalete.org/
+- [[gicat]]
+  - url :: https://www.gicat.com/membres/
+- [[hexatrust]]
+  - url :: https://www.hexatrust.com/les-membres/

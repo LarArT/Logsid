@@ -1,0 +1,1 @@
+- Les règles d'élimination sont remplacées par des règles d'introduction à gauche

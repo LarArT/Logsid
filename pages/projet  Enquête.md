@@ -1,0 +1,8 @@
+- Recrutement personnel
+	- Rendre compte des failles psychologiques
+		- Biais cognitif : noise kanheman
+		- Système 1 2
+		- [[perplexcity weick]]
+-
+-
+-

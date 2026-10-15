@@ -1,0 +1,85 @@
+- Établissez l’itinéraire de votre prestation de transport
+  Pour optimiser les coûts variables du transport, il existe une arme secrète : le Transport Management System (TMS). Dans ce chapitre, vous allez comprendre les nombreuses fonctionnalités de cet outil et à quel point il participe à la bonne performance des opérations de transport.
+- #Découvrez les Transport Management Systems
+  Le Transport Management System, dit TMS, fait partie des outils technologiques incontournables du monde de la Supply Chain. Il permet d’automatiser et de contribuer à l’optimisation des tâches liées aux opérations de transport.
+- Il assure aussi les échanges d’informations entre différents acteurs impliqués directement ou indirectement dans les opérations de transport. On peut donc le considérer comme un système d’information.
+- Quels sont ses principaux objectifs ?
+- Le TMS remplit différents usages :
+- Réaliser des plans de transport optimisés en termes de remplissage et d’itinéraire pour :
+- offrir une meilleure maîtrise des coûts ;
+- réduire ses émissions de CO2.
+- Mieux planifier et gérer l’utilisation des ressources (humaines, quais, flotte, etc.) en prenant en compte les différentes contraintes.
+- Mieux communiquer en délivrant de l’information aux autres outils de gestion en temps réel : le warehouse management system, les applications mobiles, l’informatique embarquée dans les véhicules, etc.
+- Faciliter la gestion administrative, telle que les facturations et l’échange de documents réglementaires.
+- Analyser la performance du transport via du reporting.
+- Le TMS permet aux entreprises d’améliorer leur résultat sur les 3B. Et plus globalement de maximiser leur performance en termes de coût, qualité, délais et RSE.
+- Il apporte également des services supplémentaires aux clients : visibilité, transparence, réactivité et simplification des processus liés au transport. Ces éléments permettent d’améliorer la satisfaction client et donc de se différencier de la concurrence.
+- Le TMS est utilisé à un niveau :
+- tactique : en mesurant la performance globale des opérations ;
+- opérationnel : en planifiant les opérations de manière optimisée ;
+- exécutif : en gérant l’activité de transport quotidienne.
+- Le TMS est également utilisé dans la prise de décisions stratégiques des entreprises, puisqu’il participe à la définition du réseau logistique. Il permet, par exemple, de sélectionner le meilleur emplacement pour installer son entrepôt, en fonction de l’emplacement de ses clients.
+- Enfin, grâce à la richesse des informations qu’il répertorie et historise, il sera aussi utilisé par les services back-office, par exemple :
+- les services de ressources humaines qui s’intéressent au temps de travail effectif lié aux prestations réalisées (ex : temps de conduite des chauffeurs) ;
+- la comptabilité qui suit la facturation des prestations ;
+- le service après-vente qui suit la bonne réalisation des prestations, mais également les litiges !
+- On distingue deux types de TMS : le TMS transporteur et le TMS chargeur. Ces deux outils partagent l’objectif d’optimisation du transport, mais auront des fonctionnalités adaptées au cœur de métier de leurs utilisateurs.
+- #Utilisez un TMS chargeur
+  Le TMS chargeur est utilisé par les acteurs qui commandent des prestations de transport, autrement dit “les donneurs d’ordre” tels que :
+- les chargeurs ;
+- les commissionnaires de transport.
+- Sa première fonctionnalité est de proposer les meilleurs transporteurs pour réaliser une opération de transport.
+- Concrètement, le donneur d’ordre saisit dans l’outil les contraintes de la commande à transporter :
+- quantité de marchandise, volume et poids ;
+- type de marchandise : frigorifique, dangereuse, etc. ;
+- unité de chargement / UTI ;
+- lieu et date d’enlèvement et de livraison ;
+- type de véhicule et/ou de carburant ;
+- services additionnels : tracking de la livraison en temps réel, instructions particulières concernant le chargement… ;
+- équipement du véhicule (par exemple : hayon, transpalette, etc.) ;
+- niveau d’accessibilité du lieu de livraison.
+- En réponse à la saisie de ces contraintes, le TMS suggère au donneur d’ordre une liste de transporteurs, ainsi que leurs différentes tarifications pour réaliser la prestation.
+- Le chargeur peut réaliser différentes simulations, en groupant certaines commandes par exemple, afin d’évaluer le coût des différents cas de figure. Il pourra ainsi sélectionner la prestation qu’il souhaite en conservant une maîtrise financière et environnementale.
+- Une fois la tarification choisie, le TMS s’occupera de la planification et des échanges d’informations avec le transporteur. Le TMS prend en charge :
+- la gestion des ordres de transport ;
+- les échanges de documents administratifs, et notamment de facturation ;
+- la prise de rendez-vous pour l’enlèvement en prenant en compte les ressources du chargeur : gestion des quais et des opérateurs en entrepôt.
+- Le TMS s’occupe aussi de la gestion administrative interne :
+- il envoie des factures au client ;
+- il édite l’étiquetage de la marchandise chez le chargeur.
+- Enfin, le donneur d’ordre peut suivre l’exécution de la prestation de transport en temps réel et accéder ainsi aux problématiques en direct grâce à un module de gestion des alertes. Toutes ces informations seront historisées et pourront être utilisées en cas de litige. Le TMS assure donc un suivi de la performance opérationnelle.
+- A posteriori et grâce à toutes les informations récoltées, le TMS peut analyser :
+- l’activité du donneur d’ordre : coût total dépensé, émissions de CO2, volumétrie transportée, etc. ;
+- la performance des différentes prestations réalisées, et plus globalement celle des transporteurs, par le calcul de différents indicateurs-clés (KPI).
+- Grâce à cela, le donneur d’ordre sera plus éclairé quant au choix du transporteur lors de ses prochains besoins de prestation.
+- #Utilisez un TMS transporteur
+  Le TMS transporteur est quant à lui utilisé par les acteurs qui réalisent des opérations de transport :
+- les transporteurs ;
+- les chargeurs qui ont leur propre flotte de véhicule et qui réalisent eux-mêmes leur transport.
+- Sa principale fonctionnalité est de suggérer des tournées optimisées et de définir un devis tarifaire en se basant sur le besoin des donneurs d’ordre. Pour cela, le TMS prend en compte :
+- la maximisation du remplissage du véhicule, ce qui peut passer par du groupage de commandes de plusieurs clients ou de plusieurs chargeurs ;
+- les ressources du transporteur disponibles, soit :
+- les véhicules, en fonction des gabarits autorisés et des équipements spécifiques requis,
+- les chauffeurs, en intégrant leur niveau d’habilitation, les réglementations du temps de travail et les contraintes en ressources humaines ;
+- de nombreuses contraintes externes, telles que :
+- les autorisations de circulation,
+- la congestion et les contraintes urbaines (par exemple les ponts).
+- Le TMS transporteur propose également les mêmes fonctionnalités que celles du TMS chargeur évoquées précédemment :
+- planification de l’activité : gestion des ordres de transport et des ressources ;
+- tour de contrôle : en apportant de la visibilité et des alertes sur le déroulement des livraisons en temps réel ;
+- gestion et édition de la facturation et des documents réglementaires (contrat de transport, etc.) ;
+- simplification des échanges d’informations avec les services back-office, les clients, ainsi que les chauffeurs ;
+- reporting, suivi de la consommation et des émissions carbone, calcul de KPI et de productivité.
+- #À vous de jouer
+  Bannière À vous de jouer !
+- #Contexte
+  Le distributeur français doit exceptionnellement livrer des produits Les Pt’e-jouets sur plusieurs de ses entrepôts, car il a prévu une opération marketing à l’échelle nationale.
+- La marchandise se trouve actuellement au port du Havre.
+- Le commissionnaire de transport souhaite mandater un transporteur routier pour réaliser un seul enlèvement et livrer tous les entrepôts le même jour.
+- #Consigne
+  En utilisant le TMS et sa propre expertise, quels éléments le transporteur routier doit-il prendre en compte pour organiser la meilleure prestation possible pour livrer sa marchandise ?
+- #En résumé
+  Le TMS est un outil de gestion permettant d’optimiser les prestations de transport : itinéraire, remplissage, etc., en réponse aux contraintes des donneurs d’ordre.
+- Le TMS peut être utilisé par les chargeurs et les transporteurs, à des niveaux exécutif, tactique, opérationnel, ainsi que stratégique.
+- Le TMS est aussi un système d’information qui, connecté à d’autres outils, permet d’améliorer l’activité de nombreux acteurs internes et externes.
+- Vous avez pu apercevoir dans ce chapitre que le TMS fonctionne grâce à de nombreuses données et qu’il en produit également beaucoup ! Accompagnez-moi dans le chapitre suivant pour savoir exploiter ces données et comprendre comment elles participent à l’amélioration de l’activité.

@@ -1,0 +1,2 @@
+- Liste de diagramme https://mermaid.js.org/syntax/flowchart.html?id=flowcharts-basic-syntax
+-

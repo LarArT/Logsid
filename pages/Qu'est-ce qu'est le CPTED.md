@@ -1,0 +1,43 @@
+-
+- Voici une fiche de révision synthétique établie à partir de la vidéo [What is CPTED?](http://www.youtube.com/watch?v=p3UY1w1O3PA) publiée par ASIS International.
+- # **Fiche de Révision : CPTED (Crime Prevention Through Environmental Design)**
+- ## **1. Définition et Concept Général**
+- **Définition** : La prévention du crime par l'aménagement de l'environnement (CPTED, prononcé *sep-ted*) combine plusieurs disciplines de sécurité pour réduire la criminalité ainsi que le sentiment d'insécurité [[00:01](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=1)].
+- **Leviers d'action** : Utilise l'architecture, la gestion des installations et l'urbanisme pour décourager les comportements criminels en modifiant l'aspect et le ressenti d'un lieu [[00:18](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=18)].
+- **Éléments visibles courants** : Haies naturelles, aménagement paysager, éclairage adéquat, signalétique claire et espaces de convivialité [[00:34](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=34)].
+- **Origine** : Le concept est apparu dans les années 1960 [[01:10](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=70)].
+- ## **2. Objectifs Principaux**
+- Réduire la probabilité qu'une personne devienne victime d'un crime [[00:49](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=49)].
+- Rendre les installations moins attrayantes pour les agresseurs ou criminels [[00:54](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=54)].
+- Renforcer le sentiment de communauté chez les occupants pour améliorer leur qualité de vie [[00:58](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=58)].
+- ## **3. Les Principes Traditionnels**
+- **Contrôle territorial (Territorial Control)** [[01:18](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=78)] :
+- **Principe** : Favoriser une appropriation informelle des espaces publics.
+- **Exemple** : Placer stratégiquement des activités sûres (ex. vendeurs de nourriture) autour d'un site [[01:22](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=82)].
+- **Surveillance naturelle (Natural Surveillance)** [[01:30](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=90)] :
+- **Principe** : Maximiser la possibilité pour les occupants d'observer passivement les espaces semi-publics.
+- **Exemple** : Tailler régulièrement les haies et les arbres pour maintenir de bonnes lignes de vue [[01:41](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=101)].
+- **Image et entretien (Image & Maintenance)** [[01:50](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=110)] :
+- **Principe** : L'état physique des lieux reflète le niveau d'attention qui lui est porté.
+- **Exemple** : Nettoyer rapidement les graffitis et les déchets pour montrer que la zone est entretenue et sécurisée [[01:58](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=118)].
+- **Contrôle des accès (Access Control)** [[02:06](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=126)] :
+- **Principe** : Recourir à des structures architecturales pour restreindre ou guider les accès.
+- **Exemple** : Utiliser un accès de rue réglementé, un aménagement paysager adapté ou des plantes défensives (ex. rosiers épineux) [[02:13](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=133)].
+- ## **4. Les Principes Modernes (Focus Communautaire)**
+- **Cohésion sociale (Social Cohesion)** [[02:39](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=159)] :
+- **Principe** : Améliorer les relations positives entre résidents pour résoudre localement les problèmes.
+- **Exemple** : Mettre en place des réseaux de vigilance citoyenne ou des partenariats public-privé [[02:48](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=168)].
+- **Culture communautaire (Community Culture)** [[02:53](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=173)] :
+- **Principe** : Rassembler les gens pour créer un sentiment d'appartenance et un objectif commun.
+- **Exemple** : Organiser des festivals d'art ou de musique sur le site [[02:58](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=178)].
+- **Connectivité (Connectivity)** [[03:02](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=182)] :
+- **Principe** : Relier le site aux quartiers environnants pour favoriser l'intégration.
+- **Exemple** : Organiser des événements partagés incluant les acteurs des zones voisines [[03:09](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=189)].
+- **Capacité de seuil / Diversité des usages (Threshold Capacity)** [[03:15](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=195)] :
+- **Principe** : Diversifier les usages des sols et bâtiments pour élargir le profil des usagers fréquentant la zone.
+- **Exemple** : Une zone mixte (entrepôts, petits commerces, parcs, écoles) offre un sentiment de sécurité bien plus élevé qu'une zone constituée uniquement d'entrepôts ou d'immeubles vides [[03:26](https://www.youtube.com/watch?v=p3UY1w1O3PA&t=206)]. *Les vues de vidéos YouTube seront stockées dans votre historique YouTube, et vos données seront stockées et utilisées par YouTube conformément à ses *[*Conditions d'utilisation*](https://www.youtube.com/static?template=terms)
+  
+  *Les vues de vidéos YouTube seront stockées dans votre historique YouTube, et vos données seront stockées et utilisées par YouTube conformément à ses *[*Conditions d'utilisation*](https://www.youtube.com/static?template=terms)
+  
+  *Les vues de vidéos YouTube seront stockées dans votre historique YouTube, et vos données seront stockées et utilisées par YouTube conformément à ses *[*Conditions d'utilisation*](https://www.youtube.com/static?template=terms)
+-
