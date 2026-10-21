@@ -1,0 +1,7 @@
+- Lors de la visite sur site et de la Réunion postérieure, les conseils de sécurité ont été :
+	- Installation de déliminateur végétal ou palissade autour de la propriété
+	- De tailler les arbres et la végétation
+	- Des détecteurs d'ouverture et de fermeture de porte et de fenêtre
+	- Des détecteurs de mouvement pour l'éclairage
+- => l'ensemble de ces dispositifs a été accepté et a été installé au préalable à la prestation
+-

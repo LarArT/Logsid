@@ -12,9 +12,11 @@
 - [[lexique génie civil loi de Pareto]]
 - [[organisme divers d'administration centrale]]
 - [[MOS]]
+  [[Lectures/mooc télédétection ]]
 - # [[science ouverte / production scientifique]]
 - [[magazine]]
 - [IA for Scientific Discovery](https://github.com/mlelarge/ens-ml4sd)
+  Certifié du code et des données pour la publication de recherche outil développé par HEC et CNRS https://www.cascad.tech/about
 - [[Typst]]
 - [[Stimulation cérébrale non invasive]]
 - [[Dispositif rTMS approuvé par la FDA]]
@@ -25,7 +27,12 @@
 - # rse
 	- https://parcours-pme-durable.org/
 	- https://acesia.afnor.org/
--
+- # entreprise en difficulté
+  Cession d'activité : https://actify.fr/
+  [[Procédure de sauvegarde]] 
+  [[Rétablissement professionnel]]
+  [[Liquidation judiciaire]]
+  [[Redressement judiciaire]]
 - # financement de projet d'intérêt général
 	- [[fonds européens]]
 	- [ANR](https://direction-recherche.parisnanterre.fr/service-de-la-valorisation-et-appui-a-la-recherche/boite-a-outils-aapg-anr)
@@ -134,7 +141,7 @@
 	- [[niveau des urgences humanitaires standardisées]]
 - # SST
   collapsed:: true
-	- [logiciel d'analyse des risques au travail](https://www.inrs.fr/metiers/oira-outil-tpe.html)
+	- [logiciel d'analyse des risques au travail](https://www.inrs.fr/metiers/oira-outil-tpe.html) duerp
 	- [cours SST par l'Organisation internationale du travail](https://www.iloencyclopaedia.org/fr/)
 	  id:: 69623f55-c8a0-4ab3-8f4d-e9751c19a763
 	- [[les principaux acteurs externes de la prévention en entreprise]]
@@ -172,9 +179,11 @@
 			- Compétence du travailleur
 - # sécurité / sûreté / analyste
 	- [[Veille sûreté]]
+	- [[plan d'évaluation du contexte]]
 	- [[ville stratégique]]
 	- [[thesaurus sûreté]]
 	- [[sûreté courant vs événementiel]]
+	- [[tram plan de prévention]]
 	- # événement
 		- [[gestion des risques prestation restauration]]
 	- ## certification norme / réglementation
@@ -324,6 +333,7 @@
 		- [[plan de sécurité du pays]] pour les ONG
 		- [[plan de sécurité]] entreprise essentielle
 		- [[Registre collectivité territoriale]]
+		- [[matrice d'évaluation de la sûreté]]
 		- [[sûreté en entreprise]]
 			- Directeur de la sûreté
 				- développement économique de l'entre- prise,

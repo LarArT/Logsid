@@ -15,11 +15,10 @@
   ​L’Union européenne a également placé la résilience au centre de son action. La « Boussole stratégique » adoptée en mars 2022 souligne la nécessité de renforcer la résilience de l’Union et des États membres face aux menaces hybrides, aux cyberattaques et aux conséquences du changement climatique.
   
   ​Plusieurs initiatives européennes concourent à cet objectif :
-- ​La directive sur la résilience des entités critiques (REC), qui vise à renforcer la protection des infrastructures critiques dans l'UE ;
-- ​La directive sur la sécurité des réseaux et des systèmes d’information (NIS 2) ;
-- ​Le mécanisme de protection civile de l’Union (MPCU), qui facilite la coopération en cas de catastrophe majeure.
-  
-  ​La France, notamment sous sa présidence du Conseil de l’Union européenne (PFUE) au premier semestre 2022, a activement promu le renforcement de la résilience collective européenne.
+	- ​La directive sur la résilience des entités critiques (REC), qui vise à renforcer la protection des infrastructures critiques dans l'UE ;
+	- ​La directive sur la sécurité des réseaux et des systèmes d’information (NIS 2) ;
+	- ​Le mécanisme de protection civile de l’Union (MPCU), qui facilite la coopération en cas de catastrophe majeure.
+- -> ​La France, notamment sous sa présidence du Conseil de l’Union européenne (PFUE) au premier semestre 2022, a activement promu le renforcement de la résilience collective européenne.
 - [ISO 22300:2021 Sécurité et résilience — Vocabulaire](https://www.iso.org/obp/ui/#iso:std:iso:22300:ed-3:v1:fr:term:3.1.19)
 - [les risques près de chez moi](https://www.georisques.gouv.fr/)
 - [évaluer les risques de sa collectivité](https://lesrisquesdemacollectivite.fr/)

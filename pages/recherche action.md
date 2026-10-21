@@ -1,5 +1,8 @@
 - [[les différents courants de recherche action]]
 - [[outil de recherche action]]
+- La **recherche-action** se distingue de la recherche traditionnelle en ce qu’elle ne vise pas uniquement à produire des connaissances. Elle se concentre plutôt sur le co-développement de solutions avec les acteurs locaux, dans le cadre d’une démarche interdisciplinaire. Cette approche nécessite de s’ancrer dans une région spécifique pour créer ce que l’on appelle des connaissances « situées » — des connaissances qui ont un sens dans ce lieu ou territoire particulier et sa réalité. Elle allie également les connaissances scientifiques au savoir-faire pratique, et combine les expériences scientifiques avec les pratiques traditionnelles. L’objectif ultime de la recherche-action n’est pas seulement de comprendre le monde, mais d’étudier et de susciter des changements concrets, en testant ces transformations dans des situations réelles.
+  © IRD 2026 - Licence Creative Commons BY-NC-SA 4.0 MOOC ia pour la science de la durabilité
+-
 - La démarche peut être suivi par l'intermédiaire de cadre logique de
 	- PM4NGOs, « Identification et Définition du projet », dans Guide de la Gestion de Projet pour les Professionnels du Développement \(Project DPro / PMD Pro\), 2e éd., Mars 2020, ch. 2.1, __pp. 48-81__
 - Pour qu'un praticien puisse analyser sa propre activité et **mesurer objectivement les effets** de ses changements sans biais émotionnel, la recherche-action s'appuie sur des cadres méthodologiques stricts, souvent formalisés en sciences de l'éducation, en santé ou en gestion.

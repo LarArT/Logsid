@@ -1,0 +1,23 @@
+- En sécurité privée, le **Plan de Prévention** (obligatoire selon les articles R4511-1 et suivants du Code du travail en cas d'intervention d'une entreprise extérieure) formalise l'analyse des risques et la coordination entre l'organisateur (donneur d'ordre / entreprise utilisatrice) et le prestataire de sécurité.
+  
+  Voici les **clauses indispensables** à inclure dans le document pour encadrer une prestation événementielle :
+- ### **1. Cadre juridique et identification des parties**
+- **Identification complète :** Raisons sociales, numéros SIRET, agréments CNAPS de l'entreprise de sécurité privée, coordonnées des responsables opérationnels d'astreinte (24/7).
+- **Objet de la mission :** Nature exacte de l'événement (ex. gala de charité), type d'établissement (ERP - type P, L, CTS, etc.), jauge maximale autorisée et effectif attendu.
+- **Cadre réglementaire :** Référence expresse au Code de la sécurité intérieure (Livre VI) et respect de l'arrêté de sécurité incendie applicable à la catégorie du bâtiment.
+- ### **2. Évaluation des risques spécifiques à l'événement**
+- **Profil des invités et facteurs de risque :** Présence de VIP, personnalités politiques, risques de mouvements de foule, intrusions, manifestations ou vols.
+- **Risques liés au site :** Coactivité (montage/démontage de structures, traiteurs, régie son/lumière), zones d'accès restreint, risques de chute de hauteur ou électriques.
+- ### **3. Dispositif humain et répartition des rôles**
+- **Effectif et qualifications :** Nombre d'agents (APS, SSIAP 1/2, Chef d'équipe, palpeurs/palpeuses) avec mention obligatoire de la possession d'une carte professionnelle CNAPS valide.
+- **Missions d'exécution :** Définition précise du rôle de chaque poste (contrôle d'accès, filtrage, contrôle visuel des sacs, ronde de sécurité, surveillance des issues de secours, évacuation).
+- **Limites de mission :** Indication stricte que les agents ne se substituent pas aux forces de l'ordre (pas de contrôle d'identité légal, pas de maintien de l'ordre sur la voie publique).
+- ### **4. Consignes d'organisation et d'exploitation**
+- **Consignes permanentes et particulières :** Protocoles applicables en cas d'incident (détection d'objet suspect, personne perturbatrice, malaise, départ de feu).
+- **Chaîne d'alerte et d'escalade :** Arbre d'appel en cas d'urgence avec les numéros du PC sécurité, des secours publics (18/112), de la police (17) et des responsables sur place.
+- **Modalités du briefing d'avant-prise de poste :** Obligation d'organiser un briefing sur site avant l'ouverture des portes pour transmettre les consignes spécifiques et vérifier les équipements (talkies-walkies, PTI, tenues réglementaires).
+- ### **5. Moyens matériels, équipements et registres**
+- **Équipements fournis :** Répartition des moyens matériels (radios, magnétomètres, registres de main courante, éclairage d'urgence, badges d'accès).
+- **Registre de sécurité et main courante :** Obligation de tenue d'une main courante événementielle retraçant l'historique de la soirée, les prises de poste, les anomalies et les prises en charge.
+- ### **6. Signatures et validation**
+- **Validation conjointe :** Le Plan de Prévention doit obligatoirement être signé **avant le début de la prestation** par le représentant de l'organisateur et le responsable de l'entreprise de sécurité privée après la visite préalable des lieux.
