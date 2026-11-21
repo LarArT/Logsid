@@ -15,6 +15,7 @@ Tags:: méthodologie
 - [[entretien d'investigation]]
 - [récit de vie à travers les cartes](https://atlascine.org/en/pages/about/)
 - [[entretien semi directif]]
+- [[Évaluation basée sur la théorie EBT]]
 - Il existe de nombreuses méthodes qualitatives puissantes en évaluation des politiques publiques et en recherche en sciences sociales. Si l'on écarte la **théorie du changement** et **l'évaluation réaliste**, on se tourne généralement vers des méthodes qui privilégient la compréhension des vécus, des processus sociaux et des mécanismes de décision.
   Voici une sélection des méthodes qualitatives les plus reconnues et utilisées :
   1. La Méthode de l'Étude de Cas (Case Study)

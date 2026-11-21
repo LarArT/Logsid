@@ -1,4 +1,8 @@
 - [[lectures]]
+-
+- [[Droit et pratique des contrats internationaux CNAM]]
+- [[GIS]]
+- [[pense bete]]
 - [[les mots]]
 - [[capteur EDA]]
 - [[méthode d'évaluation]]
@@ -240,6 +244,7 @@
 	- ## dirigeant
 		- [[élaboration d'une prestation de sûreté]]
 		- [[charge agence de sécurité]]
+		- [[interaction partie ]]
 	- ## analyste
 		- [[publication de référence]]
 	- ## sécurité
@@ -331,6 +336,7 @@
 		- [formation](https://www.83-629.fr/formation-des-referents-surete-a-lecole-nationale-superieure-de-la-police-ouverte-aux-acteurs-prives/)
 	- ## sûreté
 		- [[plan de sécurité du pays]] pour les ONG
+		- [[contact prestation]]
 		- [[plan de sécurité]] entreprise essentielle
 		- [[Registre collectivité territoriale]]
 		- [[matrice d'évaluation de la sûreté]]
@@ -340,6 +346,7 @@
 					- Veille géopolitique -> ARNAUD KALIKA recommandation dans le livre banc blanc CDSE
 						- Le Centre de crise et de soutien du quai d'Orsay de la sécurité des expatriés risque réput ationnel protection  de son patrimoine matériel e imma tériel.
 		- [[APS]]
+		- [[obligation agent de sécurité privée]]
 		- [[ensemble des documents / plan relatifs à la sûreté]]
 		- [[cartographie des acteurs  matrice disarm guerre informationnelle]]
 		- [[Sûreté et Sécurité Civile: Cartographie Détaillée]]
@@ -650,6 +657,7 @@
 		- [[livre de référence kruckman]]
 		- [Décryptage matière première](https://www.ifpenergiesnouvelles.fr/enjeux-et-prospective/decryptages?hl=fr-FR)
 		- [cours rennes et ensai licence](perso.univ-rennes1.fr/denis.delgay-troise)
+		- [[MOOC statistiques du commerce international et des services]]
 		-
 - [[psychologie]]
 - # Matière première

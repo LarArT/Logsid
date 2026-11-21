@@ -1,6 +1,10 @@
-- L'**Analyse de Contribution** (développée par John Mayne en 1999) est une méthode d'évaluation qualitative et systématique. Elle vise à vérifier si une intervention (politique, programme, projet) a contribué de manière significative aux résultats observés, sans chercher à en isoler mathématiquement la part exacte comme le ferait une approche contrefactuelle.
-  
-  Voici la procédure opérationnelle détaillée pour mener cette analyse, suivie du canevas pour rédiger un compte rendu exhaustif.
+Source:: DELAHAIS, Thomas. L'analyse de contribution. LIEPP Fiche méthodologique n°43, 2023. Disponible sur : https://sciencespo.hal.science/hal-04160696v1.
+
+-
+- L’analyse de contribution est une approche évaluative dite « basée sur la théorie » (EBT) : elle s’organise autour d’un processus visant à
+	- 1) élaborer un ensemble d’hypothèses portant sur les effets d’une intervention évaluée (comment ces effets sont obtenus, dans quels cas, pourquoi...) – appelé « théorie du changement » ; puis à
+	- 2) tester ces hypothèses à travers la collecte et l’analyse d’informations empiriques ; pour enfin
+	- 3) mettre à jour la théorie initiale en indiquant quelles hypothèses sont vérifiées.
 - ## Part 1. Procédure Détaillée en 6 Étapes
   
   L'Analyse de Contribution est une démarche itérative qui vise à construire un "récit causable" crédible, étayé par des preuves et testé contre des explications rivales.
