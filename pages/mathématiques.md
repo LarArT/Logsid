@@ -3,6 +3,7 @@
 - [[trigonométrie]]
 - [[calcul différentiel]]
 - [[probabilité]]
+- [[statistiques]]
 - [[analyse]]
 - [[Méthode formel - vérification de programme]]
 - [[fonction à support fini]]

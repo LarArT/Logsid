@@ -1,0 +1,1 @@
+- [[trouver l'axe principaux via l'algèbre linéaire]]

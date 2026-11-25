@@ -1,0 +1,34 @@
+- **Méthode : Trouver le premier axe principal d'une ACP à la main**
+  tags:: #statistiques, #ACP, #algèbre-linéaire
+	- [[autre exemple ACP]]
+	- [[encore un autre exemple de ACP]]
+	- **Principe fondamental**
+		- Le premier axe principal est le vecteur propre unitaire u_1 associé à la plus grande valeur propre \lambda_1 de la matrice de variance-covariance (ou de corrélation).
+		- Il indique la direction qui maximise la variance (ou l'inertie) des données projetées.
+		- **Image mentale** : Imaginez une tige rigide placée au milieu d'un nuage de points allongé en forme d'amande. Faire pivoter cette tige jusqu'à ce que l'ombre portée des points le long de la tige soit la plus étalée possible, c'est trouver le premier axe principal.
+	- **Protocole de calcul en 5 étapes**
+		- **1. Centrer (et réduire) les données**
+			- Soustraire la moyenne de chaque colonne aux valeurs de cette colonne pour obtenir la matrice centrée X.
+			- En ACP normée, diviser chaque valeur centrée par l'écart-type de la variable.
+		- **2. Construire la matrice symétrique S (ou R)**
+			- Matrice de variance-covariance : S = \frac{1}{n} X^T X
+			- Matrice de corrélation (données centrées-réduites) : R = \frac{1}{n} X^T X
+		- **3. Résoudre l'équation caractéristique**
+			- Chercher les scalaires \lambda tels que \det(S - \lambda I) = 0.
+			- Pour une matrice 2 \times 2 notée `[[a, b], [b, c]]`, l'équation devient : \lambda^2 - (a + c)\lambda + (ac - b^2) = 0.
+		- **4. Extraire la plus grande valeur propre \lambda_1**
+			- Calculer \Delta = \text{tr}(S)^2 - 4\det(S) et retenir la plus grande racine : \lambda_1 = \frac{(a + c) + \sqrt{(a - c)^2 + 4b^2}}{2}.
+		- **5. Déterminer et normer le vecteur propre associé u_1**
+			- Résoudre (S - \lambda_1 I) u_1 = 0.
+			- Diviser le vecteur obtenu par sa norme euclidienne \Vert{}u_1\Vert{}_2 = \sqrt{u_1^2 + u_2^2} afin d'obtenir un vecteur de norme 1.
+			- Calculer la première composante principale : C_1 = X u_1.
+	- **Exemple numérique résolu (matrice 2 \times 2)**
+		- Soit la matrice de variance-covariance centrée S = \begin{pmatrix} 3 & 1 \\ 1 & 3 \end{pmatrix}.
+		- **Trace et déterminant** : \text{tr}(S) = 3 + 3 = 6 et \det(S) = (3 \times 3) - (1 \times 1) = 8.
+		- **Polynôme caractéristique** : \lambda^2 - 6\lambda + 8 = 0, qui se factorise en (\lambda - 4)(\lambda - 2) = 0.
+		- **Valeur propre dominante** : \lambda_1 = 4, ce qui représente \frac{4}{6} \approx 66,7\,\% de l'inertie totale.
+		- **Recherche du vecteur propre pour \lambda_1 = 4** :
+			- On résout \begin{pmatrix} -1 & 1 \\ 1 & -1 \end{pmatrix} \begin{pmatrix} x \\ y \end{pmatrix} = \begin{pmatrix} 0 \\ 0 \end{pmatrix}, d'où x = y.
+			- On choisit le vecteur simple v_1 = \begin{pmatrix} 1 \\ 1 \end{pmatrix}, dont la norme vaut \Vert{}v_1\Vert{}_2 = \sqrt{1^2 + 1^2} = \sqrt{2}.
+		- **Axe principal normé** : u_1 = \begin{pmatrix} \frac{1}{\sqrt{2}} \\ \frac{1}{\sqrt{2}} \end{pmatrix} \approx \begin{pmatrix} 0,707 \\ 0,707 \end{pmatrix}.
+		- **Équation de la composante principale** : C_1 = \frac{1}{\sqrt{2}} x_{\text{centré}} + \frac{1}{\sqrt{2}} y_{\text{centré}}.

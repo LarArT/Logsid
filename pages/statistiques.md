@@ -7,6 +7,7 @@
 - [[standard error]]
 - [[test statistique]]
   [[Regression]]
--
+- [[ACP]]
+- [[AFC]]
 -
 -
